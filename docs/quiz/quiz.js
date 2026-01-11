@@ -244,6 +244,9 @@ function shuffleArray(array) {
 document.addEventListener('keydown', (e) => {
     if (document.getElementById('quizCard').classList.contains('hidden')) return;
 
+    // Ignore keyboard shortcuts if modifier keys are pressed (CMD, CTRL, ALT)
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+
     switch(e.key) {
         case 'ArrowRight':
         case 'Enter':
