@@ -32,11 +32,13 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### 1. Kraft
 
 **Warum wichtig?**
+
 - Schläuche, Leitern, Geräte tragen
 - Personen retten
 - Türen aufbrechen
 
 **Bereiche:**
+
 - **Oberkörper**: Schultern, Arme, Brust, Rücken
 - **Rumpf**: Bauch, unterer Rücken (Stabilität!)
 - **Unterkörper**: Beine (Tragen, Treppensteigen)
@@ -46,11 +48,13 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### 2. Ausdauer
 
 **Warum wichtig?**
+
 - Lange Einsätze durchhalten
 - Unter Atemschutz arbeiten (erhöhter Puls!)
 - Schnell reagieren ohne zu erschöpfen
 
 **Arten:**
+
 - **Grundlagenausdauer**: Joggen, Radfahren (30-60 Minuten)
 - **Intervalltraining**: Kurze, intensive Belastungen (simuliert Einsatz!)
 
@@ -59,11 +63,13 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### 3. Beweglichkeit
 
 **Warum wichtig?**
+
 - Enge Räume (z. B. Dachböden)
 - Bücken, Kriechen, Steigen
 - Verletzungsprävention
 
 **Bereiche:**
+
 - Hüfte, Schultern, Rücken
 
 ---
@@ -71,6 +77,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### 4. Schnellkraft
 
 **Warum wichtig?**
+
 - Schnell reagieren (z. B. Person aus Gefahrenbereich ziehen)
 - Explosiv Kraft aufbringen (z. B. Tür eintreten)
 
