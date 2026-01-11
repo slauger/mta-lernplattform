@@ -5,7 +5,7 @@
     "question": "Was sind die vier Grundaufgaben der Feuerwehr?",
     "answer": "Retten – Löschen – Bergen – Schützen",
     "explanation": "Diese vier Aufgaben fassen die Kernaufgaben der Feuerwehr zusammen. Retten hat dabei immer höchste Priorität!",
-    "reference": "../theorie/ziele-aufgaben"
+    "reference": "../theorie/ziele-aufgaben/"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "question": "Was hat bei der Feuerwehr höchste Priorität?",
     "answer": "Menschenrettung",
     "explanation": "Menschenrettung geht immer vor! ABER: Eigenschutz geht vor Fremdschutz – du hilfst niemandem, wenn du selbst verletzt wirst!",
-    "reference": "../theorie/ziele-aufgaben"
+    "reference": "../theorie/ziele-aufgaben/"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "question": "Was bedeutet 'Eigenschutz vor Fremdschutz'?",
     "answer": "Du kannst niemandem helfen, wenn du selbst verletzt bist! Daher gilt: Erst die eigene Sicherheit prüfen, dann anderen helfen.",
     "explanation": "Beispiel: Wenn ein Gebäude einsturzgefährdet ist, gehst du NICHT rein – auch wenn du jemanden retten könntest.",
-    "reference": "../theorie/ziele-aufgaben"
+    "reference": "../theorie/ziele-aufgaben/"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "question": "Nenne drei Pflichtaufgaben der Feuerwehr nach BayFwG.",
     "answer": "1. Brandschutz, 2. Technische Hilfeleistung bei Unglücksfällen, 3. Katastrophenschutz",
     "explanation": "Diese Aufgaben MUSS die Gemeinde durch die Feuerwehr erfüllen – das ist gesetzlich vorgeschrieben!",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "question": "Welche drei Komponenten braucht Feuer zum Brennen (Verbrennungsdreieck)?",
     "answer": "1. Brennbarer Stoff, 2. Sauerstoff (mind. 15%), 3. Zündtemperatur",
     "explanation": "Fehlt EINE der drei Komponenten, kann kein Feuer brennen. Das ist die Grundlage des Löschens!",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "question": "Welche Brandklasse hat Holz?",
     "answer": "Brandklasse A (feste, glutbildende Stoffe)",
     "explanation": "Holz gehört zur Brandklasse A, ebenso wie Papier, Textilien, Stroh. Löschmittel: Wasser, Schaum, ABC-Pulver.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "question": "Welche Brandklasse hat Benzin?",
     "answer": "Brandklasse B (flüssige oder flüssig werdende Stoffe)",
     "explanation": "Benzin gehört zur Brandklasse B. Löschmittel: Schaum, Pulver, CO₂. NIEMALS Wasser!",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "question": "Warum darf man NIEMALS Wasser auf brennendes Fett gießen?",
     "answer": "Weil es zu einer Fettexplosion kommt!",
     "explanation": "Wasser verdampft schlagartig (1 L = 1700 L Dampf!) → Fett wird hochgeschleudert → Stichflamme bis zur Decke!",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "question": "Welche vier Löschwirkungen gibt es?",
     "answer": "1. Kühlen, 2. Ersticken, 3. Verdünnen, 4. Antikatalytisch",
     "explanation": "Jede Löschwirkung entfernt eine Komponente des Verbrennungstetraeders.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "question": "Was ist Backdraft?",
     "answer": "Rauchgasexplosion durch plötzliche Sauerstoffzufuhr",
     "explanation": "Feuer in geschlossenem Raum → Sauerstoffmangel → heiße Gase → Tür wird geöffnet → Sauerstoff strömt ein → EXPLOSION!",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "question": "Wie viele Personen passen in ein LF 20?",
     "answer": "9 Personen (1 Gruppenführer + 4 Trupps à 2 Personen)",
     "explanation": "LF = Löschgruppenfahrzeug. Es ist ausgelegt für eine Gruppe (9 Personen).",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "question": "Welchen Durchmesser hat ein B-Schlauch?",
     "answer": "75 mm",
     "explanation": "B-Schläuche werden für große Wassermengen verwendet (Wasserversorgung vom Hydranten zum Fahrzeug).",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "question": "Wofür steht HLF?",
     "answer": "Hilfeleistungslöschfahrzeug",
     "explanation": "HLF kombiniert Löschfahrzeug + Rüstwagen (Löschen + technische Hilfeleistung).",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "question": "Was gehört zur Persönlichen Schutzausrüstung (PSA)?",
     "answer": "Stiefel, Überhose, Jacke, Helm, Handschuhe, Feuerwehrgurt",
     "explanation": "Die PSA muss VOLLSTÄNDIG getragen werden!",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "question": "Wie lange hält ein Pressluftatmer (PA) im Einsatz?",
     "answer": "Ca. 20-30 Minuten (je nach Belastung)",
     "explanation": "Bei hoher Belastung (schnelles Atmen) ist die Luft schnell verbraucht.",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "question": "Was bedeutet GAMS?",
     "answer": "Gefahr erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern",
     "explanation": "GAMS ist die Merkhilfe für Gefahrstoffeinsätze.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "question": "Was ist die Zweimannregel?",
     "answer": "Arbeiten im Gefahrenbereich immer mindestens zu zweit (Trupp)!",
     "explanation": "Der Trupp ist die kleinste Einheit und bleibt IMMER zusammen. Gegenseitige Absicherung!",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "question": "Was steht nach der Alarmierung in der Durchsage?",
     "answer": "Alarmzeit, Stichwort, Einsatzort, Objekt, Zusatzinfos",
     "explanation": "Beispiel: '14:32 Uhr - Brand 1 - Hauptstraße 12 - Wohngebäude - Küchenbrand'",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "question": "Wie lautet das Schema für Einsatzbefehle?",
     "answer": "Einheit – Auftrag – Mittel – Ziel – Weg",
     "explanation": "Beispiel: 'Angriffstrupp zur Brandbekämpfung mit C-Rohr im 1. Stock über Treppe vor!'",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 20,
@@ -157,7 +157,7 @@
     "question": "Was bedeutet 'Kommen' im Funkverkehr?",
     "answer": "Ich bin fertig mit meiner Nachricht und erwarte eine Antwort",
     "explanation": "'Kommen' signalisiert, dass der Empfänger antworten soll.",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 21,
@@ -165,7 +165,7 @@
     "question": "Wofür wird der Mastwurf verwendet?",
     "answer": "Zum Befestigen einer Leine an runden Gegenständen (Pfosten, Hydranten)",
     "explanation": "Der Mastwurf ist schnell zu binden, hält sicher und ist leicht zu lösen.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@
     "question": "Warum zieht sich der Zimmermannsschlag nicht zu?",
     "answer": "Weil er eine feste Schlaufe bildet, die auch unter Last ihre Größe behält",
     "explanation": "Das ist besonders wichtig bei der Personenrettung!",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "question": "Welcher Knoten dient als Stopperknoten?",
     "answer": "Achterknoten (Endacht)",
     "explanation": "Der Achterknoten verhindert, dass das Seil durch eine Öse rutscht.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "question": "Welches Löschmittel ist für Brandklasse A am besten geeignet?",
     "answer": "Wasser",
     "explanation": "Wasser ist bei Brandklasse A (feste, glutbildende Stoffe) ideal: effektiv, verfügbar, kostengünstig.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 25,
@@ -197,7 +197,7 @@
     "question": "Was tötet bei Bränden die meisten Menschen?",
     "answer": "Rauch (Atemgifte wie Kohlenmonoxid), nicht die Flammen!",
     "explanation": "Rauch ist heiß, giftig und nimmt die Sicht. Die meisten Brandopfer sterben durch Rauchvergiftung.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 26,
@@ -205,7 +205,7 @@
     "question": "Was ist der Unterschied zwischen Retten und Bergen?",
     "answer": "Retten = Lebende aus Gefahr befreien, Bergen = Tote oder Sachwerte aus Gefahrenbereich bringen",
     "explanation": "Der Unterschied liegt im Zustand der Person/des Objekts. Retten hat immer höchste Priorität!",
-    "reference": "../theorie/ziele-aufgaben"
+    "reference": "../theorie/ziele-aufgaben/"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "question": "Warum ist Einsatzstellenhygiene wichtig?",
     "answer": "Schutz vor krebserregenden Schadstoffen (Ruß, Asbest, Chemikalien)",
     "explanation": "Feuerwehrleute haben ein erhöhtes Krebsrisiko! Nach dem Einsatz: Hände waschen, PSA nicht mit nach Hause, duschen.",
-    "reference": "../theorie/ziele-aufgaben"
+    "reference": "../theorie/ziele-aufgaben/"
   },
   {
     "id": 28,
@@ -221,7 +221,7 @@
     "question": "Welche Brandklasse haben Speiseöle und -fette?",
     "answer": "Brandklasse F",
     "explanation": "Brandklasse F (wie Friteusenöl) darf NIEMALS mit Wasser gelöscht werden → Fettexplosion! Löschmittel: Fettbrandlöscher, Deckel.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 29,
@@ -229,7 +229,7 @@
     "question": "Welche Brandklasse haben brennbare Metalle?",
     "answer": "Brandklasse D",
     "explanation": "Metalle wie Aluminium, Magnesium brennen sehr heiß (bis 3000°C). NIEMALS Wasser verwenden → Explosion! Löschmittel: Metallbrandpulver, Sand.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@
     "question": "Welche Brandklasse haben Gase?",
     "answer": "Brandklasse C",
     "explanation": "Gase wie Erdgas, Propan. Wichtig: Erst Gaszufuhr absperren, dann löschen! Sonst Explosionsgefahr.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 31,
@@ -245,7 +245,7 @@
     "question": "Was ist die Hauptlöschwirkung von Wasser?",
     "answer": "Kühlen",
     "explanation": "Wasser kühlt sehr effektiv und entzieht dem Brand Wärme. Nebeneffekt: Ersticken (bei Wassernebel).",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 32,
@@ -253,7 +253,7 @@
     "question": "Was ist die Hauptlöschwirkung von Schaum?",
     "answer": "Ersticken",
     "explanation": "Schaum legt sich auf brennende Flüssigkeiten und erstickt das Feuer durch Sauerstoffabschluss. Nebeneffekt: Kühlen.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 33,
@@ -261,7 +261,7 @@
     "question": "Nenne drei Anzeichen für einen Backdraft.",
     "answer": "Schwarzer öliger Rauch, pulsierender Rauch, verrußte Fenster von innen",
     "explanation": "Bei diesen Anzeichen NIEMALS die Tür öffnen! Gefahr einer Rauchgasexplosion. Wand durchbrechen und von außen löschen.",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 34,
@@ -269,7 +269,7 @@
     "question": "Welches Löschmittel wirkt antikatalytisch?",
     "answer": "Pulver",
     "explanation": "ABC-Pulver unterbricht die chemische Kettenreaktion der Verbrennung. Sehr effektiv, aber schmutzig!",
-    "reference": "../theorie/brennen-loeschen"
+    "reference": "../theorie/brennen-loeschen/"
   },
   {
     "id": 35,
@@ -277,7 +277,7 @@
     "question": "Welchen Durchmesser hat ein C-Schlauch?",
     "answer": "42 mm oder 52 mm",
     "explanation": "C-Schläuche werden für den Löschangriff verwendet (Innenangriff). Länge meist 15 Meter.",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 36,
@@ -285,7 +285,7 @@
     "question": "Was ist der Unterschied zwischen Saugschlauch und Druckschlauch?",
     "answer": "Saugschlauch ist starr und hält Unterdruck aus, Druckschlauch ist flexibel für Wasser unter Druck",
     "explanation": "Saugschläuche nur zum Ansaugen aus Gewässern. Für alles andere: Druckschläuche (B und C).",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 37,
@@ -293,7 +293,7 @@
     "question": "Welches Strahlrohr ist Standard im Innenangriff?",
     "answer": "Hohlstrahlrohr",
     "explanation": "Hohlstrahlrohr erzeugt Sprühstrahl (kühlt gut), schützt den Trupp (Wasserschleier) und hat geringen Rückstoß.",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 38,
@@ -301,7 +301,7 @@
     "question": "Wofür steht TLF?",
     "answer": "Tanklöschfahrzeug",
     "explanation": "TLF hat einen großen Wassertank (2500-5000 Liter) für Einsätze ohne Wasserversorgung (z.B. auf dem Land).",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 39,
@@ -309,7 +309,7 @@
     "question": "Welche drei Hauptgeräte gehören zum hydraulischen Rettungsgerät?",
     "answer": "Spreizer, Schere, Rettungszylinder",
     "explanation": "Spreizer öffnet, Schere schneidet, Rettungszylinder schiebt/drückt. Wird bei Verkehrsunfällen eingesetzt.",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "question": "Was ist ein Verteiler?",
     "answer": "Gerät zum Verteilen eines Wasserstroms auf mehrere Ausgänge",
     "explanation": "Beispiel: B-3C-Verteiler hat 1x B-Eingang und 3x C-Ausgänge. Ermöglicht mehrere Strahlrohre gleichzeitig.",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 41,
@@ -325,7 +325,7 @@
     "question": "Wie heißen die sechs Teile der PSA?",
     "answer": "Stiefel, Überhose, Jacke, Helm, Handschuhe, Feuerwehrgurt",
     "explanation": "Die PSA muss VOLLSTÄNDIG getragen werden. Ohne vollständige PSA keine Teilnahme am Einsatz!",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 42,
@@ -333,7 +333,7 @@
     "question": "Wann darfst du einen Pressluftatmer (PA) tragen?",
     "answer": "Nur nach Atemschutzlehrgang und bestandener G26-Untersuchung",
     "explanation": "PA ist physisch extrem belastend. Ohne Ausbildung und medizinische Freigabe ist es verboten!",
-    "reference": "../theorie/fahrzeuge-geraete"
+    "reference": "../theorie/fahrzeuge-geraete/"
   },
   {
     "id": 43,
@@ -341,7 +341,7 @@
     "question": "Was regelt das Bayerische Feuerwehrgesetz (BayFwG)?",
     "answer": "Aufgaben, Organisation, Rechte und Pflichten der Feuerwehr in Bayern",
     "explanation": "Das BayFwG ist das zentrale Landesgesetz für alle Feuerwehren in Bayern.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 44,
@@ -349,7 +349,7 @@
     "question": "Was bedeutet § 35 StVO?",
     "answer": "Sonderrechte für Einsatzfahrzeuge (z.B. über rote Ampel fahren)",
     "explanation": "Aber: Nur wenn nötig und ohne andere zu gefährden! Bei Unfall haftet der Fahrer.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 45,
@@ -357,7 +357,7 @@
     "question": "Wann darf ein Einsatzfahrzeug Blaulicht UND Martinshorn nutzen?",
     "answer": "Bei Einsatzfahrt, wenn höchste Eile geboten ist (§ 38 StVO)",
     "explanation": "Blaulicht + Martinshorn = alle müssen Platz machen. Nur Blaulicht = Warnung, keine Sonderrechte.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 46,
@@ -365,7 +365,7 @@
     "question": "Wer ist bei der Feuerwehr versichert?",
     "answer": "Alle Feuerwehrangehörigen automatisch über die gesetzliche Unfallversicherung",
     "explanation": "Kostenlos! Versichert sind: Einsätze, Übungen, Lehrgänge und Hin-/Rückweg.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 47,
@@ -373,7 +373,7 @@
     "question": "Was bedeutet UVV?",
     "answer": "Unfallverhütungsvorschrift",
     "explanation": "Die UVV Feuerwehr (DGUV Vorschrift 49) regelt Sicherheitsvorschriften im Feuerwehrdienst.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 48,
@@ -381,7 +381,7 @@
     "question": "Darfst du alkoholisiert am Einsatz teilnehmen?",
     "answer": "NEIN! Absolute Null-Promille-Grenze!",
     "explanation": "Alkohol mindert Reaktionsfähigkeit und Urteilsvermögen → Lebensgefahr für dich und andere!",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 49,
@@ -389,7 +389,7 @@
     "question": "Nenne drei Gefahren an der Einsatzstelle (4-A-C-E-Regel).",
     "answer": "Atemgifte, Ausbreitung, Chemikalien, Explosion, Elektrizität, Einsturz",
     "explanation": "Die 4-A-C-E-Regel hilft, Gefahren zu erkennen: Atemgifte, Ausbreitung, Chemikalien, Explosion, Elektrizität, Einsturz.",
-    "reference": "../theorie/recht-sicherheit"
+    "reference": "../theorie/recht-sicherheit/"
   },
   {
     "id": 50,
@@ -397,7 +397,7 @@
     "question": "Wie lautet die 5-W-Regel für Funksprüche?",
     "answer": "Von wem? An wen? Was? Wann? Wo?",
     "explanation": "Nicht alle W's sind immer nötig, aber diese Struktur hilft, nichts zu vergessen.",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 51,
@@ -405,7 +405,7 @@
     "question": "Was bedeutet 'Ende' im Funkverkehr?",
     "answer": "Gespräch beendet, keine Antwort nötig",
     "explanation": "Im Gegensatz zu 'Kommen' (= erwarte Antwort) signalisiert 'Ende', dass das Gespräch vorbei ist.",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 52,
@@ -413,7 +413,7 @@
     "question": "Was ist der Trupp?",
     "answer": "Die kleinste Einheit der Feuerwehr (2 Personen: Truppführer + Truppmann)",
     "explanation": "Der Trupp bleibt IMMER zusammen! Niemals trennen (Zweimannregel).",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 53,
@@ -421,7 +421,7 @@
     "question": "Aus wie vielen Personen besteht eine Gruppe?",
     "answer": "9 Personen (Gruppenführer, Maschinist, 4 Trupps à 2 Personen, Melder)",
     "explanation": "Eine Gruppe besetzt ein Löschgruppenfahrzeug (LF). Sie ist die Standard-Einsatzeinheit.",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 54,
@@ -429,7 +429,7 @@
     "question": "Was machst du nach der Alarmierung?",
     "answer": "Sicher zum Feuerwehrhaus fahren, PSA anziehen, auf Fahrzeug steigen",
     "explanation": "Wichtig: Keine Sonderrechte auf Privatfahrzeug! Halte dich an die StVO.",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 55,
@@ -437,7 +437,7 @@
     "question": "Wann drückst du die Notruftaste am Funkgerät?",
     "answer": "Bei akuter Lebensgefahr für Einsatzkräfte (z.B. vermisster Atemschutztrupp)",
     "explanation": "Die Notruftaste löst Alarm auf allen Funkgeräten aus und sendet GPS-Position. Nur im echten Notfall!",
-    "reference": "../theorie/einsatz-funk"
+    "reference": "../theorie/einsatz-funk/"
   },
   {
     "id": 56,
@@ -445,7 +445,7 @@
     "question": "Wofür wird der Zimmermannsschlag verwendet?",
     "answer": "Zum Anseilen von Personen oder Geräten (feste Schlaufe)",
     "explanation": "Der Zimmermannsschlag zieht sich nicht zu und ist daher sicher für Personenrettung.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 57,
@@ -453,7 +453,7 @@
     "question": "Wofür wird der Webleinstek verwendet?",
     "answer": "Zum Befestigen einer Leine (ähnlich wie Mastwurf, aber noch sicherer)",
     "explanation": "Der Webleinstek hält auch bei seitlicher Belastung. Wird oft für Leitersicherung verwendet.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@
     "question": "Wofür wird der Halbmastwurf (HMS) verwendet?",
     "answer": "Zum Ablassen oder Sichern von Personen/Lasten (Bremswirkung)",
     "explanation": "Der HMS erzeugt Reibung und ermöglicht kontrolliertes Ablassen. Wird mit Karabiner verwendet.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 59,
@@ -469,7 +469,7 @@
     "question": "Was ist der Unterschied zwischen Endacht und Bucht-Achter?",
     "answer": "Endacht = Stopperknoten am Seilende, Bucht-Achter = feste Schlaufe",
     "explanation": "Beide haben die typische Achter-Form. Endacht verhindert Durchrutschen, Bucht-Achter bildet eine Schlaufe.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   },
   {
     "id": 60,
@@ -477,6 +477,6 @@
     "question": "Welche 4 Knoten musst du für die MTA-Prüfung können?",
     "answer": "Mastwurf, Zimmermannsschlag, Achterknoten, oft auch Webleinstek oder Halbmastwurf",
     "explanation": "Mastwurf und Zimmermannsschlag kommen fast immer dran. Achterknoten sehr häufig. Der 4. Knoten variiert.",
-    "reference": "../praxis/knoten"
+    "reference": "../praxis/knoten/"
   }
 ]
