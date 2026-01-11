@@ -170,6 +170,7 @@ Die **Unfallverhütungsvorschriften** (auch: DGUV Vorschrift 49) sind **Sicherhe
 #### 6. Atemschutz nur mit Ausbildung und G26
 
 **Regel:** Atemschutz darf nur tragen, wer:
+
 - Den **Atemschutzlehrgang** absolviert hat
 - Die **G26-Untersuchung** (arbeitsmedizinische Untersuchung) bestanden hat
 
@@ -345,6 +346,7 @@ Wenn die Gefahr zu groß wird → **sofortiger Rückzug**!
 Eine Merkhilfe für Gefahren an der Einsatzstelle:
 
 #### Atemgifte
+
 - Kohlenmonoxid (CO)
 - Blausäure (HCN)
 - Chlorgas
@@ -354,6 +356,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ---
 
 #### Ausbreitung
+
 - Feuer breitet sich aus
 - Rauch breitet sich aus
 
@@ -362,6 +365,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ---
 
 #### Chemikalien
+
 - Säuren, Laugen
 - Brennbare Flüssigkeiten
 - Unbekannte Stoffe
@@ -371,6 +375,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ---
 
 #### Explosion
+
 - Gasflaschen im Feuer
 - Spraydosen
 - Brennbare Dämpfe (Benzin)
@@ -380,6 +385,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ---
 
 #### Elektrizität
+
 - Stromleitungen
 - Elektrische Anlagen
 - Photovoltaik-Anlagen
@@ -389,6 +395,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ---
 
 #### Einsturz
+
 - Gebäude, Decken, Wände
 - Bäume
 - Baugerüste

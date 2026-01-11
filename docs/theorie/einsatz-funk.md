@@ -193,6 +193,7 @@ Die Einsatzstelle wird in Bereiche eingeteilt:
 **Immer** einen Fluchtweg offenhalten!
 
 **Beispiel:** Wenn du ins Haus gehst, merke dir:
+
 - Woher bin ich gekommen?
 - Wo ist der nächste Ausgang?
 - Notfalls: Fenster als Notausstieg?

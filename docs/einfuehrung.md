@@ -19,6 +19,7 @@ Die MTA besteht aus **zwei Teilen** (Basis 1 und Basis 2) und umfasst insgesamt 
 | **Basis 2** | ca. 20 Stunden (auf 2 Jahre verteilt) | Vertiefung, Übungen im Dienstbetrieb | Keine separate Prüfung |
 
 !!! info "Zeitrahmen"
+
     - **Basis 1**: Meist als Kompaktlehrgang (2-3 Wochen) oder über mehrere Monate verteilt
     - **Basis 2**: Parallel zum normalen Übungsdienst über 2 Jahre
 
@@ -52,6 +53,7 @@ graph LR
 - Arbeiten im Trupp
 
 !!! success "Bestehensgrenze"
+
     - Schriftlich: mindestens 50% richtig
     - Praktisch: alle Aufgaben müssen sicher beherrscht werden
 
@@ -80,17 +82,20 @@ Trupps (2 Personen)
 ### Ebenen im Detail
 
 #### 1. Landesebene
+
 - **Landesfeuerwehrverband Bayern (LFV)**
 - Vertritt alle Feuerwehren in Bayern
 - Erstellt Ausbildungsrichtlinien
 - Organisiert Landeswettbewerbe
 
 #### 2. Bezirksebene
+
 - **Bezirksfeuerwehrverband (BFV)**
 - Goldkronach gehört zum Bezirk Oberfranken
 - Koordiniert größere Einsätze
 
 #### 3. Kreisebene
+
 - **Kreisfeuerwehrverband (KFV)**
 - Goldkronach gehört zum Landkreis Bayreuth
 - **Kreisbrandrat (KBR)**: oberster Feuerwehrmann im Landkreis
@@ -98,6 +103,7 @@ Trupps (2 Personen)
 - Organisiert MTA-Lehrgänge auf Kreisebene
 
 #### 4. Gemeindeebene
+
 - **Freiwillige Feuerwehr Goldkronach**
 - Eigenständige Organisation
 - Zuständig für Einsätze im Gemeindegebiet
@@ -105,6 +111,7 @@ Trupps (2 Personen)
 ### Rollen in der Feuerwehr
 
 #### Kommandant
+
 - **Leiter der Feuerwehr** vor Ort
 - Verantwortlich für Ausbildung, Einsätze, Organisation
 - Wird von den Mitgliedern gewählt
@@ -112,22 +119,26 @@ Trupps (2 Personen)
 **Beispiel:** Der Kommandant plant den Übungsplan, bestellt neue Geräte und führt große Einsätze.
 
 #### Stellvertretender Kommandant
+
 - Unterstützt den Kommandant
 - Vertritt ihn bei Abwesenheit
 
 #### Gruppenführer
+
 - Leitet eine Gruppe (9 Personen: 1 Gruppenführer + 2 Trupps à 4 Personen)
 - Kommandiert im Einsatz die Gruppe
 
 **Beispiel:** Bei einem Wohnungsbrand teilt der Gruppenführer die Aufgaben ein: „Angriffstrupp zur Menschenrettung vor, Wassertrupp Wasserversorgung sicherstellen!"
 
 #### Truppführer
+
 - Leitet einen Trupp (2 Personen)
 - Arbeitet eigenverantwortlich an Teilaufgaben
 
 **Beispiel:** Der Truppführer des Angriffstrupps führt seinen Truppmann ins brennende Gebäude.
 
 #### Truppmann / Truppfrau
+
 - Unterstützt den Truppführer
 - Führt Anweisungen aus
 - **Das bist du nach der MTA!**
@@ -138,6 +149,7 @@ Trupps (2 Personen)
 
 #### Grundstruktur: Der Trupp
 Ein **Trupp** besteht immer aus **2 Personen**:
+
 - **Truppführer** (erfahrener)
 - **Truppmann** (weniger erfahren)
 
@@ -147,6 +159,7 @@ Ein **Trupp** besteht immer aus **2 Personen**:
 #### Die Gruppe (9 Personen)
 
 Eine **Gruppe** besteht aus:
+
 1. **Gruppenführer** (1)
 2. **Angriffstrupp** (2): Geht direkt ins Feuer / zur Einsatzstelle
 3. **Wassertrupp** (2): Sichert Löschwasserversorgung

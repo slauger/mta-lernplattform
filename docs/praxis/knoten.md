@@ -475,6 +475,7 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Problem:** Stehendes Ende und loses Ende verwechselt.
 
 **Lösung:** Merke:
+
 - **Stehendes Ende** = fest, hält Last
 - **Loses Ende** = beweglich, wird verknotet
 

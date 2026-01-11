@@ -9,6 +9,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 - 🔗 **Verweis zum Theorie-Kapitel**
 
 !!! tip "Lerntipps"
+
     - Beantworte erst die Frage, **bevor** du die Lösung anschaust
     - Markiere Fragen, die du falsch hattest
     - Wiederhole diese Fragen regelmäßig
@@ -52,6 +53,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Was ist der Unterschied zwischen Retten und Bergen?**
 
 ??? success "Antwort"
+
     - **Retten**: Lebende Personen/Tiere aus Gefahr befreien
     - **Bergen**: Tote Personen, Tiere oder Sachwerte aus Gefahrenbereich bringen
 
@@ -79,6 +81,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Nenne drei Pflichtaufgaben der Feuerwehr nach BayFwG.**
 
 ??? success "Antwort"
+
     1. Brandschutz
     2. Technische Hilfeleistung bei Unglücksfällen
     3. Katastrophenschutz
@@ -96,6 +99,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Welche drei Komponenten braucht Feuer zum Brennen (Verbrennungsdreieck)?**
 
 ??? success "Antwort"
+
     1. **Brennbarer Stoff** (z. B. Holz, Benzin)
     2. **Sauerstoff** (mind. 15% in der Luft)
     3. **Zündtemperatur** (ausreichende Wärme)
@@ -152,6 +156,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Welche vier Löschwirkungen gibt es?**
 
 ??? success "Antwort"
+
     1. **Kühlen** (Temperatur senken)
     2. **Ersticken** (Sauerstoff entziehen)
     3. **Verdünnen** (selten)
@@ -159,6 +164,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 
     **Erklärung:**
     Jede Löschwirkung entfernt eine Komponente des Verbrennungstetraeders:
+
     - Kühlen → Temperatur runter
     - Ersticken → Sauerstoff weg
     - Antikatalytisch → Kettenreaktion stoppen
@@ -196,6 +202,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 
     **Erklärung:**
     Wasser ist bei Brandklasse A (feste, glutbildende Stoffe) ideal, weil es:
+
     - Sehr effektiv kühlt
     - Überall verfügbar ist
     - Kostengünstig ist
@@ -259,6 +266,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 
     **Erklärung:**
     LF = Löschgruppenfahrzeug. "20" bedeutet 2000 Liter Förderleistung. Es ist ausgelegt für eine **Gruppe** (9 Personen):
+
     - 1 Gruppenführer
     - 1 Maschinist
     - 2 Angriffstrupp
@@ -291,6 +299,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 
     **Erklärung:**
     HLF kombiniert Löschfahrzeug + Rüstwagen. Es hat:
+
     - Wassertank + Pumpe (für Löschen)
     - Hydraulisches Rettungsgerät (für technische Hilfeleistung)
     - → Universal-Fahrzeug
@@ -303,6 +312,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Was gehört zur Persönlichen Schutzausrüstung (PSA)?**
 
 ??? success "Antwort"
+
     - Feuerwehrstiefel
     - Feuerwehrüberhose
     - Feuerwehrjacke
@@ -325,6 +335,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 
     **Erklärung:**
     Das Hohlstrahlrohr erzeugt einen kegelförmigen Wasserstrahl und ist ideal für den Innenangriff, weil es:
+
     - Kühlt (Sprühstrahl)
     - Den Trupp schützt (Wasserschleier vor dem Trupp)
     - Geringen Rückstoß hat
@@ -339,6 +350,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Was ist der Unterschied zwischen Saugschlauch und Druckschlauch?**
 
 ??? success "Antwort"
+
     - **Saugschlauch**: Starr, formstabil, für Ansaugen von Wasser (hält Unterdruck aus)
     - **Druckschlauch**: Flexibel, faltbar, für Wasser unter Druck (B- und C-Schläuche)
 
@@ -368,6 +380,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Was regelt das Bayerische Feuerwehrgesetz (BayFwG)?**
 
 ??? success "Antwort"
+
     - Aufgaben der Feuerwehr
     - Organisation (Gemeinde-, Kreis-, Bezirksebene)
     - Rechte und Pflichten der Feuerwehrangehörigen
@@ -385,6 +398,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
 **Was bedeutet GAMS?**
 
 ??? success "Antwort"
+
     - **G**efahr erkennen
     - **A**bsperren
     - **M**enschenrettung

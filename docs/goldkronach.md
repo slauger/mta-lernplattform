@@ -79,6 +79,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 
 !!! tip "Für dich wichtig"
     Frage beim nächsten Übungsabend:
+
     - Welche Fahrzeuge hat Goldkronach genau?
     - Wo sind die wichtigsten Geräte verladen?
     - Welches Fahrzeug wird für welchen Einsatz genutzt?

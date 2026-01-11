@@ -980,6 +980,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 Du hast jetzt **über 100 Begriffe** kennengelernt! Nutze diese Seite als Nachschlagewerk während der gesamten MTA-Vorbereitung.
 
 !!! tip "Lerntipp"
+
     - Lies jeden Tag 10 Begriffe
     - Notiere dir unklare Begriffe und frage deinen Ausbilder
     - Nutze die Begriffe aktiv in Gesprächen mit Kameraden

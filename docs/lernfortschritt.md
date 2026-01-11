@@ -21,10 +21,12 @@ Das Dokumentieren deines Lernfortschritts hilft dir:
 Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 
 #### Einführung
+
 - [ ] Einführung & Orientierung gelesen
 - [ ] Begriffe & Abkürzungen durchgearbeitet (mind. 50 Begriffe gelernt)
 
 #### Theorie
+
 - [ ] Ziele, Aufgaben & Werte verstanden
 - [ ] Brennen & Löschen verstanden (Brandklassen, Löschmittel)
 - [ ] Fahrzeuge & Geräte gekannt (LF, HLF, PSA)
@@ -32,6 +34,7 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 - [ ] Einsatz & Funk verstanden (Einsatzablauf, Funksprüche)
 
 #### Praxis
+
 - [ ] Mastwurf sicher unter 10 Sekunden
 - [ ] Zimmermannsschlag sicher unter 30 Sekunden
 - [ ] Achterknoten (Endacht + Bucht-Achter) beherrscht
@@ -40,17 +43,20 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 - [ ] Materialliste abgearbeitet (Übungsleine, Lehrbuch)
 
 #### Prüfungsvorbereitung
+
 - [ ] Mind. 50 Prüfungsfragen beantwortet
 - [ ] Mind. 100 Prüfungsfragen beantwortet
 - [ ] Alle 120+ Prüfungsfragen beantwortet
 - [ ] Falsche Fragen wiederholt
 
 #### Goldkronach
+
 - [ ] Goldkronach-Kapitel gelesen
 - [ ] Mit Kommandant über lokale Fahrzeuge gesprochen
 - [ ] Gerätehaus-Rundgang gemacht
 
 #### Ressourcen
+
 - [ ] Lehrbuch gekauft/ausgeliehen
 - [ ] Feuerwehr-Lernbar ausprobiert
 - [ ] YouTube-Kanäle abonniert
@@ -117,11 +123,13 @@ Erstelle eine Datei `LERNFORTSCHRITT.md`:
 # Mein Lernfortschritt
 
 ## Woche 1 (01.01.-07.01.2026)
+
 - ✅ Einführung gelesen
 - ✅ Mastwurf 20x geübt
 - ⏳ Brandklassen lernen (in Arbeit)
 
 ## Woche 2 (08.01.-14.01.2026)
+
 - ✅ Brandklassen A-F gelernt
 - ✅ Zimmermannsschlag 15x geübt
 - ❌ Fitness: Nur 1x Joggen (Ziel: 3x) → nächste Woche besser!
@@ -193,19 +201,23 @@ Datum: 10.01.2026
 Dauer: 2 Stunden
 
 Was habe ich heute gelernt?
+
 - Brandklassen A-F
 - Unterschied zwischen Retten und Bergen
 - Mastwurf 10x geübt
 
 Was lief gut?
+
 - Brandklasse A+B sofort verstanden
 - Mastwurf unter 10 Sekunden!
 
 Was lief schlecht?
+
 - Brandklasse D (Metalle) noch unklar
 - Zimmermannsschlag dauert noch zu lang (40 Sek.)
 
 Was mache ich morgen?
+
 - Brandklasse D nochmal lesen
 - Zimmermannsschlag 20x üben
 - 30 min Joggen

@@ -47,6 +47,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 ## 📋 Was bietet diese Plattform?
 
 ### 📚 Theorie (5 Kapitel)
+
 - [Ziele, Aufgaben & Werte](theorie/ziele-aufgaben.md)
 - [Brennen & Löschen](theorie/brennen-loeschen.md) (Brandklassen, Löschmittel, Brandverhalten)
 - [Fahrzeuge & Geräte](theorie/fahrzeuge-geraete.md) (LF, HLF, PSA, Atemschutz)
@@ -54,18 +55,22 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 - [Verhalten im Einsatz & Funk](theorie/einsatz-funk.md) (Einsatzablauf, Digitalfunk)
 
 ### 🛠️ Praxis (3 Kapitel)
+
 - [Knoten & Stiche](praxis/knoten.md) (mit ASCII-Skizzen + Übungsplan)
 - [Übungen zuhause & Fitness](praxis/uebungen-fitness.md) (feuerwehrspezifisches Training)
 - [Materialliste](praxis/materialliste.md) (Prioritäten + Preise)
 
 ### ✅ Prüfungsvorbereitung
+
 - [120+ Prüfungsfragen](pruefung/fragen.md) mit Antworten und Erklärungen
 - [Interaktives Quiz](quiz/index.html) zum Üben
 
 ### 🏠 Lokale Besonderheiten
+
 - [Goldkronach-spezifisch](goldkronach.md) (Fahrzeuge, Geräte, Einsatzlagen)
 
 ### 📖 Mehr
+
 - [Begriffe & Abkürzungen](begriffe.md) (100+ Einträge)
 - [Ressourcen](ressourcen.md) (Bücher, YouTube, Apps, Links)
 - [Lernfortschritt dokumentieren](lernfortschritt.md) (Checklisten, Tracking)
@@ -100,6 +105,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 ## ⚠️ Wichtige Hinweise
 
 !!! warning "Sicherheit geht vor"
+
     - Führe **keine gefährlichen Experimente** zuhause durch
     - Nutze **kein echtes Feuer** für Löschübungen
     - Übe **nicht mit echten Feuerwehrgeräten** ohne Aufsicht
