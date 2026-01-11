@@ -39,11 +39,13 @@ graph LR
 ### Prüfungen
 
 **Schriftliche Prüfung:**
+
 - Multiple-Choice-Fragen
 - Dauer: ca. 45-60 Minuten
 - Themen: Theorie aus Basis 1
 
 **Praktische Prüfung:**
+
 - Knoten und Stiche
 - Gerätehandhabung
 - Löscheinsatz oder technische Hilfeleistung
@@ -178,6 +180,7 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 - Verhalten im Einsatz
 
 **Lernmethoden:**
+
 - Präsentationen
 - Videos
 - Gruppenarbeiten
@@ -194,6 +197,7 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 - Funk
 
 **Lernmethoden:**
+
 - Stationsausbildung
 - Übungen in Kleingruppen
 - Reale Szenarien
@@ -226,6 +230,7 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 **Ziel:** Verstehen, **warum** wir etwas tun
 
 **Inhalte:**
+
 - Wie funktioniert Verbrennung?
 - Welche Löschmittel gibt es?
 - Welche Gesetze regeln die Feuerwehr?
@@ -243,6 +248,7 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 **Ziel:** Können, **wie** wir etwas tun
 
 **Inhalte:**
+
 - Knoten binden
 - Schläuche kuppeln
 - Leitern aufstellen

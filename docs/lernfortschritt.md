@@ -89,6 +89,7 @@ Für jedes Theorie-Kapitel:
 | Backdraft | ✅ | ⚠️ | ❌ | Ja, Anzeichen lernen |
 
 **Legende:**
+
 - ✅ = Ja / Gut
 - ⚠️ = Teilweise / Okay
 - ❌ = Nein / Schlecht

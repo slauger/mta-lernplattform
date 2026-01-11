@@ -25,6 +25,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
     **Retten – Löschen – Bergen – Schützen**
 
     **Erklärung:**
+
     - **Retten**: Menschen und Tiere aus Gefahrensituationen befreien (höchste Priorität!)
     - **Löschen**: Brände bekämpfen
     - **Bergen**: Tote, Tiere oder Sachwerte aus Gefahrenbereichen bringen
@@ -176,6 +177,7 @@ Dieser Fragenkatalog enthält **über 120 Prüfungsfragen** zur Vorbereitung auf
     Feuer brennt in geschlossenem Raum → Sauerstoff wird verbraucht → Feuer schwelt → heiße, unverbrannte Gase sammeln sich → Tür wird geöffnet → Sauerstoff strömt ein → EXPLOSION!
 
     **Anzeichen:**
+
     - Schwarzer, öliger Rauch
     - Rauch "pulsiert"
     - Fenster verrußt von innen

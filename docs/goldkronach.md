@@ -35,6 +35,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Besatzung:** 9 Personen (1 Gruppe)
 
 **Beladung:**
+
 - Feuerlöschpumpe (Frontpumpe)
 - Wassertank: 1000-2000 Liter
 - B-Schläuche (75 mm)
@@ -56,6 +57,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Besatzung:** 9 Personen
 
 **Besonderheiten:**
+
 - Großer Wassertank (2500-5000 Liter)
 - Ggf. hydraulisches Rettungsgerät (bei HLF)
 - Schaummittel
@@ -69,6 +71,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Besatzung:** 6-9 Personen
 
 **Zweck:**
+
 - Transport von Personal zur Einsatzstelle
 - Unterstützung bei größeren Einsätzen
 
@@ -87,6 +90,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 ### Standard-Beladung (typisch für Bayern)
 
 **Löschgeräte:**
+
 - Feuerlöschpumpe (fest eingebaut)
 - Tragkraftspritze (TS 8/8)
 - B-Schläuche (20m, mehrere)
@@ -95,16 +99,19 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 - Strahlrohre (Hohlstrahlrohre, CM-Rohre, Wenderohr)
 
 **Rettungsgeräte:**
+
 - Steckleiter (3-4-teilig)
 - Schiebleiter
 - Ggf. hydraulisches Rettungsgerät (Spreizer, Schere)
 - Ggf. Hebekissen
 
 **Atemschutz:**
+
 - 4x Pressluftatmer (PA)
 - Atemschutzüberwachungstafel
 
 **Beleuchtung & Absicherung:**
+
 - Flutlichtstrahler
 - Handscheinwerfer
 - Verkehrsleitkegel
@@ -119,10 +126,12 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Häufigkeit:** Mittel
 
 **Besonderheiten:**
+
 - Oft ältere Gebäude (Fachwerk)
 - Enge Zufahrten in der Altstadt
 
 **Taktik:**
+
 - Schnelle Wasserversorgung (Hydranten prüfen!)
 - Ggf. lange Schlauchstrecken
 
@@ -133,10 +142,12 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Häufigkeit:** Hoch (B303, Landstraßen)
 
 **Besonderheiten:**
+
 - B303 führt durch Goldkronach
 - Viele kurvige Landstraßen
 
 **Taktik:**
+
 - Absicherung Einsatzstelle (Verkehr!)
 - Technische Hilfeleistung (Personen befreien)
 
@@ -147,10 +158,12 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Häufigkeit:** Hoch (besonders im Sommer/Herbst)
 
 **Besonderheiten:**
+
 - Viele Bäume (Wald, ländliche Gegend)
 - Sturmschäden (umgestürzte Bäume auf Straßen)
 
 **Taktik:**
+
 - Motorsäge, Trennschleifer
 - Absicherung Straßen
 
@@ -161,9 +174,11 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Häufigkeit:** Niedrig
 
 **Besonderheiten:**
+
 - Kleine Bäche können bei Starkregen anschwellen
 
 **Taktik:**
+
 - Sandsäcke
 - Auspumpen von Kellern
 
@@ -185,6 +200,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 ### Offene Gewässer
 
 **Optionen für Löschwasserentnahme:**
+
 - Bäche (mit Saugschläuchen + Tragkraftspritze)
 - Ggf. Teiche (frag deinen Ausbilder nach lokalen Entnahmestellen!)
 
@@ -197,6 +213,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 **Häufigkeit:** Meist 1-2x pro Monat (freitags oder samstags)
 
 **Typische Themen:**
+
 - Schlauchtraining
 - Leiterbau
 - Atemschutz-Übungen
@@ -227,6 +244,7 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 - **Topografie:** Hügelig, viele Wälder
 
 **Konsequenzen für Einsätze:**
+
 - Enge, kurvige Straßen
 - Lange Anfahrtswege zu entlegenen Gehöften
 - Wald- und Flächenbrände möglich (besonders im Sommer)
@@ -236,11 +254,13 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 ### Zusammenarbeit mit Nachbarfeuerwehren
 
 **Benachbarte Wehren:**
+
 - FF Nemmersdorf
 - FF Bindlach
 - FF Bayreuth (Kreisstadt)
 
 **Bei Großeinsätzen:**
+
 - Nachbarschaftshilfe (gegenseitige Unterstützung)
 - Alarmierung über Integrierte Leitstelle Bayreuth
 

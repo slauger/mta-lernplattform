@@ -54,11 +54,13 @@ Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
 **Befestigen einer Leine an runden Gegenständen** (Pfosten, Hydranten, Rohre).
 
 **Vorteile:**
+
 - Schnell zu binden
 - Hält sicher
 - Leicht zu lösen (auch unter Last)
 
 **Einsatz:**
+
 - Leine am Hydranten befestigen
 - Leiter am Pfosten sichern
 - Gerät an Geländer festmachen
@@ -104,6 +106,7 @@ Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
 **Material:** Seil (6-8mm), Stuhlbein oder Besenstiel
 
 **Aufgabe:**
+
 1. Binde 10x Mastwurf am Stuhlbein
 2. Ziel: Unter 10 Sekunden!
 3. Variante: Mit geschlossenen Augen (Simulation: Dunkelheit)
@@ -117,11 +120,13 @@ Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
 **Schlaufe am Ende einer Leine** (zum Anseilen von Personen oder Geräten).
 
 **Vorteile:**
+
 - Sehr sicher
 - Zieht sich nicht zu (wichtig bei Personenrettung!)
 - Hält auch unter extremer Last
 
 **Einsatz:**
+
 - Person anseilen (Rettung)
 - Gerät anseilen (Heben/Ziehen)
 
@@ -169,6 +174,7 @@ Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
 **Material:** Seil
 
 **Aufgabe:**
+
 1. Binde 10x Zimmermannsschlag
 2. Teste: Kann die Schlaufe sich zuziehen? (Nein!)
 3. Ziel: Unter 20 Sekunden
@@ -183,6 +189,7 @@ Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
 Seilende gegen Durchrutschen sichern.
 
 **Einsatz:**
+
 - Seil kann nicht durch Öse rutschen
 - Seil kann nicht durch Hand rutschen (beim Ablassen)
 
@@ -214,6 +221,7 @@ Seilende gegen Durchrutschen sichern.
 Feste Schlaufe am Seilende oder in der Seilmitte.
 
 **Einsatz:**
+
 - Anschlagpunkt für Karabiner
 - Rettung von Personen
 
@@ -239,6 +247,7 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Material:** Seil
 
 **Aufgabe:**
+
 1. 10x Endacht binden
 2. 10x Bucht-Achter binden
 3. Ziel: Achterform muss klar erkennbar sein
@@ -252,10 +261,12 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Befestigen einer Leine an einem Gegenstand** (ähnlich wie Mastwurf, aber noch sicherer).
 
 **Vorteile:**
+
 - Extrem sicher
 - Hält auch bei seitlicher Belastung
 
 **Einsatz:**
+
 - Leitersicherung
 - Gerätesicherung
 
@@ -289,6 +300,7 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Material:** Seil, Stuhlbein
 
 **Aufgabe:**
+
 1. 10x Webleinstek binden
 2. Teste: Zieht der Knoten seitlich weg? (Nein!)
 
@@ -301,10 +313,12 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Ablassen oder Sichern von Personen/Lasten** (Bremswirkung).
 
 **Vorteile:**
+
 - Reibung → Bremswirkung
 - Kann dynamisch gehalten werden (nachgeben/straffen)
 
 **Einsatz:**
+
 - Person ablassen (z. B. aus Fenster)
 - Last kontrolliert herablassen
 
@@ -332,6 +346,7 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Material:** Seil, Karabiner (oder stabiler Haken)
 
 **Aufgabe:**
+
 1. Binde HMS in Karabiner
 2. Hänge ein Gewicht dran (z. B. Wasserflasche)
 3. Teste: Bremswirkung spürbar?
@@ -345,10 +360,12 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 **Selbstsicherndes Klemmen an einem Seil** (rutscht bei Zug nicht).
 
 **Vorteile:**
+
 - Hält unter Belastung
 - Kann nach oben/unten geschoben werden (ohne Belastung)
 
 **Einsatz:**
+
 - Selbstsicherung beim Abseilen
 - Steigklemme (Seil hochklettern)
 
@@ -390,14 +407,17 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 ### Woche 1: Grundlagen
 
 **Tag 1-2: Mastwurf**
+
 - 3x täglich 10 Wiederholungen
 - Ziel: Unter 10 Sekunden
 
 **Tag 3-4: Achterknoten (Endacht + Bucht-Achter)**
+
 - 3x täglich je 10 Wiederholungen
 - Ziel: Saubere Achterform
 
 **Tag 5-7: Zimmermannsschlag**
+
 - 3x täglich 10 Wiederholungen
 - Ziel: Unter 20 Sekunden
 
@@ -406,14 +426,17 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 ### Woche 2: Fortgeschrittene
 
 **Tag 1-3: Webleinstek**
+
 - 3x täglich 10 Wiederholungen
 - Ziel: Verwechslung mit Mastwurf vermeiden
 
 **Tag 4-5: Halbmastwurf**
+
 - 3x täglich 10 Wiederholungen
 - Ziel: Bremswirkung verstehen
 
 **Tag 6-7: Alle Knoten mischen**
+
 - Zufällig einen Knoten wählen und binden
 - Ziel: Alle Knoten blind beherrschen
 
@@ -422,6 +445,7 @@ Feste Schlaufe am Seilende oder in der Seilmitte.
 ### Woche 3: Prüfungsvorbereitung
 
 **Simulation:**
+
 - **Partner** nennt Knoten → du bindest blind (oder mit Handschuhen)
 - **Zeitdruck**: Stoppuhr laufen lassen
 - **Prüfungssituation**: Knoten binden, während jemand zuschaut
@@ -496,6 +520,7 @@ In der **praktischen Prüfung** musst du meist **3-4 Knoten** binden:
 4. **Webleinstek** oder **Halbmastwurf** (gelegentlich)
 
 **Bewertungskriterien:**
+
 - **Korrektheit**: Ist der Knoten richtig gebunden?
 - **Sauberkeit**: Sieht der Knoten ordentlich aus?
 - **Geschwindigkeit**: Schaffst du es in angemessener Zeit? (nicht hetzen, aber auch nicht trödeln)
@@ -505,6 +530,7 @@ In der **praktischen Prüfung** musst du meist **3-4 Knoten** binden:
 ### Simulation: Prüfungssituation
 
 **Übung:**
+
 1. Lass dir von einem Freund/Familie einen Knoten nennen
 2. Binde ihn, während jemand zuschaut (Stresssituation!)
 3. Zeitlimit: 30-60 Sekunden pro Knoten
@@ -520,6 +546,7 @@ In der **praktischen Prüfung** musst du meist **3-4 Knoten** binden:
     YouTube-Kanal **"Feuerwehr Erklärt"** hat super Videos zu Feuerwehrknoten!
 
 **Suchbegriffe:**
+
 - "Feuerwehr Mastwurf"
 - "Zimmermannsschlag Feuerwehr"
 - "Achterknoten Tutorial"

@@ -41,11 +41,13 @@ Nach diesem Kapitel kannst du:
 ### 2. Anfahrt zum Feuerwehrhaus
 
 **Wichtig:**
+
 - Fahre **sicher** zum Feuerwehrhaus (nicht rasen!)
 - **Kein Blaulicht** am Privatfahrzeug!
 - Bei schlechter Erreichbarkeit: Treffpunkt direkt an der Einsatzstelle vereinbaren
 
 **Verkehrsregeln:**
+
 - Du hast **keine Sonderrechte** (du bist Privatperson)
 - Halte dich an die StVO (Ampeln, Geschwindigkeit)
 
@@ -64,6 +66,7 @@ Nach diesem Kapitel kannst du:
     Ziel: PSA in unter 60 Sekunden. Aber **nie** hetzen – Fehler kosten mehr Zeit!
 
 **Platzeinteilung im Fahrzeug:**
+
 - **Vorne:** Gruppenführer (Beifahrer), Maschinist (Fahrer)
 - **Hinten:** Trupps (Angriffstrupp, Wassertrupp, Schlauchmaterialtrupp, Melder)
 
@@ -72,11 +75,13 @@ Nach diesem Kapitel kannst du:
 ### 4. Einsatzfahrt
 
 **Als Mitfahrer:**
+
 - **Angeschnallt bleiben!**
 - Auf Durchsagen des Gruppenführers hören
 - Einsatzstelle im Kopf vorbereiten (Was könnte uns erwarten?)
 
 **Als Maschinist:**
+
 - Sonderrechte (§ 35 StVO) nutzen, aber **vorsichtig**!
 - Blaulicht + Martinshorn
 - Andere Verkehrsteilnehmer dürfen **nicht gefährdet** werden
@@ -89,15 +94,18 @@ Nach diesem Kapitel kannst du:
 ### 5. Ankunft an der Einsatzstelle
 
 **Maschinist:**
+
 1. **FMS-Taste "3" drücken** ("Ankunft an der Einsatzstelle") → Leitstelle wird informiert
 2. Fahrzeug **verkehrssicher** abstellen (Warnblinkanlage, ggf. absichern)
 3. Pumpe vorbereiten
 
 **Gruppenführer:**
+
 1. **Lageerkundung** durchführen
 2. Einsatzbefehl erteilen
 
 **Trupps:**
+
 1. Auf Befehl warten
 2. **Nicht eigenmächtig handeln!**
 
@@ -134,6 +142,7 @@ vor!"
 ```
 
 **Was machst du als Truppmann?**
+
 1. **Zuhören!** (Befehl genau aufnehmen)
 2. **Wiederholen** (innerlich oder laut): „Angriffstrupp, Brandbekämpfung, C-Rohr, 1. Stock, Treppe"
 3. **Ausführen!**
@@ -148,10 +157,12 @@ vor!"
 **Grundregel:** Der **Trupp** ist die kleinste Einheit (2 Personen).
 
 **Aufgabenteilung:**
+
 - **Truppführer**: Führt, trifft Entscheidungen, kommuniziert mit Gruppenführer
 - **Truppmann** (du!): Führt aus, unterstützt, sichert ab
 
 **Beispiel Angriffstrupp bei Zimmerbrand:**
+
 - **Truppführer**: Geht vorne, hält Strahlrohr, gibt Richtung vor
 - **Truppmann**: Geht dahinter, sichert Schlauch, beobachtet Umgebung, meldet Gefahren
 
@@ -171,6 +182,7 @@ Die Einsatzstelle wird in Bereiche eingeteilt:
 - **Öffentlicher Bereich**: Für Zuschauer (wird abgesperrt)
 
 **Deine Aufgabe:**
+
 - Bleib im **zugewiesenen Bereich**!
 - Halte Zuschauer fern (freundlich, aber bestimmt)
 
@@ -203,11 +215,13 @@ Bei Atemschutzeinsätzen wird jeder Trupp überwacht:
 ### Kommunikation im Einsatz
 
 **Verbale Kommunikation:**
+
 - **Klar und laut** sprechen (Helm + Umgebungslärm dämpfen)
 - **Kurz und präzise**
 - **Rückmeldung geben** („Verstanden!", „Wasser läuft!")
 
 **Handzeichen:**
+
 - Daumen hoch: „Alles okay"
 - Hände über Kopf kreuzen: „Wasser halt!"
 - Winken: „Komm her!"
@@ -221,6 +235,7 @@ Bei Atemschutzeinsätzen wird jeder Trupp überwacht:
 **Digitalfunk** (BOS-Funk = Behörden und Organisationen mit Sicherheitsaufgaben) ist das **verschlüsselte Funksystem** der Feuerwehr, Polizei und Rettungsdienste in Deutschland.
 
 **Vorteile gegenüber Analogfunk:**
+
 - **Verschlüsselt** (abhörsicher)
 - **Bessere Sprachqualität**
 - **GPS-Ortung** der Fahrzeuge
@@ -231,6 +246,7 @@ Bei Atemschutzeinsätzen wird jeder Trupp überwacht:
 ### Aufbau eines Funkgeräts
 
 **Bestandteile:**
+
 1. **Display**: Zeigt Kanal, Status, GPS an
 2. **PTT-Taste** (Push To Talk): Sprechtaste (seitlich am Gerät)
 3. **Lautstärke-Regler**
@@ -244,6 +260,7 @@ Bei Atemschutzeinsätzen wird jeder Trupp überwacht:
 **Kanäle** sind wie Telefonnummern – jeder Kanal ist eine eigene "Leitung".
 
 **Typische Kanäle:**
+
 - **Kanal 1**: Einsatzkanal (alle Fahrzeuge der Einsatzstelle)
 - **Kanal 2**: Organisationskanal (Übungen, interne Absprachen)
 - **Kanal 3**: Kreis-Kanal (alle Feuerwehren im Landkreis)
@@ -337,11 +354,13 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### Notruftaste
 
 **Wann drücken?**
+
 - **Lebensgefahr** für Einsatzkräfte
 - **Unfall** mit verletzten Feuerwehrleuten
 - **Vermisster** Atemschutztrupp
 
 **Was passiert?**
+
 - Sirene auf allen Funkgeräten
 - GPS-Position wird übermittelt
 - Leitstelle alarmiert sofort Hilfe
@@ -356,6 +375,7 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### Beispiel 1: Küchenbrand
 
 **Lage:**
+
 - Topf auf Herd vergessen
 - Küche verraucht
 - Bewohner bereits draußen
@@ -400,6 +420,7 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### Beispiel 2: Verkehrsunfall
 
 **Lage:**
+
 - PKW gegen Baum
 - Fahrer eingeklemmt, bei Bewusstsein
 - Auslaufendes Öl
@@ -539,11 +560,13 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### 3. Einsatznachbesprechung
 
 **Warum?**
+
 - Lernen aus Fehlern
 - Positives hervorheben
 - Belastende Einsätze verarbeiten
 
 **Was passiert?**
+
 - Gruppenführer / Kommandant bespricht Einsatz
 - Was lief gut? Was lief schlecht?
 - Offene Fragen klären
@@ -556,6 +579,7 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### 4. Einsatzstellenhygiene
 
 **Nach dem Einsatz:**
+
 1. **Hände und Gesicht waschen** (sofort!)
 2. **PSA im Feuerwehrhaus lassen** (nicht mit nach Hause!)
 3. **Duschen** (zu Hause oder im Feuerwehrhaus)

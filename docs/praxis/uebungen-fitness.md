@@ -120,6 +120,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Brust, Schultern, Trizeps
 
 **Ausführung:**
+
 1. Bauchlage, Hände schulterbreit
 2. Körper gerade halten (Plank-Position)
 3. Absenken bis Brust fast den Boden berührt
@@ -128,6 +129,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Wiederholungen:** 3 Sätze à 10-20
 
 **Varianten:**
+
 - **Leichter**: Knie am Boden
 - **Schwerer**: Füße erhöht (z. B. auf Stuhl)
 
@@ -138,6 +140,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Oberschenkel, Gesäß
 
 **Ausführung:**
+
 1. Füße schulterbreit
 2. Hinsetzen, als würdest du dich auf einen Stuhl setzen
 3. Knie nicht über Zehenspitzen
@@ -146,6 +149,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Wiederholungen:** 3 Sätze à 15-25
 
 **Varianten:**
+
 - **Schwerer**: Mit Rucksack (10-20 kg)
 - **Explosiv**: Squat Jumps (hochspringen)
 
@@ -156,6 +160,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Bauch, Rücken
 
 **Ausführung:**
+
 1. Unterarmstütz (Ellenbogen unter Schultern)
 2. Körper gerade (wie ein Brett!)
 3. Halten
@@ -163,6 +168,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Dauer:** 3x 30-60 Sekunden
 
 **Varianten:**
+
 - **Seitlicher Plank**: Auf einer Seite (schräge Bauchmuskeln)
 - **Dynamisch**: Abwechselnd Arme heben
 
@@ -173,6 +179,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Oberschenkel, Gesäß, Waden
 
 **Ausführung:**
+
 1. Großer Schritt nach vorne
 2. Vorderes Knie 90°, hinteres Knie fast am Boden
 3. Zurück in Ausgangsposition
@@ -187,6 +194,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Alles!
 
 **Ausführung:**
+
 1. Hinhocken, Hände am Boden
 2. Füße nach hinten springen (Plank-Position)
 3. Liegestütz (optional)
@@ -205,6 +213,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Zielmuskeln:** Bauch, Schultern, Ausdauer
 
 **Ausführung:**
+
 1. Plank-Position
 2. Abwechselnd Knie zur Brust ziehen (wie Bergsteigen)
 3. Schnell!
@@ -218,6 +227,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Ziel:** Einsatzsituation simulieren (kurze, intensive Belastungen)
 
 **Ablauf:**
+
 1. 10x Burpees (simuliert: Zum Fahrzeug rennen)
 2. 20x Kniebeugen mit Rucksack (simuliert: Schlauch tragen)
 3. 30 Sekunden Plank (simuliert: Stabilität im Einsatz)
@@ -240,6 +250,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Ziel:** Lange Einsätze durchhalten
 
 **Methode:**
+
 - **Joggen**: 30-60 Minuten, Puls 120-140
 - **Radfahren**: 45-90 Minuten, lockerer Tritt
 - **Schwimmen**: 30-45 Minuten (schonend für Gelenke!)
@@ -253,6 +264,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Ziel:** Schnell hohe Leistung abrufen (wie im Einsatz!)
 
 **Methode:**
+
 - 5 Minuten aufwärmen (langsam joggen)
 - 5x (5 Minuten schnell / 2 Minuten langsam)
 - 5 Minuten Cool-Down
@@ -271,6 +283,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Material:** Rucksack + 15-20 kg Gewicht (Bücher, Wasserflaschen)
 
 **Übung:**
+
 1. Rucksack auf Schulter
 2. 100 Meter gehen (oder Treppen hoch/runter)
 3. Absetzen, kurz Pause
@@ -285,6 +298,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Material:** Besenstiel oder langes Rohr (ca. 2-3 Meter)
 
 **Übung:**
+
 1. Stiel auf Boden liegen
 2. Aufheben (wie Leiter)
 3. Über Kopf heben
@@ -301,6 +315,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Material:** Rucksack + 15 kg Gewicht
 
 **Übung:**
+
 1. Rucksack anziehen (simuliert: Pressluftatmer)
 2. Treppen steigen (5 Stockwerke = ca. 100 Stufen)
 3. Pause 1 Minute
@@ -315,6 +330,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 **Material:** Partner (oder schwerer Sandsack, ca. 60-80 kg)
 
 **Übung:**
+
 1. Partner auf Schulter nehmen (Feuerwehrgriff)
 2. 10 Meter gehen
 3. Absetzen
@@ -339,22 +355,27 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### Dehnprogramm (10 Minuten täglich)
 
 **1. Oberschenkel-Vorderseite**
+
 - Im Stehen Fuß zum Gesäß ziehen
 - 30 Sekunden pro Seite
 
 **2. Oberschenkel-Rückseite**
+
 - Im Sitzen Bein ausstrecken, zu Zehen greifen
 - 30 Sekunden pro Seite
 
 **3. Hüfte**
+
 - Auf Boden sitzen, Bein über anderes legen, zur Seite drehen
 - 30 Sekunden pro Seite
 
 **4. Schultern**
+
 - Arm über Brust ziehen
 - 30 Sekunden pro Seite
 
 **5. Rücken**
+
 - Auf Rücken liegen, Knie zur Brust ziehen
 - 30 Sekunden
 
@@ -376,20 +397,24 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 ### Beispiel-Tagesplan
 
 **Frühstück:**
+
 - Haferflocken mit Milch/Joghurt + Obst
 - 2 Eier
 - Vollkornbrot
 
 **Mittag:**
+
 - Hähnchen/Fisch
 - Reis/Kartoffeln
 - Gemüse
 
 **Abend:**
+
 - Salat mit Thunfisch/Ei
 - Vollkornbrot
 
 **Snacks:**
+
 - Nüsse, Obst, Proteinriegel
 
 ---
@@ -400,6 +425,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 Bei der Alarmierung musst du **schnell** in die PSA. Ziel: **Unter 60 Sekunden!**
 
 **Training zuhause:**
+
 1. Simuliere Alarmierung (z. B. Wecker stellen)
 2. Kleide dich komplett um (Jeans → Arbeitshose + Stiefel + Jacke)
 3. Stoppe die Zeit

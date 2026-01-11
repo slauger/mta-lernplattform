@@ -25,6 +25,7 @@ Die Feuerwehr hat **vier Hauptaufgaben**, die sich im Motto zusammenfassen:
 **Priorität:** **HÖCHSTE PRIORITÄT!** Menschenrettung geht immer vor!
 
 **Beispiele:**
+
 - Person aus brennendem Gebäude retten
 - Eingeklemmte Person nach Verkehrsunfall befreien
 - Katze vom Baum holen (ja, wirklich!)
@@ -40,12 +41,14 @@ Die Feuerwehr hat **vier Hauptaufgaben**, die sich im Motto zusammenfassen:
 **Definition:** Brände bekämpfen und ausbreiten verhindern.
 
 **Beispiele:**
+
 - Wohnungsbrand löschen
 - Brennendes Auto löschen
 - Waldbrand bekämpfen
 - Brennende Mülltonne löschen
 
 **Wichtig:**
+
 - Erst wenn **keine Menschenrettung** mehr nötig ist, beginnt die Brandbekämpfung
 - **Ausbreitung verhindern** ist genauso wichtig wie löschen
 
@@ -58,6 +61,7 @@ Die Feuerwehr hat **vier Hauptaufgaben**, die sich im Motto zusammenfassen:
 **Unterschied zu Retten:** Retten = Lebende, Bergen = Tote oder Sachwerte
 
 **Beispiele:**
+
 - Verstorbene Person nach Unfall bergen
 - Ausgelaufenes Öl beseitigen
 - Umgestürzte Bäume von der Straße räumen
@@ -70,6 +74,7 @@ Die Feuerwehr hat **vier Hauptaufgaben**, die sich im Motto zusammenfassen:
 **Definition:** Vorbeugend Gefahren abwehren und Schäden verhindern.
 
 **Beispiele:**
+
 - **Brandschutzaufklärung** (Kindergärten, Schulen besuchen)
 - **Brandsicherheitswachen** bei Veranstaltungen (Konzerte, Volksfeste)
 - **Hochwasserschutz** (Sandsäcke legen)
@@ -111,6 +116,7 @@ Die Feuerwehr **kann** zusätzlich folgende Aufgaben übernehmen:
 ### 1. Kameradschaft
 
 **Was bedeutet das?**
+
 - Zusammenhalt und gegenseitige Hilfe
 - Vertrauen in den Nebenmann/die Nebenfrau
 - Respekt und Wertschätzung
@@ -126,6 +132,7 @@ Bei einem Atemschutzeinsatz sichern sich zwei AGTs gegenseitig ab. Wenn einer in
 ### 2. Hilfsbereitschaft
 
 **Was bedeutet das?**
+
 - Anderen Menschen in Not helfen
 - Unabhängig von Herkunft, Religion, sozialem Status
 - Tag und Nacht, 365 Tage im Jahr
@@ -138,6 +145,7 @@ Ob um 3 Uhr nachts, an Weihnachten oder bei strömendem Regen – wenn der Pieps
 ### 3. Freiwilligkeit
 
 **Was bedeutet das?**
+
 - Ehrenamtliches Engagement
 - Keine Bezahlung (außer kleine Aufwandsentschädigung)
 - Freizeit opfern für das Gemeinwohl
@@ -150,6 +158,7 @@ Bayern hat über 7.500 Freiwillige Feuerwehren mit ca. 320.000 Aktiven – **ohn
 ### 4. Politische und religiöse Neutralität
 
 **Was bedeutet das?**
+
 - Die Feuerwehr hilft **allen Menschen** gleich
 - Keine Bevorzugung oder Benachteiligung
 - Keine politische Tätigkeit im Dienst
@@ -162,6 +171,7 @@ Ob Millionär oder Obdachloser, Christ oder Muslim – alle erhalten die gleiche
 ### 5. Verantwortungsbewusstsein
 
 **Was bedeutet das?**
+
 - Überlegte, sichere Handlungen
 - Verantwortung für sich selbst und andere
 - Fehler zugeben und aus ihnen lernen
@@ -174,6 +184,7 @@ Du stellst fest, dass dein Atemschutzgerät defekt ist. Du meldest es sofort, au
 ### 6. Disziplin
 
 **Was bedeutet das?**
+
 - Befehle befolgen
 - Hierarchie respektieren
 - Regeln und Vorschriften einhalten
@@ -212,11 +223,13 @@ Der Gruppenführer ruft „Rückzug!" – du diskutierst nicht, sondern verläss
 ### Physische Belastung
 
 **Was bedeutet das?**
+
 - **Schwere körperliche Arbeit**: Schläuche tragen (15-20 kg), Leitern aufstellen, Personen retten
 - **Hitze**: Bis zu 300°C in Brandnähe, auch ohne Feuer hohe Temperaturen durch PSA
 - **Lange Einsätze**: Manchmal mehrere Stunden ohne Pause
 
 **Vorbereitung:**
+
 - Regelmäßiges Fitnesstraining
 - Gesunde Ernährung
 - Ausreichend Schlaf
@@ -226,11 +239,13 @@ Der Gruppenführer ruft „Rückzug!" – du diskutierst nicht, sondern verläss
 ### Psychische Belastung
 
 **Was bedeutet das?**
+
 - **Stress**: Zeitdruck, Verantwortung, Ungewissheit
 - **Traumatische Erlebnisse**: Schwer verletzte oder tote Personen
 - **Schichtdienst** (bei Berufsfeuerwehr) oder **nächtliche Alarme**
 
 **Hilfe:**
+
 - **Kameradschaft**: Gespräche mit erfahrenen Feuerwehrleuten
 - **Nachbesprechungen**: Einsätze gemeinsam besprechen
 - **Psychosoziale Notfallversorgung (PSNV)**: Professionelle Hilfe bei belastenden Einsätzen
@@ -243,10 +258,12 @@ Der Gruppenführer ruft „Rückzug!" – du diskutierst nicht, sondern verläss
 ### Einsatzstellenhygiene
 
 **Was bedeutet das?**
+
 - **Schutz vor Schadstoffen** (Ruß, Asbest, Chemikalien)
 - **Vermeidung von Krebs** (Feuerwehrleute haben erhöhtes Krebsrisiko!)
 
 **Maßnahmen:**
+
 - **Nach dem Einsatz**: Hände und Gesicht sofort waschen
 - **PSA reinigen**: Nicht mit nach Hause nehmen
 - **Schwarzer Bereich**: Verschmutzte PSA bleibt im Feuerwehrhaus
@@ -281,6 +298,7 @@ Der Gruppenführer ruft „Rückzug!" – du diskutierst nicht, sondern verläss
 
 ??? question "3. Was ist der Unterschied zwischen Retten und Bergen?"
     **Antwort:**
+
     - **Retten** = Lebende Personen/Tiere aus Gefahr befreien
     - **Bergen** = Tote Personen, Tiere oder Sachwerte aus Gefahrenbereich bringen
 
@@ -289,6 +307,7 @@ Der Gruppenführer ruft „Rückzug!" – du diskutierst nicht, sondern verläss
 
 ??? question "5. Was bedeutet GAMS?"
     **Antwort:**
+
     - **G**efahr erkennen
     - **A**bsperren
     - **M**enschenrettung

@@ -16,11 +16,13 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Knoten üben (Mastwurf, Zimmermannsschlag, etc.)
 
 **Spezifikation:**
+
 - Durchmesser: 6-8 mm
 - Länge: 3-5 Meter
 - Material: Polypropylen oder Hanf
 
 **Wo kaufen?**
+
 - Baumarkt (Hagebau, Hornbach, Obi)
 - Online: Amazon
 
@@ -35,10 +37,12 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Theorie lernen (Brennen & Löschen, Fahrzeugkunde, etc.)
 
 **Empfehlung:**
+
 - **"Grundlagen der Feuerwehr"** (Ecomed Verlag)
 - Alternativ: **"Feuerwehr-Lehrbuch"** (Wenzel Verlag)
 
 **Wo kaufen?**
+
 - Online: Feuerwehr-Fachhandel, Amazon
 - Gebraucht: eBay (oft günstiger!)
 
@@ -53,6 +57,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Notizen während der Ausbildung, Zusammenfassungen, Skizzen
 
 **Spezifikation:**
+
 - A4 oder A5
 - Kariert oder liniert
 
@@ -69,6 +74,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Knoten mit Handschuhen üben (realistischere Bedingungen)
 
 **Spezifikation:**
+
 - Robuste Arbeitshandschuhe (z. B. Mechaniker-Handschuhe)
 - Gute Griffigkeit
 
@@ -83,6 +89,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Halbmastwurf üben
 
 **Spezifikation:**
+
 - Schraubkarabiner (sicherer als Schnappkarabiner)
 - Mindestens 20 kN Bruchlast
 
@@ -107,6 +114,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Schlauch-Tragen simulieren (mit Gewicht befüllen)
 
 **Spezifikation:**
+
 - Stabil, ca. 30-40 Liter
 - Gepolsterte Träger
 
@@ -123,6 +131,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Rucksack beschweren (simuliert: Schlauch, Atemschutz)
 
 **Optionen:**
+
 - **Wasserflaschen** (1,5 L = 1,5 kg) → kostenlos!
 - **Bücher** → kostenlos!
 - **Hanteln** (falls vorhanden)
@@ -139,6 +148,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Funksprüche üben
 
 **Optionen:**
+
 - **PMR-Funkgerät** (frei nutzbar, 2-3 km Reichweite)
 - **Walkie-Talkie-Set** (für Kinder, aber zum Üben okay)
 
@@ -155,6 +165,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Schlauch-Kuppeln üben
 
 **Wo besorgen?**
+
 - Frag beim Kommandanten, ob du dir einen alten Schlauch ausleihen kannst
 - **Nicht kaufen** (teuer und unnötig!)
 
@@ -167,6 +178,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Zusätzliche Knoten-Übungen (z. B. Prusik)
 
 **Spezifikation:**
+
 - Länge: 60-120 cm
 - Material: Dyneema oder Polyamid
 
@@ -181,6 +193,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Feuerlöscher-Funktion verstehen
 
 **Wo besorgen?**
+
 - Feuerwehr (frag, ob sie ein Schnittmodell haben)
 - Online: Feuerwehr-Fachhandel
 
@@ -195,6 +208,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Realitätsnähe beim Üben (PSA-Anzieh-Training)
 
 **Wo besorgen?**
+
 - eBay (gebrauchte Feuerwehrhelme)
 - Feuerwehr (alte, ausgesonderte PSA)
 
@@ -209,6 +223,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 **Wofür?** Begriffe, Abkürzungen, Prüfungsfragen lernen
 
 **Optionen:**
+
 - **Selbst erstellen** (Karteikarten beschriften)
 - **Fertige Lernkarten** (Feuerwehr-Fachhandel)
 
@@ -312,17 +327,20 @@ Alles von oben + optional PMR-Funkgerät, Bandschlinge, Fitness-Matte
 ## Checkliste: Habe ich alles?
 
 **Pflicht:**
+
 - [ ] Übungsleine
 - [ ] Lehrbuch
 - [ ] Notizblock
 
 **Empfohlen:**
+
 - [ ] Arbeitshandschuhe
 - [ ] Karabiner
 - [ ] Rucksack (mit Gewicht)
 - [ ] Timer-App
 
 **Optional:**
+
 - [ ] Funkgerät (PMR)
 - [ ] Bandschlinge
 - [ ] Fitness-Matte

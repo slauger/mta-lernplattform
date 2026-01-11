@@ -78,11 +78,13 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### Brandklasse A – Feste Stoffe
 
 **Merkmale:**
+
 - Brennen mit Flammen **und** Glut
 - Hinterlassen Asche
 - Wasser ist sehr effektiv
 
 **Beispiele:**
+
 - Holz
 - Papier
 - Textilien (Kleidung, Vorhänge)
@@ -99,11 +101,13 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### Brandklasse B – Flüssigkeiten
 
 **Merkmale:**
+
 - Brennen nur mit Flammen (keine Glut)
 - Oft hohe Brandtemperaturen
 - Breiten sich schnell aus
 
 **Beispiele:**
+
 - Benzin, Diesel
 - Heizöl, Motoröl
 - Lacke, Farben
@@ -116,6 +120,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
     Wasser ist schwerer als Benzin → Benzin schwimmt oben → Feuer breitet sich explosionsartig aus!
 
 **Richtig löschen:**
+
 - **Schaum** legt sich auf die Flüssigkeit und erstickt das Feuer
 - **Pulver** unterbricht die Kettenreaktion
 
@@ -124,11 +129,13 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### Brandklasse C – Gase
 
 **Merkmale:**
+
 - Brennen nur mit Flammen
 - Oft unter Druck (Explosion sgefahr!)
 - Können unsichtbar sein
 
 **Beispiele:**
+
 - Erdgas (Methan)
 - Propan (Gasflasche)
 - Butan (Campingkocher)
@@ -141,6 +148,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
     Wenn du ein brennendes Gas löschst, **ohne die Zufuhr abzusperren**, strömt weiter Gas aus → **Explosionsgefahr**!
 
 **Richtiges Vorgehen:**
+
 1. Gaszufuhr absperren (Ventil schließen)
 2. Dann ggf. löschen (meist erlischt das Feuer von selbst)
 
@@ -149,11 +157,13 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### Brandklasse D – Metalle
 
 **Merkmale:**
+
 - Sehr hohe Temperaturen (bis 3000°C!)
 - Reagieren heftig mit Wasser → **Explosion!**
 - Selten, aber sehr gefährlich
 
 **Beispiele:**
+
 - Aluminiumpulver
 - Magnesiumpulver
 - Natrium, Kalium (reagieren mit Wasser!)
@@ -168,11 +178,13 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### Brandklasse F – Speiseöle und -fette
 
 **Merkmale:**
+
 - Sehr hohe Temperaturen (über 300°C)
 - Fettexplosion bei Kontakt mit Wasser!
 - Häufig in Küchen (Friteuse, Pfanne)
 
 **Beispiele:**
+
 - Friteusenöl
 - Bratfett in der Pfanne
 - Speiseöl
@@ -183,6 +195,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
     Wasser verdampft schlagartig (1 Liter Wasser → 1700 Liter Dampf) → **Fettexplosion** (Stichflamme bis zur Decke!)
 
 **Richtiges Vorgehen:**
+
 1. **Herd ausschalten**
 2. **Deckel auf die Pfanne** (erstickt das Feuer)
 3. **Fettbrandlöscher** verwenden (bildet eine Seifenschicht)
@@ -195,6 +208,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### 1. Wasser
 
 **Eigenschaften:**
+
 - Überall verfügbar
 - Kostengünstig
 - Sehr effektiv bei Brandklasse A
@@ -206,6 +220,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 **Nicht geeignet für:** B, C, D, F, elektrische Anlagen (Stromunfälle!)
 
 **Einsatzformen:**
+
 - **Vollstrahl**: große Reichweite, kühlt stark
 - **Sprühstrahl**: große Oberfläche, kühlt und erstickt
 - **Nebelstrahl**: sehr fein zerstäubt, kühlt und verdrängt Rauch
@@ -215,6 +230,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### 2. Schaum
 
 **Eigenschaften:**
+
 - Besteht aus Wasser + Schaummittel + Luft
 - Schwimmt auf Flüssigkeiten
 - Bildet erstickende Schicht
@@ -224,6 +240,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 **Geeignet für:** Brandklasse A und B
 
 **Schaumarten:**
+
 - **Schwerschaum**: dichter, stabil, für Flächenbrände
 - **Mittelschaum**: universell einsetzbar
 - **Leichtschaum**: große Volumina, für Raumflutung
@@ -236,6 +253,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### 3. Pulver
 
 **Eigenschaften:**
+
 - Chemisches Pulver (verschiedene Typen)
 - Sehr effektiv, aber verschmutzt stark
 - Wirkt schlagartig
@@ -243,6 +261,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 **Löschwirkung:** **Antikatalytische Wirkung** (unterbricht Kettenreaktion) + Ersticken
 
 **Typen:**
+
 - **ABC-Pulver**: für Brandklassen A, B, C
 - **BC-Pulver**: für Brandklassen B, C
 - **D-Pulver (Metallbrandpulver)**: nur für Brandklasse D
@@ -257,6 +276,7 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 ### 4. Kohlendioxid (CO₂)
 
 **Eigenschaften:**
+
 - Farb- und geruchloses Gas
 - Verdrängt Sauerstoff
 - Hinterlässt keine Rückstände
@@ -428,6 +448,7 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 **Auslöser:** Feuer brennt in geschlossenem Raum → Sauerstoff wird verbraucht → Feuer schwelt → heiße, unverbrannte Gase sammeln sich → Tür wird geöffnet → Sauerstoff strömt ein → **EXPLOSION**!
 
 **Anzeichen:**
+
 - Schwarzer, öliger Rauch
 - Rauch „pulsiert" (wird rein- und rausgesaugt)
 - Fenster verrußt von innen

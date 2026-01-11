@@ -224,12 +224,14 @@ FwDV 3 legt fest, dass der **Truppführer** immer vorne geht, der **Truppmann** 
 Alle Feuerwehrangehörigen – **automatisch**, ohne Beitrag!
 
 **Was ist versichert?**
+
 - Einsätze
 - Übungen
 - Lehrgänge
 - Hin- und Rückweg (Wohnung ↔ Feuerwehrhaus ↔ Einsatzstelle)
 
 **Was übernimmt die Versicherung?**
+
 - Arztkosten
 - Krankenhauskosten
 - Rehabilitation
@@ -290,6 +292,7 @@ Arbeiten im Gefahrenbereich **immer mindestens zu zweit**.
 ### 4. Gefahren erkennen (GAMS)
 
 **GAMS-Regel:**
+
 - **G**efahr erkennen
 - **A**bsperren
 - **M**enschenrettung
@@ -326,6 +329,7 @@ Wenn die Gefahr zu groß wird → **sofortiger Rückzug**!
 ### 8. Einsatzstellenhygiene
 
 **Nach dem Einsatz:**
+
 - Hände und Gesicht sofort waschen
 - PSA nicht mit nach Hause nehmen
 - Duschen, sobald möglich
@@ -398,6 +402,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ### § 35 StVO: Sonderrechte
 
 **Was darfst du?**
+
 - Von allen Vorschriften der StVO befreien (z. B. Geschwindigkeit, Vorfahrt)
 - **Aber:** Nur, wenn es die Einsatzlage erfordert!
 - **Und:** Andere dürfen nicht gefährdet werden!
@@ -410,10 +415,12 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ### § 38 StVO: Blaues Blinklicht und Martinshorn
 
 **Regel:**
+
 - Blaues Blinklicht **allein** = Warnung (andere sollen Platz machen)
 - Blaulicht **+ Martinshorn** = Freie Bahn (alle müssen Platz machen)
 
 **Beispiel:**
+
 - Fahrt zur Einsatzstelle: Blaulicht + Martinshorn (§ 38)
 - Rückfahrt nach Einsatz: Nur Blaulicht (Warnung, keine Sonderrechte mehr)
 
@@ -442,6 +449,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 
 ??? question "3. Was steht GAMS?"
     **Antwort:**
+
     - **G**efahr erkennen
     - **A**bsperren
     - **M**enschenrettung

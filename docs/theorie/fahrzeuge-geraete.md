@@ -32,11 +32,13 @@ Nach diesem Kapitel kannst du:
 ### TSF (Tragkraftspritzenfahrzeug)
 
 **Technische Daten:**
+
 - Besatzung: **6 Personen** (1 Staffelführer + 5 Einsatzkräfte)
 - Wassertank: **400 Liter** (klein)
 - Pumpe: Tragkraftspritze (TS 8/8)
 
 **Beladung:**
+
 - Tragkraftspritze
 - Schläuche (B + C)
 - Strahlrohre
@@ -44,6 +46,7 @@ Nach diesem Kapitel kannst du:
 - Kleinlöschgeräte
 
 **Einsatzbereich:**
+
 - Kleine Brände (Mülltonne, Kleinfeuer)
 - Erste Unterstützung bei größeren Einsätzen
 - Ideal für **kleine Wehren** mit wenig Personal
@@ -56,11 +59,13 @@ Nach diesem Kapitel kannst du:
 ### LF 10/20 (Löschgruppenfahrzeug)
 
 **Technische Daten:**
+
 - Besatzung: **9 Personen** (Gruppe)
 - Wassertank: **1000-2000 Liter**
 - Pumpe: Fest eingebaut (Frontpumpe mit 1000-2000 L/min Förderleistung)
 
 **Beladung:**
+
 - Fest eingebaute Pumpe
 - B- und C-Schläuche (viele!)
 - Strahlrohre (Hohlstrahlrohre, Wenderohr)
@@ -70,6 +75,7 @@ Nach diesem Kapitel kannst du:
 - Kleinlöschgeräte (Feuerlöscher, Löschdecken)
 
 **Einsatzbereich:**
+
 - **Standard-Löschfahrzeug** der meisten Feuerwehren
 - Wohnungsbrände, Fahrzeugbrände
 - Wasserversorgung
@@ -83,16 +89,19 @@ Nach diesem Kapitel kannst du:
 ### TLF 16/25 (Tanklöschfahrzeug)
 
 **Technische Daten:**
+
 - Besatzung: **9 Personen** (Gruppe)
 - Wassertank: **2500-5000 Liter** (viel!)
 - Pumpe: Frontpumpe (1600 L/min)
 
 **Beladung:**
+
 - Ähnlich wie LF, aber mit **mehr Wasser**
 - Schaummittel
 - Große B-Schläuche für Wasserversorgung
 
 **Einsatzbereich:**
+
 - Brände **ohne Wasserversorgung** (z. B. auf dem Land, Wald)
 - Erste Löschmaßnahmen mit eigenem Wasser
 - Schaum-Einsätze (Benzinbrände)
@@ -105,18 +114,21 @@ Nach diesem Kapitel kannst du:
 ### HLF 20 (Hilfeleistungslöschfahrzeug)
 
 **Technische Daten:**
+
 - Besatzung: **9 Personen** (Gruppe)
 - Wassertank: **2000 Liter**
 - Pumpe: Frontpumpe (2000 L/min)
 - Zusatzausrüstung: Hydraulisches Rettungsgerät
 
 **Beladung:**
+
 - Alles vom LF
 - **+ Hydraulisches Rettungsgerät** (Spreizer, Schere, Rettungszylinder)
 - + Hebekissen
 - + Winden, Seilwinde
 
 **Einsatzbereich:**
+
 - **Universal-Fahrzeug**: Löschen + Technische Hilfe
 - Verkehrsunfälle (Personen befreien)
 - Brände
@@ -130,16 +142,19 @@ Nach diesem Kapitel kannst du:
 ### DLK (Drehleiter mit Korb)
 
 **Technische Daten:**
+
 - Besatzung: **3 Personen** (Maschinist + 2 Helfer)
 - Leiterlänge: z. B. **23 Meter** (DLK 23)
 - Korb: Platz für 2-3 Personen + Ausrüstung
 
 **Ausstattung:**
+
 - Ausziehbare, drehbare Leiter
 - Korb (zur Menschenrettung)
 - Wasserwerfer am Korb
 
 **Einsatzbereich:**
+
 - Menschenrettung aus oberen Stockwerken
 - Brandbekämpfung aus der Höhe
 - Beleuchtung großer Einsatzstellen
@@ -152,11 +167,13 @@ Nach diesem Kapitel kannst du:
 ### RW 2 (Rüstwagen)
 
 **Technische Daten:**
+
 - Besatzung: **6-9 Personen**
 - Kein Wasser, keine Pumpe
 - Viel technisches Gerät
 
 **Beladung:**
+
 - Hydraulisches Rettungsgerät (Spreizer, Schere, Rettungszylinder)
 - Motorsäge, Trennschleifer
 - Hebekissen, Holzkeile
@@ -165,6 +182,7 @@ Nach diesem Kapitel kannst du:
 - Werkzeug (Hammer, Brechstange, Axt)
 
 **Einsatzbereich:**
+
 - **Technische Hilfeleistung** (TH)
 - Verkehrsunfälle
 - Türöffnungen
@@ -175,17 +193,20 @@ Nach diesem Kapitel kannst du:
 ### ELW 1 (Einsatzleitwagen)
 
 **Technische Daten:**
+
 - Besatzung: **3 Personen** (Einsatzleiter + Helfer)
 - Keine Löschausrüstung
 - Führungs- und Kommunikationsausstattung
 
 **Ausstattung:**
+
 - Funkgeräte (mehrere Kanäle)
 - Kartenmaterial
 - Laptop, Drucker
 - Schreibtische
 
 **Einsatzbereich:**
+
 - **Mobile Einsatzzentrale** bei Großeinsätzen
 - Koordination mehrerer Fahrzeuge
 - Verbindung zur Leitstelle
@@ -199,6 +220,7 @@ Nach diesem Kapitel kannst du:
 #### Frontpumpe (fest eingebaut)
 
 **Eigenschaften:**
+
 - Fest im Fahrzeug eingebaut (meist vorne, daher "Frontpumpe")
 - Leistung: 800-4000 L/min (je nach Fahrzeug)
 - Wird vom Fahrzeugmotor angetrieben
@@ -213,11 +235,13 @@ Ein LF 20 hat eine Frontpumpe mit 2000 L/min Förderleistung. Der Maschinist bed
 #### Tragkraftspritze (TS)
 
 **Eigenschaften:**
+
 - **Mobil**, kann überall aufgestellt werden
 - Eigener Motor (Benzin oder Diesel)
 - Leistung: 800 L/min (TS 8/8)
 
 **Einsatz:**
+
 - Wasserentnahme aus Bächen, Teichen, Schwimmbädern
 - Wenn Fahrzeugpumpe nicht ausreicht
 - Löschwasserförderung über lange Strecken
@@ -232,11 +256,13 @@ Bei einem Waldbrand wird die TS an einen Bach gestellt, um Löschwasser zu förd
 #### Saugschlauch
 
 **Eigenschaften:**
+
 - **Starr** (formstabil, knickt nicht)
 - Durchmesser: meist 110 mm
 - Kann **Unterdruck** aushalten (für Ansaugbetrieb)
 
 **Einsatz:**
+
 - Wasserentnahme aus offenen Gewässern (Bach, Teich)
 - Ansaugen mit der Pumpe
 
@@ -248,11 +274,13 @@ Bei einem Waldbrand wird die TS an einen Bach gestellt, um Löschwasser zu förd
 #### B-Schlauch (75 mm)
 
 **Eigenschaften:**
+
 - Durchmesser: **75 mm**
 - Länge: meist 20 Meter
 - Große Wassermenge (800-2000 L/min)
 
 **Einsatz:**
+
 - **Wasserversorgung**: Hydrant → Fahrzeug
 - **Wasserförderung**: Fahrzeug → Verteiler
 - Lange Strecken
@@ -265,11 +293,13 @@ Der Wassertrupp legt drei B-Schläuche vom Hydranten zum Fahrzeug (60 Meter).
 #### C-Schlauch (42 oder 52 mm)
 
 **Eigenschaften:**
+
 - Durchmesser: **42 mm** (Standard) oder **52 mm**
 - Länge: meist 15 Meter
 - Für Strahlrohre (Löschangriff)
 
 **Einsatz:**
+
 - **Innenangriff** (brennendes Gebäude)
 - Kleinere Brände
 - Leicht zu handhaben (für Trupps)
@@ -295,15 +325,18 @@ Der Angriffstrupp nimmt ein C-Schlauchpaket (3x15m = 45m) und geht ins brennende
 #### Hohlstrahlrohr
 
 **Eigenschaften:**
+
 - Erzeugt **kegelförmigen** Wasserstrahl
 - Verstellbar: Vollstrahl ↔ Sprühstrahl
 
 **Vorteile:**
+
 - **Kühlwirkung** durch Sprühstrahl
 - **Schutz des Trupps** (Wasserschleier vor dem Trupp)
 - Geringer Rückstoß
 
 **Einsatz:**
+
 - **Innenangriff** (ideales Strahlrohr für Gebäudebrände)
 - Fahrzeugbrände
 
@@ -315,11 +348,13 @@ Der Angriffstrupp nimmt ein C-Schlauchpaket (3x15m = 45m) und geht ins brennende
 #### CM-Rohr (Mehrzweckstrahlrohr)
 
 **Eigenschaften:**
+
 - Erzeugt Vollstrahl oder Sprühstrahl
 - Größere Reichweite als Hohlstrahlrohr
 - Höherer Wasserdruck nötig
 
 **Einsatz:**
+
 - Außenangriff (große Reichweite)
 - Größere Brände
 
@@ -328,11 +363,13 @@ Der Angriffstrupp nimmt ein C-Schlauchpaket (3x15m = 45m) und geht ins brennende
 #### Wenderohr
 
 **Eigenschaften:**
+
 - **Großes Strahlrohr** auf dem Fahrzeugdach
 - Schwenkbar, ferngesteuert (vom Maschinist bedient)
 - Hohe Wurfweite (bis 60 Meter)
 
 **Einsatz:**
+
 - Große Brände (Außenangriff)
 - Wenn Trupps nicht nah genug rangehen können
 - Kühlung der Umgebung
@@ -347,11 +384,13 @@ Dachstuhlbrand: Der Maschinist setzt das Wenderohr ein, um von außen zu lösche
 **Funktion:** Verteilt **einen** Eingang auf **mehrere** Ausgänge.
 
 **Typen:**
+
 - **B-Verteiler**: 1x B-Eingang → 2x B-Ausgang
 - **B-2C-Verteiler**: 1x B-Eingang → 2x C-Ausgang
 - **B-3C-Verteiler**: 1x B-Eingang → 3x C-Ausgang
 
 **Einsatz:**
+
 - Versorgt mehrere Strahlrohre mit Wasser
 - Flexibilität bei der Wasserverteilung
 
@@ -367,11 +406,13 @@ Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche
 #### Steckleiter
 
 **Eigenschaften:**
+
 - 2-3 Teile, ineinander steckbar
 - Länge: bis 10 Meter (4-teilig)
 - Leicht, von 2 Personen tragbar
 
 **Einsatz:**
+
 - Rettung aus Fenstern (1.-2. Stock)
 - Zugang zu Dächern
 - Häufig bei kleineren Einsätzen
@@ -384,11 +425,13 @@ Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche
 #### Schiebleiter
 
 **Eigenschaften:**
+
 - 2-3 Teile, ausziehbar
 - Länge: bis 15 Meter
 - Schwerer als Steckleiter
 
 **Einsatz:**
+
 - Rettung aus höheren Stockwerken (bis 3. Stock)
 - Beleuchtung von oben
 - Standsicher durch Gewicht
@@ -398,11 +441,13 @@ Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche
 #### Hakenleiter
 
 **Eigenschaften:**
+
 - Einhängbar an Fensterbrüstungen
 - Nur ca. 4 Meter lang
 - Wird von oben eingehängt
 
 **Einsatz:**
+
 - Rettung von oben nach unten (z. B. vom Dach)
 - Ergänzung zur Steckleiter
 
@@ -415,10 +460,12 @@ Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche
 **Funktion:** Öffnet Türen, Wrackteile, schafft Zugang.
 
 **Technische Daten:**
+
 - Hydraulisch betrieben (Druck bis 720 bar)
 - Spreizkraft: bis 320 kN (entspricht 32 Tonnen!)
 
 **Einsatz:**
+
 - Befreien eingeklemmter Personen nach Verkehrsunfall
 - Türöffnung
 - Öffnen von Wrackteilen
@@ -433,10 +480,12 @@ Nach einem Autounfall ist die Fahrertür eingeklemmt. Der Spreizer öffnet die T
 **Funktion:** Schneidet Blech, Karosserie, Stangen.
 
 **Technische Daten:**
+
 - Hydraulisch betrieben
 - Schneidkraft: bis 900 kN
 
 **Einsatz:**
+
 - Abtrennen von Fahrzeugdächern ("Dach abnehmen")
 - Durchtrennen von A-/B-/C-Säulen (Autoteile)
 - Befreien eingeklemmter Personen
@@ -451,6 +500,7 @@ Um eine eingeklemmte Person aus einem PKW zu retten, wird das Dach mit der Scher
 **Funktion:** Drückt, schiebt, hebt (z. B. Lenk räder weg).
 
 **Einsatz:**
+
 - Verschieben von Wrackteilen
 - Schaffen von Platz für die Rettung
 - Stabilisierung
@@ -462,10 +512,12 @@ Um eine eingeklemmte Person aus einem PKW zu retten, wird das Dach mit der Scher
 **Funktion:** Heben schwerer Lasten durch Druckluft.
 
 **Typen:**
+
 - **Niederdruck**: große Hebekraft (bis 40 Tonnen!), niedriger Druck
 - **Hochdruck**: geringere Kraft, höherer Druck
 
 **Einsatz:**
+
 - Anheben von LKWs, Betonteilen
 - Schaffen von Zugang unter eingeklemmten Personen
 
@@ -515,6 +567,7 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 ### PSA richtig anlegen
 
 **Reihenfolge:**
+
 1. Stiefel anziehen
 2. Überhose anziehen
 3. Jacke anziehen (schließen!)
@@ -534,12 +587,14 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 **Funktion:** Umluftunabhängiges Atemschutzgerät mit Pressluftflasche.
 
 **Bestandteile:**
+
 - Pressluftflasche (200 oder 300 bar)
 - Atemregler (reduziert Druck auf Atemdruck)
 - Vollmaske (schließt Gesicht komplett ab)
 - Tragegestell
 
 **Einsatz:**
+
 - Innenangriff bei Bränden (Rauch!)
 - Gefahrstoffeinsätze
 - Überall, wo die Atemluft nicht atembar ist
@@ -556,11 +611,13 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 **Funktion:** Filtern die Umgebungsluft (sauerstoffabhängig!).
 
 **Filter-Typen:**
+
 - A-Filter: Gase und Dämpfe
 - B-Filter: Anorganische Gase
 - P-Filter: Partikel, Staub
 
 **Einsatz:**
+
 - Nur bei **ausreichend Sauerstoff** (mind. 17%)
 - Bekannte Schadstoffe
 - Kurze Einsatzdauer
@@ -575,11 +632,13 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 ### Beleuchtung
 
 **Geräte:**
+
 - **Handleuchten**: Tragbar, für Trupps
 - **Flutlichtstrahler**: Große Flächen ausleuchten (Generator nötig)
 - **Verkehrsleitkegel mit Blinklicht**: Absicherung Einsatzstelle
 
 **Einsatz:**
+
 - Nachteinsätze
 - Innenangriff (verrauchte Räume)
 - Ausleuchtung von Einsatzstellen
@@ -589,12 +648,14 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 ### Verkehrssicherung
 
 **Geräte:**
+
 - Verkehrsleitkegel (rot-weiß)
 - Warnblinkleuchten
 - Absperrband
 - Warnwesten
 
 **Einsatz:**
+
 - Absicherung von Einsatzstellen auf Straßen
 - Schutz der Einsatzkräfte vor Verkehr
 
@@ -603,11 +664,13 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 ### Kleinlöschgeräte
 
 **Geräte:**
+
 - Feuerlöscher (Pulver, Schaum, CO₂)
 - Löschdecke
 - Kübelspritze
 
 **Einsatz:**
+
 - Entstehungsbrände
 - Nachlöscharbeiten
 - Sicherung

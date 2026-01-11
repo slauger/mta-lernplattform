@@ -13,12 +13,14 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Autor:** Diverse (Herausgeber: Deutscher Feuerwehrverband)
 
 **Inhalt:**
+
 - DAS Standard-Lehrbuch für die Feuerwehr-Grundausbildung
 - Alle Themen der MTA abgedeckt
 - Viele Bilder, Grafiken, Tabellen
 - Aktuell (regelmäßige Neuauflagen)
 
 **Wo kaufen?**
+
 - Feuerwehr-Fachhandel
 - Amazon
 - Gebraucht: eBay
@@ -34,11 +36,13 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Autor:** Diverse
 
 **Inhalt:**
+
 - Alternative zum Ecomed-Lehrbuch
 - Ebenfalls sehr umfassend
 - Gut strukturiert
 
 **Wo kaufen?**
+
 - Feuerwehr-Fachhandel
 - Amazon
 
@@ -53,11 +57,13 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Herausgeber:** Innenministerium (verschiedene Bundesländer)
 
 **Inhalt:**
+
 - Offizielle Dienstvorschrift
 - Taktik, Truppaufstellung, Befehle
 - Pflichtlektüre!
 
 **Wo bekommen?**
+
 - Kostenlos als PDF online (Google: "FwDV 3 PDF")
 - Bei der Feuerwehr (ausgedruckt)
 
@@ -70,10 +76,12 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 4. Feuerwehr-Lernkarten (Ecomed)
 
 **Inhalt:**
+
 - Karteikarten mit Fragen & Antworten
 - Ideal zum Lernen unterwegs
 
 **Wo kaufen?**
+
 - Feuerwehr-Fachhandel
 - Amazon
 
@@ -86,10 +94,12 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 5. Die roten Hefte (Kohlhammer Verlag)
 
 **Inhalt:**
+
 - Kleine Hefte zu Spezialthemen (z. B. "Fahrzeugkunde", "Atemschutz", "Knoten und Stiche")
 - Kompakt und praxisnah
 
 **Wo kaufen?**
+
 - Feuerwehr-Fachhandel
 - Amazon
 
@@ -106,6 +116,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.youtube.com/@fireInternational
 
 **Inhalt:**
+
 - Feuerwehr-Ausbildung
 - Internationale Einsätze
 - Spezialthemen (Wald brand, Atemschutz)
@@ -119,6 +130,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** Suche auf YouTube: "Feuerwehr Erklärt"
 
 **Inhalt:**
+
 - Kurze, prägnante Erklärvideos
 - Knoten, Geräte, Taktik
 - Perfekt für Einsteiger!
@@ -132,6 +144,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.youtube.com/@112MedicOne
 
 **Inhalt:**
+
 - Einsatzberichte
 - Behind-the-Scenes
 - Rettungsdienst + Feuerwehr
@@ -145,6 +158,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** Suche auf YouTube: "Feuerwehr Würzburg"
 
 **Inhalt:**
+
 - Offizielle Videos der Berufsfeuerwehr Würzburg
 - Ausbildungsvideos
 - Einsatzberichte
@@ -158,6 +172,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** Suche auf YouTube: "KFV [dein Landkreis]" (z. B. "KFV Bayreuth")
 
 **Inhalt:**
+
 - Lokale Übungen
 - Lehrgänge
 - Wettbewerbe
@@ -173,6 +188,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.feuerwehr-lernbar.bayern/
 
 **Inhalt:**
+
 - Offizielle digitale Lernplattform des Landesfeuerwehrverbands Bayern
 - Interaktive Module
 - E-Learning-Kurse
@@ -187,6 +203,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.lfs-bayern.de/
 
 **Inhalt:**
+
 - Informationen zu Lehrgängen
 - Downloads (Skripte, Vorschriften)
 - Termine
@@ -200,6 +217,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://kfv-bayreuth-lehrgaenge.de/
 
 **Inhalt:**
+
 - Lehrgänge im Landkreis Bayreuth
 - MTA-Termine
 - Anmeldung
@@ -213,6 +231,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.feuerwehr.de/
 
 **Inhalt:**
+
 - News aus der Feuerwehrwelt
 - Fachbeiträge
 - Forum
@@ -226,6 +245,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://de.wikipedia.org/wiki/Feuerwehr
 
 **Inhalt:**
+
 - Guter Überblick über Organisation, Geschichte, Technik
 - Viele weiterführende Links
 
@@ -238,6 +258,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 1. Feuerwehr Trainer (Android/iOS)
 
 **Inhalt:**
+
 - Quiz-App mit Feuerwehr-Fragen
 - Verschiedene Schwierigkeitsstufen
 - Offline nutzbar
@@ -251,6 +272,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 2. Divera 24/7 (Alarmierungs-App)
 
 **Inhalt:**
+
 - Alarmierung per App (falls deine Feuerwehr das nutzt)
 - Rückmeldung
 - Einsatzberichte
@@ -264,6 +286,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 3. Knoten 3D (Knots 3D)
 
 **Inhalt:**
+
 - 3D-Animationen von Knoten
 - Schritt-für-Schritt-Anleitungen
 - Auch Feuerwehrknoten
@@ -281,6 +304,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** Suche auf Spotify/Apple Podcasts: "Florian Podcast"
 
 **Inhalt:**
+
 - Interviews mit Feuerwehrleuten
 - Einsatzgeschichten
 - Fachthemen
@@ -294,6 +318,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** Suche auf Podcast-Plattformen
 
 **Inhalt:**
+
 - Feuerwehr-News
 - Berichte aus dem Feuerwehralltag
 
@@ -306,10 +331,12 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### 1. Brandschutz / Deutsche Feuerwehr-Zeitung
 
 **Inhalt:**
+
 - Monatliche Fachzeitschrift
 - Aktuelle Themen, Technik, Einsatzberichte
 
 **Wo kaufen?**
+
 - Zeitschriftenhandel
 - Abo online
 
@@ -324,11 +351,13 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### Instagram
 
 **Accounts:**
+
 - @feuerwehr (offizielle Accounts verschiedener Wehren)
 - @feuerwehrwissen
 - @112medic
 
 **Inhalt:**
+
 - Bilder, kurze Videos
 - Behind-the-Scenes
 - Motivation
@@ -338,11 +367,13 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 ### Facebook-Gruppen
 
 **Gruppen:**
+
 - "Feuerwehr Deutschland"
 - "MTA – Modulare Truppausbildung"
 - "Feuerwehr-Azubis & Anwärter"
 
 **Inhalt:**
+
 - Austausch mit anderen Feuerwehrleuten
 - Fragen & Antworten
 - Erfahrungsberichte
@@ -356,6 +387,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Plattform:** PC (Steam)
 
 **Inhalt:**
+
 - Feuerwehr-, Rettungsdienst- und Polizei-Simulation
 - Einsätze planen und durchführen
 
@@ -372,6 +404,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Plattform:** PC (Steam)
 
 **Inhalt:**
+
 - Realistischere Feuerwehr-Simulation
 - Fahrzeuge steuern, Einsätze durchführen
 
@@ -390,6 +423,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Wo?** Google: "FwDV [Nummer] PDF"
 
 **Wichtige FwDV:**
+
 - **FwDV 1**: Grundtätigkeiten (Knoten, Leitern, Schläuche)
 - **FwDV 2**: Ausbildung
 - **FwDV 3**: Einheiten im Lösch- und Hilfeleistungseinsatz
@@ -405,6 +439,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Wo?** Google: "BayFwG PDF"
 
 **Inhalt:**
+
 - Gesetzliche Grundlagen der Feuerwehr in Bayern
 
 **Empfehlung:** ⭐⭐⭐⭐☆ (gut zu kennen!)
@@ -416,6 +451,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Wo?** Google: "UVV Feuerwehr DGUV Vorschrift 49 PDF"
 
 **Inhalt:**
+
 - Sicherheitsregeln im Feuerwehrdienst
 
 **Empfehlung:** ⭐⭐⭐⭐☆
@@ -429,6 +465,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.feuerwehr-forum.de/
 
 **Inhalt:**
+
 - Diskussionen zu allen Feuerwehr-Themen
 - Fragen & Antworten
 - Erfahrungsaustausch
@@ -442,6 +479,7 @@ Hier findest du alle empfohlenen Ressourcen für die MTA-Vorbereitung: Bücher, 
 **Link:** https://www.reddit.com/r/blaulicht/
 
 **Inhalt:**
+
 - Deutschsprachiges Subreddit zu Feuerwehr, Rettungsdienst, Polizei
 - Memes, Diskussionen, News
 
