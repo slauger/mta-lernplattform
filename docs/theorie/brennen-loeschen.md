@@ -511,6 +511,43 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 
 ---
 
+## 📚 Weiterführende Ressourcen
+
+!!! tip "Noch mehr lernen"
+    Die hier vermittelten Grundlagen kannst du mit offiziellen Quellen vertiefen:
+
+### Offizielle Lernplattformen
+
+**🔥 Feuerwehr-Lernbar Bayern** (Landesfeuerwehrverband Bayern)
+
+- **Lexikon:** [Begriffe zu Brennen & Löschen](https://www.feuerwehr-lernbar.bayern/lexikon/) - Detaillierte Erklärungen zu Fachbegriffen
+- **Download-Bereich:** [Ausbildungsunterlagen & PDFs](https://www.feuerwehr-lernbar.bayern/download/) - Offizielle Schulungsmaterialien
+- **Mediathek:** [Videos zu Brandverhalten](https://www.feuerwehr-lernbar.bayern/mediathek/) - Anschauliche Erklärvideos
+
+**📖 KFV Bayreuth**
+
+- **Lehrgänge:** [MTA-Termine & Unterlagen](https://kfv-bayreuth-lehrgaenge.de/) - Dein regionaler Ansprechpartner
+
+### Offizielle Dokumente (kostenlos)
+
+- **FwDV 1** (Grundtätigkeiten) - [Als PDF verfügbar](https://www.google.com/search?q=FwDV+1+PDF) - Regelungen zu Grundtätigkeiten
+- **FwDV 3** (Einheiten im Löscheinsatz) - [Als PDF verfügbar](https://www.google.com/search?q=FwDV+3+PDF) - Taktische Einheiten
+
+### YouTube-Kanäle
+
+- **@fire International** - Professionelle Ausbildungsvideos zu Brandverhalten
+- **Feuerwehr Erklärt** - Kurze, prägnante Videos zu Brandklassen & Löschmitteln
+
+### Lehrbücher
+
+- **"Grundlagen der Feuerwehr"** (Ecomed Verlag) - DAS Standard-Lehrbuch, Kapitel "Brennen und Löschen"
+- **Die roten Hefte** (Kohlhammer Verlag) - z.B. Heft "Brennen und Löschen"
+
+!!! info "Ergänzung, kein Ersatz"
+    Diese Lernplattform fasst die wichtigsten Inhalte zusammen. Die offiziellen Quellen bieten noch mehr Details, Videos und Praxisbeispiele!
+
+---
+
 ## Weiterführende Themen
 
 - [Fahrzeuge & Geräte](fahrzeuge-geraete.md) – Welche Löschgeräte gibt es?
