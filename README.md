@@ -24,8 +24,9 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
 **Installation:**
 
 ```bash
-# 1. Repository klonen (falls noch nicht geschehen)
-cd /Users/simon/git/feuerwehr
+# 1. Repository klonen
+git clone https://github.com/slauger/mta-lernplattform.git
+cd mta-lernplattform
 
 # 2. Python Virtual Environment erstellen (optional, aber empfohlen)
 python3 -m venv venv
