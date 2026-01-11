@@ -1,0 +1,86 @@
+site_name: MTA Vorbereitung - Freiwillige Feuerwehr Goldkronach
+site_description: Vollständiges Lern- und Übungsdokument für die Modulare Truppausbildung
+site_author: Feuerwehr Goldkronach
+
+theme:
+  name: material
+  language: de
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Zu dunklem Modus wechseln
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Zu hellem Modus wechseln
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: de
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Start: index.md
+  - Einführung:
+      - Orientierung & MTA: einfuehrung.md
+      - Begriffe & Abkürzungen: begriffe.md
+  - Theorie:
+      - Ziele, Aufgaben & Werte: theorie/ziele-aufgaben.md
+      - Brennen & Löschen: theorie/brennen-loeschen.md
+      - Fahrzeuge & Geräte: theorie/fahrzeuge-geraete.md
+      - Recht & Sicherheit: theorie/recht-sicherheit.md
+      - Einsatz & Funk: theorie/einsatz-funk.md
+  - Praxis:
+      - Knoten & Stiche: praxis/knoten.md
+      - Übungen zuhause: praxis/uebungen-fitness.md
+      - Materialliste: praxis/materialliste.md
+  - Prüfung:
+      - Prüfungsfragen: pruefung/fragen.md
+  - Goldkronach:
+      - Lokale Besonderheiten: goldkronach.md
+  - Ressourcen:
+      - Bücher, Links & Videos: ressourcen.md
+  - Lernfortschritt:
+      - Fortschritt dokumentieren: lernfortschritt.md
+
+extra:
+  social:
+    - icon: fontawesome/solid/fire
+      name: Freiwillige Feuerwehr

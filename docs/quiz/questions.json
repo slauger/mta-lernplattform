@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "category": "Ziele & Aufgaben",
+    "question": "Was sind die vier Grundaufgaben der Feuerwehr?",
+    "answer": "Retten – Löschen – Bergen – Schützen",
+    "explanation": "Diese vier Aufgaben fassen die Kernaufgaben der Feuerwehr zusammen. Retten hat dabei immer höchste Priorität!",
+    "reference": "../theorie/ziele-aufgaben"
+  },
+  {
+    "id": 2,
+    "category": "Ziele & Aufgaben",
+    "question": "Was hat bei der Feuerwehr höchste Priorität?",
+    "answer": "Menschenrettung",
+    "explanation": "Menschenrettung geht immer vor! ABER: Eigenschutz geht vor Fremdschutz – du hilfst niemandem, wenn du selbst verletzt wirst!",
+    "reference": "../theorie/ziele-aufgaben"
+  },
+  {
+    "id": 3,
+    "category": "Ziele & Aufgaben",
+    "question": "Was bedeutet 'Eigenschutz vor Fremdschutz'?",
+    "answer": "Du kannst niemandem helfen, wenn du selbst verletzt bist! Daher gilt: Erst die eigene Sicherheit prüfen, dann anderen helfen.",
+    "explanation": "Beispiel: Wenn ein Gebäude einsturzgefährdet ist, gehst du NICHT rein – auch wenn du jemanden retten könntest.",
+    "reference": "../theorie/ziele-aufgaben"
+  },
+  {
+    "id": 4,
+    "category": "Ziele & Aufgaben",
+    "question": "Nenne drei Pflichtaufgaben der Feuerwehr nach BayFwG.",
+    "answer": "1. Brandschutz, 2. Technische Hilfeleistung bei Unglücksfällen, 3. Katastrophenschutz",
+    "explanation": "Diese Aufgaben MUSS die Gemeinde durch die Feuerwehr erfüllen – das ist gesetzlich vorgeschrieben!",
+    "reference": "../theorie/recht-sicherheit"
+  },
+  {
+    "id": 5,
+    "category": "Brennen & Löschen",
+    "question": "Welche drei Komponenten braucht Feuer zum Brennen (Verbrennungsdreieck)?",
+    "answer": "1. Brennbarer Stoff, 2. Sauerstoff (mind. 15%), 3. Zündtemperatur",
+    "explanation": "Fehlt EINE der drei Komponenten, kann kein Feuer brennen. Das ist die Grundlage des Löschens!",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 6,
+    "category": "Brennen & Löschen",
+    "question": "Welche Brandklasse hat Holz?",
+    "answer": "Brandklasse A (feste, glutbildende Stoffe)",
+    "explanation": "Holz gehört zur Brandklasse A, ebenso wie Papier, Textilien, Stroh. Löschmittel: Wasser, Schaum, ABC-Pulver.",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 7,
+    "category": "Brennen & Löschen",
+    "question": "Welche Brandklasse hat Benzin?",
+    "answer": "Brandklasse B (flüssige oder flüssig werdende Stoffe)",
+    "explanation": "Benzin gehört zur Brandklasse B. Löschmittel: Schaum, Pulver, CO₂. NIEMALS Wasser!",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 8,
+    "category": "Brennen & Löschen",
+    "question": "Warum darf man NIEMALS Wasser auf brennendes Fett gießen?",
+    "answer": "Weil es zu einer Fettexplosion kommt!",
+    "explanation": "Wasser verdampft schlagartig (1 L = 1700 L Dampf!) → Fett wird hochgeschleudert → Stichflamme bis zur Decke!",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 9,
+    "category": "Brennen & Löschen",
+    "question": "Welche vier Löschwirkungen gibt es?",
+    "answer": "1. Kühlen, 2. Ersticken, 3. Verdünnen, 4. Antikatalytisch",
+    "explanation": "Jede Löschwirkung entfernt eine Komponente des Verbrennungstetraeders.",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 10,
+    "category": "Brennen & Löschen",
+    "question": "Was ist Backdraft?",
+    "answer": "Rauchgasexplosion durch plötzliche Sauerstoffzufuhr",
+    "explanation": "Feuer in geschlossenem Raum → Sauerstoffmangel → heiße Gase → Tür wird geöffnet → Sauerstoff strömt ein → EXPLOSION!",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 11,
+    "category": "Fahrzeuge & Geräte",
+    "question": "Wie viele Personen passen in ein LF 20?",
+    "answer": "9 Personen (1 Gruppenführer + 4 Trupps à 2 Personen)",
+    "explanation": "LF = Löschgruppenfahrzeug. Es ist ausgelegt für eine Gruppe (9 Personen).",
+    "reference": "../theorie/fahrzeuge-geraete"
+  },
+  {
+    "id": 12,
+    "category": "Fahrzeuge & Geräte",
+    "question": "Welchen Durchmesser hat ein B-Schlauch?",
+    "answer": "75 mm",
+    "explanation": "B-Schläuche werden für große Wassermengen verwendet (Wasserversorgung vom Hydranten zum Fahrzeug).",
+    "reference": "../theorie/fahrzeuge-geraete"
+  },
+  {
+    "id": 13,
+    "category": "Fahrzeuge & Geräte",
+    "question": "Wofür steht HLF?",
+    "answer": "Hilfeleistungslöschfahrzeug",
+    "explanation": "HLF kombiniert Löschfahrzeug + Rüstwagen (Löschen + technische Hilfeleistung).",
+    "reference": "../theorie/fahrzeuge-geraete"
+  },
+  {
+    "id": 14,
+    "category": "Fahrzeuge & Geräte",
+    "question": "Was gehört zur Persönlichen Schutzausrüstung (PSA)?",
+    "answer": "Stiefel, Überhose, Jacke, Helm, Handschuhe, Feuerwehrgurt",
+    "explanation": "Die PSA muss VOLLSTÄNDIG getragen werden!",
+    "reference": "../theorie/fahrzeuge-geraete"
+  },
+  {
+    "id": 15,
+    "category": "Fahrzeuge & Geräte",
+    "question": "Wie lange hält ein Pressluftatmer (PA) im Einsatz?",
+    "answer": "Ca. 20-30 Minuten (je nach Belastung)",
+    "explanation": "Bei hoher Belastung (schnelles Atmen) ist die Luft schnell verbraucht.",
+    "reference": "../theorie/fahrzeuge-geraete"
+  },
+  {
+    "id": 16,
+    "category": "Rechtsgrundlagen",
+    "question": "Was bedeutet GAMS?",
+    "answer": "Gefahr erkennen, Absperren, Menschenrettung, Spezialkräfte anfordern",
+    "explanation": "GAMS ist die Merkhilfe für Gefahrstoffeinsätze.",
+    "reference": "../theorie/recht-sicherheit"
+  },
+  {
+    "id": 17,
+    "category": "Rechtsgrundlagen",
+    "question": "Was ist die Zweimannregel?",
+    "answer": "Arbeiten im Gefahrenbereich immer mindestens zu zweit (Trupp)!",
+    "explanation": "Der Trupp ist die kleinste Einheit und bleibt IMMER zusammen. Gegenseitige Absicherung!",
+    "reference": "../theorie/recht-sicherheit"
+  },
+  {
+    "id": 18,
+    "category": "Einsatz & Funk",
+    "question": "Was steht nach der Alarmierung in der Durchsage?",
+    "answer": "Alarmzeit, Stichwort, Einsatzort, Objekt, Zusatzinfos",
+    "explanation": "Beispiel: '14:32 Uhr - Brand 1 - Hauptstraße 12 - Wohngebäude - Küchenbrand'",
+    "reference": "../theorie/einsatz-funk"
+  },
+  {
+    "id": 19,
+    "category": "Einsatz & Funk",
+    "question": "Wie lautet das Schema für Einsatzbefehle?",
+    "answer": "Einheit – Auftrag – Mittel – Ziel – Weg",
+    "explanation": "Beispiel: 'Angriffstrupp zur Brandbekämpfung mit C-Rohr im 1. Stock über Treppe vor!'",
+    "reference": "../theorie/einsatz-funk"
+  },
+  {
+    "id": 20,
+    "category": "Einsatz & Funk",
+    "question": "Was bedeutet 'Kommen' im Funkverkehr?",
+    "answer": "Ich bin fertig mit meiner Nachricht und erwarte eine Antwort",
+    "explanation": "'Kommen' signalisiert, dass der Empfänger antworten soll.",
+    "reference": "../theorie/einsatz-funk"
+  },
+  {
+    "id": 21,
+    "category": "Knoten",
+    "question": "Wofür wird der Mastwurf verwendet?",
+    "answer": "Zum Befestigen einer Leine an runden Gegenständen (Pfosten, Hydranten)",
+    "explanation": "Der Mastwurf ist schnell zu binden, hält sicher und ist leicht zu lösen.",
+    "reference": "../praxis/knoten"
+  },
+  {
+    "id": 22,
+    "category": "Knoten",
+    "question": "Warum zieht sich der Zimmermannsschlag nicht zu?",
+    "answer": "Weil er eine feste Schlaufe bildet, die auch unter Last ihre Größe behält",
+    "explanation": "Das ist besonders wichtig bei der Personenrettung!",
+    "reference": "../praxis/knoten"
+  },
+  {
+    "id": 23,
+    "category": "Knoten",
+    "question": "Welcher Knoten dient als Stopperknoten?",
+    "answer": "Achterknoten (Endacht)",
+    "explanation": "Der Achterknoten verhindert, dass das Seil durch eine Öse rutscht.",
+    "reference": "../praxis/knoten"
+  },
+  {
+    "id": 24,
+    "category": "Brennen & Löschen",
+    "question": "Welches Löschmittel ist für Brandklasse A am besten geeignet?",
+    "answer": "Wasser",
+    "explanation": "Wasser ist bei Brandklasse A (feste, glutbildende Stoffe) ideal: effektiv, verfügbar, kostengünstig.",
+    "reference": "../theorie/brennen-loeschen"
+  },
+  {
+    "id": 25,
+    "category": "Brennen & Löschen",
+    "question": "Was tötet bei Bränden die meisten Menschen?",
+    "answer": "Rauch (Atemgifte wie Kohlenmonoxid), nicht die Flammen!",
+    "explanation": "Rauch ist heiß, giftig und nimmt die Sicht. Die meisten Brandopfer sterben durch Rauchvergiftung.",
+    "reference": "../theorie/brennen-loeschen"
+  }
+]
