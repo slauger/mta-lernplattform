@@ -7,6 +7,7 @@ let correctCount = 0;
 let wrongCount = 0;
 let wrongQuestionIds = []; // IDs der falsch beantworteten Fragen
 let seenQuestionIds = []; // IDs der bereits gesehenen Fragen
+let currentCatalog = ''; // Aktueller Katalog (für localStorage-Keys)
 
 // Load questions from JSON
 async function loadQuestions() {
@@ -15,11 +16,14 @@ async function loadQuestions() {
         const catalogSelect = document.getElementById('catalogFilter');
         const catalogFile = catalogSelect ? catalogSelect.value : 'questions-mta-basismodul.json';
 
+        // Set current catalog key (used for localStorage)
+        currentCatalog = catalogFile.replace('.json', '').replace('questions-', '');
+
         const response = await fetch(catalogFile);
         allQuestions = await response.json();
-        loadWrongQuestions(); // Load from localStorage
-        loadSeenQuestions(); // Load from localStorage
-        console.log(`Loaded ${allQuestions.length} questions from ${catalogFile}`);
+        loadWrongQuestions(); // Load from localStorage (catalog-specific)
+        loadSeenQuestions(); // Load from localStorage (catalog-specific)
+        console.log(`Loaded ${allQuestions.length} questions from ${catalogFile} (catalog: ${currentCatalog})`);
 
         // Update max question count based on available questions
         const questionCountInput = document.getElementById('questionCount');
@@ -419,41 +423,50 @@ function startQuizWrongOnly() {
     displayQuestion();
 }
 
-// Save wrong questions to localStorage
+// Save wrong questions to localStorage (catalog-specific)
 function saveWrongQuestions() {
-    localStorage.setItem('wrongQuestions', JSON.stringify(wrongQuestionIds));
+    const key = `wrongQuestions_${currentCatalog}`;
+    localStorage.setItem(key, JSON.stringify(wrongQuestionIds));
 }
 
-// Load wrong questions from localStorage
+// Load wrong questions from localStorage (catalog-specific)
 function loadWrongQuestions() {
-    const saved = localStorage.getItem('wrongQuestions');
+    const key = `wrongQuestions_${currentCatalog}`;
+    const saved = localStorage.getItem(key);
     if (saved) {
         wrongQuestionIds = JSON.parse(saved);
+    } else {
+        wrongQuestionIds = [];
     }
 }
 
-// Save seen questions to localStorage
+// Save seen questions to localStorage (catalog-specific)
 function saveSeenQuestions() {
-    localStorage.setItem('seenQuestions', JSON.stringify(seenQuestionIds));
+    const key = `seenQuestions_${currentCatalog}`;
+    localStorage.setItem(key, JSON.stringify(seenQuestionIds));
 }
 
-// Load seen questions from localStorage
+// Load seen questions from localStorage (catalog-specific)
 function loadSeenQuestions() {
-    const saved = localStorage.getItem('seenQuestions');
+    const key = `seenQuestions_${currentCatalog}`;
+    const saved = localStorage.getItem(key);
     if (saved) {
         seenQuestionIds = JSON.parse(saved);
+    } else {
+        seenQuestionIds = [];
     }
 }
 
-// Clear all progress
+// Clear all progress for current catalog
 function clearProgress() {
-    if (confirm('Möchtest du wirklich deinen gesamten Lernfortschritt zurücksetzen?\n\n- Gesehene Fragen\n- Falsch beantwortete Fragen\n\nDiese Aktion kann nicht rückgängig gemacht werden!')) {
+    const catalogName = currentCatalog.includes('basismodul') ? 'MTA Basismodul' : 'MTA Truppführer';
+    if (confirm(`Möchtest du wirklich deinen Lernfortschritt für "${catalogName}" zurücksetzen?\n\n- Gesehene Fragen\n- Falsch beantwortete Fragen\n\nDiese Aktion kann nicht rückgängig gemacht werden!`)) {
         wrongQuestionIds = [];
         seenQuestionIds = [];
         saveWrongQuestions();
         saveSeenQuestions();
         alert('✅ Fortschritt wurde zurückgesetzt!');
-        location.reload();
+        updateProgressDisplay();
     }
 }
 
