@@ -8,7 +8,7 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
 
 - **Theorie**: Alle relevanten Themen (Brennen & Löschen, Fahrzeuge, Recht, Einsatz & Funk)
 - **Praxis**: Knoten, Fitness-Übungen, Materiallisten
-- **Prüfungsfragen**: 120+ Fragen mit Antworten und Erklärungen
+- **Prüfungsfragen**: 270+ echte Fragen aus Bayerischen Feuerwehrschulen (214 Basismodul + 60 Truppführer)
 - **Begriffe & Abkürzungen**: 100+ Einträge mit Beispielen
 - **Ressourcen**: Bücher, YouTube-Kanäle, Apps, Links
 - **Lernfortschritt**: Checklisten und Tracking-Methoden
@@ -83,9 +83,10 @@ Die Landing Page (`docs/index.md`) wird zur Startseite und verlinkt zu:
 ## Projekt-Struktur
 
 ```
-feuerwehr/
+mta-lernplattform/
 ├── mkdocs.yml              # MkDocs-Konfiguration
 ├── README.md               # Diese Datei
+├── extract_any_exam.py     # Generisches Tool zum Extrahieren von Prüfungsfragen
 ├── docs/                   # Alle Markdown-Dateien + Quiz
 │   ├── index.md            # Landing Page (Startseite)
 │   ├── einfuehrung.md      # Einführung & Orientierung
@@ -100,12 +101,12 @@ feuerwehr/
 │   │   ├── knoten.md
 │   │   ├── uebungen-fitness.md
 │   │   └── materialliste.md
-│   ├── pruefung/           # Prüfungsfragen
-│   │   └── fragen.md       # 120+ Fragen
 │   ├── quiz/               # Interaktive Quiz-App
-│   │   ├── index.html      # Quiz UI
+│   │   ├── index.html      # Quiz UI (interaktiv)
+│   │   ├── browse.html     # Durchsicht-Modus (alle Fragen)
 │   │   ├── quiz.js         # Quiz-Logik
-│   │   └── questions.json  # 25+ Fragen (erweiterbar)
+│   │   ├── questions-mta-basismodul.json      # 214 Fragen Basismodul
+│   │   └── questions-mta-truppfuehrer.json    # 60 Fragen Truppführer
 │   ├── goldkronach.md      # Lokale Besonderheiten
 │   ├── ressourcen.md       # Bücher, Links, YouTube
 │   └── lernfortschritt.md  # Fortschritt dokumentieren
@@ -132,15 +133,18 @@ feuerwehr/
 
 ### ✅ Prüfung
 
-- 120+ Prüfungsfragen mit Antworten und Erklärungen (statisch in Markdown)
+- **270+ echte Prüfungsfragen** aus Bayerischen Feuerwehrschulen
+  - 214 Fragen: MTA Basismodul (Zwischenprüfung)
+  - 60 Fragen: MTA Truppführer (Abschlussprüfung, inkl. Multiple Choice)
 - **Interaktive Quiz-App** (HTML/JS):
-  - 25+ Fragen mit Antworten & Erklärungen
-  - Kategorien-Filter
-  - Zufalls-Reihenfolge
+  - Multiple-Choice Support (Single & Multi-Select)
+  - Katalog-Auswahl (Basismodul / Truppführer)
+  - Antworten durchmischen (optional)
   - Fortschritts-Tracking (localStorage)
-  - Falsche Fragen wiederholen
-  - Referenzen zur Theorie
-  - Keyboard-Shortcuts (Space, Enter, 1, 2)
+  - "Nur neue Fragen" / "Nur falsche wiederholen"
+  - Sofortiges Feedback mit Erklärungen
+  - Keyboard-Shortcuts (a/b/c, Enter, Space)
+- **Durchsicht-Modus**: Alle Fragen aufklappbar zum Lernen
 
 ### 🏠 Goldkronach-spezifisch
 
@@ -211,13 +215,15 @@ Dieses Projekt nutzt das **Material for MkDocs** Theme:
 
 - [x] ✅ Interaktive Prüfungs-App (HTML/JS mit JSON-Fragen)
   - [x] ✅ Randomizer
-  - [x] ✅ Filter nach Themen
+  - [x] ✅ Katalog-Auswahl (Basismodul / Truppführer)
   - [x] ✅ Fortschritts-Tracking
   - [x] ✅ Falsche Fragen wiederholen
-  - [x] ✅ Referenzen zur Theorie
-- [ ] Erweiterung auf 120+ Prüfungsfragen (aktuell: 25)
+  - [x] ✅ Multiple-Choice Support
+  - [x] ✅ Antworten durchmischen
+  - [x] ✅ Durchsicht-Modus
+- [x] ✅ 270+ echte Prüfungsfragen extrahiert
 - [ ] Videos einbetten (YouTube)
-- [ ] Bilder hinzufügen (Fahrzeuge, Geräte)
+- [ ] Mehr Bilder hinzufügen (Fahrzeuge, Geräte)
 - [ ] Spaced Repetition System (SRS)
 
 ### Beiträge willkommen!
@@ -249,18 +255,31 @@ Bei Fragen, Anregungen oder Fehlern:
 - ✅ Vollständige Theorie-Kapitel (5)
 - ✅ Praxis-Kapitel (3)
 - ✅ Begriffe & Abkürzungen (100+)
-- ✅ Prüfungsfragen (25, Ziel: 120+)
 - ✅ Ressourcen-Sammlung
 - ✅ Lernfortschritt-Tracking
 - ✅ MkDocs-Setup mit Material Theme
-- ✅ **Interaktive Quiz-App** mit Tracking & Review-Funktion
 - ✅ Landing Page mit direkten Links zu Doku & Quiz
 - ✅ GitHub Pages ready
 
-### Geplant für Version 1.1
+### Version 2.0 (12.01.2026)
 
-- [ ] 95+ weitere Prüfungsfragen (Ziel: 120+)
-- [ ] Bilder & Videos einbetten
+- ✅ **270+ echte Prüfungsfragen** aus Bayerischen Feuerwehrschulen
+  - 214 Fragen MTA Basismodul
+  - 60 Fragen MTA Truppführer (inkl. Multiple Choice)
+  - Bilder als Base64 eingebettet
+- ✅ **Interaktives Quiz** komplett überarbeitet
+  - Multiple-Choice Support
+  - Katalog-Auswahl
+  - Antworten durchmischen
+  - Fortschritts-Tracking
+  - "Nur neue" / "Nur falsche" Modi
+- ✅ **Durchsicht-Modus** (alle Fragen aufklappbar)
+- ✅ Generisches Extraktions-Tool (`extract_any_exam.py`)
+
+### Geplant für Version 2.1
+
+- [ ] Weitere Kataloge (Atemschutz, Sprechfunk, Maschinist)
+- [ ] Videos einbetten
 - [ ] Spaced Repetition System
 
 ---

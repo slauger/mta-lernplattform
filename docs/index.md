@@ -32,11 +32,12 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
     Teste dein Wissen mit dem Lernmodus:
 
-    - **25+ Fragen** mit Antworten & Erklärungen
-    - **Kategorien-Filter** (Brennen & Löschen, Fahrzeuge, etc.)
+    - **270+ Fragen** (214 Basismodul + 60 Truppführer)
+    - **Multiple-Choice Support** (Single & Multi-Select)
     - **Fortschritts-Tracking** mit localStorage
-    - **Falsche Fragen wiederholen**
-    - **Referenzen** zur Theorie
+    - **Nur neue Fragen** oder **nur falsche wiederholen**
+    - **Antworten durchmischen** (optional)
+    - **Durchsicht-Modus** (alle Fragen aufklappbar)
 
     [:octicons-arrow-right-24: Zum Quiz](quiz/index.html)
 
@@ -62,8 +63,8 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
 ### ✅ Prüfungsvorbereitung
 
-- [120+ Prüfungsfragen](pruefung/fragen.md) mit Antworten und Erklärungen
-- [Interaktives Quiz](quiz/index.html) zum Üben
+- [Interaktives Quiz](quiz/index.html) mit 270+ echten Prüfungsfragen
+- [Alle Fragen durchsehen](quiz/browse.html) (aufklappbar mit Erklärungen)
 
 ### 🏠 Lokale Besonderheiten
 
@@ -95,7 +96,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
     **Woche 5-6**: Prüfungsvorbereitung + Perfektionierung
 
-    7. [Prüfungsfragen](pruefung/fragen.md) durcharbeiten
+    7. [Alle Fragen durchsehen](quiz/browse.html) zum Lernen
     8. [Interaktives Quiz](quiz/index.html) nutzen (mehrmals!)
     9. Knoten perfektionieren (unter Zeitdruck)
     10. [Lernfortschritt](lernfortschritt.md) dokumentieren
