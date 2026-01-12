@@ -1,0 +1,2826 @@
+[
+  {
+    "id": 1,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Eine in einem PKW eingeklemmte Person soll durch ihren Trupp betreut werden. Das Fahrzeug ist noch nicht gesichert und könnte abrutschen. Wie verhalten sie sich?",
+    "answers": [
+      "Mit der Betreuung der Person wird unverzüglich von außerhalb begonnen",
+      "Die Betreuung der Person erfolgt erst nachdem das Fahrzeug gesichert ist",
+      "Ich steige sofort zur Betreuung der Person in das Fahrzeug"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 2,
+    "category": "Löscheinsatz",
+    "question": "Nach dem Kommando „Gefahr - Alle sofort zurück!“ sammeln sich die Einsatzkräfte…",
+    "answers": [
+      "am Verteiler",
+      "bei der Einsatzleitung",
+      "am Feuerwehrfahrzeug"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 3,
+    "category": "Fahrzeugtechnik",
+    "question": "Welche alternative Antriebe werden derzeit in der Fahrzeugtechnik verwendet?",
+    "answers": [
+      "Diesel; Benzin; Biodiesel",
+      "Erdgas (CNG); Flüssiggas (LPG); Hybridantrieb",
+      "Photovoltaik; Biogas"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 4,
+    "category": "Fahrzeugkunde",
+    "question": "Für wieviele Feuerwehrdienstleistende bietet die Atemschutzausstattung von Löschfahrzeugen (Tanklöschfahrzeuge ausgenommen) üblicherweise Schutz?",
+    "answers": [
+      "Für einen Trupp",
+      "für drei Trupps",
+      "Für zwei Trupps"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 5,
+    "category": "Fahrzeugkunde",
+    "question": "Welches Feuerwehrfahrzeug hat eine Löschgruppe als Besatzung?",
+    "answers": [
+      "TSF",
+      "TLF",
+      "HLF"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 6,
+    "category": "Fahrzeugkunde",
+    "question": "Welche Aussage trifft auf ein MLF zu?",
+    "answers": [
+      "Besatzung für eine Gruppe; Beladung für eine Gruppe; 1200 l Löschwasserbehälter",
+      "Das MLF führt auf dem Dach eine dreiteilige Schiebeleiter mit",
+      "Besatzung für eine Staffel; Beladung für eine Gruppe"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 7,
+    "category": "Löscheinsatz",
+    "question": "Welcher Trupp stellt in der Regel die Wasserversorgung zwischen Löschfahrzeug und Wasserentnahme her?",
+    "answers": [
+      "Wassertrupp",
+      "Angriffstrupp",
+      "Schlauchtrupp"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 8,
+    "category": "Fahrzeugkunde",
+    "question": "Welche aktuellen Fahrzeugtypen gehören zur Gruppe der Feuerlöschfahrzeuge?",
+    "answers": [
+      "GW-L 1; TSF; RW",
+      "DLK; WLF; ELW 1",
+      "LF 10; HLF 10; LF 20"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 9,
+    "category": "Gerätekunde",
+    "question": "Wann ist Feuerwehrschutzschuhwerk zu tragen?",
+    "answers": [
+      "Beim Feuerwehrfest",
+      "Im Unterricht",
+      "Bei Einsätzen und Übungen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 10,
+    "category": "Sichern gegen Absturz",
+    "question": "Wann darf eine Feuerwehrleine nicht eingesetzt werden?",
+    "answers": [
+      "Wenn ein Absturz nicht ausgeschlossen werden kann",
+      "Zum Halten und Rückhalten",
+      "Zum Selbstretten"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 11,
+    "category": "Verhalten bei Gefahr",
+    "question": "Was ist der Trümmerschatten?",
+    "answers": [
+      "Ein durch Einsturz bedrohter Bereich, nur im Innern eines Gebäudes",
+      "Ein durch Trümmer schwer einsehbarer Bereich",
+      "Ein durch Einsturz bedrohter Bereich"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 12,
+    "category": "Fahrzeugkunde",
+    "question": "Wie wird die Tragkraftspritze TS (tragbare Feuerlöschkreiselpumpe) nach Norm bezeichnet?",
+    "answers": [
+      "FPN (Fire Pump Normal Pressure)",
+      "TFPN (Tragbare Fire Pump Normal Pressure)",
+      "PFPN (Portable Fire Pump Normal Pressure)"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 13,
+    "category": "Erste Hilfe",
+    "question": "Was gehört zur Überprüfung der lebenswichtigen Körperfunktionen?",
+    "answers": [
+      "Ich sorge mit Rettungsdecke oder Krankenhausdecke für Wärmeerhalt",
+      "Ich spreche ihn laut an. Ich schüttle an den Schultern, kontrolliere Mund und Rachenraum, stelle die Atmung fest",
+      "Ich decke keimfrei die Brandwunden ab"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 14,
+    "category": "Sichern gegen Absturz",
+    "question": "Was ist beim Sichern einer Person zu beachten?",
+    "answers": [
+      "Der Anschlagpunkt ist oberhalb der zu sichernden Person anzubringen",
+      "Es ist genügend Schlaffseil vorzuhalten, damit der Gesicherte in seiner Bewegungsfreiheit nicht eingeschränkt wird",
+      "Das Seil über scharfe Kanten führen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 15,
+    "category": "Brennen und Löschen",
+    "question": "Welche Stoffe gehören zur Brandklasse F?",
+    "answers": [
+      "Feste Stoffe",
+      "Speisefette und -öle",
+      "Flüssige Stoffe"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 16,
+    "category": "Gerätekunde",
+    "question": "Wieviele Steckleiterteile dürfen höchstens zusammengesteckt werden?",
+    "answers": [
+      "Drei Leiterteile",
+      "Vier Leiterteile",
+      "Sechs Leiterteile"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 17,
+    "category": "Funk",
+    "question": "Ein Anruf ist durch folgende Anrufantwort zu bestätigen...",
+    "answers": [
+      "„(Rufname) hört!”",
+      "„(Rufname) absetzen!”",
+      "„Hier (Rufname), kommen!”"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 18,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welche Gefahr fehlt im folgenden Merkschema für die Gefahren der Einsatzstelle? Atemgifte, Angstreaktionen, Atomare Gefahren, Ausbreitung, Chemische Stoffe, Erkrankung, Explosion, Einsturz",
+    "answers": [
+      "Elektrizität",
+      "Ertrinken",
+      "Absturz"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 19,
+    "category": "ABC-Einsatz",
+    "question": "Eine Gefahrgutumschließung ist mit folgendem Symbol gekennzeichnet (schwarz auf rotem Hintergrund). Was enthält die Verpackung?",
+    "answers": [
+      "Einen festen brennbaren Stoff",
+      "Einen gasförmigen brennbaren Stoff",
+      "Einen flüssigen brennbaren Stoff"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk1UOQAAAAAAADYAAAAoAAAAVQAAAFUAAAABABAAAAAAAB45AAASCwAAEgsAAAAAAAAAAAAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fxh7B2mdf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntjaABkhWhae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmRHbAFkImRae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZEdwR3hHcAJkImRae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3yGXKQkZ2gnfAJkQ2Rae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdogghAAIMQh2wnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBEEAx0xhAIIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCnYCd8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdsYgRhAKhcJnwlaCZ8qGBhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaCZ8p1xhAGIEqGwnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCoXCd8RmhGaEZoRmhGaCZ8p1xhAGIEp2wnfAJgQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdgJnxGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGZEZwR3xHeEZsRmRGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJgJ3ynaGIEYQCnYCZ8RmhGaEZkRnRGbGQ4ZERGdEZwRmRGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGdEVcYgxjKGIcYyRGdEZsRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoR3xjKGMgSHxHfGIQZDRHfEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJgJ3ynaGIEYQCnYCZ8RmhGaEZoRmhGaEZoRmRGbEZ4SHxiFGMsR3xGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGaEZoRmhGaEZsRnRlRGIcYyxGbEZsRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2xiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmRGcEd8ZUxiFGQ4R3xGaEZoRmhGaEZoRmhGZCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3yoaGIEYQCnYCZ8RmhGaEZoRmhGaEZoRmhGaEZ0ZDxEQCh8R3hhAGVcRnBGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYQRhAKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhHeGRIYQBEQGMkYyRGdEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2xiBGEAqGAmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhHeEVYYiRkMEZwRnBGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCnYCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGdEd4R3hGbEZkRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCnXCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2wnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCnYCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2wnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9/WntDaAJkJ3ynaGIEYQCnXCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEqGgnfAJkQ2hae/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9/WntDaAJkJ3yoaGIEYQCnXCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGEEp2gnfAJkQ2hae/9//3//f/9//3//f/9/AAD/f/9//3//f/9//39ae0NoAmQnfKdoYgRhAKdgJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJkQ2hae/9//3//f/9//3//fwAA/3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//38AAP9//3//f/9/WntDaAJkJ3ynaGIEYQCnXCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9/AAD/f/9//39ae0NoAmAnfKdsYgRhAKdgJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2wnfAJkQ2hae/9//3//fwAA/3//f1p7Q2gCYCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gneAJgQ2hae/9//38AAP9/e3tDaAJkJ3yobGIEYQCnXCZ8RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAIIEiGwnfAJgQ2h7e/9/AAB7e4VoAWRHcIZgggxBCKdcJnxGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhBIMQZ2xHcAFkhWh7ewAAp2gAZEhsR3ijFCAAx0wnfCVkRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmZCd8x0wgAKQcR3hIbABkx2gAAPd2Q2QCZEdwhmCCDEEIp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmcCZwJnAmcCZwJnAmcCZwJnAmcCZwJnAmcCZwJnAmcCZwJnAmcCZwJnBGbEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoJnynXEEIggyGXEdwAmREaPd6AAD/f1p7ImQCZCd8p2xiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoZmhnZGdkZ2hnaGdoZ2hnaGdkZ2RnaGdoZ2hnZGdkZ2hnaGdoZ2hnaGdkRmRGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmfKdcYQBiBKhoJ3wCZENoWnv/fwAA/3//f1p7ImQCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmxneIQcYQBhAGEAYQBhAGEAYQBhAGEAYQBhAGEAYQBhAGEAYQBhAGEAYQBhAIVEJ3xGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//38AAP9//3//f1p7ImQCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoR3CENGIgYyBjIGMcYxxjJGMoYyxDLGMcYyRjNGMsYyRiIGMcYyBjIGMgYhyFUEZ0RmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoJnynYGEAYgSnbCd8AmRDaFp7/3//f/9/AAD/f/9//3//f1p7ImQCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRnBneGd0R3xHfGh8iHyIdGZUxkBnfIdohTyGYIh8aHxHfEd4Z3hneGd4RmxGZEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmfKdcYQBiBKdoJ3wCZENoWnv/f/9//3//fwAA/3//f/9//3//f1p7ImQCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoJmwmfGd0hliFOGMYYQCjEIVIRnRmaKQgYABCDIQwh1xHfCZwRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//38AAP9//3//f/9//3//f1p7ImQCZCd8p2xiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmQmbGd8plSDHGEAIAAgAIQkZ3QmfEZoJnBHfKZIQAAAAGEApTBodCZ4RmRGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoJnynXGEAYgSnbCd8AmRDaFp7/3//f/9//3//f/9/AAD/f/9//3//f/9//3//f1p7Q2QCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZsZ3ilNGEAIAAgBCAApSyIfCZwRmRGaEZkJmwnfKZEYAAgACAApBiHbCZ0RmRGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmfKdcYQBiBKdoJ3wCZENoWnv/f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f1p7Q2gCZCd8p2xiBGEAp1wmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhHfKU0QAAgBEEMIACDGGh8BnhGcEZoRmgmcEZgR3BofIMYIABBCCAApBRoeCZsRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8p1xhAGEEp2wnfAJgQ2hae/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2xiBGEAp2AmfEZkRmhGaEZoRmhGaEZoRmhGaEZoRmhGaCZ4h1hhACAEQQhBCEAApTCHZEZspkRmZEZkZnCnXIIQp2SFQEAAQQhBCEAAhkBHfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhGaEZoJnynYGEAYgSoaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEZoRmhGaEZoRmhHfIQsIABBCEEIQQhBCEEEYgjGPIMUZmxndKQcpkCEKEEAgxhBBEEIQQggAIMUh3AmbEZoRmhGaEZoRmhGaEZoRmhGaEZoRmgmfKdcYQBiBKdoJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEZoRmhGaCZwZ2hiDCAAQQhBCEEIQQggAIMYpBBCIEd8J3xlRGEAhBggACAAQQhBCEEIIQRhAIZYJnRGaEZoRmhGaEZoRmhGaEZoRmhGaCZ8qFxhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEZoRmgmcGdkYgggAEEIQQhBCEEIQQhCDEAAZDinaIVIZ3xiDAAAQQhBCEEIQQhBCEEIQACFPEd8RmhGaEZoRmhGaEZoRmhGaEZkJnynYGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmhGaEZoJnRmXGIEQQRBBCAAQQhBCEEIIQQgAKUwgxSCBIh8ZDBAAEEIQQhBCEEIQQhABEAAhCRneEZoRmhGaEZoRmhGaEZoRmgmfKdgYQBiBKdsJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhGaEd4ZVBhACAEQQCDGCEIQQhBCEEIQQhBBCAAQQCobGQ4QABBCEEIQQhBCGIMYxAgAIIMZ2wmcEZoRmhGaEZoRmhGaCZ8p2BhAGIEp2gnfAJgQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZoRmgmeGZcQAAgAKZAp1xAAEEEQQhBCEEIQQhBCCAAxjRjHCAAQQhBCEEIQQghBMYsYgggAIZMJ3xGaEZoRmhGaEZoJnynXGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEZsZ3SEIGEApTxHfEZgYgBBBEEIQQhBCEEIQQhBCEEEQQRBCEEIQQghBEEIIACEMMdQIABiFGd4JmxGaEZoRmgmfKdcYQBiBKdsJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCYCd8p2hiBGEAp2AmfEZoRmgmbGZgpTCGWEd8JnhmXGIAQQRBCEEIQQhBCEEIQQhBBEEIQQhBCEEIYghAACAAYgyIfIVIgQClRCZ4RmhGaCZ8p1xhAGIEp2gnfAJgQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaEd4RnRGaEd4hlBBAEEEIABBCEEIQQhBCEEIQQhBCEEIQQhAAKY4hTQgAGEAZlhHfIZcZVhGbEZoJnynXGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaEZoRmhHfIU4IABAAIMQQQRBCEEIQQhBCEEIQQhBCEEIQABkLKl8gxggAIZMR3gmdEZwRmQmfKdcYQBiBKdoJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZoRmhGaCZsZ3RiECAAhDCobGIQIABBCEIMQQAgAEEIQQhBCCAAYhBofIZYYABlSEd4RmhGZCZ8p1xhAGIEp2wnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmgmdIZUowyFPGd4R3yEKEAAIARiEMY4QQhABCAEQQhAAIMcR3hndKMIZUhHeEZkJnynXGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGYIdoR3wmbGd4hChAAEEIQACnWIVEIACCEEEEIACEMEd8JnDGQGZYJmwmfKhgYQBiBKdsJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8qGxhBGEAp1wmfEZkRmwmcEZoJnBnbIMMIABBCCAAhDinUCAApTyFNEAAhlAmeEZoRnBGbCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfEZoRmhGaCZ8hlRhAEEIQAAgAIMYpCAgAGVAZliDEGdwJmxGaCZoJnynXGEAYgSnbCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCYCd8p2xiBGEAp1wmfEZoJmxnfIQgIAAgAIMUpCggAEAAQABlSIZMpTQmfEZkRmgmfKdgYQBiBKdsJ3wCYENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfCZ4pkRAACAAggzIbIQ0IABBCGEAZlBnbGZkJmxGaCZ8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2BHfIU0YyiGRIdsZ3xiFCAAIABiBIdgJnhGbEZkJnynXGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wnfEd4R3gmdGdsYhhAACAAgyBneEZoRmQmfKdgYQBiBKdsJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfEZkRmxncGIYIABAAIVIR3xGZCZ8p1xhAGIEqGgnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp1wmfCZsZ3BiGCAAghCHbCZsJnynYGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2AmfGdsYhQgAIU4R3wmfKdcYQBiBKdoJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAp2BIfGMcQACGVCd8p1xhAGIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBGEAiGhmWIIAR3yHZGEAYgSnaCd8AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2hiBEEAqGSIbKhcYQBiBKdoJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2iCBEEAp1hhAIIEp2gnfAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8p2iCCCAAgxCHbCd4AmRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZCd8hlykJGdsJ3wCZENoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZEdwR3hHcAJkQ2hae/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Q2gCZEdsAWRDaFp7/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1p7Y2gAZIVoWnv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fxh7B2mdf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAAAA",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Funk",
+    "question": "Die Funkalarmierung ist ein Verfahren zum...",
+    "answers": [
+      "Übermittlen von Nachrichtentexten",
+      "Alarmieren von Fahrzeugen an der Einsatzstelle",
+      "Alarmieren von Führungs- und Einsatzkräften"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 21,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie werden stark verschmutzte Geräte nach Einsatzende von der Einsatzstelle zum Feuerwehrhaus transportiert?",
+    "answers": [
+      "Im Mannschaftsraum des Löschfahrzeugs",
+      "In einem Kunststoffsack oder einem dichtschließenden Behälter verpackt",
+      "Durch Fahrzeuge des Rettungsdienstes, da diese regelmäßig desinfizieret werden"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 22,
+    "category": "Verhalten im Einsatz",
+    "question": "Warum wird der Einheitsführer versuchen, die Anzahl der Einsatzkräfte im Gefahrenbereich auf das erforderliche Mindestmaß reduzieren?",
+    "answers": [
+      "Damit alle gleichmäßig mit Arbeit belastet werden",
+      "Um die Infektionsgefahr und Eigengefährdung der Einsatzkräfte zu verringern",
+      "Um die notwendige Lohnfortzahlung im Einsatzfall möglichst gering zu halten"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 23,
+    "category": "Brennen und Löschen",
+    "question": "Wie kann sich die Verbrennungswärme ausbreiten?",
+    "answers": [
+      "Durch Wärmestrahlung, Wärmedurchfluss, Wärmeströmung",
+      "Durch Wärmestrahlung, Wärmeströmung, Wärmeleitung",
+      "Durch Wärmeaustausch, Wärmeleitung, Wärmeübergang"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 24,
+    "category": "Funk",
+    "question": "Eine Lagemeldung enthält in der Regel folgende Angaben:",
+    "answers": [
+      "Einsatzort, Lage, Schadenshöhe",
+      "Lage, Maßnahmen, Uhrzeit",
+      "Einsatzort, Lage, Maßnahmen, Zeit-/Kräftebedarf"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 25,
+    "category": "Gerätekunde",
+    "question": "Welche Behandlung von Druckschläuchen nach dem Gebrauch (Einsatz) ist richtig?",
+    "answers": [
+      "Nach jedem Gebrauch reinigen und trocknen",
+      "Nasse Schläuche doppelt rollen",
+      "Schläuche zum Trocknen in die Sonne legen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 26,
+    "category": "Gerätekunde",
+    "question": "In welchem Anstellwinkel soll eine tragbare Leiter aufgestellt werden?",
+    "answers": [
+      "45° - 65°",
+      "Immer 90°",
+      "65° - 75°"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 27,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Welcher Trupp ist im technischen Hilfeleistungseinsatz grundsätzlich erster Rettungstrupp?",
+    "answers": [
+      "Angriffstrupp",
+      "Wassertrupp",
+      "Schlauchtrupp"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 28,
+    "category": "Brennen und Löschen",
+    "question": "Ein brennbarer gasförmiger Stoff gehört zur Brandklasse…",
+    "answers": [
+      "A",
+      "C",
+      "B"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 29,
+    "category": "Gerätekunde",
+    "question": "Darf der vorgehende Trupp die Steckleiter selbst sichern?",
+    "answers": [
+      "Nein, grundsätzlich nicht",
+      "Nein, der Trupp wartet, bis der Melder oder ein Sicherungstrupp kommt",
+      "Ja, der Truppmann sichert und der Truppführer steigt auf. Danach sichert der Truppführer und der Truppmann steigt auf"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 30,
+    "category": "Sichern gegen Absturz",
+    "question": "Was ist beim Rückhalten zu beachten?",
+    "answers": [
+      "Ein Absturz wird ausgeschlossen, weil die Absturzkante durch das Rückhalten nicht erreicht werden kann",
+      "Rückhalten ist in der Feuerwehr nicht vorgesehen, wir gehen immer bis an die Grenze",
+      "Wenn ich abstürzen sollte, hält mich der Feuerwehr-Haltegurt und die Feuerwehrleine"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 31,
+    "category": "Gerätekunde",
+    "question": "Wozu dient der Unterflurhydrantenschlüssel?",
+    "answers": [
+      "Öffnen der Hydrantenabdeckung und des Hydranten",
+      "Öffnen des Feuerwehrhauses",
+      "Öffnen des Fallmantels"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 32,
+    "category": "ABC-Einsatz",
+    "question": "Was wird mit orangefarbenen Warntafeln gekennzeichnet?",
+    "answers": [
+      "Straßen- und Schienenfahrzeuge, die gefährliche Stoffe ab bestimmten Mengen befördern",
+      "Gebäude, in denen gefährliche Stoffe und Güter gelagert sind",
+      "Nur Versandstücke"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 33,
+    "category": "Erste Hilfe",
+    "question": "Wie gehen Sie beim Vorfinden einer bewusstlosen Person vor?",
+    "answers": [
+      "Den Verletzten in die stabile Seitenlage bringen",
+      "Ich kontrolliere die Atmung und den Mundraum, dann bringe ich den Verletzten in die stabile Seitenlage und betreue ihn bis zum Eintreffen des Rettungsdienstes",
+      "Die Polizei verständigen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 34,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wozu ist jeder Bürger bei Wahrnehmung eines Brandes verpflichtet?",
+    "answers": [
+      "Hat keine Verpflichtung",
+      "Muss nur Löschversuche unternehmen",
+      "Melden und Löschversuch unternehmen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 35,
+    "category": "Gerätekunde",
+    "question": "Mit welcher Gangart können tragbare Leitern nach FwDV 10 „Tragbare Leiter” bestiegen werden?",
+    "answers": [
+      "Erlaubt ist nur der Kreuzgang, wobei die Sprossen im Klammergriff zu umfassen sind",
+      "Im Pass- oder Kreuzgang, wobei die Holme im Klammergriff zu umfassen sind",
+      "Im Pass- oder Kreuzgang, wobei die Sprossen im Klammergriff zu umfassen sind"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 36,
+    "category": "Gerätekunde",
+    "question": "Wozu dient die Tauchpumpe?",
+    "answers": [
+      "Zur Luftversorgung für Taucher",
+      "Zum Fördern von brennbaren Flüssigkeiten",
+      "Zum Auspumpen überfluteter Keller, Schächte, Gruben und Behälter"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 37,
+    "category": "Gerätekunde",
+    "question": "Sie haben als Trupp den Auftrag mit einem Pulverlöscher einen Flüssigkeitsbrand zu bekämpfen. Auf was haben sie zu achten?",
+    "answers": [
+      "Der Löschstrahl sollte direkt in die brennende Flüssigkeit geführt werden",
+      "Sich möglichst nahe an den Brandherd annähern",
+      "Den Löschstrahl nicht direkt in, sondern fächerförmig über die brennende Flüssigkeit verteilen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 38,
+    "category": "Fahrzeugtechnik",
+    "question": "Welche Erkennungsmöglichkeit von außen besteht bei einem Fahrzeug, das mit Flüssiggas betrieben wird?",
+    "answers": [
+      "Von außen nicht erkennbar",
+      "Mögliche Fahrzeugbeschriftung, z. B. LPG, BiFuel, Flüssiggas, Autogas",
+      "Durch rechteckigen Tankdeckel am Einfüllstutzen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 39,
+    "category": "Gerätekunde",
+    "question": "Wie ist eine Person, die über tragbare Leitern gerettet werden soll, zu sichern?",
+    "answers": [
+      "Mit Brustbund und Spierenstich als Knotensicherung",
+      "Überhaupt nicht, weil das Anlegen von Knoten zu zeitaufwändig ist",
+      "Mit doppeltem Ankerstich und Halbschlag zum Hintersichern"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 40,
+    "category": "Funk",
+    "question": "Bei welcher Aufzählung gehören sämtliche Behörden/Organisationen zu den Behörden und Organisationen mit Sicherheitsaufgaben (BOS)?",
+    "answers": [
+      "Malteser-Hilfsdienst, ADAC, Luftrettungsstaffel Bayern",
+      "Berufsfeuerwehr, Telekom, Bundespolizei",
+      "Polizei, Bundeszollverwaltung, Freiwillige Feuerwehren"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 41,
+    "category": "Gerätekunde",
+    "question": "Zur Rettung und Sicherung wird ein Brustbund angelegt. Welche Knoten/Stiche werden zur Sicherung verwendet?",
+    "answers": [
+      "Zimmermannsschlag",
+      "Doppelschlinge und Halbschlag",
+      "Pfahlstich und Spierenstich bzw. Pfahlstich und Kreuzschlag"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 42,
+    "category": "Gerätekunde",
+    "question": "Welche Funktionsart kennt man bei tragbaren Feuerlöschern?",
+    "answers": [
+      "Durchladelöscher",
+      "Dauerdrucklöscher",
+      "Überdrucklöscher"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 43,
+    "category": "Verhalten im Einsatz",
+    "question": "Welche Einsatzgrundsätze gelten beim Vorgehen eines Angriffstrupps?",
+    "answers": [
+      "Trupp teilt sich immer auf und jeder führt seine Aufgaben eigenständig durch",
+      "Trupp bleibt zusammen und beachtet die Eigensicherung",
+      "Nur der Truppmann gibt Rückmeldung an den Einheitsführer"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 44,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wer übernimmt die Lohnfortzahlung eines Arbeitnehmers bei einem Feuerwehreinsatz während der Arbeitszeit?",
+    "answers": [
+      "Feuerwehr",
+      "Landkreis",
+      "Arbeitgeber"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 45,
+    "category": "Verhalten im Einsatz",
+    "question": "Nach einem Feuerwehreinsatz ist Ihre Einsatzkleidung stark verschmutzt. Wie verhalten Sie sich vor dem Abrücken?",
+    "answers": [
+      "Es ist nichts besonderes zu beachten, lediglich die Fenster der Mannschaftskabine öffnen",
+      "Stark verschmutzte Einsatzkleidung nicht in der Mannschaftskabine transportieren; gesondert in einem Behälter/Sack transportieren",
+      "Es ist ausreichend, die Einsatzkleidung am Gerätehaus zu reinigen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 46,
+    "category": "Fahrzeugtechnik",
+    "question": "Welche besonderen Maßnahmen sind an einem verunfallten gasbetriebenen PKW (LPG oder CNG) erforderlich?",
+    "answers": [
+      "Es sind keine besonderen Maßnahmen erforderlich",
+      "Gefahrenbereich weiträumig sperren; Motor abstellen; Gasabsperrventil schließen",
+      "PKW gegen Wegrollen sichern, Batterie abklemmen, Brandschutz mit Kübelspritze sicherstellen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 47,
+    "category": "Sichern gegen Absturz",
+    "question": "Welche Sicherungsmethoden kennen Sie?",
+    "answers": [
+      "Halten/Rückhalten",
+      "Sichern/Rücksichern",
+      "Anleinen/Abseilen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 48,
+    "category": "Verhalten im Einsatz",
+    "question": "Worauf achten Sie bei Fahrzeugen, die zum Einsatz aus der Fahrzeughalle fahren?",
+    "answers": [
+      "Vollständige Besatzung",
+      "Nicht auf bereits anfahrende Fahrzeuge aufspringen",
+      "Atemschutzgeräte bereits in der Fahrzeughalle angelegt"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 49,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Was ist bei Dienstverhinderung zu veranlassen?",
+    "answers": [
+      "Es ist nichts zu veranlassen",
+      "Entschuldigung beim Kommandanten oder nächsten Vorgesetzten",
+      "Kreisbrandrat ist zu verständigen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 50,
+    "category": "Brennen und Löschen",
+    "question": "Wer ist für die Anwendung der Löschtechnik des Trupps verantwortlich?",
+    "answers": [
+      "Der Truppführer",
+      "Der Truppmann",
+      "Der Zugführer"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 51,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Sie bemerken als Truppführer, dass ihr Truppmann die B-Druckschläuche falsch auswirft. Bis jetzt hat er sich noch nicht verletzt. Wie handeln sie?",
+    "answers": [
+      "Ich muss ihn auf das fachgerechte Auswerfen hinweisen und überwachen",
+      "Er hat das richtige Auswerfen in seiner Ausbildung gelernt und muss nun seine Erfahrungen machen",
+      "Es ist ja noch nichts passiert, außerdem ist es Aufgabe des Einheitsführers etwas zu sagen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 52,
+    "category": "Brennen und Löschen",
+    "question": "Untrügliches Zeichen dafür, dass das Löschmittel Wasser seine Wirkung getan hat, ist die Dampfbildung über dem Brandherd. Es gilt „Strahlrohr schließen”, wenn...",
+    "answers": [
+      "kein dunkler Rauch, sondern nur weißer Wasserdampf über dem Brandherd aufsteigt",
+      "sich Rauch und Dampf über dem Brandherd bilden",
+      "eine deutlich erkennbare Wasserschicht über dem brennbaren Material aufgebracht ist"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 53,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie werden Kanülen nach Gebrauch entsorgt?",
+    "answers": [
+      "Zusammen mit dem Schrott der Unfallfahrzeuge",
+      "Entsorgung in speziellen Behältern (Spritzenabwurf)",
+      "Die Entsorgung ist ausschließlich Aufgabe des Rettungsdienstes"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 54,
+    "category": "Gerätekunde",
+    "question": "Für welche Rettungshöhe ist ein Sprungpolster (SP16) maximal zugelassen?",
+    "answers": [
+      "max. 8 m",
+      "max. 22 m",
+      "max. 16 m"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 55,
+    "category": "Brennen und Löschen",
+    "question": "Welchen Nachteil hat der Sprühstrahl gegenüber dem Vollstrahl?",
+    "answers": [
+      "Der Sprühstrahl hat eine geringe Wurfweite und Wurfhöhe",
+      "Das Wärmebindungsvermögen des Sprühstrahles ist geringer",
+      "Der Druck am Strahlrohr ist höher als beim Vollstrahl"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 56,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Worauf achten Sie beim Absitzen an der Einsatzstelle?",
+    "answers": [
+      "Auf Gefahren durch den fließenden Verkehr",
+      "Nur zur rechten Seite absitzen",
+      "Nur zur linken Seite absitzen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 57,
+    "category": "Löscheinsatz",
+    "question": "Gemäß FwDV 3 „Einheiten im Löscheinsatz” unterscheidet man die Einsatzformen...",
+    "answers": [
+      "Einsatz mit Bereitstellung und ohne Bereitstellung",
+      "Einsätze neben- und hintereinander",
+      "Einsätze getrennt und geschlossen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 58,
+    "category": "Löscheinsatz",
+    "question": "Dürfen sie eigenverantwortlich während der Löscharbeiten das Mundstück ihres BM-Strahlrohres abschrauben?",
+    "answers": [
+      "Nein, der dadurch erhöhte Wasserdurchfluss muss vorher mit dem Einheitsführer abgesprochen werden",
+      "Ja, wenn die Einsatzsituation es erfordert",
+      "Liegt im Ermessen des Trupps"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 59,
+    "category": "Gerätekunde",
+    "question": "Wer ordnet dem Truppführer die zu benutzende Schutzausrüstung an?",
+    "answers": [
+      "Truppführer entscheidet selbst",
+      "Eine besondere Anordnung ist nicht notwendig. Jeder weiß selbst, was er tun muss",
+      "Der Einheitsführer"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 60,
+    "category": "Gerätekunde",
+    "question": "Wo darf eine Feuerwehrleine nicht eingesetzt werden?",
+    "answers": [
+      "Zum Hochziehen von Geräten",
+      "Zum Einbinden von Verletzten auf einer Trage",
+      "Zum Sichern gegen Absturz, wenn ein freier Fall nicht auszuschließen ist"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 61,
+    "category": "Gerätekunde",
+    "question": "Was ist nach Beendigung des Einsatzes bei tragbaren Feuerlöschern (Pulver) zu beachten?",
+    "answers": [
+      "Wenn der Feuerlöscher nur teilweise entleert wurde, kann er ohne weitere Überprüfung wieder für den nächsten Einsatz benutzt werden",
+      "Feuerlöscher auf den Kopf stellen und drucklos machen",
+      "Alle tragbaren Feuerlöscher sind Einweg-Geräte und müssen nach dem Einsatz fachgerecht entsorgt werden"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 62,
+    "category": "Verhalten im Einsatz",
+    "question": "An der Einsatzstelle ertönt das Signal „Gefahr – Alles zurück!“ Wie verhalten Sie sich?",
+    "answers": [
+      "Es reicht völlig aus, wenn ich nur das Signal wiederhole",
+      "Signal wiederholen, Sammelplatz am Fahrzeug aufsuchen, Meldung beim Einheitsführer",
+      "Ich gehe mit meinem Trupp zum Rettungswagen (RTW)"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 63,
+    "category": "Brennen und Löschen",
+    "question": "Wodurch kann ein Feuer gelöscht werden?",
+    "answers": [
+      "Entzug von Stickstoff",
+      "Entzug von Wärme (Abkühlen)",
+      "Zuführung von Sauerstoff"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 64,
+    "category": "Gerätekunde",
+    "question": "Worauf ist bei der Inbetriebnahme eines Unterflurhydranten zu achten?",
+    "answers": [
+      "Bei Frostgefahr die Straßenkappe mit Sand füllen",
+      "Es ist immer eine Wasseruhr am Standrohr anzubringen",
+      "Beim Setzen des Standrohres muss die Klauenmutter ganz nach unten geschraubt sein"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 65,
+    "category": "Löscheinsatz",
+    "question": "Welcher Trupp setzt im Brandeinsatz den Verteiler?",
+    "answers": [
+      "Wassertrupp",
+      "Angriffstrupp",
+      "Schlauchtrupp"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 66,
+    "category": "Löscheinsatz",
+    "question": "Die Schlauchreserve bei einem Angriff mit einem Strahlrohr muss berücksichtigt werden...",
+    "answers": [
+      "damit der vorgebende Trupp eine notwendige Beweglichkeit und Reichweite erhält",
+      "damit die Schläuche besser in Buchten verlegt werden können",
+      "damit der Trupp weiter vom Verteiler entfernt ist"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 67,
+    "category": "Brennen und Löschen",
+    "question": "Welche Voraussetzungen sind für das Brennen notwendig?",
+    "answers": [
+      "Es muss nur ein brennbarer Stoff vorhanden sein",
+      "Es müssen nur ein brennbarer Stoff und Sauerstoff vorhanden sein",
+      "Es müssen brennbarer Stoff, Sauerstoff und Wärme vorhanden sein"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 68,
+    "category": "Löscheinsatz",
+    "question": "Welchen Einsatz hat der Einheitsführer gewählt, wenn sein Befehl wie folgt lautet: „Wasserentnahme der Überflurhydrant, Verteiler 5 m neben die Eingangstür, zum Einsatz fertig!”?",
+    "answers": [
+      "Einen Einsatz mit Bereitstellung",
+      "Einen Einsatz ohne Bereitstellung",
+      "Einen Einsatz auf Vorbereitung"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 69,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welches Verhalten kann bei der Stressbewältigung hilfreich sein?",
+    "answers": [
+      "Pausen einlegen, sich ablösen lassen",
+      "Aufgaben möglichst alleine durchführen",
+      "Schneller arbeiten, um sich abzulenken"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 70,
+    "category": "Sichern gegen Absturz",
+    "question": "Welchen Zweck hat die Feuerwehrleine?",
+    "answers": [
+      "Rettung; Selbstrettung; Sicherung/Aufziehen von Geräten",
+      "Verwendung als Halte- und Ventilleine",
+      "Absperren der Einsatzstelle"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 71,
+    "category": "Löscheinsatz",
+    "question": "In welcher Reihenfolge wird die Wasserversorgung bei Löschfahrzeugen mit Löschwasserbehälter (z. B. LF 20) verlegt?",
+    "answers": [
+      "Zuerst von der Wasserentnahmestelle zum Löschfahrzeug und danach zum Verteiler",
+      "Keine Festlegung, da der Arbeitsaufwand gleich is",
+      "Zuerst vom Löschfahrzeug zum Verteiler und danach zur Wasserentnahmestelle"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 72,
+    "category": "Brennen und Löschen",
+    "question": "Welcher Feuerlöscher ist für Brände fester glutbildender Stoffe besonders geeignet?",
+    "answers": [
+      "Gaslöscher",
+      "Pulverlöscher BC",
+      "Wasserlöscher"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 73,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welche der folgenden Symptome sind üblicherweise anzutreffende negative Stressreaktionen?",
+    "answers": [
+      "Zittern, Schwitzen",
+      "Konzentrationssteigerung",
+      "Euphorie"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 74,
+    "category": "Funk",
+    "question": "Bei der Durchgabe einer Nachricht hat sich der Sprechfunker versprochen und will den Fehler richtig stellen. Welche Formulierung ist richtig?",
+    "answers": [
+      "Die Verpflegung trifft in einer Stunde - ich berichtige - in einer halben Stunde ein, kommen",
+      "Die Verpflegung trifft in einer Stunde - hoppla ich verbessere - in einer halben Stunde ein, kommen",
+      "Wiederhole - in einer halben Stunde ein, kommen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 75,
+    "category": "Fahrzeugkunde",
+    "question": "Welches Feuerwehrfahrzeug hat eine Staffel als Besatzung?",
+    "answers": [
+      "HLF",
+      "RW",
+      "TSF"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 76,
+    "category": "Verhalten im Einsatz",
+    "question": "Ein Feuerwehrangehöriger nimmt unter Medikamenteneinfluss an einem Einsatz teil. Welche Folgen kann dies haben?",
+    "answers": [
+      "Da die Krankheitssymptome ausgeschaltet sind, ist mit keinerlei Folgen zu rechnen",
+      "Hohe körperliche Anforderungen können zu einer Überlastung führen",
+      "Der Einsatzleiter ist zu informieren, damit er sich um einen eventuelle ärztliche Versorgung vor Ort kümmert"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 77,
+    "category": "Fahrzeugkunde",
+    "question": "Welches Feuerlöschfahrzeug besitzt keinen Löschwassertank?",
+    "answers": [
+      "LF 20",
+      "MLF",
+      "TSF"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 78,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Ab wann dürfen Feuerwehranwärter an Einsätzen teilnehmen?",
+    "answers": [
+      "Truppführerausbildung muss abgeschlossen sein",
+      "Basismodul muss abgeschlossen sein; Alter mindestens 16 Jahre; Kommandant muss zustimmen",
+      "Gruppenführerlehrgang muss erfolgreich abgeschlossen sein"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 79,
+    "category": "Verhalten bei Gefahr",
+    "question": "Was ist Stress?",
+    "answers": [
+      "Eine Reaktion des Körpers",
+      "Eine Fastenspeise",
+      "Ein gefährlicher Stoff"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 80,
+    "category": "Fahrzeugkunde",
+    "question": "Wie viel Liter Löschwasser führt ein TLF 4000 mit?",
+    "answers": [
+      "400 l Löschwasser",
+      "Führt kein Löschwasser mit",
+      "4.000 l Löschwasser"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 81,
+    "category": "Erste Hilfe",
+    "question": "Welche Aussage zu verletzten Personen, die noch im Fahrzeug sitzen, ist richtig?",
+    "answers": [
+      "Verletzte müssen immer schnellstmöglich aus dem Fahrzeug geholt werden",
+      "Eingeklemmte Personen müssen sofort befreit werden",
+      "Sofern keine akute Gefahr durch Brand, Bewusstlosigkeit o. ä. besteht, sollen Verletzte im Fahrzeug verbleiben bis der Rettungsdienst die medizinische Lage beurteilt hat"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 82,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Das Mindestalter für die Aufnahme in die Freiwillige Feuerwehr als gemeindliche Einrichtung beträgt?",
+    "answers": [
+      "12 Jahre",
+      "14 Jahre",
+      "16 Jahre"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 83,
+    "category": "ABC-Einsatz",
+    "question": "Wie verhalten Sie sich, wenn Sie im Gefahrguteinsatz einen verletzten Menschen im Gefahrenbereich entdecken?",
+    "answers": [
+      "Ich retten den Menschen sofort aus dem Gefahrenbereich",
+      "Ich melde es dem Einheitsführer",
+      "Ich lasse mich zuerst dekontaminieren und rette dann den Menschen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 84,
+    "category": "Gerätekunde",
+    "question": "Welche Längen haben B-Druckschläuche nach gültiger Norm?",
+    "answers": [
+      "15, 20 und 30 m",
+      "5, 15 und 35 m",
+      "5, 20 und 35 m"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 85,
+    "category": "Sichern gegen Absturz",
+    "question": "Welche Verwendung hat der Feuerwehr-Haltegurt?",
+    "answers": [
+      "Sichern der Gefahr des Stürzens durch Halten/Rückhalten",
+      "Sichern der Einsatzkleidung gegen Abrutschen",
+      "Sichern gegen Absturz an der Absturzkante"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 86,
+    "category": "Gerätekunde",
+    "question": "Armaturen zur Löschmittelfortleitung sind:",
+    "answers": [
+      "Strahlrohre",
+      "Sammelstück, Verteiler, Stützkrümmer",
+      "Saugkorb, Standrohr"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 87,
+    "category": "Brennen und Löschen",
+    "question": "Wer ist für den feuerwehrtechnisch richtigen Einsatz des befohlenen Löschmittels verantwortlich?",
+    "answers": [
+      "Der Truppführer",
+      "Der Truppmann",
+      "Der Gruppenführer oder Staffelführer"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 88,
+    "category": "Verhalten bei Gefahr",
+    "question": "Wie kann ich mich vor der Gefahr durch Erkrankung/Ansteckung schützen?",
+    "answers": [
+      "Immer Atemschutz tragen",
+      "Schnittschutzkleidung tragen",
+      "Beim Umgang mit Verletzten Infektionsschutzhandschuhe tragen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 89,
+    "category": "ABC-Einsatz",
+    "question": "Was bedeutet folgende Kennzeichnung (schwarz-weiß)?",
+    "answers": [
+      "Tank enthält wassergefährdende Stoffe",
+      "Karton enthält kein Gefahrgut",
+      "Verpackung enthält kleinere Behälter, die Gefahrgut in begrenzten Mengen enthalten"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk3IIQAAAAAAADYEAAAoAAAAVQAAAFYAAAABAAgAAAAAAJIdAAASCwAAEgsAAAAAAAAAAAAAAAAAAAEBAQACAgIAAwMDAAQEBAAFBQUABgYGAAcHBwAICAgACQkJAAoKCgALCwsADAwMAA0NDQAODg4ADw8PABAQEAAREREAEhISABMTEwAUFBQAFRUVABYWFgAXFxcAGBgYABkZGQAaGhoAGxsbABwcHAAdHR0AHh4eAB8fHwAgICAAISEhACIiIgAjIyMAJCQkACUlJQAmJiYAJycnACgoKAApKSkAKioqACsrKwAsLCwALS0tAC4uLgAvLy8AMDAwADExMQAyMjIAMzMzADQ0NAA1NTUANjY2ADc3NwA4ODgAOTk5ADo6OgA7OzsAPDw8AD09PQA+Pj4APz8/AEBAQABBQUEAQkJCAENDQwBEREQARUVFAEZGRgBHR0cASEhIAElJSQBKSkoAS0tLAExMTABNTU0ATk5OAE9PTwBQUFAAUVFRAFJSUgBTU1MAVFRUAFVVVQBWVlYAV1dXAFhYWABZWVkAWlpaAFtbWwBcXFwAXV1dAF5eXgBfX18AYGBgAGFhYQBiYmIAY2NjAGRkZABlZWUAZmZmAGdnZwBoaGgAaWlpAGpqagBra2sAbGxsAG1tbQBubm4Ab29vAHBwcABxcXEAcnJyAHNzcwB0dHQAdXV1AHZ2dgB3d3cAeHh4AHl5eQB6enoAe3t7AHx8fAB9fX0Afn5+AH9/fwCAgIAAgYGBAIKCggCDg4MAhISEAIWFhQCGhoYAh4eHAIiIiACJiYkAioqKAIuLiwCMjIwAjY2NAI6OjgCPj48AkJCQAJGRkQCSkpIAk5OTAJSUlACVlZUAlpaWAJeXlwCYmJgAmZmZAJqamgCbm5sAnJycAJ2dnQCenp4An5+fAKCgoAChoaEAoqKiAKOjowCkpKQApaWlAKampgCnp6cAqKioAKmpqQCqqqoAq6urAKysrACtra0Arq6uAK+vrwCwsLAAsbGxALKysgCzs7MAtLS0ALW1tQC2trYAt7e3ALi4uAC5ubkAurq6ALu7uwC8vLwAvb29AL6+vgC/v78AwMDAAMHBwQDCwsIAw8PDAMTExADFxcUAxsbGAMfHxwDIyMgAycnJAMrKygDLy8sAzMzMAM3NzQDOzs4Az8/PANDQ0ADR0dEA0tLSANPT0wDU1NQA1dXVANbW1gDX19cA2NjYANnZ2QDa2toA29vbANzc3ADd3d0A3t7eAN/f3wDg4OAA4eHhAOLi4gDj4+MA5OTkAOXl5QDm5uYA5+fnAOjo6ADp6ekA6urqAOvr6wDs7OwA7e3tAO7u7gDv7+8A8PDwAPHx8QDy8vIA8/PzAPT09AD19fUA9vb2APf39wD4+PgA+fn5APr6+gD7+/sA/Pz8AP39/QD+/v4A////AP////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAA/////////////////////////////////////////////////////////////////////////////////////////////////////////////////wAAAP///////////////////////////////////////////////////////+r///////////////////////////////////////////////////////8AAAD///////////////////////////////////////////////////////8DB///////////////////////////////////////////////////////AAAA//////////////////////////////////////////////////////8DDAwG/////////////////////////////////////////////////////wAAAP////////////////////////////////////////////////////8DDAsLDAb///////////////////////////////////////////////////8AAAD///////////////////////////////////////////////////8BDAsLCwsNBv//////////////////////////////////////////////////AAAA//////////////////////////////////////////////////8CDAwLDAsLDAwF/////////////////////////////////////////////////wAAAP////////////////////////////////////////////////8DDAsMDAsMDAsMDAX///////////////////////////////////////////////8AAAD///////////////////////////////////////////////8ADAsMCwsMCwwLDAsNBv//////////////////////////////////////////////AAAA//////////////////////////////////////////////8BDAwLCwwMDAwMDAsMDA0F/////////////////////////////////////////////wAAAP////////////////////////////////////////////8CDAwLCwwLCwwLCwwLDAwMCwX///////////////////////////////////////////8AiBz///////////////////////////////////////////8BDAwMDAwLCwsLCwsLDAwMDAsNBv//////////////////////////////////////////AFMc//////////////////////////////////////////8BDAsMCwwLDAwLCwwLCwsMCwsMDA0E/////////////////////////////////////////wAAAP////////////////////////////////////////8CDAwLCwwMCwwMDAsLCwsLCwsMCwwLDAX///////////////////////////////////////8AHRz///////////////////////////////////////8CDAwMCwsLDAwMCwwLDAwMCwsMDAwLCwwMBP//////////////////////////////////////AAAA//////////////////////////////////////8ADAsMCwsLCwwLDAsLDAwMDAsMDAsMCwsLCw0E/////////////////////////////////////wAAAP////////////////////////////////////8CCwsLDAwLCwwLCwwLDAsMCwsLCwsLDAwMDAwLDAT///////////////////////////////////8AAAD///////////////////////////////////8CDAsLDAsLCwwLDAsMCwwLCwsMCwwLCwwMDAsLCwsMBf//////////////////////////////////AAAA//////////////////////////////////8ADAsMDAwMDAwMDAsLDAwMCwwLDAsLDAsLCwsMDAsLCw0F/////////////////////////////////wAAAP////////////////////////////////8BDAwMCwwLDAwLCwwMDAsLCwsLCwsLDAsLCwwLDAwLDAsMDAP///////////////////////////////8AAAD///////////////////////////////8BDAsMCwsMCwsLCwsMCwsLCwsLDAsMDAsMCwsLCwwLDAwLCwsMAv//////////////////////////////AAAA//////////////////////////////8ABSAeHh4eHx4eHx8eHx4eHh4fHh4eHh4eHh8eHh4eHh8eHh4eIQYD/////////////////////////////wAAAP////////////////////////////8AANL////////////////////////////////////////////////RAgL///////////////////////////8AAAD///////////////////////////8AAs3//////////////////////////////////////////////////8kDA///////////////////////////AAAA//////////////////////////8AAsT/////////////////////////////////////////////////////0gME/////////////////////////wAAAP////////////////////////8AANL////////////////////////////////////////////////////////XAgL///////////////////////8AAAD///////////////////////8BAdP//////////////////////////////////////////////////////////84CAv//////////////////////AD4b//////////////////////8AAsj/////////////////////////////////////////////////////////////0gID/////////////////////wAVG/////////////////////8AANH////////////////////////////////////////////////////////////////aAQL///////////////////8A4Br///////////////////8BAdj//////////////////////////////////////////////////////////////////9MDA///////////////////AAAA//////////////////8AAs3/////////////////////////////////////////////////////////////////////0wIC/////////////////wAAAP////////////////8AANH////////////////////////////////////////////////////////////////////////dAQL///////////////8AAAD///////////////8BANz//////////////////////////////////////////////////////////////////////////9gCAv//////////////AAAA//////////////8BAdP/////////////////////////////////////////////////////////////////////////////1QIB/////////////wAAAP////////////4AANH////////////////////////////////////////////////////////////////////////////////fAQL///////////8AAAD///////////4AAN///////////////////////////////////////////////////////////////////////////////////98BAf//////////AAAA//////////8AANr/////////////////////////////////////////////////////////////////////////////////////2AIA/////////wAAAP////////0AAdL////////////////////////////////////////////////////////////////////////////////////////fAQL///////8AAAD///////wAAN///////////////////////////////////////////////////////////////////////////////////////////+EBAP//////AAAA//////8BAN//////////////////////////////////////////////////////////////////////////////////////////////2gIA/////wAAAP////sAAdT////////////////////////////////////////////////////////////////////////////////////////////////gAQH///8AAAD///87Cy7//////////////////////////////////////////////////////////////////////////////////////////////////zQIU///AAAA////ZQgX//////////////////////////////////////////////////////////////////////////////////////////////////8NBoT//wAAAP////9rCA3///////////////////////////////////////////////////////////////////////////////////////////////8IBoz///8AAAD//////24GDf////////////////////////////////////////////////////////////////////////////////////////////8HBoz/////AJcZ////////bQcP//////////////////////////////////////////////////////////////////////////////////////////8HBpH//////wBgGf////////9tCA3///////////////////////////////////////////////////////////////////////////////////////8IBpD///////8AGhn//////////3AGDP////////////////////////////////////////////////////////////////////////////////////8GBY//////////AAAA////////////cAcO//////////////////////////////////////////////////////////////////////////////////8FBZP//////////wDjGP////////////9vCA3///////////////////////////////////////////////////////////////////////////////8IBpT///////////8AAAD//////////////3QGCv////////////////////////////////////////////////////////////////////////////8FBpP/////////////AAAA////////////////dwYN//////////////////////////////////////////////////////////////////////////8FBZf//////////////wAAAP////////////////9zBwz///////////////////////////////////////////////////////////////////////8HBpn///////////////8AAAD//////////////////3cGC/////////////////////////////////////////////////////////////////////8GBpf/////////////////AAAA////////////////////egYM//////////////////////////////////////////////////////////////////8EBZj//////////////////wBlAP////////////////////92CAz///////////////////////////////////////////////////////////////8GBZ3///////////////////8AaQD//////////////////////3kHCv////////////////////////////////////////////////////////////8FBZv/////////////////////AFMA////////////////////////fwYK//////////////////////////////////////////////////////////8EBZr//////////////////////wBkAP////////////////////////98Bwv///////////////////////////////////////////////////////8FBaT///////////////////////8AAAD//////////////////////////3wICv////////////////////////////////////////////////////8GBp//////////////////////////AAAA////////////////////////////gQYJ//////////////////////////////////////////////////8EBJ7//////////////////////////wAAAP////////////////////////////+ABg2RhoaGhoaGhoeGhoaGhoaGhoeGhoaGhoaGhoaGhoaGhoaGhpAIBab///////////////////////////8AAAD//////////////////////////////34ICQgICAkJCQkJCAkJCQkJCQgICQkICQkICQkJCQkJCAkJCQkJBKP/////////////////////////////AAAA////////////////////////////////gwULCwwMCwsLCwsLCwwLCwwMCwsLCwsLCwsMCwwMCwsLDAwLBaL//////////////////////////////wAAAP////////////////////////////////+HBQsLCwsLCwwMDAwMCwsMCwwMCwwLDAsMDAwLCwwMCwwMBKb///////////////////////////////8AAAD//////////////////////////////////4MICwwLCwwLDAwMDAsMCwwLCwwMCwwLDAsLDAwMDAsLBKv/////////////////////////////////AAAA////////////////////////////////////hgYLCwwLDAwLDAwMDAsLDAwLCwwLCwsMDAwMCwsLBKb//////////////////////////////////wAAAP////////////////////////////////////+LBQsMDAwLDAsLCwsLDAwMDAwLCwsLDAsLDAwLA6n///////////////////////////////////8AAAD//////////////////////////////////////4YHDAsLCwsMCwwLDAsMDAwMCwsMCwsMCwwLBK//////////////////////////////////////AAAA////////////////////////////////////////iAYLDAsMCwwLDAsLDAwLDAsLDAsMCwsMBar//////////////////////////////////////wAAAP////////////////////////////////////////+PBAsMCwwMDAsLCwsLCwsLCwwMCwsMA6r///////////////////////////////////////8AAAD//////////////////////////////////////////40GCwsMCwwMCwsMCwsMDAsMDAwMA7b/////////////////////////////////////////AAAA////////////////////////////////////////////iwYLCwwMCwsLCwwMDAsMCwsLBK///////////////////////////////////////////wAAAP////////////////////////////////////////////+SBAwMCwwLDAsMCwwLCwwMAqz///////////////////////////////////////////8AAAD//////////////////////////////////////////////5EGDAwLDAsLDAwMDAsLA7j/////////////////////////////////////////////AAAA////////////////////////////////////////////////jQYMDAsMDAsMDAwLBLX//////////////////////////////////////////////wAAAP////////////////////////////////////////////////+VBAwMCwsMCwsMArH///////////////////////////////////////////////8AAAD//////////////////////////////////////////////////5cEDAwMDAwMArj/////////////////////////////////////////////////AAAA////////////////////////////////////////////////////kgcMDAwLBLn//////////////////////////////////////////////////wAAAP////////////////////////////////////////////////////+XBAsMA7T///////////////////////////////////////////////////8AAAD//////////////////////////////////////////////////////5sFAbj/////////////////////////////////////////////////////AAAA////////////////////////////////////////////////////////iLf//////////////////////////////////////////////////////wAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AAAD/////////////////////////////////////////////////////////////////////////////////////////////////////////////////AAAAAAA=",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "category": "Gerätekunde",
+    "question": "Warum sind Hohlstrahlrohre für den Innenangriff anstelle von Mehrzweckstrahlrohren zu bevorzugen?",
+    "answers": [
+      "Hohlstrahlrohre sind teurer",
+      "Mit Hohlstrahlrohren lässt sich eine bessere Kühl- und Löschwirkung erzielen",
+      "Hohlstrahlrohre besitzen keine Spülstellung"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 91,
+    "category": "Löscheinsatz",
+    "question": "Der Strahlrohrführer öffnet das Strahlrohr zur Brandbekämpfung...",
+    "answers": [
+      "unter Beachtung von Weisungen des Truppführers",
+      "an der Rauchgrenze",
+      "sobald er Wasser am Strahlrohr hat"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 92,
+    "category": "Funk",
+    "question": "Was ist zu tun, wenn im Sprechfunk eine Notfallmeldung abgesetzt wird?",
+    "answers": [
+      "Nichts, der normale Sprechfunkverkehr kann fortgesetzt werden",
+      "Es antworten sofort alle auf die Notfallmeldung",
+      "Der bestehende Sprechfunkverkehr ist zu unterbrechen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 93,
+    "category": "Sichern gegen Absturz",
+    "question": "Welche Länge hat eine Feuerwehrleine?",
+    "answers": [
+      "30 Meter",
+      "25 Meter",
+      "15 Meter"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 94,
+    "category": "Funk",
+    "question": "Wie wird ein Gespräch im Funkverkehr beendet?",
+    "answers": [
+      "„Ende mit Florian Würzburg”",
+      "Mit „Ende” ohne weitere Zusätze",
+      "Mit Wiederholung des Funkgespäches"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 95,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welcher Sicherheitsabstand muss mindestens zu spannungsführenden Anlagen mit einer Spannung von 380 kV eingehalten werden?",
+    "answers": [
+      "5 m",
+      "1 m",
+      "1,5 m"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 96,
+    "category": "Fahrzeugkunde",
+    "question": "Auf welchem Feuerlöschfahrzeug ist die Ausstattung zur erweiterten technischen Hilfeleistung verladen?",
+    "answers": [
+      "LF",
+      "TLF",
+      "HLF"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 97,
+    "category": "Fahrzeugtechnik",
+    "question": "Wo kann man Erkennungshinweise auf alternative Antriebstechnik an einem PKW finden?",
+    "answers": [
+      "Es gibt keine Erkennungshinweise auf alternative Antriebstechnik an einem PKW",
+      "Rettungskarte (Sonnenblende); Tankdeckelinnenseite; im Motorraum",
+      "Unter dem Fahrersitz"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 98,
+    "category": "Gerätekunde",
+    "question": "Wer kann eine Abweichung von der persönlichen Schutzausrüstung anordnen?",
+    "answers": [
+      "Der Truppführer",
+      "Jeder im Trupp trifft seine eigene Entscheidung",
+      "Nur der Einheitsführer"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 99,
+    "category": "Gerätekunde",
+    "question": "Wie viele C-Schläuche befinden sich in der Regel in einem Schlauchtragekorb?",
+    "answers": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 100,
+    "category": "Funk",
+    "question": "Der Sprechfunkverkehr wird eröffnet durch...",
+    "answers": [
+      "die Gegenstelle",
+      "den Anruf",
+      "den Einsatzleiter"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 101,
+    "category": "Fahrzeugkunde",
+    "question": "Was bedeutet die Bezeichnung LF10?",
+    "answers": [
+      "Löschgruppenfahrzeug mit einer zulässigen Gesamtmasse von 10 t",
+      "Löschgruppenfahrzeug mit einem Mindesttankvolumen von 1.000 l",
+      "Löschgruppenfahrzeug mit einer fest eingebauten Feuerlöschkreiselpumpe FPN 10-1000"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 102,
+    "category": "Gerätekunde",
+    "question": "Wozu findet das Standrohr Verwendung?",
+    "answers": [
+      "Zur Wasserentnahme aus Überflurhydranten",
+      "Zur Wasserentnahme aus Löschwasserbehältern",
+      "Zur Wasserentnahme aus Unterflurhydranten"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 103,
+    "category": "Gerätekunde",
+    "question": "Welche maximale Steighöhe kann in der Regel mit vier Steckleiterteilen erreicht werden?",
+    "answers": [
+      "2. Obergeschoss",
+      "1. Obergeschoss",
+      "3. Obergeschoss"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 104,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Welche Arten von Feuerwehren nennt das Bayerische Feuerwehrgesetz?",
+    "answers": [
+      "Bundesbahnfeuerwehr, Freiwillige Feuerwehr, Berufsfeuerwehr",
+      "Flughafenfeuerwehr, Betriebsfeuerwehr, Freiwillige Feuerwehr",
+      "Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr, Werkfeuerwehr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 105,
+    "category": "Erste Hilfe",
+    "question": "Wie erkenne ich die sichtbaren Schockanzeichen?",
+    "answers": [
+      "Schneller und gut tastbarer Puls",
+      "Fahle Blässe, Frieren, kalter Schweiß auf der Stirn",
+      "Ich messe den Blutdruck"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 106,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Welche Aussage über den Angriffstrupp im Hilfeleistungseinsatz ist richtig?",
+    "answers": [
+      "Er rettet und leistet technische Hilfe",
+      "Er sichert die Einsatzstelle und nimmt das dafür notwendige Gerät vor",
+      "Er bereitet die befohlenen Geräte für den Einsatz vor"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 107,
+    "category": "Gerätekunde",
+    "question": "Der Einheitsführer befiehlt ihrem Trupp mit einem Pulverlöscher im Freien einen Brand zu löschen. Was ist zu beachten?",
+    "answers": [
+      "Feuer gegen die Windrichtung angreifen",
+      "Feuer seitlich angreifen",
+      "Feuer in Windrichtung angreifen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 108,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie verhalten Sie sich als Truppführer, wenn Einsturzgefahr besteht?",
+    "answers": [
+      "Ein Hinweis an den Einheitsführer ist ausreichend",
+      "Hinweis an den Truppmann geben, im Trupp Schutz unter besonders standfesten Gebäudeteilen suchen, Rückzugsweg sicherstellen, Meldung an den Einheitsführer",
+      "Ein Hinweis an den Truppmann ist ausreichend"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 109,
+    "category": "Funk",
+    "question": "Welcher Grundsatz ist unter anderem beim Sprechfunkverkehr zu beachten?",
+    "answers": [
+      "Schnell sprechen",
+      "Nicht zu laut sprechen",
+      "Abkürzungen benutzen (Zeitersparnis)"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 110,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Welche Aufgabe hat der Wassertrupp bei einem Hilfeleistungseinsatz?",
+    "answers": [
+      "Sichern der Einsatzstelle, z. B. gegen Brandgefahr",
+      "Bereitstellen der Geräte",
+      "Rettungsmaßnahmen durchführen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 111,
+    "category": "Gerätekunde",
+    "question": "Wie groß muss der Abstand des Warndreieckes zur Unfallstelle sein, wenn sich der Unfall auf einer Straße mit Gegenverkehr außerhalb geschlossener Ortschaften ereignete?",
+    "answers": [
+      "ca. 50 m",
+      "ca. 200 m",
+      "ca. 100 m"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 112,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie verhalten Sie sich als Wassertruppmann beim Eintreffen an der Einsatzstelle?",
+    "answers": [
+      "Ich springe sofort aus dem Fahrzeug und suche eine Wasserentnahmestelle, denn Wasser wird für den Feuerwehreinsatz immer dringend benötigt",
+      "Auf den Einsatzbefehl des Einheitsführer warten, Ruhe bewahren und keine unüberlegten Aktionen durchführen",
+      "Ich trete in jedem Fall hinter dem Fahrzeug an"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 113,
+    "category": "Gerätekunde",
+    "question": "Warum wird beim Einsatz des B-Strahlrohres der Stützkrümmer verwendet?",
+    "answers": [
+      "Um den Wasserdurchfluss zu vergrößern",
+      "Um den Schlauch mit dem Strahlrohr verbinden zu können",
+      "Um den Trupp zu entlasten (Verringerung der Rückstoßkräfte)"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 114,
+    "category": "Gerätekunde",
+    "question": "Es wird die Rettung einer Person über die Steckleiter befohlen. Welche Leine darf zur Sicherung der Person verwendet werden?",
+    "answers": [
+      "Mehrzweckleine",
+      "Alle Leinen",
+      "Feuerwehrleine"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 115,
+    "category": "Verhalten bei Gefahr",
+    "question": "Was hat der Truppführer beim Vorgehen des Trupps zu beachten?",
+    "answers": [
+      "Ständig auf mögliche Gefahrensituationen achten",
+      "Dass immer Sichtkontakt zu seinem Einheitsführer besteht",
+      "Keine weitere Verantwortung für den Trupp"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 116,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Die Unfallverhütungsvorschrift (UVV) - Feuerwehren hat Gültigkeit...",
+    "answers": [
+      "bei Einhaltung der Versicherungsbedingungen",
+      "nur bei Einsätzen",
+      "bei Einsätzen, Übungen und Ausbildung"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 117,
+    "category": "Fahrzeugkunde",
+    "question": "Welches Feuerwehrfahrzeug hat einen Trupp als Besatzung?",
+    "answers": [
+      "TSF",
+      "HLF",
+      "RW"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 118,
+    "category": "Gerätekunde",
+    "question": "Wie groß ist die Wasserabgabe bei CM-Strahlrohren mit Mundstück bei einem Strahlrohrdruck von ca. 5 bar?",
+    "answers": [
+      "ca. 200 l/min",
+      "ca. 100 l/min",
+      "ca. 400 l/min"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 119,
+    "category": "Erste Hilfe",
+    "question": "Was unternehmen Sie bei einer starken Blutung (Schnittwunde)?",
+    "answers": [
+      "Abbinden der Blutung, z. B. am Arm",
+      "Druckverband anlegen",
+      "Rettungsdienst nicht verständigen, wenn die Blutung gestoppt werden kann"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 120,
+    "category": "Funk",
+    "question": "Am Einsatzort angekommen, stellen Sie fest, dass Sie eine schlechte Verbindung zur Leitstelle haben. Welche Maßnahme ist jetzt richtig?",
+    "answers": [
+      "Ausfall der Relaisfunkstelle/Basisstation über Telefon melden",
+      "Standort verändern",
+      "Umschalten auf Oberband-Gegenverkehr bzw. eine andere Gruppe"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 121,
+    "category": "Verhalten im Einsatz",
+    "question": "Welche Faktoren können die persönliche Einsatzfähigkeit negativ beeinflussen?",
+    "answers": [
+      "Ausreichend Schlaf",
+      "Krankheit, Alkohol, Rauschmittel",
+      "Guter Gesundheitszustand"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 122,
+    "category": "Löscheinsatz",
+    "question": "An welchen Abgang am Verteiler wird das erste Rohr angeschlossen?",
+    "answers": [
+      "Am linken Abgang",
+      "Am rechten Abgang",
+      "In der Mitte"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 123,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Was zählt zu den Pflichtaufgaben der Feuerwehr?",
+    "answers": [
+      "Anbringen von Dekorationen",
+      "Brandbekämpfung und technische Hilfeleistung",
+      "Auspumpen von Baugruben"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 124,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wer ist bei der Wahl des Kommandanten wahlberechtigt?",
+    "answers": [
+      "Alle Feuerwehrdienstleistenden und Feuerwehranwärter ab 16 Jahre",
+      "Alle Vereinsangehörigen",
+      "Nur die Führungsdienstgrade"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 125,
+    "category": "Löscheinsatz",
+    "question": "Eine angetretene Gruppe erhält den Einsatzbefehl: „Wasserentnahmestelle der Überflurhydrant - Verteiler neben Hauseingang - zum Einsatz fertig!”. Welche Aufgaben haben Sie als Angriffstruppführer?",
+    "answers": [
+      "Ausrüsten und bis zum Hauseingang vorgehen",
+      "Verteiler und C-Schläuche zur befohlenen Stelle bringen",
+      "B-Schlauchleitung zum Verteiler vorlegen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 126,
+    "category": "Löscheinsatz",
+    "question": "Welchen Vorteil hat die festgelegte Sitzordnung im Löschgruppenfahrzeug?",
+    "answers": [
+      "Keinen",
+      "Dient dem militärischen Dienst",
+      "Ermöglicht während der Anfahrt, sich auf die entsprechenden Funktionstätigkeiten vorzubereiten"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 127,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Welche besonderen Aufgaben hat der Truppführer bei Anwendung der Unfallverhütungsvorschriften?",
+    "answers": [
+      "Der Truppführer muss prüfen, welche Bestimmungen der Unfallverhütungsvorschriften den Trupp betreffen",
+      "Keine, jeder im Trupp achtet auf sich selbst",
+      "Keine, weil beide im Trupp das Gleiche tun"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 128,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wer ist für die Ernennung von Dienstgraden in der Feuerwehr zuständig?",
+    "answers": [
+      "Bürgermeister",
+      "Kommandant",
+      "Vorstand der Freiwilligen Feuerwehr"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 129,
+    "category": "Löscheinsatz",
+    "question": "Wie erkennen sie, dass der Einheitsführer einen Einsatz ohne Bereitstellung durchführen will?",
+    "answers": [
+      "Durch das Wort „vor”",
+      "Durch Angabe der Wasserentnahmestelle",
+      "An der Lage des Verteilers"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 130,
+    "category": "Gerätekunde",
+    "question": "Wozu dient die Kübelspritze?",
+    "answers": [
+      "Zum Löschen eines Großbrandes",
+      "Zum Ablöschen von Brandnestern und Entstehungsbränden",
+      "Zum Löschen von Benzinbränden"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 131,
+    "category": "Löscheinsatz",
+    "question": "Wer bestimmt bei einer Wasserentnahme aus offenem Gewässer die Anzahl der Saugschläuche?",
+    "answers": [
+      "Der Wassertruppführer",
+      "Der Einheitsführer",
+      "Der Schlauchtruppführer"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 132,
+    "category": "ABC-Einsatz",
+    "question": "Welche Einsatzmaßnahmen beschreibt die GAMS-Regel?",
+    "answers": [
+      "Gase Absorbieren, Mineralöle Separieren",
+      "Gefahr erkennen, Absperren, Menschenrettung durchführen, Spezialkräfte alarmieren",
+      "Gefahr beseitigen, Ausleuchten, Menschenrettung durchführen, Spezialfirma beauftragen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 133,
+    "category": "Sichern gegen Absturz",
+    "question": "Darf der Feuerwehr-Haltegurt als Auffanggurt benutzt werden?",
+    "answers": [
+      "Nein, ein Feuerwehr-Haltegurt darf grundsätzlich nicht als Auffanggurt genutzt werden",
+      "Ja, wenn dieser jünger als 10 Jahre ist und jährlich geprüft wird",
+      "Ja, dafür ist dieser Gurt geeignet"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 134,
+    "category": "Gerätekunde",
+    "question": "Auf was muss beim Aufstellen einer tragbaren Leiter u.a. geachtet werden?",
+    "answers": [
+      "Auf einen Anstellwinkel von 15°",
+      "Dass sie so nahe wie möglich an das Gebäude gerückt wird",
+      "Auf einen festen Standplatz"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 135,
+    "category": "Brennen und Löschen",
+    "question": "Kann es durch falschen Strahlrohreinsatz bei der Brandbekämpfung zu einer Vergrößerung der Gefahr kommen?",
+    "answers": [
+      "Ja, z. B. Fettexplosion oder Staubexplosion",
+      "Kann nur bei unerfahrenen Feuerwehrdienstleistenden vorkommen",
+      "Nein, Wasser ist immer das beste Löschmittel"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 136,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Welcher Trupp ist bei der technischen Hilfeleistung für Sicherungsaufgaben zuständig?",
+    "answers": [
+      "Wassertrupp",
+      "Angriffstrupp",
+      "Schlauchtrupp"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 137,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wer darf Personen zur Hilfeleistung verpflichten?",
+    "answers": [
+      "Nur der Einsatzleiter",
+      "Jeder Feuerwehrdienstleistende",
+      "Nur der Kreisbrandrat"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 138,
+    "category": "Löscheinsatz",
+    "question": "Welche Aussage zur Löschtaktik bei einem Feststoffbrand ist richtig?",
+    "answers": [
+      "Feuer muss von vorne nach hinten bekämpft werden",
+      "Feuer muss von hinten nach vorne bekämpft werden",
+      "Feuer muss von der Seite bekämpft werden"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 139,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Wer hat für die ordnungsgemäße Ausrüstung der Feuerwehr zu sorgen?",
+    "answers": [
+      "Gemeinde",
+      "Landkreis",
+      "Feuerwehrverein"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 140,
+    "category": "Gerätekunde",
+    "question": "Welche ergänzende Schutzausrüstung kann der Einheitsführer bei Einsätzen mit gefährlichen Stoffen anordnen?",
+    "answers": [
+      "Schutzanzug Bayern 2000",
+      "Feuerwehrhelm",
+      "Pressluftatmer"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 141,
+    "category": "Gerätekunde",
+    "question": "Für welche Einsatzmöglichkeiten findet die Brechstange Anwendung?",
+    "answers": [
+      "Um eine Kraft abzufedern",
+      "Um Kraft und Weg zu sparen",
+      "Verwendung als Hebel"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 142,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welche Schutzmaßnahmen beachten sie als Truppführer bei der Gefahr durch Elektrizität?",
+    "answers": [
+      "Die Einhaltung erforderlicher Mindestabstände",
+      "Die Strahlrohreinstellung „Sprühstrahl”, durch die alle Risiken ausgeschlossen sind",
+      "Durch die Erdung durch meine Schlauchleitung besteht keine Gefahr"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 143,
+    "category": "ABC-Einsatz",
+    "question": "Sie sehen auf einer Kiste der Ladung eines verunglückten LKW folgendes Schild. Was melden Sie Ihrem Gruppenführer?",
+    "answers": [
+      "Brandgefahr",
+      "Vergiftungsgefahr",
+      "Ansteckungsgefahr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk1wIQAAAAAAADYEAAAoAAAAVQAAAFUAAAABAAgAAAAAADodAAASCwAAEgsAAAAAAAAAAAAAAAAAAAEBAQACAgIAAwMDAAQEBAAFBQUABgYGAAcHBwAICAgACQkJAAoKCgALCwsADAwMAA0NDQAODg4ADw8PABAQEAAREREAEhISABMTEwAUFBQAFRUVABYWFgAXFxcAGBgYABkZGQAaGhoAGxsbABwcHAAdHR0AHh4eAB8fHwAgICAAISEhACIiIgAjIyMAJCQkACUlJQAmJiYAJycnACgoKAApKSkAKioqACsrKwAsLCwALS0tAC4uLgAvLy8AMDAwADExMQAyMjIAMzMzADQ0NAA1NTUANjY2ADc3NwA4ODgAOTk5ADo6OgA7OzsAPDw8AD09PQA+Pj4APz8/AEBAQABBQUEAQkJCAENDQwBEREQARUVFAEZGRgBHR0cASEhIAElJSQBKSkoAS0tLAExMTABNTU0ATk5OAE9PTwBQUFAAUVFRAFJSUgBTU1MAVFRUAFVVVQBWVlYAV1dXAFhYWABZWVkAWlpaAFtbWwBcXFwAXV1dAF5eXgBfX18AYGBgAGFhYQBiYmIAY2NjAGRkZABlZWUAZmZmAGdnZwBoaGgAaWlpAGpqagBra2sAbGxsAG1tbQBubm4Ab29vAHBwcABxcXEAcnJyAHNzcwB0dHQAdXV1AHZ2dgB3d3cAeHh4AHl5eQB6enoAe3t7AHx8fAB9fX0Afn5+AH9/fwCAgIAAgYGBAIKCggCDg4MAhISEAIWFhQCGhoYAh4eHAIiIiACJiYkAioqKAIuLiwCMjIwAjY2NAI6OjgCPj48AkJCQAJGRkQCSkpIAk5OTAJSUlACVlZUAlpaWAJeXlwCYmJgAmZmZAJqamgCbm5sAnJycAJ2dnQCenp4An5+fAKCgoAChoaEAoqKiAKOjowCkpKQApaWlAKampgCnp6cAqKioAKmpqQCqqqoAq6urAKysrACtra0Arq6uAK+vrwCwsLAAsbGxALKysgCzs7MAtLS0ALW1tQC2trYAt7e3ALi4uAC5ubkAurq6ALu7uwC8vLwAvb29AL6+vgC/v78AwMDAAMHBwQDCwsIAw8PDAMTExADFxcUAxsbGAMfHxwDIyMgAycnJAMrKygDLy8sAzMzMAM3NzQDOzs4Az8/PANDQ0ADR0dEA0tLSANPT0wDU1NQA1dXVANbW1gDX19cA2NjYANnZ2QDa2toA29vbANzc3ADd3d0A3t7eAN/f3wDg4OAA4eHhAOLi4gDj4+MA5OTkAOXl5QDm5uYA5+fnAOjo6ADp6ekA6urqAOvr6wDs7OwA7e3tAO7u7gDv7+8A8PDwAPHx8QDy8vIA8/PzAPT09AD19fUA9vb2APf39wD4+PgA+fn5APr6+gD7+/sA/Pz8AP39/QD+/v4A////AP///////////////////////////////////////////////////////zr///////////////////////////////////////////////////////8AAAD//////////////////////////////////////////////////////+7/O///////////////////////////////////////////////////////AAAA/////////////////////////////////////////////////////yL///87/////////////////////////////////////////////////////wAAAP///////////////////////////////////////////////////+///////zv///////////////////////////////////////////////////8AAAD//////////////////////////////////////////////////yL/////////////////////////////////////////////////////////////AAAA/////////////////////////////////////////////////+3/////nbH///87/////////////////////////////////////////////////wAAAP///////////////////////////////////////////////+7/////Hv//Hf///zv///////////////////////////////////////////////8AAAD//////////////////////////////////////////////+3/////nf////+w////O///////////////////////////////////////////////AAAA/////////////////////////////////////////////+7/////Hv///////7H///87/////////////////////////////////////////////yAgIP///////////////////////////////////////////+//////nv//////////sP///zv///////////////////////////////////////////8gICD//////////////////////////////////////////+7/////Hv////////////+w////O///////////////////////////////////////////ICAg/////////////////////////////////////////+3/////nf////9xAAAA/////7H///88/////////////////////////////////////////yAgIP///////////////////////////////////////+7/////H/////+OCv///wD/////sf///zv///////////////////////////////////////8gICD//////////////////////////////////////+3/////nf//////AND///8A//////+x////O///////////////////////////////////////ICAg/////////////////////////////////////+3/////Hv///////wAA//+bAP///////7D///88/////////////////////////////////////yAgIP///////////////////////////////////yL/////n/////////8A/w0AAP//////////sf///zv///////////////////////////////////8gICD//////////////////////////////////+7/////Hv//////////rRH///8N//////////+w////O///////////////////////////////////ICAg/////////////////////////////////yL/////nf////////////8ACJ4AIP///////////7H///88/////////////////////////////////yAgIP///////////////////////////////+7/////Hv//////////////////////////////////sP///zv///////////////////////////////8gICD//////////////////////////////yL/////nP////////////////////////////////////+x////O///////////////////////////////ICAg/////////////////////////////+3/////nf///////////////////////////////////////7D///87/////////////////////////////yAgIP///////////////////////////yL/////nf//////////////////////////////////////////sP////////////////////////////////8gICD//////////////////////////+7/////nf////////////////////////////////////////////+w////O///////////////////////////ICAg/////////////////////////+3/////H////////////////////////////////////////////////xz///87/////////////////////////yAgIP///////////////////////+7/////nv//////////////////////////////////////////////////sP///zv///////////////////////8gICD//////////////////////+//////Hv////////////////////////////////////////////////////+w////O///////////////////////ICAg/////////////////////+3/////nP///////////////////////////////////////////////////////7D///87/////////////////////yAgIP///////////////////+7/////Hv//////////////////////////////////////////////////////////sf///zv///////////////////8gICD//////////////////+3/////nf////////////////////////////////////////////////////////////+w////O///////////////////ICAg/////////////////+3/////H////////////////////////////////////////////////////////////////7H///87/////////////////yAgIP///////////////+//////nf//////////////////////////////////////////////////////////////////sf///zv///////////////8gICD//////////////+//////H/////////////////////////////////////////////////////////////////////+w////PP//////////////ICAg/////////////yL/////nP///////////////////////////////////////////////////////////////////////7D///87/////////////yAgIP///////////+3/////H///////////////////////////////////////////////////////////////////////////sP///zv///////////8gICD//////////yL/////nf////////////////////////////////////////////////////////////////////////////+x////O///////////IAog/////////+7/////Hv///////////////////////////////////////////////////////////////////////////////7H///87/////////yAgIP///////yH/////n///////////////////////////////////////////////////////////////////////////////////sP///zv///////8gICD//////+//////nf////////////////////////////////////////////////////////////////////////////////////+w////O///////ICAg/////yL/////nf///////////////////////////////////////////////////////////////////////////////////////7D//////////yAgIP///+7/////nf//////////////////////////////////////////////////////////////////////////////////////////sP///zv///8gICD//+//////Hv////////////////////////////////////////////////////////////////////////////////////////////8d////O///ICAg/+3/////nf///////////////////////////////////////////////////////////////////////////////////////////////7D///87/yAgIPb/////Hv////////////////////////////////////////////////////////////////////////////////////////////////+d/////zogICBq//////////////////////////////////////////////////////////////////////////////////////////////////////8f/////+7/ICAg/2r////n//////////////////////////////////////////////////////////////////////////////////////////////+d/////yL//yAgIP//a////+f///////////////////////////////////////////////////////////////////////////////////////////8e/////+////8gICD///9r////6P////////////////////////////////////////////////////////////////////////////////////////+d/////yL/////ICAg/////2v////n//////////////////////////////////////////////////////////////////////////////////////8e/////+///////yAgIP//////av///+j///////////////////////////////////////////////////////////////////////////////////+d/////+////////8gICD///////9r////5/////////////////////////////////////////////////////////////////////////////////8f/////+3/////////ICAg/////////2v////o//////////////////////////////////////////////////////////////////////////////+d/////+3//////////yAgIP//////////av///yj/////////////////////////////th8ECo7///+DBgAAE/////////////////////////////8e/////+////////////8gICD///////////9q////5/////////////////////////8ACAgAAAAAAAAAAAAAADt+It7///////////////////////+d/////+3/////////////ICAg/////////////2r///8o//////////////////////9z/////5cAAAAAAAAAYv//////nv////////////////////8e/////+7//////////////yAgIP//////////////av///+f//////////////////////////////wAAAAAAnv////////////////////////////+e/////+////////////////8gICD///////////////8X////J////////////////////////////wqeAAAAAGwt//////////////////////////8e/////+3/////////////////ICAg/////////////////2r////n/////////////////////////wAA0wAAALlrAAD///////////////////////+d/////+7//////////////////yAgIP//////////////////av///+f/////////////wv///////wAE//8JAAD///8AAP//////y/////////////+d/////yL///////////////////8gICD///////////////////9r////5////////////0j//////0IA////BAAA9P//EgD//////57///////////+d/////+7/////////////////////ICAg/////////////////////2r////o//////////8+//////8AAP///wAHAAP///8Aef////8A//////////+d/////yL//////////////////////yAgIP//////////////////////av///+f/////////ign/////ADP//2v////0////ABT////uAP////////8e/////+////////////////////////8gICD///////////////////////9q////6P////////8AgP///wA1//8Aq///AAD//wAO////ADz///////+d/////yH/////////////////////////ICAg/////////////////////////2r////n////////AAAH//8nxzYAAAD//gAAAIv/5/8WAAD///////8e/////+3//////////////////////////yAgIP//////////////////////////a////+f///////8AAAAAAAAAAACH//9yAAAAAAAAAACU//////+e/////yH///////////////////////////8gICD///////////////////////////9q////5///////DAAAAAAAAAD///////8AAAAAAAAA//////8f/////+7/////////////////////////////Rj4K/////////////////////////////2r////n///////KAAAAABkK///////8IQAAAAA4//////+d/////+7//////////////////////////////2k+Cv//////////////////////////////av///+f///////cAAADvAAAAZV8AAAB8AAAA//////8f/////+////////////////////////////////93YXL///////////////////////////////9r////5///////AAAA//8vAAAAAFf//wAAAP////+d/////+3/////////////////////////////////ICAg/////////////////////////////////2v///8n/////0YAAP////////////8AAJL///8e/////+///////////////////////////////////3Z0Ov//////////////////////////////////a////+f/////AAD/////////////AAD///+d/////+7///////////////////////////////////9SZXP///////////////////////////////////9r////J////0AA////////////rwD///8e/////+3/////////////////////////////////////RD4K/////////////////////////////////////2r////o////3AD//////////wD9//+d/////+3//////////////////////////////////////09yaf//////////////////////////////////////GP///yj////PCP///////wD///8e/////+3///////////////////////////////////////91bWX///////////////////////////////////////9q////5///////+v///v////+d/////+//////////////////////////////////////////Y2VJ/////////////////////////////////////////2v////o//////////////+d/////yL//////////////////////////////////////////yAgIP//////////////////////////////////////////av///+j///////////+e/////+////////////////////////////////////////////9vcm3///////////////////////////////////////////9r////5/////////+d/////yL/////////////////////////////////////////////Pgog/////////////////////////////////////////////2r////n//////8e/////+3//////////////////////////////////////////////zI6MP//////////////////////////////////////////////av///+f///+d/////yL///////////////////////////////////////////////9vc2j///////////////////////////////////////////////9q////6P8f/////+7/////////////////////////////////////////////////Imh0/////////////////////////////////////////////////2v//////////yL//////////////////////////////////////////////////zEuMP//////////////////////////////////////////////////a////////+////////////////////////////////////////////////////8vL3D///////////////////////////////////////////////////9q/////+//////////////////////////////////////////////////////Ym91/////////////////////////////////////////////////////2r//+3//////////////////////////////////////////////////////0RGIP//////////////////////////////////////////////////////avb///////////////////////////////////////////////////////90YS8AAA==",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "category": "Verhalten im Einsatz",
+    "question": "Warum müssen Sie ihrem Einheitsführer bei der Mannschaftseinteilung während der Anfahrt mitteilen, wenn ihre Einsatzbereitschaft z. B. durch eine Erkältung beeinträchtigt ist?",
+    "answers": [
+      "Ich muss es dem Einheitsführer nicht mitteilen, weil ich erwarten kann, dass er meine verminderte Einsatzfähigkeit selbst erkennt",
+      "Nur so kann der Einheitsführer die Einsatzfähigkeit jedes Feuerwehrdienstleistenden bei der Einteilung berücksichtigent",
+      "Damit er Sie nicht als Gruppenführer einteilt"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 145,
+    "category": "Verhalten im Einsatz",
+    "question": "Was versteht man unter Kontamination?",
+    "answers": [
+      "Reinigung der Oberfläche von Lebewesen, des Bodens, von Gewässern und Gegenständen bei Verunreinigung mit ABC-Gefahrstoffen",
+      "Verunreinigung der Oberfläche von Lebewesen, des Bodens, von Gewässern und Gegenständen mit ABC-Gefahrstoffen",
+      "Aufnahme von Schadstoffen in den Körper, zum Beispiel über die Atemwege"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 146,
+    "category": "Verhalten im Einsatz",
+    "question": "Warum wird nach Einsätzen eine Einsatznachbesprechung durchgeführt?",
+    "answers": [
+      "Um Truppführer, die sich falsch verhalten haben, vor der gesamten Mannschaft zu tadeln",
+      "Um Fremd- und Eigenfehler zu erkennen, das Einsatzgeschehen zu verbessern und belastende Situationen zu erkennen",
+      "Um die Einsatzdauer zu erhöhen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 147,
+    "category": "Verhalten im Einsatz",
+    "question": "Sie rücken nach einem Feuerwehreinsatz im Gerätehaus ein, wie verhalten Sie sich richtig?",
+    "answers": [
+      "Nach dem Einrücken ist die Verpflegung zu organisieren",
+      "Im Gerätehaus Aufenthalts- und Sozialräume nicht mit verschmutzter Einsatzkleidung betreten; Schwarz/Weiß-Trennung beachten",
+      "Getränke verteilen, verschmutzte Einsatzkleidung im Spind verstauen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 148,
+    "category": "Fahrzeugkunde",
+    "question": "Wie viel Liter Löschwasser führt ein TSF mit?",
+    "answers": [
+      "500 l Löschwasser",
+      "Führt kein Löschwasser mit",
+      "600 l Löschwasser"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 149,
+    "category": "Brennen und Löschen",
+    "question": "Welche Stoffe gehören zur Brandklasse A?",
+    "answers": [
+      "Holz, Papier, Kohle",
+      "Benzin, Diesel, Petroleum",
+      "Propan, Butan, Acetylen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 150,
+    "category": "Löscheinsatz",
+    "question": "Welche Maßnahmen führt der Trupp aus auf den Befehl „...trupp mit C-Rohr zur/zum ... über ... vor!”?",
+    "answers": [
+      "C-Schlauchleitung wird an einem der drei Abgänge des Verteilers angeschlossen",
+      "Schnellangriffseinrichtung des Löschfahrzeuges wird vorgenommen",
+      "C-Schlauchleitung wird von der Feuerlöschkreiselpumpe direkt zur befohlenen Einsatzstelle verlegt"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 151,
+    "category": "Fahrzeugkunde",
+    "question": "Welche Besatzung hat ein TLF 3000?",
+    "answers": [
+      "Staffel 1/5",
+      "Gruppe 1/8",
+      "Trupp 1/2"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 152,
+    "category": "Funk",
+    "question": "Welche Vorschrift regelt die Durchführung des Sprechfunkverkehrs?",
+    "answers": [
+      "Merkblatt Sprechfunk",
+      "FwDV 800/810",
+      "Vollzugsbekanntmachung BayFwG"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 153,
+    "category": "Verhalten bei Gefahr",
+    "question": "Worauf ist bei Einsturzgefahr besonders zu achten?",
+    "answers": [
+      "Trümmerschatten beachten",
+      "Ergänzende persönliche Schutzausrüstung tragen",
+      "Windrichtung beachten"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 154,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Welche Pflicht besteht für Feuerwehrdienstleistende bei Alarm?",
+    "answers": [
+      "Unverzüglich am Gerätehaus einfinden",
+      "Rückruf bei der Leitstelle",
+      "Melden bei der Gemeindeverwaltung"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 155,
+    "category": "Brennen und Löschen",
+    "question": "Welche Aussage über brennbare Flüssigkeiten ist richtig?",
+    "answers": [
+      "Es brennen die Dämpfe und die Flüssigkeit selbst",
+      "Es brennen nur die Dämpfe einer Flüssigkeit",
+      "Es brennt nur die Flüssigkeit"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 156,
+    "category": "Funk",
+    "question": "Welches ist die richtige Buchstabierweise des Wortes „Duplex”?",
+    "answers": [
+      "Dora-Ulrich-Paula-Ludwig-Emil-Xantippe",
+      "Delta-Ulrich-Paula-Ludwig-Erich-Xantippe",
+      "Dora-Ulrich-Paul-Ludwig-Emil-Xantippe"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 157,
+    "category": "Gerätekunde",
+    "question": "Welche Einsatzgrundsätze für tragbare Feuerlöscher sind richtig?",
+    "answers": [
+      "Nach Möglichkeit mehrere Löscher gleichzeitig einsetzen",
+      "Alle Brände von oben nach unten löschen",
+      "Feuer gegen die Windrichtung angreifen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 158,
+    "category": "Fahrzeugkunde",
+    "question": "Für wieviele Feuerwehrdienstleistende ist die Beladung von TSA, TSF und TSF-W ausgelegt?",
+    "answers": [
+      "Für einen Trupp 1/1",
+      "Für eine Staffel 1/5",
+      "Für eine Gruppe 1/8"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 159,
+    "category": "Löscheinsatz",
+    "question": "Welche Angaben sind auf dem Hinweisschild zu einem Unterflurhydranten enthalten?",
+    "answers": [
+      "Betriebsdruck und Wasserlieferung",
+      "Position des Hydranten und Durchmesser der Wasserleitung",
+      "Zuständiger Wasserwart und Position des Hydranten"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 160,
+    "category": "Gerätekunde",
+    "question": "Mit welchen Knoten soll eine Schlauchleitung mit Strahlrohr befestigt werden, um sie in ein Obergeschoss hochzuziehen?",
+    "answers": [
+      "Kreuzknoten",
+      "Schotenstich mit Halbschlag",
+      "Mastwurf und Halbschlag"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 161,
+    "category": "ABC-Einsatz",
+    "question": "Sie sehen an der Tür eines Gebäudes folgendes Schild (schwarz auf gelbem Hintergrund). Womit müssen Sie rechnen?",
+    "answers": [
+      "Verätzungsgefahr",
+      "Mit starkem Wind durch eine, sich hinter der Tür befindliche Lüftungsanlage",
+      "Explosionsgefahr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk3wMQAAAAAAADYAAAAoAAAAVQAAAEoAAAABABAAAAAAALoxAAASCwAAEgsAAAAAAAAAAAAAz3+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/zX8AAKB/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/AACpf6B/oH+gf6B/oH/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/oH+gf6B/oH+nfwAA/X+hf6B/oH+gf+B/oHfBXuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuJi4mLiYuJi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFi4WLhYuFiwV5hb+B/oH+gf6B/+n8AAP9/0H+Af6B/wH9hb4QQBAAEBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBAQEJAQiBCIEIwQDACMEJAQkBAQEBAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQkBCQEJAQjBCQEJAQEBAQAJAQBY+B/gH/Nf/9/AAD/f/9/o3+gf+B/4mIEAEMIgxBjDAMABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQABAAEAAQAhAyCDGIMYgxiDIIMgxBDCAMAIgSBDIMQJAQEAAQABAAEAAQABAAEAAQABAAkAGQMhAxjDGIMYgxiDGIMYgxiDGIMYwyDEAQAI0rgf6F//n//fwAA/3//f9V/gH/Af+B/IyUEAIMQoxSjNUMtQy1DLUMtQy1DLUMtQy1DLUMtQy1DLUMtQy1DLUMtQy1DLUMtQy1DLUMtQy1DLWMtQy1DLUMtQy1DLUMt4z2iOWIIggyDEIQQZAwkBAQAgxTiPSElQQhiCOMgYzFDKUMtYy1jMaM1wzkCRuJBQimDEGIMghCCEIIQgxCDEIQQgxCDEKEQIwSEEKF3wH/Sf/9//38AAP9//3//f6d/gH/gf2FvBAAjBEQIYm/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gfyBnYTFDCGQMJAQEAIMQgjFATiBrYFLDGCQEBAAhKeB/4H/gf+B/4H+gf+BeYVLBPeIggxCDEIMQhBCEEIMQgxCDEIQQgxCCEAQAwlrgf6V//3//f/9/AAD/f/9//3/5f6B/oH/gf8M5BAAjAMQY4H/gf6B/wH/Af8B/wH/Af8B/wH/Af8B/wH+gf6B/4H/gf+B/4H/gf8B/oH/gf0BvwD3Af8B/4H/gf2BzQS0DAAUABAADBKIY4UEAZ6Ba4T2jFAQAJASjFME5QG/gf0BvgFKhOQIlYgwDBAMAJABkCIMQgxCDEGMMZAgkBAQAJASjFKIQBAAEIeB/oH/Xf/9//3//fwAA/3//f/9//3/Lf4B/4H/Be2QMQwgEAEJO4H+gf6B/oH+gf6B/oH+gf6B/oH+gf6B/oH/gf6B7oFpASkBK4GLgf+B/4F6AFAAAYHfgf+B/AUIDAAQAJASCEKE5wF7gf4BWRAQEAAQAZAxkDIEQwF6gWuFBwhhDCAMABAAkAEQIRAgkBAQABAADAAQAAwAjBEMMohRBLUIpYghjDAUAQWvgf6l//3//f/9//38AAP9//3//f/9//X+hf6B/4H9iTgQAQwhECKF74H+gf6B/oH+gf6B/oH+gf6B/oH/Af+B/YE6AEAAAAAAAAAAAYDGgVgAAAACAEOB/oFpDCAQAIwQDAIEQwHvgf+B/4H+Ac+IgohTCGGIMghCiFIQQBAAEAAUABAAEAAQAAwAjBGMMwhgiJUEpwT1BSqBaAGdgb+B/4H9jLSQEBACjNeB/oH/7f/9//3//f/9/AAD/f/9//3//f/9/0X+Af8B/4H/EGCMABACjOeB/oH+gf6B/oH+gf6B/oH+gf6B/4H8gRgAAIACADIAMgBCADAAAAASgVsBaAEYBIQMAAiHAWqB7wT1Ba+B/4H+Ad6BaIUaBMUIIAwAjBEMIBAAEAGMMohQBIWEt4T1gToBW4GJgc8B/4H/gf+B/4H/gf+B/4H/gf6JWBABDCEQIoXfgf65//3//f/9//3//fwAA/3//f/9//3//f/9/pH+Af+B/AWMEAEMIBABBa+B/oH+gf6B/oH+gf6B/oH/gfwBjAABACKAQgAyADKAQYAgAAAEAISVAToAx4T3Af+B/4H/Af2BzQE5CLQEhYgwDAAMAAgAiKSFKgTXgQcBaAGOAc8B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/wHtEDEMEBAAiSuB/on/+f/9//3//f/9//38AAP9//3//f/9//3//f9Z/oH+gf+B/Yy0EAAMAJCHgf8B/oH+gf6B/oH+gf6B/4H8gJQAAoBCADIAQgBBgCGAQYFIga0BOYFLgf+B/wFogRoA1ICUhKSEpASEDAAQAwFrAWgIAQi0hSsMcYwxAa+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf2B3IGvgXoBSIUqhOcIcIgQkBKQU4H/Af9N//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f8h/gH/gf4FzJARDCAQAwlrgf6B/oH+gf6B/oH/gf6B7YAxABIAMgAyADIAMAACgNeB/4H/gf+B/4H/AXgBGYFJAb0BrYG/gf+B/QS0BQmBzgxAEAAQABQBEDMIYoHvgf+B/4H/Af0Bv4GKAViBK4UGBMSIlwhhiDCMIIwQDAAMABAAjAIIQBADiXuB/pn//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3/7f6B/oH/gfwNCBAAjBKQU4H/Af6B/oH+gf6B/4H9gd0AIQASAEIAMgAyADCAEIARgLcBagFZAa8B/4H/gf4AxAGchSoIQ4H/gf+B/4H8BISIpgFJASgEhQE6gVkFKgTUiJeIcoxRjDCQEBAAEAAQABAAEACQERAhkDGQMhBCEEIMQoRQEACQl4H+gf9h//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3/Nf4B/wH/Ae4QQIwQEACJG4H+gf6B/oH+gf8B/4H/AGCAAgBCgECAAAACgFKAQAAAAAAAAoBTAf+B/QEoEAAMAAwADAABGAUKhNeEgghABJcIYQggCAAMABAAEAAQABAAEAAQABAAEAAQABAADAAMAAwADAAMAAwADACMEgxCCEGMIBABhb+B/qn//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//n+hf6B/4H+iVgQAQwgkBKF34H+gf6B/oH+gf+B/4D0AAKAQQAgAJaBW4H/gf8A5AAAgAAAEwH/Af8A5gTWhNaA1wD2ANaE5gTWhOQFC4UEBQiFKQU5hTmFOgVahWqBawFrAWsBewFrgXuBe4F7gYgBjAGMAYwBjAGMBY6MUQwgEAMM54H+gf/x//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9/0n+Af8B/4H8EHQMABACDMeB/oH+gf6B/oH/Af8B7gBAAAAAA4GLgf0BroFrAe8EYAQBgTuB/oH/Af+B/4H/gf+B/4H/gYsBawF4AZyBrIGtgc2BzYHOAd4B3gHeAd2BzgHOAc4BzYHNgb2BvYG9gb2BvYG9gb4B3YVIkBCQEZAjAe8B/0H//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9/pX+Af+B/IWcEAEMIBAACZ+B/oH+gf6B/oH/gf2BvgBAAAKA5QG8AAAAA4BwgawMA4T3gf8B/4H+AVqBWgHfgf+B/AGdgTuBBYTHhHGIMAwADAAMAAwADAAMABAADAAMAIwQjBAMEAwQDBAMAAwADAAMAAwAjBAIAgRAFAGJO4H+jf/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f9d/oH+gf+B/gzEEAAMA5Bzgf8B/oH+gf+B/4D3gHEBvoDVgTsB74EGgOQBG4H+gVgMAAEbgf+B/gQwEAIMQYgwiKaFWYHPgf+B/4H/gf4BzAGNhTsE5IiniHIMQIwQEAAQABAAEAAUAJARECGQMhBCDEGQMZAyCEAQAxBjgf8B/1X//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f8l/gH/gf6F3RARDCAQAolLgf6B/oH/gfwBjYAwARiBr4GIABOAcwH/gf+B/IEYEAAMAQEqBNQMABQCDEIE1QggDAAQAIwQiKcE9oFZgc+B/4H/gf+B/4H/AfyBvoFZATsE9QSnCGIIQIwgDAAMABACEEKEQYwwFAAFj4H+mf/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3/8f6B/oH/gfyNGBAAjCGQMwHvAf6B/oH/gf+B/YG/gQUAMQAgAAKAU4H9AbwMAZAyEEAQAAwAhSoMQBADAe+B/AGeBNSMIBAAFAAQAQwiiFCEpAUKgVkBv4H/gf+B/4H/gf+B/4H+AewBnoFYgSuE9ghCCDAQAQyngf6B/2X//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3/Pf4B/wH/gf4QQIwQEAOM94H+gf6B/4H8ga8A9YC0gKSAlAABACOB/4GIDAIMQgxCEEEQI4UGgeyIlIgjAWuB/4H/Af4BSQi2jFAQABQAkBAQAAwBDCMIYQS0BQsBaYHPgf+B/4H/gf+B/4H9BbyQEIwQkBIFz4H+rf/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//n+if4B/4H/CWgQAQwgkAIFz4H/gfwBGgBQAAEAIAGNACEAEYAzAe4BzIwRkDIMQRAhECAUAQSngf8I9AwDiIEBr4H/gf+B/wFrAQWExYghkDEQEZAwkBAQABAADAEMI4hyBNUBKwF7Af+B/hBAkBAQA4z3gf4F//X//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9/1H+Af8B/4H8kJQMABABDKeB/4H+AVqAUAABgTsBegBAAAAAAAGfgfwEhBACiFIIQgxAkBAUA4Rzgf+BeAwAEAME94H/gfwMAAyWBNSIEwRjiHAQAJASDEKMUgxBkDCQEBAAEAAMEohTCGEIIIwRkEMB7wH/Rf/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9/pn+Af+B/QW8EAEMIBADiYuB/4H8AISAAIGvAPUBKACWgGCBG4H8gRgQA4iCgf8B7YFIEAAUAohTgf8B7whwEAKMUIEohKQQABQBECOIc4GZASgIhIwQEAEQIgxCjFIMQgxCDECQEJASBEAQAolbgf6N//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/l/oH+gf+B/wzkEACMExBjgf0BKAADAOaBWACXgf+B/ACEgJeB/YG8jBAQAIGfgf+B/AEYEAAUAYhCge+B/4T0EAAQAoTlATgIlJAQEAGEx4H/gfwBjoTWCEAQABABkDIMUgxCEEKIUAwAEIeB/oH/Wf/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f8p/gH/gf6F7ZAhDBEQIojlgDAAAYHMAIQAl4H+gVgAAQCngf+B/QSkFAIExgXMha+B/oTUEAAUAQgyAc+B/wF5DDAUAoxSANeFBgVLgf8B/wH/gf+B/oHtgUiIlIwQEAIQQghBiCAUAIWfgf6h//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/9f6B/oH/gf2JOBACEEAEAAACAMcB/AABgTiBrAAAAAAAh4H+gWiApJARjDEBvpDVBa+B/ISUEAAQAQghAa+B/gHMBJQQABQACJeBe4H/gf8B/oH+gf+B/4H/gfyBr4UFiDIIQBACDMeB/oH/6f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Qf4B/wH/gf8QYBACDDEAI4H+gVgAAAGcgJQAAQAiAEOB/QSXhHMMcBABASqFzZC3gf+B/ohQEACQEIwQgZ+B/4H8AQgMABQAEAMIcwFrgf+B/oH+gf6B/oH/gf0JrAwAjBEQIoXfgf61//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+jf4B/4H/iXgQAQwhiDMF7QCkgAGBzoBRABGAIYAwAZ2MIYS2BNQUAwhjAe8MYpDXgf4BzQggkBEQIIwTgYuB/4H/AWoIQBAAkAAMAQSlAa+B/4H+Af8B/wHuEEEMEBAAiRuB/on/+f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/1n+Af6B/4H9DKQQARAjjIGAM4Bjgf8AcIASADIAQoDkEACIlAEIkAIMQ4RyCEEQIglLgf0BrAwBkCEQIAwDAWuB/4H+AcwEhBABECAQAIwThPcB/4H/gf+M9BAAjBKQU4H/Af9N//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/qH+Af+B/YXMEBGQMQwQAAIA14H+gFEAEgAxgDEAtJAQlAKA5oxRkDCIAYwhCLWUMQWvgf8BaAwBkDEQIAwCAVuB/4H/gfwBCAwBECGQMBACiFOBagXMkBEMIBADCWuB/hX//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/p/oH+gf+B/4z0EAKQUAABgTiBnIARABGAIAAAAQsBeAwChOYExBACiFAMAojXDOSUEwH/gf0BKBACDEEQIBABgTuB/4H/gf+BeYhAEAKQUJAQEBIIQYwwEACQl4H+gf9h//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f8x/gH/Af8F7ZAwkBIIMQCkAIWAQIASAEAAAICXgfwBjYG8hRgQARAQBIUBv4H8FAAMh4H/gf8A9BACjFGQMBAAgSuB/wH/gf4B3ISkjBGQMhBBCCGMMBABBb+B/qX//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/9f6F/oH/gf6JSBACkFAIAoBQAYyBnAEYAAMAY4H/gf2BOQE5DCCQEgxDgf+B/olYFAANC4H/gf2EtBACjFGQMBAAgRuB/wH/gf6B7wByDEGIMoxQEAMM54H+gf/x//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Sf4B/wH/gf+McBABDCGEQ4H/gf6BWAABgDMB/QG9CCIBWQikkBAQAAELgf+B/AyEFAMJe4H/gf8IcBACjFGQMBADgPeB/4H+Ad+AgwRhjDEQIRAjAe8B/r3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+kf4B/4H8CZwQAIwTEGME5IErAWgAAIARgc4E1BQCCMeA9BAAkBKIU4H/gf4FzBAAkBIFz4H+gd2IMBACjFGQMBAAAQuB/ohgEAGMMgxAEAGJO4H+if/5//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/13+Af6B/4H+DMQQAgxABAGAMICVgCAAA4F4gZwQAQingXiMEhBAEAKBW4H/gfyNGBACkFOB/4H9gbyIEJASjFGQMAwDhQUFKRAiDEAMAxBjgf8B/1H//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/qX+Af+B/gXclBEIIoBBgCCAEoBAAACBK4H8DAAIh4H+CEEQIBAAhJeB/4H/gf+MYBABjMeB/4H8AYwMARAijFGQMAwDBOcMcQwgEAOJe4H+mf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/t/oH+gf+B/A0IEAIAQgAyAEIAMAACANeB/wF4AQuB/oTUEAIQQAwAga+B/oXtCa4QQBAAiRuB/4H+AUgQAZAyjFIQQAwCCEAQAQyngf6B/2X//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f85/oH/Af+B/hRAjAIAQgBCADAAAACHgf+B/gTFhMeBeIwSjFAQAAEZhcyQEQykDIUMIBADiXuB/4H8AQgQAhBCDEIIQQwgkAGFz4H+rf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/+f6J/gH/gf6JaBQCBDIAMgBAgBKAU4H/hQQQABABASkItJARECAIhgjUEACMAYwyjFCMERASBc+B/4H+hNQQAgRCjEAQA4z3gf6F//X//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Tf4B/wH/gfwQhBACgEIAQYAhACIB7QikEAGQMohgBIUQIoxRjDIMQZAyDEKMUYwxDCAMApBTgf+B/4H8gJQMAJARkDMB7wH/Qf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+mf4B/4H8hawUAYgyAEIAMAAAAY2BvIwRkDGQIQgiDEIMQZAxjDIQQBAAjBGQMhBRjCAQAYzHgf+B/pBRDBAQAglLgf6N//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/2H+gf6B/4H+jNQQAoBCADAAAYE7gf6E5BABlDEIIQgikFIQQQwihVmJORAyjNWFvJARDCAQAolYjRgQAAwDkHOB/wH/Wf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/yn+Af+B/oXdFCEMEoBAAAMA94H+gd4ExBADCHCElJASjFAQAoTXgf6F7wH/gf+M9BACDEEQEZAxjDAQAAWfgf6d//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/x/oH+gf+B/QkoFAKIQAABAKeB/4H/gf+BiQG+AUgQAgxRkDCMEYG/gf8B/wH/gf4QQIwSDEIMQBABjMeB/oH/6f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f89/gH/Af+B/xBQEACEE4Bzgf8B/oH/gf+B/IGsjBGQMoxQEAOE94H+gf6B/4H8CY0QIYwxDCCQEgXfgf6x//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f6N/gH/gf+JeBABjDEEIQG/gf6B/oH/Af+B/4SAEAKMUJARiDMB74H+gf+B/4H+kFEMIBAADQuB/oX/+f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Vf6B/wH/gfyMlBAADACMl4H/Af6B/oH/gfwFCBACDEIMQBABgTuB/oH/gfwNCBAAjBIQQ4H/Af9J//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+nf4B/4H9hbwQAQwgEAOJe4H+gf6B/4H8gawMAZAyDEAQA4hzgf+B/gXMkBEMIBACiWuB/pX//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/2X+Af6B/4H/DOQQAIwTEFOB/wH+gf8B/4H/CGCQEgxCEDAMAAGfgf2MtBAADAAQh4H+gf9d//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/y3+Af+B/wHtkDEMEBABCSuB/oH+gf+B/4TkEAIMQgxQEAOFBQW8EAEMIBAAha+B/qH//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/1/oX+gf+B/glIEAEMIRAihd+B/gH/gf+BiAwCDEIMQZAyiFKMYYwgEAKM14H+gf/t//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9F/gH/Af+B/5BwDAAQAozXgf6B/4H/gf6IUJASDEKMUQwhCCEQIRAihd+B/rn//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f6R/gH/gfwFjBABDCAQAQWvgf6B/4H+hNQQAgxCEEIIQgxAEAEJK4H+if/5//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Wf4B/oH/gf2MtBAAEAAQh4H/Af+B/wFoDAIQQgxCiEAQAxBTgf8B/03//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+of4B/4H+BcyQEQwgEAMJa4H/Af6B7ghBEBIEQgxAEAOJe4H+Ff/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/+3+gf6B/4H8DQgQAIwSEEOB/wH/gf6E1AgCiFAQAQyXgf6B/2H//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/zX+Af8B/4H+EECMEBAAjRuB/4H+gVgIAZAgEAGFv4H+qf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/5/oX+gf+B/olYEAEMIJATAe+B/BB0kBAQAwz3gf6B//H//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9N/gH/Af+B/BCEDAAQAA0bCWgQAQwRkDMB7wH/Qf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f6V/gH/gfyFnBABjDGQMRAhjDAQAglLgf6N//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Yf6B/oH/gf4MxBACDEGMMAwDkGOB/wH/Vf/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Jf4B/4H+hdyQEQwiDEAQAAWPgf6d//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//H+gf6B/4H9CSgQABACDLeB/oH/6f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/z3+Af8B/4H+jNUQpwHvAf6x//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/5/on+Af8B/4H/gf+B/gX/9f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9R/gH+gf6B/wH+Af9F//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f6Z/oH+gf6B/pH//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Zf4B/oH+Af9d//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/Pf4B/zX//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAAAAA==",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "category": "Erste Hilfe",
+    "question": "Welche Lagerung für eine bewusstlose Person ist richtig?",
+    "answers": [
+      "Kopf tief lagern",
+      "Flach auf den Rücken legen",
+      "Stabile Seitenlage"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 163,
+    "category": "Brennen und Löschen",
+    "question": "Wie verhält sich Wasser beim Verdampfen?",
+    "answers": [
+      "Sehr starke Volumenvergrößerung",
+      "Geringe Volumenvergrößerung",
+      "Wasser lässt sich nicht vollständig verdampfen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 164,
+    "category": "ABC-Einsatz",
+    "question": "Sie sehen auf einem Fass in einem Lager folgendes Schild (schwarz auf weiß-rotem Hintergrund). Welche Gefahr kann von diesem Stoff ausgehen??",
+    "answers": [
+      "Vergiftungsgefahr",
+      "Austritt von Gas",
+      "Brandgefahr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk1UOQAAAAAAADYAAAAoAAAAVQAAAFUAAAABABAAAAAAAB45AAASCwAAEgsAAAAAAAAAAAAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tnKB2bZ/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/vGOkLABUpCy8Y/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+bY6QkAWRHfAFkhCS8Y/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fzhfZCQBZEd4RnBHeAFoZCQ5X/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/1l4PLm1pBHhGcGZcRnAmeEVoay0YX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/WWowx/3czfgF4hTTDAIU4BHzKeJx3rTHWWv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZeCCWcc/9/8n0AMKQAZUjEACIwaHz/f5xvCCXWXv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/1l7nJHtv/3//f4w1IABmXCd8ZlxhAKY0/3//f3tv5yTWXv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/3Xucke2//f/9/rTUAAGZcJnxGZCZ8ZlwgAM41/3//f3tv5yTWXv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fzlfCCV7b/9//3+tNQAATF0lfEZoRmhGaCZ8h1wAAM45/3//f3tv5yT3Xv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/nF8hHPFt/3//f1JKAAB6Y5Z+AWRGaEZoRmgDZAt91l4AAFJK/3//f3tvByE5X/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+bX4QgAGR1fv9/Uk4AANZa/3/QcQFkRmhGaEZoBGiHbP9/1VYAAFJK/3//f01pIRybX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5xfhCABaAJ0+H73UgAAMUr/f/9/0HEBZEZoRmhGaARoiGz/f/9/MUoAAFJK/3+xfQBkhCCcX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/m1+DIAFoR3gmfAlJAAAxSv9//3//f9BxAWRGaEZoR3gEbIho33//f/9/MUoAANZKdX4BdAJohCCbX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//397W4MsAWhHeCZ8ZThBALVW/3//f/9//3/QcQFoRmxGbGRAA1yIdN9//3//f/9/lFYgAIU4RnxHeAFoYyx7W/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f1lbYywCcEd4JnyFNAAAU17/f/9//3//f/9/0HUCdEd4R3iCDAJMiHzff/9//3//f/9/1l5BAGQ4JnxHeAJsYzCbX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/GFumMAJwR3QmfIU0xAABWFV+/3//f/9//3//f/BdACBjKIMkQgghFKdg33//f/9//3//f/9/8F0AAIU0JnxHdAJwYyQ5W/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/WXqwpU24kdCZ8hTTEAGZcAnxTcv9//3//f/9//3/wZQAAZDxlVGIQAjCIbN9//3//f/9//3//f7B9AVTEAIU4JnwmdANkCCUYX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZaCCW9c/h+AXxlOMQAZlwmfAFkU3b/f/9//3//f/9/0X0AQGMkSHxjHANUaHz/f/9//3//f/9//3+vbQJ8ZlzEAIU4BXxneDlziyXWWv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/1loIJXtv/3/XfgE0xABmXCZ8RmQBZFN2/3//f/9//3//f9BxAnxjJGM0ZCgCTIh433//f/9//3//f/9/r3EBZEd8RlzEAEQ4BHy+f7xvCCXWWv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3/WXggle2//f/9/Dz4gAGZcJnxGZEZoAWRTdv9//3//f/9//3/QcQJsR3RiEGEEA1SIeN9//3//f/9//3//f69xAWRGZCZ8RliDAERAnX//f3tvCCXWXv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f7Va5yR7c/9//39SSgAAZVgmfEZkRmhGaAFkU3b/f/9//3//f/9/0HEBZEd8RVxhAAJQiHzff/9//3//f/9//3+vcQFkRmhGZCZ8RlhAAFJK/3//f3tz5yS1Wv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/GFsIIXtv/3//fzFKAACtVUZ8JmRGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZ0ZlwDYIhs33//f/9//3//f/9/r3EBZEZoRmhGaCd8ZUgAADFK/3//f3tv5yC1Vv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//397X0EktXL/f/9/MEYAANZSWn8CZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZ0BGyIaN9//3//f/9//3//f69xAWRGaEZoRmglaIl88EkAABBG/3//f3tzCCU5W/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tbYiwAbBl//3+tOQAA917/f7Z6AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJGgkaP9/GF8AAK05/3//f5V2QSx7W/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/m19jLAFsA3ScfxA6AAD3Xv9//3+VdgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoBGg6f/9/914AAM45/38ZfwBoYiybX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3+bX2MsAmwndGd8CTkAANZi/3//f/9/tXYCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaCRoOnv/f/9/92IAADA6fH8DcAFsYyybW/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f5tbgygBbEd0JnxEOAAA917/f/9//3//f7V2AWQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9/914AAAg5Z3wndAFsgyibW/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9/m1tjKAFsR3QmfIU8IAC0Xv9//3//f/9//3+1dgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoJGhae/9//3//f/9/914AAEQ8JnxHdAFsYyibW/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//384W0IoAmxHdCZ8hTykAAJY+H7/f/9//3//f/9/tnYCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaCRoWnv/f/9//3//f/9/lF4gAIU8JnxHdAJsYyhZW/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f9ZaiymnbAR0J3yFPMQARVgCfNZ2/3//f/9//3//f7Z2AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9//3//f/h+AlSjAGU8JnxHdAJsxSgYW/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9/tVopJZxzTHUCfGVExABmWAZ8AmTWdv9//3//f/9//3/WdgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoJGhae/9//3//f/9//3/WdgN8RVjEAGVIBnwkcJVyrCm1Wv9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3+1WgglnHP/f8l8AUTEAGZYJnwmaAJk1nb/f/9//3//f/9/1nYCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaCRoWnv/f/9//3//f/9/1nYCZAZ8ZVTDAGVIAnw6f71zCCW1Wv9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f7VaSi2cc/9//3/oQEAAZlQmfEZoJmgCZNZ2/3//f/9//3//f9Z2AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaCZ8ZVCkAAE8+X7/f5xzSi21Wv9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9/tVprMb13/3//f+89AABmWCZ8RmhGaCZoAmTWdv9//3//f/9//3/WdgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoJGhae/9//3//f/9//3/WdgJkJmhGaCZ8ZlggAO89/3//f713azG1Wv9//3//f/9//3//f/9/AAD/f/9//3//f/9//38YW2sxvXf/f/9/zj0AAKdYJnxGaEZoRmgmaAJk1nb/f/9//3//f/9/tnYCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaCRoWnv/f/9//3//f/9/1nYCZCZoRmhGaCZ8ZlgAAM49/3//f713azHWWv9//3//f/9//3//fwAA/3//f/9//3//fzlbCDG9d/9//3/vPQAAF19tfQJkRmhGaEZoJmgCZNZ2/3//f/9//3//f9Z2AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaEZoRmgmaEZ8EVoAAM49/3//f713azE5X/9//3//f/9//38AAP9//3//f/9/m19BKOlw/3//f849AAD3Xv9/yGgDZEZoRmhGaCZoAmTWdv9//3//f/9//3/WdgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoJGhae/9//3//f/9//3/WdgJkJmhGaEZoJmgCZHx/OF8AAM49/3//f5Z2QiybX/9//3//f/9/AAD/f/9//3+bX4QsAGRuff9/7z0AANZa/3//f8hoA2RGaEZoRmgmaAJk1nb/f/9//3//f/9/13YCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaARoWnv/f/9//3//f/9/1nYCZCZoRmhGaCZoAmTXdv9/1loAAO49/38ZfwBogyibX/9//3//fwAA/3//f5tfgywCbAJ08X1SQgAA1lr/f/9//3/pbANkRmhGaEZoJmgCZNZ2/3//f/9//3//f9d2AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaEZoRmgmaAJk1nb/f/9/1loAADFCnH8DdAFsgyibX/9//38AAP9/m1+DLAFsR3RHfEQ8AADWWv9//3//f/9/6WgDZEZoRmhGaCZoAmTWdv9//3//f/9//3/XdgJkJmhGaEZoRmgBZFN2/3//f/9//3//f9BxAWRGaEZoRmgEaIhs33//f/9//3//f/9/r3EBZEZoRmhGaCVoBGhae/9//3//f/9//3/WdgJkJmhGaEZoJmgCZNd2/3//f/9/1loAACo9Z3wndAFsgyybX/9/AAA5Y4QwAWhHdEZwREBCANZa/3//f/9//3//f+loA2RGaEZoRmgmaAJk1nb/f/9//3//f/9/13YCZCZoRmhGaEZoAWRTdv9//3//f/9//3/QcQFkRmhGaEZoBGiIbN9//3//f/9//3//f69xAWRGaEZoRmglaCRoWnv/f/9//3//f/9/1nYCZCZoRmhGaCZoAmTXdv9//3//f/9/1logAERARnBHdAFohTA5YwAAxiAAZEh8RmxmYAAAzUH/f/9//3//f/9//3/paANkRmhGaEZoJmgCZNZ2/3//f/9//3//f9d2AmQmaEZoRmhGaAFkU3b/f/9//3//f/9/0HEBZEZoRmhGaARoiGzff/9//3//f/9//3+vcQFkRmhGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaEZoRmgmaAJk13b/f/9//3//f/9/ckYAAGVYRnBIfABkxiAAADljhTQBbEd0RnBEQEIA1lr/f/9//3//f/9/6WwDZEZoRmhGaCZoAmTWdv9//3//f/9//3/XdgJkJmhGaEZoRmgBbHV+/3//f/9//3//f/F5AWxGcEZwRnAEbIhw/3//f/9//3//f/9/sHkBZEZoRmhGaCVoJGhae/9//3//f/9//3/WdgJkJmhGaEZoJmgCZNd2/3//f/9//3/WWiEAREBGcEd0AWiFMDljAAD/f5tfgywBbEd0R3xkPAAA1lr/f/9//3//f+loA2RGaEZoRmgmaAJk1nb/f/9//3//f/9/13YDZCZoRmhGaEZoAmQzbt57vXe9d7173nvQbQJkRmRGaEZkBGSHaL133nu9d713vXved69tAmRGaEZoRmglaARoWnv/f/9//3//f/9/1nYCZCZoRmhGaCZoAmTXdv9//3//f9ZaAAAqPWd8J3QBbIMsm1//fwAA/3//f5tfgywCbAJwM35yQgAA1lr/f/9//3/paANkRmhGaEZoJmgCZNZ2/3//f/9//3//f9d2A2QmaEZoRmhGfIUoQQAAAAAAAAAAAAAAQgSlBIQEhASECIQEhAQAAAAAAAAAAAAAAABDFEdwRmxGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaEZoRmgmaAJk1nb/f/9/1loAADFCnH8DcAFogyibX/9//38AAP9//3//f5tfhCgAZBJ+/3/vPQAA1lr/f/9/yGgDZEZoRmhGaCZoAmTWdv9//3//f/9//3/XdgNkJmhGaEZoRnBDSEo18EHvPe89EEIxRglJQ0hlPGU0ZTxESIZIEEYQQu9B7z3vQQ8+CUEkbEZsRmhGaCVoBGhae/9//3//f/9//3/WdgJkJmhGaEZoJmgCZNd2/3/WWgAAzj3/fxl/AGiDKJtf/3//f/9/AAD/f/9//3//f5tfISjRcf9//3/OPQAA917/f8hsA2RGaEZoRmgmaAJk1nb/f/9//3//f/9/13YDZCZoRmhGaEZkAXCWfv9//3//f/9//3/PcQBMZmQmfEZoI0iGbP9//3//f/9//3//f/F9AGRGaEZoRmglaCRoWnv/f/9//3//f/9/1nYCZCZoRmhGaCZoAmR8fzhfAADOPf9//3+WdkIsm1//f/9//3//fwAA/3//f/9//3//fxhbSjG9d/9//3/vPQAAF19tfQJkRmhGaEZoJmgCZNZ2/3//f/9//3//f9d2A2QmaEZoRmhGaAFkVHb/f/9/9lqtNWMQQQCGOEZkRnBGaIU0gwClFO9BvXf/f/9//3+vcQFkRmhGaEZoJWgEaFp7/3//f/9//3//f9Z2AmQmaEZoRmgmaEZ8EVoAAM49/3//f713azE5W/9//3//f/9//38AAP9//3//f/9//3//f/ZaazG9d/9//3/OPQAAh1gmfEZoRmhGaCZoAmTWdv9//3//f/9//3/XdgNkJmhGaEZoRmQCbLZ+F1fnHCEIAACDAExZJXxGbEZkRmwnfIZMAAAAAIQQtVb/f/9/j3EBZEZoRmhGaCVoJGhae/9//3//f/9//3/WdgJkJmhGaEZoJnxmWAAAzj3/f/9/vXdrMdZa/3//f/9//3//f/9/AAD/f/9//3//f/9//3//f7VaazG9d/9//3/vPQAAZlgmfEZoRmgmaAJk1nb/f/9//3//f/9/13YDZCZoRmhGaEZsRnzoNEEAAARCECEInGtUfgFkRmhGaEZoBGzrfBBGQQQhCAAAMUL/f691AWRGaEZoRmglaARoWnv/f/9//3//f/9/1nYCZCZoRmgmfGZYIADvPf9//3+9d2sxtVr/f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f7VaazG9d/9//3/oPEAAZlgmfEZoJmgCZNZ2/3//f/9//3//f9d2A2QmaEZoRmhGfIU0QQBjEIQYAACUUv9/jXUCbEZoRmhGbANc6nz/f8YUQgxjEAAAF1N1fgFkRmhGaEZoJWgkaFp7/3//f/9//3//f9Z2AmQmaCZ8ZlSjAAE4GX//f713azG1Wv9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f9ZaKSmcc/9/yXwBRMQAZlQmfCZoAmTWdv9//3//f/9//3/XdgNkJmhGaEZ4ZVSkAIQQhBSEFEIIMUZaY/FxAlBGbEZkRnQkWIQcvXfOOQAApRgiDOYIr20EcEZoRmhGaCVoJGhae/9//3//f/9//3/WdgJkBnxmVMQAZEQCfDp/vXMpKdVa/3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f7VaKSWcc0x5A3yFRMQARlgGfAJk1nb/f/9//3//f/9/13YDZCZoRmhGeIQohACEGIQUhBSlGAAAjC2TSgEoRnhGcIUsZlxCIMUMCCVjEIQUhBhiAERAR3xGaEZoRmglaCRoWnv/f/9//3//f/9/1nYDfEVYxABlRAZ8JXSVcqwptVr/f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f9ZaiymnbAV0JnyFPMQARVgCfNZ2/3//f/9//3//f9d2A2QmaEZwRmiEFIQMhBSEFIQUhBQhCGstah0jRCd8JnxlQKQIhSRCCEIMpRiEFIQUhARkJEZ0RmhGaEZoJWgkaFp7/3//f/9//3//f/h+AlSjAGU8JnxHdAJsxigYW/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//fzhbQigCbEd0JnyFOKQAAljYfv9//3//f/9//3/XdgNkJmhGdGVYhAyEEIQUhBSEFIQUhBSEEGMAZmBmXGZYRniEEIQEhBiEFIQUhBSEFIQQhBBGZEZwRmhGaCVoJGhae/9//3//f/9//3+UXiAAhTwmfEd0AWxjKFlb/3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f5tbYygBbEd0JnyFPCAAlF7/f/9//3//f/9/13YDZCZoRnRlXIQMpRRCCCEIpRiEFIQUYxCEDIVIpAiFLCZ8hSSECIQUhBSEFIQUYxBiEKQEZVAmeEZoRmglaCRoWnv/f/9//3//f/deAABEPCZ8R3QBbGMom1v/f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f5tbgygBbEd0JnxEOAAA917/f/9//3//f9d2A2QmaEZ0ZViEDEIEKR2MNUIMhBSEFIQUhBSEDIQEhCBGeIUkhAiEFIQUhBRCEAgl5xxBAIU4RnxGaEZoJWgkaFp7/3//f/9/914AAAg5aHwndAFsgyibW/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tfYywCbEd0R3wIOQAA1l7/f/9//3/XdgNkJmgmfGVQpAAACPhynGsAAIQUhBSEFIQUhBSEEIQUhUSEGIQQhBSEFIQUQgznIJRWQgBjFEZ0RmxGaCVoJGg6e/9//3/3YgAAMTp7fwNwAWxjLJtb/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tbYywBbANwfH8wPgAA1l7/f/9/13YDZCZoRnSEKIQYAWTYfptfIQSEFIQUhBSEFIQUhBSEFIQIhBCEFIQUYxBCDIQYAAA5Z1JSAABlREZ8RmglaCRoOnv/f/deAADOOf9/GH8AaGIsm1//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tbYiwAaPl+/3/OOQAA1lr/f/d6AmQmbEZkZVRGcAJwt36bYwAEhBSEFIQUhBSEFIQUhBSEEIQUhBRjEMccxhgAAAAAlD6XfgA8hBhGaEZsJWgkaP9/OF8AAK45/3//f5V6QSx7W/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f3tbISh1cv9//3/vPQAA1VZ8fwNkJWhGaEZ0RmwBZNh+WVsAAEIMAASEFIQUhBSEFIQUhBSEFIQUYxClFFprrTUAAA8qNH4CfEZkRmBGbCVoiHxTVgAAzj3/f/9/nHNKLRhb/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fxhbCCF7b/9//38xSgAAz1FnfCVkRmhGaEZoAWTYfpNCAAClGI01QgyEFIQUhAyEEIQUhBSEFIQUAAD3Yv9/hBDnENB1A2xGbEZsRmRHfGVIAAAxRv9//397b+cgtVb/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f7Va5yR7c/9//39ySgAARVhGfEZkRmhGaARwM3KEAEIIWmv/f4QUQgyEEIQkhBCEDIQYhBSEFAAAlFL/f1JKxgzRcQNsRmhGZCZ8RlhAAFJK/3//f3tz5yS1Wv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZeCCV7b/9//38QPiAAZlwmfEZkRmglcI1ZDzKcc/9//38pKQAEhAiFMGVchBCEEIQIhBAABLVW/38YZzAuE3YBaEZkJnxGWIMARECdf/9/e28IJdZe/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZaCCV7b/9/Gn8hNKMARlwmfEZkAWQzcv9//3//f/9/5xwhCIQUhARGcGVAhABkKCIMYxCcc/9/3n+9b9BxAWRHfEZcxABkOAR8vn+8bwgl1lr/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZaCCW9c1p/AnxkOMQARlwmfAFkVHb/f/9//397a0IIYxSEFIQAZVRlSEIAC2XHKAgZ/3//f/9//3+PbQJ8ZlzEAIU4BXxneBlziyXWWv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZerCW2bkV0BnyFOMQARlwCfFNy/3//f/9/MUYAAIQUhAyEEIQkhCQhBE1tazkwPv9//3//f/9/sH0BVMQAhTgmfCZ0A2QHJRhf/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fxhb5zADcEd0JnyFNMQAAVhVfv9//3//f6UYAABiAGZEZTiEAIQIIhDJbLZinG//f/9//3//f/BdAACFNCZ8R3QCcGMkOVv/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fzhbYjACbEd0JnyFOAAAUlr/f/9/7z0AAKUE6UAmfGQkhAiEDCIYh2z/f/9//3//f/9/115BAGQ4JnxHdAJsYzCbX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f3tbYzABbEd4RnxlOCAAtVr/f7VWlFb+bxN+AWSEEIQQhAQiMIh8/3//f/9//3/WWgAAZThGfEd4AWxjMHtb/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tfgyQBZEd4JnwJSQAAMUr/f/9//3/QeQFghBSEDIQEA1SIeN9//3//fzFKAADVSlR+AngBaIMkm1//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5xfhCABZAJ0+H72TgAAMUr/f/9/0HkBYIQUhASEHARwiGz/f/9/UUoAAFJK/3/RfQBkhCScX/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tfhCAAZHV+/39zTgAAtVb/f9B5AWCEFKQAZUAEfIdo/3/VVgAAUkr/f/9/TWkhHJtf/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5xfIRzxbf9//39SSgAAWV+WfgFkhBCEBGZgBHALfdZeAAAySv9//397bwchOV//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fzlfCCV7b/9//3+tOQAALFkmfIQYhBBGeCZ8h1wAAM45/3//f3tv5yT3Xv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/de5yR7b/9//3+tNQAAZ2RGXIUsJnxmXCAAzjX/f/9/e2/nJNZe/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9Ze5yR7b/9//3+MNSAARmAGfEZYYQCmNP9//397b+ck1l7/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZeCCW9d/9/8n0ALMQAZUzEACIwaHz/f5xzCCXWXv9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9ZaazH/ezN+AXiFNMMAhTQEfMp4vXesMdZa/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f9VaMDJuaQR4RnBlUEZwJnhFaIwx917/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fzhbZCQBaEd4RnBHeAFoZCQ4X/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAP9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tjpCQBZEd8AWSEJLxj/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9/AAD/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f7xjpCwAVKQsvGP/f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//fwAA/3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f5tnKB2bZ/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//3//f/9//38AAAAA",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "category": "ABC-Einsatz",
+    "question": "Welche Gefahr besteht bei folgender Kennzeichnung (schwarz-weiß)?",
+    "answers": [
+      "Gesundheitsgefahr",
+      "Gefahr durch erwärmte Stoffe",
+      "Verätzungsgefahr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk1wIQAAAAAAADYEAAAoAAAAVQAAAFUAAAABAAgAAAAAADodAAASCwAAEgsAAAAAAAAAAAAAAAAAAAEBAQACAgIAAwMDAAQEBAAFBQUABgYGAAcHBwAICAgACQkJAAoKCgALCwsADAwMAA0NDQAODg4ADw8PABAQEAAREREAEhISABMTEwAUFBQAFRUVABYWFgAXFxcAGBgYABkZGQAaGhoAGxsbABwcHAAdHR0AHh4eAB8fHwAgICAAISEhACIiIgAjIyMAJCQkACUlJQAmJiYAJycnACgoKAApKSkAKioqACsrKwAsLCwALS0tAC4uLgAvLy8AMDAwADExMQAyMjIAMzMzADQ0NAA1NTUANjY2ADc3NwA4ODgAOTk5ADo6OgA7OzsAPDw8AD09PQA+Pj4APz8/AEBAQABBQUEAQkJCAENDQwBEREQARUVFAEZGRgBHR0cASEhIAElJSQBKSkoAS0tLAExMTABNTU0ATk5OAE9PTwBQUFAAUVFRAFJSUgBTU1MAVFRUAFVVVQBWVlYAV1dXAFhYWABZWVkAWlpaAFtbWwBcXFwAXV1dAF5eXgBfX18AYGBgAGFhYQBiYmIAY2NjAGRkZABlZWUAZmZmAGdnZwBoaGgAaWlpAGpqagBra2sAbGxsAG1tbQBubm4Ab29vAHBwcABxcXEAcnJyAHNzcwB0dHQAdXV1AHZ2dgB3d3cAeHh4AHl5eQB6enoAe3t7AHx8fAB9fX0Afn5+AH9/fwCAgIAAgYGBAIKCggCDg4MAhISEAIWFhQCGhoYAh4eHAIiIiACJiYkAioqKAIuLiwCMjIwAjY2NAI6OjgCPj48AkJCQAJGRkQCSkpIAk5OTAJSUlACVlZUAlpaWAJeXlwCYmJgAmZmZAJqamgCbm5sAnJycAJ2dnQCenp4An5+fAKCgoAChoaEAoqKiAKOjowCkpKQApaWlAKampgCnp6cAqKioAKmpqQCqqqoAq6urAKysrACtra0Arq6uAK+vrwCwsLAAsbGxALKysgCzs7MAtLS0ALW1tQC2trYAt7e3ALi4uAC5ubkAurq6ALu7uwC8vLwAvb29AL6+vgC/v78AwMDAAMHBwQDCwsIAw8PDAMTExADFxcUAxsbGAMfHxwDIyMgAycnJAMrKygDLy8sAzMzMAM3NzQDOzs4Az8/PANDQ0ADR0dEA0tLSANPT0wDU1NQA1dXVANbW1gDX19cA2NjYANnZ2QDa2toA29vbANzc3ADd3d0A3t7eAN/f3wDg4OAA4eHhAOLi4gDj4+MA5OTkAOXl5QDm5uYA5+fnAOjo6ADp6ekA6urqAOvr6wDs7OwA7e3tAO7u7gDv7+8A8PDwAPHx8QDy8vIA8/PzAPT09AD19fUA9vb2APf39wD4+PgA+fn5APr6+gD7+/sA/Pz8AP39/QD+/v4A////AP///////////////////////////////////////////////////////3P///////////////////////////////////////////////////////8AAAD//////////////////////////////////////////////////////xr9Mv//////////////////////////////////////////////////////AAAA/////////////////////////////////////////////////////xb///8x/////////////////////////////////////////////////////wAAAP///////////////////////////////////////////////////xP//////y3///////////////////////////////////////////////////8AAAD//////////////////////////////////////////////////xP/////////Tf//////////////////////////////////////////////////AAAA/////////////////////////////////////////////////xD/////AP////8r/////////////////////////////////////////////////wAAAP///////////////////////////////////////////////xL/////ACAA/////yn///////////////////////////////////////////////8AAAD//////////////////////////////////////////////xH/////ACAfIAD/////LP//////////////////////////////////////////////AAAA/////////////////////////////////////////////xP////9ACAfHx8gAP////8q/////////////////////////////////////////////wAAAP///////////////////////////////////////////xb/////ACAfHx8fHyAA/////yz///////////////////////////////////////////8AAAD//////////////////////////////////////////xT////9ACAfHx8fHx8fIQD/////LP//////////////////////////////////////////AAAA/////////////////////////////////////////xf////+ACAfHxcMIgAiHx8hAP////8s/////////////////////////////////////////wCIHP///////////////////////////////////////xf////+ACAfHxOy/6z/BB8fHyEA/////zP///////////////////////////////////////8AUxz//////////////////////////////////////xL////+ACAfHx8e/wAfSd0ZHx8fIQD/////L///////////////////////////////////////AAAA/////////////////////////////////////xX/////ACAfHx8fNPIPISf2FB8fHx8gAP////8v/////////////////////////////////////wAdHP///////////////////////////////////xT/////ACAfHx8fHwXvhUL/JCAfHx8fHyEA/////y////////////////////////////////////8AAAD//////////////////////////////////xf/////ACAfHx8fHx8bhs508AgfHx8fHx8fIQD/////MP//////////////////////////////////AAAA/////////////////////////////////xb/////ACAfHx8fHx8fAP8AIIiKHx8fHx8fHx8hAP////8z/////////////////////////////////wAAAP///////////////////////////////xj/////ACAfHx8fHx8fHwj/TwD/Ix8fHx8fHx8fHyEA/////zP///////////////////////////////8AAAD//////////////////////////////xr/////ACAfHx8fHx8fHx8gAJ/YNSAfHx8fHx8fHx8fIQD/////Nf//////////////////////////////AAAA/////////////////////////////xj/////ACAfHx8fHx8fHx8fHx8dGh8fHx8fHx8fHx8fHx8hAP////81/////////////////////////////wAAAP///////////////////////////xz/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyEA/////1P///////////////////////////8AAAD//////////////////////////xn/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIAD/////M///////////////////////////AAAA/////////////////////////xj/////AB8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8gAP////8v/////////////////////////wAAAP///////////////////////xT/////AB8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyAA/////zD///////////////////////8AAAD//////////////////////xP/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIAD/////LP//////////////////////AAAA/////////////////////xP/////AB8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8gAP////8r/////////////////////wAAAP///////////////////w//////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyEA/////yr///////////////////8APhv//////////////////xL////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIQD/////Kf//////////////////ABUb/////////////////xL////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8hAP////8u/////////////////wDgGv///////////////xD////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyEA/////y////////////////8AAAD//////////////xb/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIAD/////Lf//////////////AAAA/////////////xX////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8gAP////8s/////////////wAAAP///////////xj////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyEA/////y3///////////8AAAD//////////xb////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIQD/////L///////////AAAA/////////xb////+ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8hAP////8t/////////wAAAP///////xX/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyEA/////zD///////8AAAD//////xT/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIgD/////L///////AAAA/////xj/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8hAP////9L/////wAAAP///xf/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHyAA/////zP///8AAAD//xr/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fIQD/////M///AAAA/xn/////ACAfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8gAP////82/wAAACD////iAD0rKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKzgA+////zAAAADvcP///yAJ//////////////////////////////////////////////////////////////bW3v////////////////////////////8Aaf///0v/AAAA/+ts////IgD//////////////////////////////////////////////////////w1PZoKftqp6RQBK7v////////////////////4Aav///0z//wAAAP//627///8iAP//////////oQAAAAAAAAAAAAAAAAAAAAAAAAAA8P///////////wAAAAAAfv///////3+c//////////////////0AaP///0j///8Alxn////okP///yMA/////////6gLDAwNDAwNDA0NDA0MDQwMDQwMAPL//////////EZgk5OT3v////////////////////////////4Aav///0f/////AGAZ/////+Ns////TgD///////+pCgwNDAwMDA4ADw0ADQwMDQwNDADy/////////wD//////////y0A//////////////////////wAaf///0b//////wAaGf//////62b///9NAP//////qAAAAAAAAAAA9////2kAAAAAAAAA8v////////+PAAAAAAB0/wD///////////////////////8AaP///0P///////8AAAD////////qav///0sA////////////////YRj//wBy//////////////////////8OiZSTfnYErPD//2A/Z/////////////4AZ////0j/////////AOMY/////////+pq////LgD//////////////x5m//+iFvT///////////////////////gZb+c9AACRRC/9+/////////////4AZ////0X//////////wAAAP//////////6Wn///8kAP///////////wIA8Y8NmGUa////////////////////////zYobyv//jO7///////////////8AZ////0n///////////8AAAD////////////obv///yMA/////////+ZrAP88AP8Ay7L/////////////////////////af//Bs3///////////////8AZf///0v/////////////AAAA/////////////+lr////JAD///////+RttD/ziP/ANCl////////////////////////hZIA/wBRE3PF//////////8AZf///0r//////////////wAAAP//////////////5p3///8kAP//////lf////9R////R////////////////////////wb/d/8UsObXAP////////8AZf///03///////////////8AAAD///////////////+blf///zIA////////////If///////////////////////////17/Au7/bv/Kf25d//////8AZP///0r9////////////////AGUA/////////////////+Zt////SgD/////////jQDn//////////////////////////9Q6y3//wCE/z7/AP////8AZv///07//////////////////wBpAP//////////////////6HH///9MAP////////8A////////////////////////////KP/A//8AU/8A/wz2//8AZ////0v9//////////////////8AUwD////////////////////qbf///00A////////BpTx////////////////////////////////CuX/////xv8AaP///0z/////////////////////AGQA/////////////////////+py////IQD//////wAAAAAAEViv9///////////////+qtmHAAAAADl//////8Aaf///1H//////////////////////wAAAP//////////////////////7HL///8gAP////8y/9/Fu3ZSKAEAABfU///UUiMAAAAADDBKcbeUov////8AaP///03///////////////////////8AAAD////////////////////////rcf///yEA///kJcj1////////////I/JpZsfj////////////2n7///8Aaf///1H/////////////////////////AAAA/////////////////////////+x1////IQD/atCzUAAAEG3Y/////7D3AP/////////EYAUACHcv//8AZ////0///////////////////////////wAAAP//////////////////////////6JL///8hAP/////////9oDYAAAAo/6ox0mocAABPsv////////8Aaf///1D///////////////////////////8AAAD////////////////////////////mcv///04A////////////////////+6/3//////////////4Aav///0//////////////////////////////AAAA/////////////////////////////+xs////TgD///////////////////////////////////8Aaf///0r//////////////////////////////wAAAP//////////////////////////////7Gz///9NAP////////////////////////////////4Aav///0z///////////////////////////////8AAAD////////////////////////////////ta////zIA//////////////////////////////0Aaf///0b/////////////////////////////////AAAA/////////////////////////////////+xm////JQD///////////////////////////0Aaf///0b//////////////////////////////////wAAAP//////////////////////////////////62r///8lAP///////////////////////v0AaP///0b///////////////////////////////////8AAAD////////////////////////////////////rZ////yYA//////////////////////8AaP///0X/////////////////////////////////////AAAA/////////////////////////////////////+mV////JgD///////////////////4AZv///0n//////////////////////////////////////wAAAP//////////////////////////////////////oZb///8wAP////////////////8AZf///0f///////////////////////////////////////8AAAD////////////////////////////////////////ma////0oA//////////////8AZv///0v/////////////////////////////////////////AAAA/////////////////////////////////////////+lu////SgD///////////8AZf///0v+/////////////////////////////////////////wAAAP//////////////////////////////////////////6Wr///9LAP////////8AZf///0v///////////////////////////////////////////8AAAD////////////////////////////////////////////ob////yMA//////8AZf///07/////////////////////////////////////////////AAAA/////////////////////////////////////////////+pu////JAD///8AZf///0v9/////////////////////////////////////////////wAAAP//////////////////////////////////////////////6Wz///8kAPQAZv///07///////////////////////////////////////////////8AAAD////////////////////////////////////////////////qcv///yMLZv///0z9////////////////////////////////////////////////AAAA/////////////////////////////////////////////////+aP////dv///03//////////////////////////////////////////////////wAAAP//////////////////////////////////////////////////43P//////1D///////////////////////////////////////////////////8AAAD////////////////////////////////////////////////////scP///07/////////////////////////////////////////////////////AAAA/////////////////////////////////////////////////////+1y/1P//////////////////////////////////////////////////////wAAAP//////////////////////////////////////////////////////7hT///////////////////////////////////////////////////////8AAAAAAA==",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "category": "Funk",
+    "question": "Eigenhändiges Ändern einer Nachricht ist dem Betriebspersonal...",
+    "answers": [
+      "in Einzelfällen erlaubt",
+      "verboten",
+      "freigestellt"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 167,
+    "category": "Sichern gegen Absturz",
+    "question": "Nennen Sie den Mindestabstand zur Absturzkante beim Rückhalten:",
+    "answers": [
+      "Zwei Meter",
+      "Fünf Meter",
+      "Einen halben Meter"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 168,
+    "category": "Fahrzeugkunde",
+    "question": "Welche Steckleiter befindet sich in der Regel auf dem Dach eines TSF-W?",
+    "answers": [
+      "Einteilige Steckleiter",
+      "Zweiteilige Steckleiter",
+      "Vierteilige Steckleiter"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 169,
+    "category": "Fahrzeugkunde",
+    "question": "Wieviele Atemschutzgeräte werden üblicherweise auf Feuerlöschfahrzeugen (Tanklöschfahrzeuge ausgenommen) mit Atemschutzausstattung mitgeführt?",
+    "answers": [
+      "2",
+      "6",
+      "4"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 170,
+    "category": "Löscheinsatz",
+    "question": "Mit welcher Ausrüstung geht der Angriffstrupp bei einem Brandeinsatz (Außenangriff) im Regelfall vor?",
+    "answers": [
+      "Pulverlöscher",
+      "Kübelspritze und C-Schlauch",
+      "Strahlrohr, Schlauchhalter, Beleuchtungsgerät"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 171,
+    "category": "Sichern gegen Absturz",
+    "question": "Kann das Halten mit Feuerwehr-Haltegurt und Feuerwehrleine durchgeführt werden?",
+    "answers": [
+      "Ja, es genügt eine Feuerwehrleine und der Feuerwehr-Haltegurt",
+      "Nein, hierzu benötigt man einen Gerätesatz Absturzsicherung",
+      "Nein, da die Feuerwehrleine das nicht aushält"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 172,
+    "category": "Fahrzeugkunde",
+    "question": "Was bedeutet die Bezeichnung FPN 10-1000?",
+    "answers": [
+      "Feuerlöschkreiselpumpe Normaldruck mit einer Nennförderstrecke von 1.000 m bei einem Nennförderdruck von 10 bar",
+      "Feuerwehrpumpennorm 10, Blatt 100",
+      "Feuerlöschkreiselpumpe Normaldruck mit einer Nennförderleistung von 1.000 l/min bei einem Nennförderdruck von 10 bar"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 173,
+    "category": "Funk",
+    "question": "Wann ist eine Lagemeldung erforderlich?",
+    "answers": [
+      "Wenn die Lage festgestellt (erkundet) wurde oder sich wesentlich verändert hat",
+      "Gleich nach dem Ausrücken",
+      "Wenn der Einsatzbefehl hierfür Zeit lässt"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 174,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Bei welchem Versicherungsträger sind Feuerwehrdienstleistende gegen Körperschäden versichert?",
+    "answers": [
+      "Berufsgenossenschaft Glas- und Keramik",
+      "Haftpflichtversicherung der Gemeinde",
+      "Kommunale Unfallversicherung Bayern"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 175,
+    "category": "Funk",
+    "question": "Wofür werden Handfunkgeräte in der Regel verwendet?",
+    "answers": [
+      "Funkverbindung von Feststation zu Fahrzeug",
+      "Funkverbindung von Einsatzkraft zu Einsatzkraft an der Einsatzstelle",
+      "Funkverbindung von Fahrzeug zu Fahrzeug"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 176,
+    "category": "Gerätekunde",
+    "question": "Welche Schaltstellungen besitzt ein Mehrzweckstrahlrohr?",
+    "answers": [
+      "Mittelstrahl, Strahlrohr zu/auf",
+      "Sprühstrahl, Strahlrohr auf/zu",
+      "Strahlrohr zu, Sprühstrahl, Vollstrahl"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 177,
+    "category": "Gerätekunde",
+    "question": "Welche ergänzende persönliche Ausrüstung ist beim Hilfeleistungseinsatz erforderlich?",
+    "answers": [
+      "Vollschutzanzug, Gesichtsschutz",
+      "Gesichtsschutz, Infektionsschutzhandschuhe",
+      "Schnittschutz (Beinlinge), Infektionsschutzhandschuhe"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 178,
+    "category": "Gerätekunde",
+    "question": "Wie viele Einsatzkräfte werden benötigt, um eine 4-teilige Steckleiter aufzustellen?",
+    "answers": [
+      "Zwei Personen",
+      "Eine Staffelbesatzung",
+      "Drei oder vier Personen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 179,
+    "category": "Gerätekunde",
+    "question": "Welche Schläuche werden bei der Wasserentnahme aus Hydranten verwendet?",
+    "answers": [
+      "Druckschläuche",
+      "Saugschläuche",
+      "Mineralölbeständige Schläuche"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 180,
+    "category": "Löscheinsatz",
+    "question": "Wer kuppelt bei einer Gruppe, bei der Wasserentnahme aus offenen Gewässern, die Saugleitung?",
+    "answers": [
+      "Angriffstrupp, der Wassertrupp unterstützt",
+      "Schlauchtrupp, der Wassertrupp unterstützt",
+      "Wassertrupp, der Schlauchtrupp unterstützt"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 181,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Wie schützt sich die Mannschaft bei technischen Hilfeleistungen auf öffentlichen Verkehrsflächen vor Gefahren durch den Verkehr?",
+    "answers": [
+      "Mannschaft bleibt im Löschfahrzeug",
+      "Mannschaft steigt auf Befehl zur verkehrsabgewandten Seite aus",
+      "Mannschaft tritt hinter dem Löschfahrzeug an"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 182,
+    "category": "Löscheinsatz",
+    "question": "Die Schläuche für Sonderrohre werden am Verteiler (in Fließrichtung)...",
+    "answers": [
+      "in der Mitte angeschlossen",
+      "links angeschlossen",
+      "rechts angeschlossen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 183,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie verhalten Sie sich, wenn Sie den Einsatzbefehl des Einheitsführers nicht richtig verstanden haben?",
+    "answers": [
+      "Ich bestätige mit „Verstanden Ende!“",
+      "Ich frage beim Einheitsführer nach",
+      "Ich verzichte auf die Wiederholung des Einsatzbefehls"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 184,
+    "category": "Brennen und Löschen",
+    "question": "Welche Stoffe gehören zur Brandklasse B?",
+    "answers": [
+      "Benzin, Diesel, Petroleum",
+      "Holz, Papier, Kohle",
+      "Propan, Butan, Acetylen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 185,
+    "category": "Verhalten im Einsatz",
+    "question": "Was versteht man unter Inkorporation?",
+    "answers": [
+      "Reinigung der Oberfläche von Lebewesen, des Bodens, von Gewässern und Gegenständen bei Verunreinigung mit ABC-Gefahrstoffen",
+      "Aufnahme von Schadstoffen in den Körper, zum Beispiel über die Atemwege oder bei der Nahrungsaufnahme",
+      "Verunreinigung der Oberfläche von Lebewesen, des Bodens, von Gewässern und Gegenständen mit ABC-Gefahrstoffen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 186,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Sie erhalten als Angriffstrupp vom Einheitsführer den Befehl: „Angriffstrupp zur Versorgung der Person im PKW vor!”. Welche erste Maßnahme führen sie durch?",
+    "answers": [
+      "Überprüfen der Vitalfunktionen",
+      "Sofortige Rettung der Person",
+      "Versuchen die Person zu befreien"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 187,
+    "category": "Verhalten im Einsatz",
+    "question": "Zu welcher Fahrzeugseite hin wird die Mannschaft bei Eintreffen an der Einsatzstelle im Regelfall absitzen, wenn der Einheitsführer keine anderen Anweisungen gibt?",
+    "answers": [
+      "Zur verkehrszugewandten Seite",
+      "Zur verkehrsabgewandten Seite",
+      "Alle Feuerwehrdienstleistenden steigen auf der ihrem Sitzplatz nächstgelegenen Fahrzeugseite aus"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 188,
+    "category": "Verhalten bei Gefahr",
+    "question": "Welche Abstände sind von Spannung führenden Teilen beim Einsatz von CM-Strahlrohren zu halten?",
+    "answers": [
+      "1 m für Sprühstrahl bei Niederspannung und 10 m für Vollstrahl bei Hochspannung",
+      "Entsprechend der Wurfweite des Strahlrohres",
+      "Wasser darf im Bereich der elektrischen Anlagen nicht eingesetzt werden"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 189,
+    "category": "Löscheinsatz",
+    "question": "Welche Aufgabe hat der Angriffstrupp bei der Vornahme des Verteilers?",
+    "answers": [
+      "Er setzt den Verteiler; die genaue Lage wird durch den Einheitsführer vorgegeben",
+      "Ist nicht seine Aufgabe als Angriffstrupp",
+      "Er bestimmt, wo das erste Rohr angeschlossen wird"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 190,
+    "category": "Löscheinsatz",
+    "question": "Als Angriffstrupp bekommen sie den Einsatzbefehl einen brennenden Palettenstapel im Freien abzulöschen. Welche Vorgehensweise wählen Sie?",
+    "answers": [
+      "Mit Sprühstrahl, um das Brandobjekt, stets außerhalb des Brandrauches, bewegend",
+      "Aus der Deckung mit einem Wasserwerfer",
+      "Mit Sprühstrahl, von einem festen Punkt aus"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 191,
+    "category": "Funk",
+    "question": "Nach welchen Gesetzmäßigkeiten breiten sich UKW-Funkwellen aus?",
+    "answers": [
+      "Sie folgen dem Verlauf der Erdkrümmung",
+      "Sie breiten sich mit Schallgeschwindigkeit aus",
+      "Sie breiten sich fast genauso aus wie Lichtstrahlen"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 192,
+    "category": "Funk",
+    "question": "Von welchen Faktoren hängt die Reichweite einer Funkverbindung ab?",
+    "answers": [
+      "Gruppeneinteilung/Kanaleinteilung",
+      "Akkuzustand",
+      "Bebauung, Geländeform und ggf. Witterung"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 193,
+    "category": "Verhalten bei Gefahr",
+    "question": "Wie lässt sich die Strahlenbelastung bei atomaren Gefahren verringern?",
+    "answers": [
+      "Abstand halten, Einsatzzeit begrenzen, Abschirmung nutzen",
+      "An der Einsatzstelle trinken, essen und rauchen",
+      "Mit Wasser-Sprühstrahl eine „Hydrowand” aufbauen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 194,
+    "category": "Verhalten im Einsatz",
+    "question": "Welche Einsatzgrundsätze gelten u. a. an der Einsatzstelle bezüglich der Einsatzhygiene?",
+    "answers": [
+      "Wird erst durch den Einheitsführer bestimmt",
+      "Im Gefahrenbereich nicht essen, trinken und rauchen",
+      "Die Einsatzhygiene ist erst im Feuerwehrhaus durchzuführen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 195,
+    "category": "Löscheinsatz",
+    "question": "Wie verhalten Sie sich als Truppführer beim Erkennen einer Eigengefährdung des Trupps?",
+    "answers": [
+      "Der Trupp geht geschlossen zurück, Rückmeldung an den Einheitsführer",
+      "Jeder im Trupp tritt für sich den Rückzug an",
+      "Wartet die Situation ab"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 196,
+    "category": "Gerätekunde",
+    "question": "Welche Schutzhandschuhe sind bei der Behandlung von Verletzten zu verwenden?",
+    "answers": [
+      "Infektionsschutzhandschuhe",
+      "5-Finger-Lederhandschuhe mit langen Stulpen und Verstärkungen",
+      "Mineralölbeständige Schutzhandschuhe"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 197,
+    "category": "Hilfeleistungseinsatz",
+    "question": "Welche Aufgabe übernimmt der Schlauchtrupp bei einem Hilfeleistungseinsatz?",
+    "answers": [
+      "Die Gerätebereitstellung",
+      "Die Sicherung",
+      "Die Rettung"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 198,
+    "category": "Fahrzeugkunde",
+    "question": "Welche Verwendung hat das LF 20 KatS?",
+    "answers": [
+      "Rettung von Personen aus Höhen",
+      "Technische Hilfeleistung großen Umfangs",
+      "Brandbekämpfung, schnelle Wasserabgabe, Wasserförderung, technische Hilfeleistung"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 199,
+    "category": "Löscheinsatz",
+    "question": "Wer verlegt im Regelfall bei der Staffel im Löscheinsatz die B-Schlauchleitung zum Verteiler?",
+    "answers": [
+      "Angriffstrupp",
+      "Maschinist",
+      "Wassertrupp"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 200,
+    "category": "Sichern gegen Absturz",
+    "question": "Wie weit darf man beim Rückhalten an die Absturzkante heran treten?",
+    "answers": [
+      "Ein Abstand von zwei Metern zur Absturzkante ist einzuhalten",
+      "Es darf unmittelbar bis an die Absturzkante heran getreten werden",
+      "Kurzzeitige Arbeiten an der Absturzkante sind erlaubt"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 201,
+    "category": "Löscheinsatz",
+    "question": "Der Einheitsführer befiehlt: „Wasserentnahmestelle der Überflurhydrant am Bürgersteig, Verteiler zur Gartentür, zum Einsatz fertig!”. Sie sind Angriffstruppführer, wie platzieren sie den Verteiler?",
+    "answers": [
+      "Seitlich versetzt, damit der Zugang zum Gebäude nicht behindert wird",
+      "Direkt in die offene Gartentür",
+      "Mittig, unmittelbar hinter der Gartentür"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 202,
+    "category": "ABC-Einsatz",
+    "question": "Welche Nummernsysteme befinden sich auf einer orangefarbenen Warntafel?",
+    "answers": [
+      "Gefährdungsnummer und Einsatznummer",
+      "Transportkennzahl und Gefahrencode",
+      "Stoffnummer und Nummer zur Kennzeichnung der Gefahr"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false,
+    "images": [
+      {
+        "data": "Qk0UCQAAAAAAADYAAAAoAAAAKQAAABsAAAABABAAAAAAAN4IAAASCwAAEgsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAdkB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB2QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHZAdkB6QHZAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB2QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB2QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAdkB2QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB2QHoAAAAAAABAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAdkB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHYAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHpAdkB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAABAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAdkB6QHoAAAAAAABAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHYAAAAAAABAekB6QHpAekB6QHpAekB6QHZAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHpAekB6QHoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mime_type": "image/bmp"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "category": "Brennen und Löschen",
+    "question": "Wer ist für die Auswahl des einzusetzenden Löschmittels zuständig?",
+    "answers": [
+      "Gruppenführer oder Einheitsführer",
+      "Truppführer",
+      "Truppmann"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 204,
+    "category": "Löscheinsatz",
+    "question": "Wo wird am Verteiler das 2. C-Rohr angeschlossen (in Fließrichtung des Wassers betrachtet)?",
+    "answers": [
+      "links",
+      "rechts",
+      "mittig"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 205,
+    "category": "Gerätekunde",
+    "question": "Welche Schaltmöglichkeiten müssen bei einem genormten Hohlstrahlrohr gegeben sein?",
+    "answers": [
+      "Sprühstrahl und Vollstrahl, Einstellmöglichkeit der Wasserstrahlform",
+      "Durchflussmengeneinstellung, Strahlrohr auf/zu",
+      "Strahlrohr auf/zu, Einstellmöglichkeit der Wasserstrahlform und Durchflussmengeneinstellung"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  },
+  {
+    "id": 206,
+    "category": "Funk",
+    "question": "Eine formlose Nachricht ist...",
+    "answers": [
+      "eine Meldung",
+      "eine Durchsage",
+      "ein Spruch"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 207,
+    "category": "Erste Hilfe",
+    "question": "Wie betreue ich als Ersthelfer (Feuerwehrdienstleistender) eine verletzte Person?",
+    "answers": [
+      "Das ist nicht Aufgabe der Feuerwehr",
+      "Ich leiste Erste Hilfe. Sage, dass ich für ihn da bin, dass der Rettungsdienst informiert ist. Ich spreche ihm gut zu und höre zu",
+      "Ich warte bis der Rettungsdienst an der Einsatzstelle ist"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 208,
+    "category": "Löscheinsatz",
+    "question": "Der Gruppenführer verlangt, dass Sie seinen Befehl wiederholen. Warum?",
+    "answers": [
+      "Zeitersparnis",
+      "Damit er weiß, ob Sie ihn verstanden haben",
+      "Weil es zum Anstand gehört"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 209,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Rechte des Feuerwehrdienstleistenden sind:",
+    "answers": [
+      "Lohnfortzahlung durch Arbeitgeber; Versicherungsschutz bei Personen- und Sachschäden; Freistellung bei Einsätzen",
+      "Teilnahme am Dienst nur dann, wenn er Zeit hat",
+      "Anspruch auf Platz im Feuerwehrerholungsheim"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 210,
+    "category": "Verhalten im Einsatz",
+    "question": "Welche Hygienemaßnahme ist beim Umgang mit Verletzten zu beachten?",
+    "answers": [
+      "Es ist ausreichend, nach dem Einsatz sich gründlich die Hände zu waschen",
+      "Beim Umgang mit Verletzten sind Infektionsschutzhandschuhe zu tragen",
+      "Die Feuerwehrhandschuhe stellen einen genügenden Schutz dar"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 211,
+    "category": "Verhalten bei Gefahr",
+    "question": "Wie kann sich der Angriffstrupp vor der Gefahr durch Brandausbreitung schützen?",
+    "answers": [
+      "Nur mit Wasser am Rohr vorgehen",
+      "Schnell und ohne Sicherung der Rückzugswege zum Brandherd vordringen, um die Ausbreitungszeit zu begrenzen",
+      "Nur unter umluftunabhängigem Atemschutz vorgehen"
+    ],
+    "correct": 0,
+    "explanation": "Laut Lösungsbogen: A",
+    "multiple_choice": false
+  },
+  {
+    "id": 212,
+    "category": "Verhalten im Einsatz",
+    "question": "Wie erfolgt die Übertragung von Krankheitserregern bei einer Tröpfcheninfektion?",
+    "answers": [
+      "Durch den Kontakt mit Körperflüssigkeiten eines Verletzten (z. B. Blut, Erbrochenes)",
+      "Durch Husten, Niesen oder Ansprechen",
+      "Durch Tragen von Infektionsschutzhandschuhen"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 213,
+    "category": "Rechtsgrundlagen und Organisation",
+    "question": "Mit welchem Gesetz wird das Feuerwehrwesen in Bayern geregelt?",
+    "answers": [
+      "Bayerisches Katastrophenschutzgeset",
+      "Bayerisches Feuerwehrgesetz",
+      "Schornsteinfegergesetz"
+    ],
+    "correct": 1,
+    "explanation": "Laut Lösungsbogen: B",
+    "multiple_choice": false
+  },
+  {
+    "id": 214,
+    "category": "Gerätekunde",
+    "question": "Was müssen sie als Truppführer beim Aufstellen einer tragbaren Leiter u. a. beachten?",
+    "answers": [
+      "Fußteil so nahe wie möglich an das Gebäude",
+      "Leiterkopf darf nicht über den Einstieg (z. B. Fenster) hinausragen",
+      "Leiter grundsätzlich immer sichern"
+    ],
+    "correct": 2,
+    "explanation": "Laut Lösungsbogen: C",
+    "multiple_choice": false
+  }
+]

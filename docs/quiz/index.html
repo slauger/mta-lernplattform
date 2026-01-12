@@ -164,42 +164,16 @@
             line-height: 1.6;
         }
 
+        .answer-option:hover {
+            background: #e8eaf6 !important;
+            border-color: #667eea !important;
+        }
+
         .answer-reveal {
             background: #f8f9fa;
             padding: 20px;
             border-radius: 10px;
             margin-top: 20px;
-        }
-
-        .answer-label {
-            font-weight: 600;
-            color: #667eea;
-            margin-bottom: 10px;
-        }
-
-        .answer-text {
-            color: #333;
-            line-height: 1.6;
-            margin-bottom: 15px;
-        }
-
-        .explanation {
-            background: #e8f4f8;
-            padding: 15px;
-            border-left: 4px solid #667eea;
-            border-radius: 4px;
-            margin-top: 15px;
-        }
-
-        .explanation-label {
-            font-weight: 600;
-            color: #333;
-            margin-bottom: 8px;
-        }
-
-        .explanation-text {
-            color: #555;
-            line-height: 1.6;
         }
 
         .progress {
@@ -278,16 +252,20 @@
 
         <!-- Controls -->
         <div class="controls" id="controls">
+            <!-- Progress Info -->
+            <div id="progressInfo"></div>
+
             <div class="control-group">
-                <label for="categoryFilter">Kategorie:</label>
-                <select id="categoryFilter">
-                    <option value="all">Alle Kategorien</option>
+                <label for="catalogFilter">Prüfung:</label>
+                <select id="catalogFilter" onchange="loadQuestions()">
+                    <option value="questions-mta-basismodul.json">MTA - Basismodul (Zwischenprüfung)</option>
+                    <option value="questions-mta-truppfuehrer.json">MTA - Truppführer (Abschlussprüfung)</option>
                 </select>
             </div>
 
             <div class="control-group">
                 <label for="questionCount">Anzahl Fragen:</label>
-                <input type="number" id="questionCount" min="1" max="25" value="10">
+                <input type="number" id="questionCount" min="1" max="50" value="10">
             </div>
 
             <div class="control-group">
@@ -296,9 +274,25 @@
                 </label>
             </div>
 
+            <div class="control-group">
+                <label>
+                    <input type="checkbox" id="randomizeAnswers" checked> Antworten durchmischen
+                </label>
+            </div>
+
             <div class="button-group">
-                <button class="btn-primary" onclick="startQuiz()">Quiz starten</button>
-                <button class="btn-secondary" onclick="window.location.href='../'">Zurück zur Übersicht</button>
+                <button class="btn-primary" onclick="startQuiz()">📝 Quiz starten</button>
+                <button class="btn-primary" onclick="startQuizNewOnly()">🆕 Nur neue Fragen</button>
+            </div>
+
+            <div class="button-group" style="margin-top: 15px;">
+                <button class="btn-wrong" onclick="startQuizWrongOnly()">❌ Nur falsche Fragen</button>
+                <button class="btn-secondary" onclick="clearProgress()">🔄 Fortschritt zurücksetzen</button>
+            </div>
+
+            <div class="button-group" style="margin-top: 15px;">
+                <button class="btn-secondary" onclick="window.location.href='browse.html'">📚 Alle Fragen durchsehen</button>
+                <button class="btn-secondary" onclick="window.location.href='../'">← Zurück zur Übersicht</button>
             </div>
         </div>
 
@@ -308,30 +302,11 @@
             <div class="category-badge" id="category"></div>
             <div class="question" id="question"></div>
 
-            <div class="button-group">
-                <button class="btn-primary" onclick="showAnswer()">Antwort zeigen</button>
-            </div>
+            <!-- Feedback section (shown after answer) -->
+            <div id="feedbackSection" class="hidden"></div>
 
-            <div class="answer-reveal hidden" id="answerReveal">
-                <div class="answer-label">✅ Antwort:</div>
-                <div class="answer-text" id="answer"></div>
-
-                <div class="explanation">
-                    <div class="explanation-label">💡 Erklärung:</div>
-                    <div class="explanation-text" id="explanation"></div>
-                </div>
-
-                <div class="reference-link" id="referenceLink" style="margin-top: 15px;">
-                    <a href="" id="referenceHref" target="_blank" style="color: #667eea; text-decoration: none; font-weight: 600;">
-                        📖 Mehr dazu im Theorie-Kapitel →
-                    </a>
-                </div>
-
-                <div class="button-group" style="margin-top: 20px;">
-                    <button class="btn-correct" onclick="markCorrect()">✅ Richtig gewusst</button>
-                    <button class="btn-wrong" onclick="markWrong()">❌ Falsch / Nochmal lernen</button>
-                </div>
-            </div>
+            <!-- Old answer reveal (kept for compatibility, not used anymore) -->
+            <div class="answer-reveal hidden" id="answerReveal"></div>
         </div>
 
         <!-- Progress -->
