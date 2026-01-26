@@ -23,57 +23,88 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 
 ## Fahrzeuge der FF Goldkronach
 
-!!! warning "Bitte ergänzen!"
-    Die folgenden Fahrzeugdaten sind **Beispiele**. Frag beim Kommandanten nach den **tatsächlichen** Fahrzeugen!
+Die FF Goldkronach verfügt über drei Einsatzfahrzeuge:
 
-### Fahrzeug 1: Löschgruppenfahrzeug (LF)
+### Fahrzeug 1: Kommandowagen (KdoW)
 
-**Typ:** LF 10/6 oder LF 20
+**Typ:** Kommandowagen (KdoW)
 
-**Funkrufname:** Florian Goldkronach 40/1
+**Funkrufname:** Florian Goldkronach 11/1
 
-**Besatzung:** 9 Personen (1 Gruppe)
-
-**Beladung:**
-
-- Feuerlöschpumpe (Frontpumpe)
-- Wassertank: 1000-2000 Liter
-- B-Schläuche (75 mm)
-- C-Schläuche (42/52 mm)
-- Strahlrohre (Hohlstrahlrohre, Wenderohr)
-- Tragbare Leitern (Steckleiter, Schiebleiter)
-- Atemschutzgeräte (4x)
-- Beleuchtungsgeräte
-- Kleinlöschgeräte (Feuerlöscher)
-
----
-
-### Fahrzeug 2: Tanklöschfahrzeug (TLF) / Hilfeleistungslöschfahrzeug (HLF)
-
-**Typ:** TLF 16/25 oder HLF 20
-
-**Funkrufname:** Florian Goldkronach 40/2
-
-**Besatzung:** 9 Personen
-
-**Besonderheiten:**
-
-- Großer Wassertank (2500-5000 Liter)
-- Ggf. hydraulisches Rettungsgerät (bei HLF)
-- Schaummittel
-
----
-
-### Fahrzeug 3: Mannschaftstransportfahrzeug (MTW)
-
-**Funkrufname:** Florian Goldkronach 40/10
-
-**Besatzung:** 6-9 Personen
+**Besatzung:** 1-3 Personen (Führungskräfte)
 
 **Zweck:**
 
-- Transport von Personal zur Einsatzstelle
-- Unterstützung bei größeren Einsätzen
+- Einsatzleitung vor Ort
+- Transport von Führungskräften (Kommandant, Gruppenführer)
+- Erkundung der Einsatzstelle
+- Koordination und Kommunikation
+
+**Besonderheiten:**
+
+- Schnelles Fahrzeug für rasche Erkundung
+- Funkausrüstung für Einsatzleitung
+- Keine Löschausrüstung an Bord
+
+---
+
+### Fahrzeug 2: Tragkraftspritzenfahrzeug (TSF)
+
+**Typ:** Tragkraftspritzenfahrzeug (TSF)
+
+**Funkrufname:** Florian Goldkronach 44/1
+
+**Besatzung:** 6 Personen (1 Staffel: 1 Staffelführer + 5 Feuerwehrleute)
+
+**Beladung:**
+
+- **Tragkraftspritze TS 8/8** (800 L/min Pumpleistung)
+- Wassertank: ca. 400 Liter
+- B-Schläuche (75 mm)
+- C-Schläuche (42/52 mm)
+- Strahlrohre (Hohlstrahlrohr, CM-Rohr)
+- Tragbare Leitern (Steckleiter)
+- Atemschutzgeräte (2-4x)
+- Beleuchtungsgeräte
+- Kleinlöschgeräte (Feuerlöscher)
+
+**Zweck:**
+
+- Erste Löschmaßnahmen bei kleinen und mittleren Bränden
+- Technische Hilfeleistung
+- Standardfahrzeug für die meisten Einsätze
+
+---
+
+### Fahrzeug 3: Gerätewagen Logistik 2 (GW-L2)
+
+**Typ:** Gerätewagen Logistik 2 / Versorgungs-LKW
+
+**Funkrufname:** Florian Goldkronach 56/1
+
+**Besatzung:** 1-3 Personen (je nach Einsatz)
+
+**Beladung:**
+
+- Umfangreiche Geräteausstattung
+- Zusätzliche Schläuche und Armaturen
+- Beleuchtungsgeräte (Flutlichtstrahler, Stromerzeuger)
+- Material für längere Einsätze
+- Absperr- und Sicherungsmaterial
+- Verpflegung und Versorgungsmaterial
+- Ggf. zusätzliche Atemschutzgeräte
+
+**Zweck:**
+
+- Logistische Unterstützung bei größeren Einsätzen
+- Transport von zusätzlichem Material
+- Versorgung der Einsatzkräfte (Wasser, Verpflegung)
+- Unterstützung bei Großschadenslagen
+
+**Besonderheiten:**
+
+- LKW über 7,5 Tonnen (Führerschein C/CE erforderlich)
+- Wird meist bei längeren Einsätzen oder Großlagen nachalarmiert
 
 ---
 
@@ -288,7 +319,7 @@ Nutze den nächsten Übungsabend, um diese Fragen zu klären:
 |--------|-------------|
 | **Landkreis** | Bayreuth |
 | **Leitstelle** | ILS Bayreuth |
-| **Fahrzeuge** | LF, TLF/HLF, MTW (Details beim Kommandanten erfragen!) |
+| **Fahrzeuge** | KdoW (11/1), TSF (44/1), GW-L2 (56/1) |
 | **Typische Einsätze** | Wohnungsbrände, Verkehrsunfälle, Sturmschäden |
 | **Besonderheit** | Ländliche Gegend, lange Anfahrtswege, Waldnähe |
 
