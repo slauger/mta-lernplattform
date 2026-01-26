@@ -1,0 +1,9 @@
+# Development dependencies
+# Includes all production dependencies plus development tools
+
+# Production dependencies
+-r requirements.txt
+
+# Dependencies for extract_any_exam.py
+requests>=2.31.0
+beautifulsoup4>=4.12.0
