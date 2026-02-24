@@ -23,88 +23,89 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 
 ## Fahrzeuge der FF Goldkronach
 
-Die FF Goldkronach verfügt über drei Einsatzfahrzeuge:
+Die FF Goldkronach verfügt über vier Einsatzfahrzeuge und zwei Anhänger:
 
-### Fahrzeug 1: Kommandowagen (KdoW)
+### Fahrzeug 1: Mehrzweckfahrzeug (MZF)
 
-**Typ:** Kommandowagen (KdoW)
+**Typ:** Mehrzweckfahrzeug (MZF)
 
 **Funkrufname:** Florian Goldkronach 11/1
 
-**Besatzung:** 1-3 Personen (Führungskräfte)
-
 **Zweck:**
 
-- Einsatzleitung vor Ort
-- Transport von Führungskräften (Kommandant, Gruppenführer)
-- Erkundung der Einsatzstelle
-- Koordination und Kommunikation
-
-**Besonderheiten:**
-
-- Schnelles Fahrzeug für rasche Erkundung
-- Funkausrüstung für Einsatzleitung
-- Keine Löschausrüstung an Bord
+- Transport der Mannschaft
+- Einsatzleitfahrzeug bei örtlichen Schadensereignissen
+- Bei größeren Einsätzen: Fahrzeug der Unterstützungsgruppe
 
 ---
 
-### Fahrzeug 2: Tragkraftspritzenfahrzeug (TSF)
+### Fahrzeug 2: Hilfeleistungslöschgruppenfahrzeug (HLF 20/16)
+
+**Typ:** Hilfeleistungslöschgruppenfahrzeug (HLF 20/16)
+
+**Funkrufname:** Florian Goldkronach 40/1
+
+**Aufbau:** Magirus Alufire 3
+
+**Besonderheiten:**
+
+- Einzelbereifung und Differentialsperren für bessere Geländegängigkeit
+
+---
+
+### Fahrzeug 3: Tragkraftspritzenfahrzeug (TSF)
 
 **Typ:** Tragkraftspritzenfahrzeug (TSF)
 
 **Funkrufname:** Florian Goldkronach 44/1
 
-**Besatzung:** 6 Personen (1 Staffel: 1 Staffelführer + 5 Feuerwehrleute)
+**Besonderheiten:**
 
-**Beladung:**
-
-- **Tragkraftspritze TS 8/8** (800 L/min Pumpleistung)
-- Wassertank: ca. 400 Liter
-- B-Schläuche (75 mm)
-- C-Schläuche (42/52 mm)
-- Strahlrohre (Hohlstrahlrohr, CM-Rohr)
-- Tragbare Leitern (Steckleiter)
-- Atemschutzgeräte (2-4x)
-- Beleuchtungsgeräte
-- Kleinlöschgeräte (Feuerlöscher)
-
-**Zweck:**
-
-- Erste Löschmaßnahmen bei kleinen und mittleren Bränden
-- Technische Hilfeleistung
-- Standardfahrzeug für die meisten Einsätze
+- Ehemals Florian Leisau 44/1 (Umbenennung nach Zusammenlegung der Feuerwehren 2021)
 
 ---
 
-### Fahrzeug 3: Gerätewagen Logistik 2 (GW-L2)
+### Fahrzeug 4: Gerätewagen Logistik 2 (GW-L2)
 
-**Typ:** Gerätewagen Logistik 2 / Versorgungs-LKW
+**Typ:** Gerätewagen Logistik 2 (GW-L2)
 
 **Funkrufname:** Florian Goldkronach 56/1
 
-**Besatzung:** 1-3 Personen (je nach Einsatz)
-
 **Beladung:**
 
-- Umfangreiche Geräteausstattung
-- Zusätzliche Schläuche und Armaturen
-- Beleuchtungsgeräte (Flutlichtstrahler, Stromerzeuger)
-- Material für längere Einsätze
-- Absperr- und Sicherungsmaterial
-- Verpflegung und Versorgungsmaterial
-- Ggf. zusätzliche Atemschutzgeräte
+- Modul Wasserversorgung mit 2.000 m B-Druckschlauch
+- Ausrüstung zur Wasserversorgung an abgelegenen Einsatzstellen
 
 **Zweck:**
 
 - Logistische Unterstützung bei größeren Einsätzen
-- Transport von zusätzlichem Material
-- Versorgung der Einsatzkräfte (Wasser, Verpflegung)
-- Unterstützung bei Großschadenslagen
+- Transport von Mannschaft und Gerät
+- Wasserversorgung über lange Wegstrecken
+
+---
+
+### Anhänger 1: Transportanhänger (Auwärter)
+
+**Typ:** Transportanhänger
+
+**Zweck:**
+
+- Transport der Sandsackfüllmaschine des Landkreises Bayreuth
+- Einsatz bei Hochwasser und Starkregenereignissen
+
+---
+
+### Anhänger 2: Transportanhänger (Brenderup)
+
+**Typ:** Transportanhänger
+
+**Zweck:**
+
+- Allgemeine Transportaufgaben (Schläuche, Sandsäcke etc.)
 
 **Besonderheiten:**
 
-- LKW über 7,5 Tonnen (Führerschein C/CE erforderlich)
-- Wird meist bei längeren Einsätzen oder Großlagen nachalarmiert
+- Spende der Firma SMB Goldkronach
 
 ---
 
@@ -225,7 +226,7 @@ Die FF Goldkronach verfügt über drei Einsatzfahrzeuge:
 **Typ:** Meist Unterflurhydranten
 
 !!! warning "Wichtig für dich"
-    Bei Einsätzen in Außenbereichen (Felder, Wald) ist die Wasserversorgung schwieriger! Hier kommt oft das TLF zum Einsatz (viel Wasser an Bord).
+    Bei Einsätzen in Außenbereichen (Felder, Wald) ist die Wasserversorgung schwieriger! Hier kommen das HLF 20/16 (Wassertank an Bord) und der GW-L2 mit dem Modul Wasserversorgung (2.000 m B-Druckschlauch) zum Einsatz.
 
 ---
 
@@ -319,7 +320,7 @@ Nutze den nächsten Übungsabend, um diese Fragen zu klären:
 |--------|-------------|
 | **Landkreis** | Bayreuth |
 | **Leitstelle** | ILS Bayreuth |
-| **Fahrzeuge** | KdoW (11/1), TSF (44/1), GW-L2 (56/1) |
+| **Fahrzeuge** | MZF (11/1), HLF 20/16 (40/1), TSF (44/1), GW-L2 (56/1) |
 | **Typische Einsätze** | Wohnungsbrände, Verkehrsunfälle, Sturmschäden |
 | **Besonderheit** | Ländliche Gegend, lange Anfahrtswege, Waldnähe |
 
@@ -327,7 +328,7 @@ Nutze den nächsten Übungsabend, um diese Fragen zu klären:
 
 ## Weiterführende Informationen
 
-- **Webseite FF Goldkronach:** [Link einfügen, falls vorhanden]
+- **Webseite FF Goldkronach:** https://goldkronach.feuerwehren.bayern/
 - **KFV Bayreuth:** https://kfv-bayreuth-lehrgaenge.de/
 - **ILS Bayreuth:** [Link einfügen]
 
