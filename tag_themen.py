@@ -48,18 +48,26 @@ BASISMODUL = {
     **dict.fromkeys([62, 108], "gefahr"),
     # Hygiene (7.2)
     88: "einsatz",
+    # Feuerlöscher-Auswahl (5.4)
+    72: "psa",
+    # Kontamination / Inkorporation (12.2)
+    **dict.fromkeys([145, 185], "gefahr"),
+    # Medikamente / Einsatzfähigkeit (6.2)
+    76: "belastung",
+    # Brustbund-Knoten (5.10), wie Frage 41
+    39: "knoten",
 }
 
 TRUPPFUEHRER = {
-    **dict.fromkeys([1, 10, 22, 26, 50, 51, 52, 58], "brennen"),
-    **dict.fromkeys([2, 3, 11, 12, 13, 19, 31, 39, 47, 48, 49, 57, 60], "loescheinsatz"),
-    **dict.fromkeys([4, 15, 16, 29, 45, 54], "absturz"),
+    **dict.fromkeys([26, 28, 42, 50, 51], "brennen"),
+    **dict.fromkeys([1, 2, 3, 10, 11, 12, 13, 19, 22, 31, 39, 47, 48, 52, 57, 58, 60], "loescheinsatz"),
+    **dict.fromkeys([4, 15, 16, 29, 45, 49, 54], "absturz"),
     **dict.fromkeys([5, 40], "belastung"),
-    **dict.fromkeys([6, 9, 17, 46], "einsatz"),
+    **dict.fromkeys([6, 9, 17], "einsatz"),
     7: "erstehilfe",
     **dict.fromkeys([8, 21, 25, 38, 41, 53], "psa"),
     **dict.fromkeys([14, 24, 32, 36, 56], "thl"),
-    **dict.fromkeys([18, 20, 23, 28, 33, 42, 43, 55, 59], "gefahr"),
+    **dict.fromkeys([18, 20, 23, 33, 43, 46, 55, 59], "gefahr"),
     **dict.fromkeys([27, 35, 37, 44], "wasser"),
     30: "fahrzeuge",
     34: "recht",

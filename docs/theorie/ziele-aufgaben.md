@@ -88,12 +88,12 @@ Die Feuerwehr hat **vier Hauptaufgaben**, die sich im Motto zusammenfassen:
 
 Die Gemeinde **muss** die Feuerwehr für folgende Aufgaben vorhalten:
 
-- **Brandbekämpfung**
-- **Technische Hilfeleistung bei Unglücksfällen** (z. B. Verkehrsunfälle)
-- **Menschenrettung**
+- **Brandbekämpfung** (abwehrender Brandschutz)
+- **Technische Hilfeleistung** (technischer Hilfsdienst) bei Unglücksfällen und öffentlichen Notständen, z. B. bei Verkehrsunfällen
 
 !!! info "Gesetzlich geregelt"
-    Diese Pflichtaufgaben sind im **Bayerischen Feuerwehrgesetz (BayFwG)** festgelegt.
+    Diese Pflichtaufgaben stehen in **Art. 4 des Bayerischen Feuerwehrgesetzes (BayFwG)**. Menschenrettung ist dabei Teil beider Aufgaben.
+    Am **Katastrophenschutz** wirkt die Feuerwehr mit. Das regelt aber das Bayerische Katastrophenschutzgesetz.
 
 ### Freiwillige Aufgaben (Kann)
 
@@ -102,9 +102,8 @@ Die Feuerwehr **kann** zusätzlich folgende Aufgaben übernehmen:
 - Beseitigung von Ölspuren
 - Türöffnung (z. B. hilflose Person hinter verschlossener Tür)
 - Tierrettung
-- Beseitigung von Wespennes tern
+- Beseitigung von Wespennestern
 - Auspumpen überfluteter Keller
-- Katastrophenschutz
 
 !!! warning "Nicht selbstverständlich"
     Diese Aufgaben sind **keine Pflicht**. Die Feuerwehr entscheidet selbst (oder die Gemeinde), ob sie diese übernimmt.

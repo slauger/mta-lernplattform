@@ -30,12 +30,17 @@ Damit ein Feuer brennen kann, braucht es **drei Voraussetzungen**:
           /         \
          /   FEUER   \
         /_____________\
-   Sauerstoff    Zündtemperatur
+   Sauerstoff        Wärme
 ```
 
 1. **Brennbarer Stoff** (z. B. Holz, Benzin, Gas)
 2. **Sauerstoff** (mind. 15% in der Luft)
-3. **Zündtemperatur** (ausreichende Wärme zum Entzünden)
+3. **Wärme** (Zündenergie, die den Stoff auf seine Zündtemperatur bringt)
+
+Dazu muss das **Mengenverhältnis** von brennbarem Stoff und Sauerstoff stimmen. Ein zu „mageres“ oder zu „fettes“ Gemisch brennt nicht.
+
+!!! info "Prüfungsantwort"
+    Voraussetzungen für das Brennen: **brennbarer Stoff, Sauerstoff und Wärme**.
 
 !!! tip "Merkregel"
     Fehlt **eine** der drei Komponenten, kann kein Feuer brennen!
@@ -116,8 +121,9 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 
 **Löschmittel:** Schaum, ABC-Pulver, BC-Pulver, CO₂
 
-!!! danger "NIEMALS Wasser auf brennende Flüssigkeiten!"
-    Wasser ist schwerer als Benzin → Benzin schwimmt oben → Feuer breitet sich explosionsartig aus!
+!!! danger "Kein Wasser-Vollstrahl in brennende Flüssigkeiten!"
+    Wasser ist schwerer als Benzin und sinkt nach unten. Der **Vollstrahl** wühlt die Flüssigkeit auf, verspritzt sie und kann sie zum **Überlaufen** bringen. Dadurch breitet sich der Brand aus.
+    Nur die **Dämpfe** einer Flüssigkeit brennen. Gelöscht wird mit Schaum oder Pulver. Mit Sprühstrahl kühlt man z. B. Behälter oder schützt den Trupp.
 
 **Richtig löschen:**
 
@@ -213,17 +219,21 @@ Brennbare Stoffe werden nach ihrem **Aggregatzustand** in fünf Brandklassen ein
 - Kostengünstig
 - Sehr effektiv bei Brandklasse A
 
-**Löschwirkung:** **Kühlen** (Hauptwirkung) + Ersticken (Nebelstrahl)
+**Löschwirkung:** **Kühlen** (Hauptwirkung). Dazu kommt ein **Ersticken** durch den Wasserdampf: Aus 1 Liter Wasser werden etwa 1.700 Liter Dampf.
 
 **Geeignet für:** Brandklasse A
 
-**Nicht geeignet für:** B, C, D, F, elektrische Anlagen (Stromunfälle!)
+**Nicht geeignet für:** Metallbrände (D) und Fettbrände (F). Bei brennbaren Flüssigkeiten (B) ist Wasser nur eingeschränkt geeignet.
+
+**Elektrische Anlagen:** Wasser **darf** eingesetzt werden, wenn die **Mindestabstände** eingehalten werden. Für das CM-Strahlrohr gilt bei Niederspannung: Sprühstrahl 1 m, Vollstrahl 5 m. Bei Hochspannung: Sprühstrahl 5 m, Vollstrahl 10 m.
 
 **Einsatzformen:**
 
-- **Vollstrahl**: große Reichweite, kühlt stark
-- **Sprühstrahl**: große Oberfläche, kühlt und erstickt
-- **Nebelstrahl**: sehr fein zerstäubt, kühlt und verdrängt Rauch
+- **Vollstrahl**: große **Wurfweite** und Durchschlagskraft, aber **geringe Kühlwirkung**
+- **Sprühstrahl**: große Oberfläche, deshalb **hohe Kühlwirkung**, aber **geringe Wurfweite und Wurfhöhe**
+
+!!! tip "Strahlrohr schließen, wenn …"
+    … über dem Brandherd **kein dunkler Rauch mehr, sondern nur noch weißer Wasserdampf** aufsteigt. Dann hat das Wasser gewirkt. Jeder weitere Liter macht nur Wasserschaden.
 
 ---
 
@@ -434,7 +444,9 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 
 **Wirkung:** Schlagartige Feuerausbreitung im gesamten Raum.
 
-**Schutz:** Tür **langsam** öffnen, Temperatur prüfen (Handrücken an Tür), ggf. sofortiger Rückzug.
+**Anzeichen:** große Hitze, Rauchschicht sinkt ab, einzelne Flammen züngeln in der Rauchschicht (Rollover).
+
+**Schutz:** Tür kontrolliert öffnen (**Türöffnungsprozedur**, dabei möglichst Temperatur mit der Wärmebildkamera prüfen). Die **Rauchgasschicht** mit kurzen Sprühstrahlstößen kühlen. Bei Anzeichen sofort zurückziehen.
 
 !!! danger "Flashover"
     Innerhalb von Sekunden steht der gesamte Raum in Flammen!
@@ -454,7 +466,7 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 - Fenster verrußt von innen
 - Kaum Flammen sichtbar
 
-**Schutz:** Tür NICHT öffnen, Wand durchbrechen und Wasser von außen einbringen.
+**Schutz:** Bei Anzeichen die Tür **nicht unkontrolliert öffnen**. Den Einheitsführer informieren. Er entscheidet über Maßnahmen wie eine Abluftöffnung **oben** oder das Löschen von außen. Beim Öffnen gilt: aus der Deckung, seitlich der Tür und mit Wasser am Rohr.
 
 !!! danger "Lebensgefahr!"
     Backdraft kann ganze Trupps töten. **Immer auf Anzeichen achten!**
@@ -518,7 +530,7 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 
 ### Offizielle Lernplattformen
 
-**🔥 Feuerwehr-Lernbar Bayern** (Landesfeuerwehrverband Bayern)
+**🔥 Feuerwehr-Lernbar Bayern** (Staatliche Feuerwehrschule Würzburg)
 
 - **Lexikon:** [Begriffe zu Brennen & Löschen](https://www.feuerwehr-lernbar.bayern/lexikon/) - Detaillierte Erklärungen zu Fachbegriffen
 - **Download-Bereich:** [Ausbildungsunterlagen & PDFs](https://www.feuerwehr-lernbar.bayern/download/) - Offizielle Schulungsmaterialien
@@ -530,17 +542,11 @@ Ein Brand durchläuft typischerweise **drei Phasen**:
 
 ### Offizielle Dokumente (kostenlos)
 
-- **FwDV 1** (Grundtätigkeiten) - [Als PDF verfügbar](https://www.google.com/search?q=FwDV+1+PDF) - Regelungen zu Grundtätigkeiten
-- **FwDV 3** (Einheiten im Löscheinsatz) - [Als PDF verfügbar](https://www.google.com/search?q=FwDV+3+PDF) - Taktische Einheiten
-
-### YouTube-Kanäle
-
-- **@fire International** - Professionelle Ausbildungsvideos zu Brandverhalten
-- **Feuerwehr Erklärt** - Kurze, prägnante Videos zu Brandklassen & Löschmitteln
+- **FwDV 1** (Grundtätigkeiten) und **FwDV 3** (Einheiten im Lösch- und Hilfeleistungseinsatz): kostenlos als PDF im Downloadbereich der [Staatlichen Feuerwehrschule Würzburg](https://www.sfs-w.de/) bzw. der Feuerwehr-Lernbar
 
 ### Lehrbücher
 
-- **"Grundlagen der Feuerwehr"** (Ecomed Verlag) - DAS Standard-Lehrbuch, Kapitel "Brennen und Löschen"
+- **„Handbuch für den Feuerwehrmann“** (Hamilton, Boorberg Verlag): klassisches Standardwerk der Feuerwehrgrundausbildung
 - **Die roten Hefte** (Kohlhammer Verlag) - z.B. Heft "Brennen und Löschen"
 
 !!! info "Ergänzung, kein Ersatz"

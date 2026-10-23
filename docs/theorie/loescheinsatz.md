@@ -69,7 +69,7 @@ Ein **Trupp** besteht immer aus **Truppführer und Truppmann**. Er bleibt im Ein
 ### Angriffstrupp (AT)
 
 - **rettet** und nimmt das **erste Rohr** vor
-- **setzt den Verteiler**; die genaue Lage gibt der Einheitsführer vor
+- **setzt den Verteiler** an die vom Einheitsführer befohlene Stelle
 - **verlegt die C-Leitung ab dem Verteiler selbst**
 - geht beim Innenangriff unter **Atemschutz** vor
 - Ausrüstung im Außenangriff: **Strahlrohr, Schlauchhalter, Beleuchtungsgerät**
@@ -85,6 +85,7 @@ Ein **Trupp** besteht immer aus **Truppführer und Truppmann**. Er bleibt im Ein
 ### Schlauchtrupp (ST)
 
 - verlegt die **B-Leitung vom Löschfahrzeug zum Verteiler**
+- bedient danach in der Regel den **Verteiler**
 - unterstützt beim Verlegen der Schlauchleitungen und bringt die **Schlauchreserve**
 - stellt Geräte bereit, z. B. Leitern und Beleuchtung
 - kann ein weiteres Rohr vornehmen
@@ -99,8 +100,8 @@ Ein **Trupp** besteht immer aus **Truppführer und Truppmann**. Er bleibt im Ein
 ## Sitzordnung, Absitzen, Antreten
 
 - **Feste Sitzordnung:** Jeder weiß schon bei der Anfahrt, welche Funktion er hat. Er kann sich auf seine Tätigkeit vorbereiten, z. B. den Atemschutz anlegen.
-- **Absitzen:** nur auf Befehl und **zur verkehrsabgewandten Seite**, im Regelfall **rechts**. Vorsicht vor dem fließenden Verkehr!
-- **Antreten:** Die Mannschaft tritt auf Befehl **hinter dem Fahrzeug** an, geordnet nach Trupps.
+- **Absitzen:** nur auf Befehl und **zur verkehrsabgewandten Seite**. Achte auf den **fließenden Verkehr**! Eine feste Seite ("immer rechts") gibt es nicht. In der Prüfung ist das eine Falschantwort.
+- **Nach dem Absitzen:** Ruhe bewahren und **auf den Einsatzbefehl warten**. Keine Alleingänge! Wo angetreten wird, bestimmt der Einheitsführer. "In jedem Fall hinter dem Fahrzeug" ist in der Prüfung ebenfalls eine Falschantwort.
 - **Befehl nicht verstanden?** Sofort **nachfragen**. Nicht raten!
 
 ---
@@ -176,7 +177,7 @@ Der Truppführer meldet dem Einheitsführer unaufgefordert:
 
 ### Wo setze ich den Verteiler?
 
-Die **ungefähre Lage** befiehlt der Einheitsführer. Für die **genaue Lage** ist der **Angriffstruppführer** verantwortlich.
+Der **Einheitsführer befiehlt die Lage** des Verteilers, z. B. "Verteiler neben die Gartentür". Der **Angriffstrupp setzt ihn** dort. Der **Angriffstruppführer** wählt an dieser Stelle den **genauen Platz** und ist dafür verantwortlich, dass er sicher liegt:
 
 - **seitlich versetzt**, damit der Zugang zum Gebäude frei bleibt
 - **nicht im Trümmerschatten**, also nicht dort, wo Teile herabfallen können
@@ -271,7 +272,8 @@ Beim Kommando **„Gefahr – alle sofort zurück!“** zieht sich jeder Trupp *
 | An welchen Abgang kommt das 1. Rohr? | Mitte | **links** (in Fließrichtung) |
 | Wer bestimmt Voll-/Sprühstrahl? | Strahlrohrführer / Gruppenführer | **Truppführer** |
 | Wer bestimmt die Zahl der Saugschläuche? | Maschinist | **Wassertruppführer** |
-| Wo sammeln bei „Gefahr – alle sofort zurück!“? | Am Verteiler | **Am Fahrzeug** |
+| Wo sammeln bei „Gefahr – alle sofort zurück!“? | Am Verteiler / bei der Einsatzleitung | **Am Fahrzeug** |
+| Wie absitzen? | Nur rechts / nur links | **Verkehrsabgewandt**, auf fließenden Verkehr achten |
 
 ---
 

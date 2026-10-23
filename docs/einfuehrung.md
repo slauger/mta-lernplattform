@@ -2,40 +2,36 @@
 
 ## Was ist die Modulare Truppausbildung (MTA)?
 
-Die **Modulare Truppausbildung (MTA)** ist seit 2014 die standardisierte Grundausbildung für alle Feuerwehrangehörigen in Bayern. Sie ersetzt die frühere Truppmann-Ausbildung und ist **Voraussetzung** für alle weiterführenden Lehrgänge.
+Die **Modulare Truppausbildung (MTA)** ist die standardisierte Grundausbildung für alle Feuerwehrangehörigen in Bayern. Sie ersetzt die frühere Truppmann-Ausbildung und ist **Voraussetzung** für alle weiterführenden Lehrgänge.
 
 ### Zweck der MTA
 
 !!! quote "Ziel"
     Die MTA soll dich befähigen, **im Einsatz unter Anleitung** als Truppmann oder Truppfrau zu arbeiten. Du lernst die Grundlagen, um bei Bränden, technischen Hilfeleistungen und anderen Einsätzen sicher und effektiv zu helfen.
 
-### Aufbau der MTA
-
-Die MTA besteht aus **zwei Teilen** (Basis 1 und Basis 2) und umfasst insgesamt **ca. 80-100 Stunden**:
-
-| Modul | Dauer | Inhalt | Prüfung |
-|-------|-------|--------|---------|
-| **Basis 1** | ca. 80 Stunden | Grundlagen, Theorie & Praxis | Schriftlich + Praktisch |
-| **Basis 2** | ca. 20 Stunden (auf 2 Jahre verteilt) | Vertiefung, Übungen im Dienstbetrieb | Keine separate Prüfung |
-
-!!! info "Zeitrahmen"
-
-    - **Basis 1**: Meist als Kompaktlehrgang (2-3 Wochen) oder über mehrere Monate verteilt
-    - **Basis 2**: Parallel zum normalen Übungsdienst über 2 Jahre
-
-### Ablauf Basis 1
+### Aufbau der MTA in Bayern
 
 ```mermaid
 graph LR
-    A[Theorie: Brennen & Löschen] --> B[Theorie: Gerätekunde]
-    B --> C[Theorie: Recht & Sicherheit]
-    C --> D[Praxis: Knoten & Stiche]
-    D --> E[Praxis: Löschübungen]
-    E --> F[Praxis: Technische Hilfeleistung]
-    F --> G[Schriftliche Prüfung]
-    G --> H[Praktische Prüfung]
-    H --> I[Abschluss Basis 1]
+    A[Basismodul] --> B[Zwischenprüfung]
+    B --> C[Ausbildung in der eigenen Wehr<br/>mind. 2 Jahre, inkl. Ergänzungsmodule]
+    C --> D[Abschlussprüfung]
+    D --> E[Truppführer]
 ```
+
+| Abschnitt | Inhalt | Abschluss |
+|-----------|--------|-----------|
+| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene. Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Damit bist du **Truppmann**. |
+| **Ausbildung in der Feuerwehr** | Übungsdienst in der eigenen Wehr über **mindestens 2 Jahre**, dazu **Ergänzungsmodule** | – |
+| **Abschlussprüfung** | Wiederholung und Vertiefung | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen, teilweise Multiple Choice). Damit bist du **Truppführer**. |
+
+!!! info "Mindestalter (laut Lehrgangsausschreibung KFV Bayreuth)"
+    - Start der MTA: **15 Jahre**
+    - Zwischenprüfung: **16 Jahre**
+    - Abschlussprüfung: **18 Jahre**
+
+!!! info "Übergangsmodul"
+    Wer die frühere Truppmannausbildung (Teil 1 + 2) schon abgelegt hat, braucht für die Truppführerqualifikation nur die im Ausbildungsplan **blau markierten Module**.
 
 ### Prüfungen
 
@@ -43,7 +39,7 @@ graph LR
 
 - Multiple-Choice-Fragen
 - Dauer: ca. 45-60 Minuten
-- Themen: Theorie aus Basis 1
+- Themen: alle Module des Basismoduls
 
 **Praktische Prüfung:**
 
@@ -52,10 +48,8 @@ graph LR
 - Löscheinsatz oder technische Hilfeleistung
 - Arbeiten im Trupp
 
-!!! success "Bestehensgrenze"
-
-    - Schriftlich: mindestens 50% richtig
-    - Praktisch: alle Aufgaben müssen sicher beherrscht werden
+!!! question "Bestehensgrenze"
+    Die genaue Bestehensgrenze und den Prüfungsablauf erfährst du am ersten Lehrgangsabend. Frag dort ausdrücklich danach. Für die Praxis gilt: Die Aufgaben müssen **sicher** beherrscht werden.
 
 ---
 
@@ -99,7 +93,7 @@ Trupps (2 Personen)
 - **Kreisfeuerwehrverband (KFV)**
 - Goldkronach gehört zum Landkreis Bayreuth
 - **Kreisbrandrat (KBR)**: oberster Feuerwehrmann im Landkreis
-- **Kreisbrandinspektor (KBI)**: Stellvertreter
+- **Kreisbrandinspektor (KBI)**: zuständig für einen Inspektionsbereich, z. B. die Inspektion I
 - Organisiert MTA-Lehrgänge auf Kreisebene
 
 #### 4. Gemeindeebene
@@ -125,7 +119,7 @@ Trupps (2 Personen)
 
 #### Gruppenführer
 
-- Leitet eine Gruppe (9 Personen: 1 Gruppenführer + 2 Trupps à 4 Personen)
+- Leitet eine Gruppe (1/8/9: Gruppenführer, Maschinist, Melder, Angriffs-, Wasser- und Schlauchtrupp)
 - Kommandiert im Einsatz die Gruppe
 
 **Beispiel:** Bei einem Wohnungsbrand teilt der Gruppenführer die Aufgaben ein: „Angriffstrupp zur Menschenrettung vor, Wassertrupp Wasserversorgung sicherstellen!"
@@ -156,28 +150,29 @@ Ein **Trupp** besteht immer aus **2 Personen**:
 !!! warning "Niemals allein!"
     In der Feuerwehr arbeitet man **niemals allein**. Der Trupp ist die kleinste Einheit und sichert sich gegenseitig ab.
 
-#### Die Gruppe (9 Personen)
+#### Die Gruppe (1/8/9)
 
 Eine **Gruppe** besteht aus:
 
-1. **Gruppenführer** (1)
-2. **Angriffstrupp** (2): Geht direkt ins Feuer / zur Einsatzstelle
-3. **Wassertrupp** (2): Sichert Löschwasserversorgung
-4. **Schlauchmaterialtrupp** (2): Legt Schläuche, unterstützt
-5. **Melder** (1): Verbindung zur Leitstelle
-6. **Maschinist** (1): Bedient das Fahrzeug (Pumpe, Aggregate)
+1. **Gruppenführer** (1): erkundet, entscheidet, befiehlt
+2. **Maschinist** (1): fährt das Fahrzeug, bedient die Pumpe
+3. **Melder** (1): übermittelt Befehle und Rückmeldungen
+4. **Angriffstrupp** (2): rettet, setzt den Verteiler, nimmt das 1. Rohr vor
+5. **Wassertrupp** (2): stellt die Wasserversorgung zwischen Wasserentnahmestelle und Fahrzeug her
+6. **Schlauchtrupp** (2): verlegt die B-Leitung vom Fahrzeug zum Verteiler, unterstützt mit Schlauchreserve
 
 **Beispiel Einsatz Wohnungsbrand:**
 ```
-Gruppenführer: "Angriffstrupp zur Menschenrettung vor!"
-Angriffstrupp: Geht mit Atemschutz und C-Rohr ins Haus
-
-Gruppenführer: "Wassertrupp Wasserversorgung vom Hydranten!"
-Wassertrupp: Legt B-Schläuche vom Hydranten zum Fahrzeug
-
-Gruppenführer: "Schlauchmaterialtrupp unterstützt Angriffstrupp!"
-Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
+Gruppenführer: "Wasserentnahmestelle Unterflurhydrant vor dem Haus,
+                Verteiler neben den Hauseingang,
+                Angriffstrupp zur Menschenrettung unter Atemschutz
+                mit 1. C-Rohr in das 1. OG über den Treppenraum – vor!"
+Angriffstrupp: setzt den Verteiler und geht mit C-Rohr ins Haus vor
+Wassertrupp:   stellt die Wasserversorgung vom Hydranten zum Fahrzeug her
+Schlauchtrupp: verlegt die B-Leitung zum Verteiler und bringt Schlauchreserve
 ```
+
+Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
 
 ---
 
@@ -227,7 +222,7 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 - Schriftlich (Multiple Choice)
 - Praktisch (Stationen)
 
-### Phase 5: Basis 2 (über 2 Jahre)
+### Phase 5: Ausbildung in der Feuerwehr (mind. 2 Jahre) bis zur Abschlussprüfung
 
 - Teilnahme am regulären Übungsdienst
 - Vertiefung der Kenntnisse
@@ -278,21 +273,11 @@ Schlauchmaterialtrupp: Legt weitere Schläuche, bringt Material nach
 
 ## Beförderungen & Dienstgrade
 
-Nach der MTA kannst du dich weiterbilden und aufsteigen:
+Nach der MTA kannst du dich weiterbilden, z. B. als Atemschutzgeräteträger, Maschinist oder später Gruppenführer.
 
-| Dienstgrad | Voraussetzung | Funktion |
-|------------|---------------|----------|
-| **Feuerwehrmann-Anwärter** | Eintritt in die Feuerwehr | - |
-| **Feuerwehrmann** | MTA Basis 1 abgeschlossen | Truppmann |
-| **Oberfeuerwehrmann** | 3 Jahre aktiv + Basis 2 | Truppmann |
-| **Hauptfeuerwehrmann** | 6 Jahre aktiv | Truppmann/Truppführer |
-| **Löschmeister** | Truppführerlehrgang | Truppführer |
-| **Oberlöschmeister** | Gruppenführerlehrgang | Truppführer |
-| **Hauptlöschmeister** | Gruppenführerlehrgang | Gruppenführer |
-| **Brandmeister** | Weitere Lehrgänge | Gruppenführer |
-| **Oberbrandmeister** | Zugführerlehrgang | Zugführer |
-| **Hauptbrandmeister** | Führungslehrgänge | Zugführer |
-| **Kommandant** | Wahl durch die Mannschaft | Leiter der Feuerwehr |
+!!! question "Dienstgrade in Bayern"
+    Welche Dienstgrade es gibt und welche Voraussetzungen jeweils gelten, ist in Bayern landesrechtlich geregelt. Ernannt werden sie vom **Kommandanten**.
+    Die genauen Voraussetzungen, also Dienstjahre und Lehrgänge, erfragst du am besten direkt bei deinem Kommandanten. Wir führen hier bewusst keine Tabelle, solange sie nicht gegen die aktuelle Regelung geprüft ist.
 
 !!! info "Wichtig"
     Dienstgrade sind **keine Ränge wie beim Militär**, sondern zeigen Erfahrung und Ausbildung. Respekt verdient man sich durch Können, nicht durch Schulterklappen.

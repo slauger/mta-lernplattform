@@ -12,7 +12,7 @@
     "correct": 2,
     "explanation": "Laut Lösungsbogen: C",
     "multiple_choice": false,
-    "thema": "brennen"
+    "thema": "loescheinsatz"
   },
   {
     "id": 2,
@@ -158,7 +158,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "brennen"
+    "thema": "loescheinsatz"
   },
   {
     "id": 11,
@@ -352,7 +352,7 @@
     ],
     "explanation": "Laut Lösungsbogen (Multiple Choice): B, C, D",
     "multiple_choice": true,
-    "thema": "brennen"
+    "thema": "loescheinsatz"
   },
   {
     "id": 23,
@@ -458,7 +458,7 @@
     ],
     "explanation": "Laut Lösungsbogen (Multiple Choice): A, B, C, D",
     "multiple_choice": true,
-    "thema": "gefahr"
+    "thema": "brennen"
   },
   {
     "id": 29,
@@ -720,7 +720,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "gefahr"
+    "thema": "brennen"
   },
   {
     "id": 43,
@@ -788,7 +788,7 @@
     ],
     "explanation": "Laut Lösungsbogen (Multiple Choice): A, B, C, D",
     "multiple_choice": true,
-    "thema": "einsatz"
+    "thema": "gefahr"
   },
   {
     "id": 47,
@@ -836,7 +836,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "loescheinsatz"
+    "thema": "absturz"
   },
   {
     "id": 50,
@@ -885,7 +885,7 @@
     "correct": 0,
     "explanation": "Laut Lösungsbogen: A",
     "multiple_choice": false,
-    "thema": "brennen"
+    "thema": "loescheinsatz"
   },
   {
     "id": 53,
@@ -987,7 +987,7 @@
     "correct": 0,
     "explanation": "Laut Lösungsbogen: A",
     "multiple_choice": false,
-    "thema": "brennen"
+    "thema": "loescheinsatz"
   },
   {
     "id": 59,

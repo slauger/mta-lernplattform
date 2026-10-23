@@ -549,7 +549,7 @@
     "correct": 0,
     "explanation": "Laut Lösungsbogen: A",
     "multiple_choice": false,
-    "thema": "absturz"
+    "thema": "knoten"
   },
   {
     "id": 40,
@@ -1011,7 +1011,7 @@
     "correct": 2,
     "explanation": "Laut Lösungsbogen: C",
     "multiple_choice": false,
-    "thema": "brennen"
+    "thema": "psa"
   },
   {
     "id": 73,
@@ -1067,7 +1067,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "einsatz"
+    "thema": "belastung"
   },
   {
     "id": 77,
@@ -2045,7 +2045,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "einsatz"
+    "thema": "gefahr"
   },
   {
     "id": 146,
@@ -2623,7 +2623,7 @@
     "correct": 1,
     "explanation": "Laut Lösungsbogen: B",
     "multiple_choice": false,
-    "thema": "einsatz"
+    "thema": "gefahr"
   },
   {
     "id": 186,

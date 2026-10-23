@@ -32,16 +32,27 @@ Das **Bayerische Feuerwehrgesetz** ist das zentrale Landesgesetz für alle Feuer
 
 ### Aufgaben nach BayFwG
 
-Das BayFwG definiert die Aufgaben der Feuerwehr in **§ 1**:
+Das BayFwG ist in **Artikel** gegliedert, nicht in Paragraphen. Nach **Art. 1** ist die Feuerwehr eine **Pflichtaufgabe der Gemeinde**. Die Gemeinde muss die Feuerwehr aufstellen, ausrüsten und unterhalten. Die Aufgaben der Feuerwehr regelt **Art. 4**.
 
 #### Pflichtaufgaben (MUSS)
 
-1. **Brandschutz** (Brände löschen, Brandschutzaufklärung)
-2. **Technische Hilfeleistung** bei Unglücksfällen (Unfälle, Naturkatastrophen)
-3. **Katastrophenschutz** (bei größeren Schadensereignissen)
+1. **Abwehrender Brandschutz**, also Brandbekämpfung
+2. **Technischer Hilfsdienst**, also technische Hilfeleistung bei Unglücksfällen und öffentlichen Notständen
 
-!!! success "Wichtig"
-    Diese Aufgaben **muss** die Gemeinde durch die Feuerwehr erfüllen – das ist gesetzlich vorgeschrieben!
+!!! success "Prüfungsantwort"
+    Pflichtaufgaben der Feuerwehr sind **Brandbekämpfung und technische Hilfeleistung**.
+    Beim **Katastrophenschutz** wirkt die Feuerwehr zwar mit. Geregelt ist das aber im Bayerischen Katastrophenschutzgesetz und nicht als Pflichtaufgabe im BayFwG.
+
+#### Weitere Grundlagen aus dem BayFwG (prüfungsrelevant)
+
+- **Arten von Feuerwehren:** Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr, Werkfeuerwehr
+- **Mindestalter** für die Aufnahme in die Freiwillige Feuerwehr: **12 Jahre**
+- **Einsatzteilnahme** von Feuerwehranwärtern: Das **Basismodul** muss abgeschlossen sein, sie müssen **mindestens 16 Jahre** alt sein, und der **Kommandant muss zustimmen**.
+- **Kommandantenwahl:** Wahlberechtigt sind alle Feuerwehrdienstleistenden und Feuerwehranwärter **ab 16 Jahren**.
+- **Dienstgrade** ernennt der **Kommandant**.
+- **Ausrüstung:** Dafür sorgt die **Gemeinde**.
+- **Bürgerpflicht:** Wer einen Brand bemerkt, muss ihn **melden** und einen **Löschversuch** unternehmen, soweit zumutbar.
+- **Personen zur Hilfeleistung verpflichten** darf **nur der Einsatzleiter**.
 
 #### Kann-Aufgaben (freiwillig)
 
@@ -139,9 +150,12 @@ Die **Unfallverhütungsvorschriften** (auch: DGUV Vorschrift 49) sind **Sicherhe
 
 #### 3. Absturzsicherung
 
-**Regel:** Bei Absturzgefahr (> 1 Meter Höhe) muss eine Absturzsicherung angelegt werden.
+**Regel:** Wo Absturzgefahr besteht, wird gesichert. Dabei ist genau zu unterscheiden:
 
-**Beispiel:** Arbeit auf Dächern, Leitern – immer mit Feuerwehrhaltegurt und Sicherungsleine.
+- **Halten / Rückhalten** mit **Feuerwehr-Haltegurt + Feuerwehrleine**: Die Sicherung verhindert, dass man die Absturzkante überhaupt erreicht. Mindestens **2 m Abstand** zur Kante, der **Anschlagpunkt** liegt oberhalb.
+- **Absturz nicht auszuschließen** (freier Fall möglich): Dafür sind Haltegurt und Feuerwehrleine **verboten**. Man braucht einen **Auffanggurt** und den **Gerätesatz Absturzsicherung**.
+
+**Beispiel:** Arbeit auf einem Flachdach mit 2 m Abstand zur Kante: Rückhalten mit Haltegurt und Feuerwehrleine ist erlaubt. Arbeit direkt an der Dachkante: Haltegurt und Feuerwehrleine sind **nicht** zulässig.
 
 **Warum?** Stürze aus der Höhe sind oft tödlich!
 
@@ -199,8 +213,10 @@ Die **Unfallverhütungsvorschriften** (auch: DGUV Vorschrift 49) sind **Sicherhe
 | **FwDV 2** | Ausbildung der Freiwilligen Feuerwehr | Ausbildungsstruktur (MTA, Lehrgänge) |
 | **FwDV 3** | Einheiten im Lösch- und Hilfeleistungseinsatz | Taktik, Truppaufstellung, Befehle |
 | **FwDV 7** | Atemschutz | Regeln für Atemschutzeinsätze |
-| **FwDV 10** | Tragbare Leitern | Umgang, Aufstellung, Sicherheit |
-| **FwDV 100** | Führung und Leitung | Einsatzleitung, Stabsarbeit |
+| **FwDV 10** | Die tragbaren Leitern | Umgang, Aufstellung, Sicherheit |
+| **FwDV 100** | Führung und Leitung im Einsatz | Einsatzleitung, Führungsvorgang |
+| **FwDV 500** | Einheiten im ABC-Einsatz | GAMS, Absperrgrenzen, Dekontamination |
+| **FwDV 800 / 810** | Informations- und Kommunikationstechnik / Sprechfunkdienst | Regeln für den Sprechfunkverkehr |
 
 ---
 
@@ -208,12 +224,12 @@ Die **Unfallverhütungsvorschriften** (auch: DGUV Vorschrift 49) sind **Sicherhe
 
 **FwDV 3** regelt die **Einheiten im Lösch- und Hilfeleistungseinsatz**. Hier lernst du:
 
-- **Truppaufstellung** (Wer steht wo im Trupp?)
-- **Befehle** (Wie gibt der Gruppenführer Befehle?)
-- **Taktik** (Wie geht man an einen Einsatz heran?)
+- **Gliederung** der Einheiten (Trupp, Staffel, Gruppe) und ihre **Aufgaben**
+- **Befehlsschema** (Einheit – Auftrag – Mittel – Ziel – Weg)
+- **Einsatzformen**: mit und ohne Bereitstellung
 
 **Beispiel:**
-FwDV 3 legt fest, dass der **Truppführer** immer vorne geht, der **Truppmann** dahinter. So weiß jeder, wo sein Platz ist.
+Nach FwDV 3 setzt der **Angriffstrupp den Verteiler** und verlegt seine C-Leitung ab dem Verteiler selbst. Details findest du im Kapitel [Einheiten im Löscheinsatz](loescheinsatz.md).
 
 ---
 
@@ -222,7 +238,7 @@ FwDV 3 legt fest, dass der **Truppführer** immer vorne geht, der **Truppmann** 
 ### Gesetzliche Unfallversicherung
 
 **Wer ist versichert?**
-Alle Feuerwehrangehörigen – **automatisch**, ohne Beitrag!
+Alle Feuerwehrangehörigen, **automatisch** und ohne Beitrag. Versicherungsträger ist die **Kommunale Unfallversicherung Bayern (KUVB)**.
 
 **Was ist versichert?**
 
@@ -341,66 +357,35 @@ Wenn die Gefahr zu groß wird → **sofortiger Rückzug**!
 
 ## Gefahren an der Einsatzstelle
 
-### Die 4 A-C-E-Regel
+### Merkschema: 4A – 1C – 4E
 
-Eine Merkhilfe für Gefahren an der Einsatzstelle:
+Mit diesem Schema erkennst du die **Gefahren der Einsatzstelle**. Es wird direkt geprüft, z. B. mit der Frage: „Welche Gefahr fehlt?“
 
-#### Atemgifte
+| | Gefahr | Beispiele | Schutz |
+|---|---|---|---|
+| **A** | **Atemgifte** | Rauch, Kohlenmonoxid (CO), Blausäure | Atemschutz |
+| **A** | **Angstreaktion** | Panik bei Betroffenen *und* bei Einsatzkräften | Ruhe ausstrahlen, Betroffene betreuen |
+| **A** | **Ausbreitung** | Feuer, Rauch, auslaufende Stoffe | Nur mit **Wasser am Rohr** vorgehen, Rückzugsweg sichern |
+| **A** | **Atomare Gefahren** | radioaktive Stoffe | **Abstand**, **Aufenthaltszeit begrenzen**, **Abschirmung**, **Inkorporation vermeiden** |
+| **C** | **Chemische Stoffe** | Säuren, Laugen, Gefahrgut | GAMS-Regel, Kennzeichnung beachten |
+| **E** | **Erkrankung / Verletzung** | Infektionen, Schnitte, Verbrennungen | PSA, Infektionsschutzhandschuhe, Hygiene |
+| **E** | **Explosion** | Gasflaschen, Staub, Dämpfe | Abstand, Deckung, Rückzug |
+| **E** | **Elektrizität** | Freileitungen, Hausinstallation, Photovoltaik | **Mindestabstände** einhalten, abschalten lassen |
+| **E** | **Einsturz** | Decken, Wände, Bäume | **Trümmerschatten** meiden, unter standfesten Bauteilen Schutz suchen |
 
-- Kohlenmonoxid (CO)
-- Blausäure (HCN)
-- Chlorgas
+!!! tip "Trümmerschatten"
+    Der **Trümmerschatten** ist der Bereich, der durch **Einsturz bedroht** ist. Als Faustregel gilt ein Abstand von etwa der Höhe des Bauteils. Dort legt man weder Verteiler noch Geräte ab.
 
-**Schutz:** Atemschutz
+### Abstände zu elektrischen Anlagen (DIN VDE 0132)
 
----
+| Spannung | Mindestabstand |
+|----------|----------------|
+| bis 1 kV (Niederspannung) | **1 m** |
+| über 1 kV bis 110 kV | **3 m** |
+| über 110 kV bis 220 kV | **4 m** |
+| über 220 kV bis 380 kV | **5 m** |
 
-#### Ausbreitung
-
-- Feuer breitet sich aus
-- Rauch breitet sich aus
-
-**Schutz:** Ständige Lagekontrolle, Rückzugswege sichern
-
----
-
-#### Chemikalien
-
-- Säuren, Laugen
-- Brennbare Flüssigkeiten
-- Unbekannte Stoffe
-
-**Schutz:** GAMS-Regel, Spezialkräfte anfordern
-
----
-
-#### Explosion
-
-- Gasflaschen im Feuer
-- Spraydosen
-- Brennbare Dämpfe (Benzin)
-
-**Schutz:** Abstand halten, Rückzug
-
----
-
-#### Elektrizität
-
-- Stromleitungen
-- Elektrische Anlagen
-- Photovoltaik-Anlagen
-
-**Schutz:** Strom abschalten, Abstand halten (5 Meter bei Hochspannung!)
-
----
-
-#### Einsturz
-
-- Gebäude, Decken, Wände
-- Bäume
-- Baugerüste
-
-**Schutz:** Gefahrenbereich meiden, Statiker hinzuziehen
+Beim Löschen mit dem **CM-Strahlrohr** gilt bei Niederspannung: **Sprühstrahl 1 m**, **Vollstrahl 5 m**. Bei Hochspannung: **Sprühstrahl 5 m**, **Vollstrahl 10 m**.
 
 ---
 
@@ -423,13 +408,14 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 
 **Regel:**
 
-- Blaues Blinklicht **allein** = Warnung (andere sollen Platz machen)
-- Blaulicht **+ Martinshorn** = Freie Bahn (alle müssen Platz machen)
+- Blaulicht **+ Martinshorn** zusammen ordnen an: **„Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen.“**
+- Blaulicht **allein** darf nur zur **Warnung** verwendet werden, z. B. an der Einsatzstelle, an Unfallstellen oder bei geschlossenen Verbänden.
 
 **Beispiel:**
 
-- Fahrt zur Einsatzstelle: Blaulicht + Martinshorn (§ 38)
-- Rückfahrt nach Einsatz: Nur Blaulicht (Warnung, keine Sonderrechte mehr)
+- Fahrt zur Einsatzstelle: Blaulicht + Martinshorn
+- An der Einsatzstelle: Blaulicht zur Absicherung
+- **Rückfahrt nach dem Einsatz: kein Blaulicht**, normale Teilnahme am Straßenverkehr
 
 ---
 
@@ -449,7 +435,7 @@ Eine Merkhilfe für Gefahren an der Einsatzstelle:
 ## Quiz: Teste dein Wissen!
 
 ??? question "1. Welche Aufgaben sind Pflichtaufgaben nach BayFwG?"
-    **Antwort:** Brandschutz, Technische Hilfeleistung bei Unglücksfällen, Katastrophenschutz
+    **Antwort:** Brandbekämpfung (abwehrender Brandschutz) und technische Hilfeleistung (technischer Hilfsdienst), geregelt in Art. 4 BayFwG.
 
 ??? question "2. Was bedeutet Zweimannregel?"
     **Antwort:** Arbeiten im Gefahrenbereich immer mindestens zu zweit (Trupp)

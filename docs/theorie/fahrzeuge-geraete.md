@@ -15,239 +15,56 @@ Nach diesem Kapitel kannst du:
 
 ## Feuerwehrfahrzeuge
 
+!!! info "Aktuelle Normbezeichnungen"
+    Ältere Bezeichnungen wie **LF 8/6, LF 16/12 oder TLF 16/25** findest du noch auf vielen Fahrzeugen. Die Prüfung fragt aber nach den **aktuellen Normfahrzeugen** (DIN 14530 ff.). Bei Löschgruppenfahrzeugen steht die Zahl für die Pumpe: Ein **LF 10** hat eine FPN 10-**1000** mit 1.000 l/min, ein **LF 20** eine FPN 10-**2000**. Bei Tanklöschfahrzeugen steht die Zahl für den Wassertank: Ein **TLF 3000** hat mindestens 3.000 Liter.
+
 ### Übersicht Fahrzeugtypen
 
-| Fahrzeug | Abkürzung | Besatzung | Hauptzweck |
-|----------|-----------|-----------|------------|
-| Tragkraftspritzenfahrzeug | TSF | 6 (Staffel) | Kleine Brände, erste Hilfe |
-| Löschgruppenfahrzeug | LF 10/20 | 9 (Gruppe) | Standard-Löschfahrzeug |
-| Tanklöschfahrzeug | TLF 16/25 | 9 (Gruppe) | Löschen mit viel Wasser |
-| Hilfeleistungslöschfahrzeug | HLF 20 | 9 (Gruppe) | Löschen + Technische Hilfe |
-| Drehleiter | DLK 23-12 | 3 | Menschenrettung aus der Höhe |
-| Rüstwagen | RW 2 | 6 | Technische Hilfeleistung |
-| Einsatzleitwagen | ELW 1 | 3 | Führung und Leitung |
+| Fahrzeug | Besatzung | Löschwasser | Pumpe | Besonderheit |
+|----------|-----------|-------------|-------|--------------|
+| **TSF** (Tragkraftspritzenfahrzeug) | Staffel 1/5 | **kein Tank** | Tragkraftspritze PFPN 10-1000 | Beladung für eine **Gruppe** |
+| **TSF-W** (… mit Wasser) | Staffel 1/5 | ca. 500–750 l | PFPN 10-1000 | vierteilige Steckleiter auf dem Dach |
+| **MLF** (Mittleres Löschfahrzeug) | Staffel 1/5 | ca. 600–1.000 l | FPN 10-1000 | **Besatzung Staffel, Beladung Gruppe** |
+| **LF 10** | Gruppe 1/8 | mind. 1.200 l | FPN 10-1000 | Standard-Löschgruppenfahrzeug |
+| **HLF 10** | Gruppe 1/8 | mind. 1.000 l | FPN 10-1000 | LF 10 + erweiterte technische Hilfeleistung |
+| **LF 20** | Gruppe 1/8 | mind. 2.000 l | FPN 10-2000 | größeres Löschgruppenfahrzeug |
+| **HLF 20** | Gruppe 1/8 | mind. 1.600 l | FPN 10-2000 | LF 20 + erweiterte technische Hilfeleistung |
+| **LF 20 KatS** | Gruppe 1/8 | ca. 1.000 l | FPN 10-2000 | Katastrophenschutz: Brandbekämpfung, **Wasserförderung**, technische Hilfeleistung |
+| **TLF 3000** | **Trupp 1/2** | mind. 3.000 l | FPN 10-2000 | viel Wasser, wenig Personal |
+| **TLF 4000** | **Trupp 1/2** | mind. 4.000 l | FPN 10-2000 | viel Wasser, wenig Personal |
+| **RW** (Rüstwagen) | **Trupp 1/2** | – | – | umfangreiche technische Hilfeleistung |
+| **DLK 23-12** (Drehleiter) | Trupp 1/2 | – | – | Rettungshöhe 23 m bei 12 m Ausladung |
+| **ELW 1** (Einsatzleitwagen) | 1/2 | – | – | Führung, Funk, Dokumentation |
 
----
+!!! tip "Merkregeln für die Prüfung"
+    - **Kein Tank:** TSF
+    - **Staffel als Besatzung:** TSF, TSF-W, MLF
+    - **Gruppe als Besatzung:** LF 10, LF 20, HLF 10, HLF 20
+    - **Trupp als Besatzung:** TLF 3000/4000, RW, DLK
+    - **Erweiterte technische Hilfeleistung:** HLF
+    - **Atemschutz:** Löschfahrzeuge (außer TLF) haben **4 Pressluftatmer**, also für **2 Trupps**
 
-### TSF (Tragkraftspritzenfahrzeug)
-
-**Technische Daten:**
-
-- Besatzung: **6 Personen** (1 Staffelführer + 5 Einsatzkräfte)
-- Wassertank: **400 Liter** (klein)
-- Pumpe: Tragkraftspritze (TS 8/8)
-
-**Beladung:**
-
-- Tragkraftspritze
-- Schläuche (B + C)
-- Strahlrohre
-- Leitern (z. B. Steckleiter)
-- Kleinlöschgeräte
-
-**Einsatzbereich:**
-
-- Kleine Brände (Mülltonne, Kleinfeuer)
-- Erste Unterstützung bei größeren Einsätzen
-- Ideal für **kleine Wehren** mit wenig Personal
-
-!!! info "Für Goldkronach relevant?"
-    TSF wird oft von kleineren Ortswehren eingesetzt. Frag deinen Kommandanten, ob Goldkronach ein TSF hat!
-
----
-
-### LF 10/20 (Löschgruppenfahrzeug)
-
-**Technische Daten:**
-
-- Besatzung: **9 Personen** (Gruppe)
-- Wassertank: **1000-2000 Liter**
-- Pumpe: Fest eingebaut (Frontpumpe mit 1000-2000 L/min Förderleistung)
-
-**Beladung:**
-
-- Fest eingebaute Pumpe
-- B- und C-Schläuche (viele!)
-- Strahlrohre (Hohlstrahlrohre, Wenderohr)
-- Leitern (Steckleiter, Schiebleiter)
-- Atemschutzgeräte (4x)
-- Beleuchtung
-- Kleinlöschgeräte (Feuerlöscher, Löschdecken)
-
-**Einsatzbereich:**
-
-- **Standard-Löschfahrzeug** der meisten Feuerwehren
-- Wohnungsbrände, Fahrzeugbrände
-- Wasserversorgung
-- Kleinere technische Hilfeleistungen
-
-!!! success "Das kennst du bald!"
-    Das LF ist das Fahrzeug, das du in der MTA kennenlernen wirst. Du solltest die Beladung **auswendig** kennen!
-
----
-
-### TLF 16/25 (Tanklöschfahrzeug)
-
-**Technische Daten:**
-
-- Besatzung: **9 Personen** (Gruppe)
-- Wassertank: **2500-5000 Liter** (viel!)
-- Pumpe: Frontpumpe (1600 L/min)
-
-**Beladung:**
-
-- Ähnlich wie LF, aber mit **mehr Wasser**
-- Schaummittel
-- Große B-Schläuche für Wasserversorgung
-
-**Einsatzbereich:**
-
-- Brände **ohne Wasserversorgung** (z. B. auf dem Land, Wald)
-- Erste Löschmaßnahmen mit eigenem Wasser
-- Schaum-Einsätze (Benzinbrände)
-
-!!! tip "Wann TLF statt LF?"
-    Wenn **kein Hydrant** in der Nähe ist (z. B. Scheune auf dem Feld), ist das TLF ideal.
-
----
-
-### HLF 20 (Hilfeleistungslöschfahrzeug)
-
-**Technische Daten:**
-
-- Besatzung: **9 Personen** (Gruppe)
-- Wassertank: **2000 Liter**
-- Pumpe: Frontpumpe (2000 L/min)
-- Zusatzausrüstung: Hydraulisches Rettungsgerät
-
-**Beladung:**
-
-- Alles vom LF
-- **+ Hydraulisches Rettungsgerät** (Spreizer, Schere, Rettungszylinder)
-- + Hebekissen
-- + Winden, Seilwinde
-
-**Einsatzbereich:**
-
-- **Universal-Fahrzeug**: Löschen + Technische Hilfe
-- Verkehrsunfälle (Personen befreien)
-- Brände
-- Türöffnungen
-
-!!! success "Das Allround-Talent"
-    HLF ersetzt oft LF + RW, ideal für Wehren mit begrenztem Budget.
-
----
-
-### DLK (Drehleiter mit Korb)
-
-**Technische Daten:**
-
-- Besatzung: **3 Personen** (Maschinist + 2 Helfer)
-- Leiterlänge: z. B. **23 Meter** (DLK 23)
-- Korb: Platz für 2-3 Personen + Ausrüstung
-
-**Ausstattung:**
-
-- Ausziehbare, drehbare Leiter
-- Korb (zur Menschenrettung)
-- Wasserwerfer am Korb
-
-**Einsatzbereich:**
-
-- Menschenrettung aus oberen Stockwerken
-- Brandbekämpfung aus der Höhe
-- Beleuchtung großer Einsatzstellen
-
-!!! info "DLK nur bei größeren Wehren"
-    DLK sind teuer und brauchen speziell ausgebildete Maschinisten. Oft bei Kreisfeuerwehren oder Berufsfeuerwehren.
-
----
-
-### RW 2 (Rüstwagen)
-
-**Technische Daten:**
-
-- Besatzung: **6-9 Personen**
-- Kein Wasser, keine Pumpe
-- Viel technisches Gerät
-
-**Beladung:**
-
-- Hydraulisches Rettungsgerät (Spreizer, Schere, Rettungszylinder)
-- Motorsäge, Trennschleifer
-- Hebekissen, Holzkeile
-- Stromerzeuger (Generator)
-- Beleuchtung (Flutlichtstrahler)
-- Werkzeug (Hammer, Brechstange, Axt)
-
-**Einsatzbereich:**
-
-- **Technische Hilfeleistung** (TH)
-- Verkehrsunfälle
-- Türöffnungen
-- Sturmschäden (Bäume beseitigen)
-
----
-
-### ELW 1 (Einsatzleitwagen)
-
-**Technische Daten:**
-
-- Besatzung: **3 Personen** (Einsatzleiter + Helfer)
-- Keine Löschausrüstung
-- Führungs- und Kommunikationsausstattung
-
-**Ausstattung:**
-
-- Funkgeräte (mehrere Kanäle)
-- Kartenmaterial
-- Laptop, Drucker
-- Schreibtische
-
-**Einsatzbereich:**
-
-- **Mobile Einsatzzentrale** bei Großeinsätzen
-- Koordination mehrerer Fahrzeuge
-- Verbindung zur Leitstelle
+!!! info "Welche Fahrzeuge hat deine Wehr?"
+    Die Beladung deines eigenen Fahrzeugs solltest du **auswendig** kennen. Schau in den Geräteräumen nach und frag deinen Kommandanten. Mehr dazu unter [Goldkronach](../goldkronach.md).
 
 ---
 
 ## Löschgeräte
 
-### Feuerlöschpumpen
+### Feuerlöschkreiselpumpen
 
-#### Frontpumpe (fest eingebaut)
+#### Fest eingebaute Pumpe (FPN)
 
-**Eigenschaften:**
+- Fest im Fahrzeug eingebaut, meist **im Heck**. Der Maschinist bedient sie vom Pumpenbedienstand aus.
+- Angetrieben vom Fahrzeugmotor
+- Bezeichnung **FPN 10-1000:** **F**euerlöschkreisel**p**umpe **N**ormaldruck, **1.000 l/min** bei **10 bar** Nennförderdruck
+- LF 10, HLF 10 und MLF haben eine FPN 10-1000. LF 20, HLF 20 und TLF haben eine FPN 10-2000.
 
-- Fest im Fahrzeug eingebaut (meist vorne, daher "Frontpumpe")
-- Leistung: 800-4000 L/min (je nach Fahrzeug)
-- Wird vom Fahrzeugmotor angetrieben
+#### Tragkraftspritze (PFPN)
 
-**Bedienung:** Maschinist
-
-**Beispiel:**
-Ein LF 20 hat eine Frontpumpe mit 2000 L/min Förderleistung. Der Maschinist bedient die Pumpe vom Pumpenbedienstand aus.
-
----
-
-#### Tragkraftspritze (TS)
-
-**Eigenschaften:**
-
-- **Mobil**, kann überall aufgestellt werden
-- Eigener Motor (Benzin oder Diesel)
-- Leistung: 800 L/min (TS 8/8)
-
-**Einsatz:**
-
-- Wasserentnahme aus Bächen, Teichen, Schwimmbädern
-- Wenn Fahrzeugpumpe nicht ausreicht
-- Löschwasserförderung über lange Strecken
-
-**Beispiel:**
-Bei einem Waldbrand wird die TS an einen Bach gestellt, um Löschwasser zu fördern.
+- **Tragbare** Feuerlöschkreiselpumpe mit eigenem Motor. Nach Norm heißt sie **PFPN 10-1000** (**P**ortable **F**ire **P**ump **N**ormal Pressure).
+- Ältere Bezeichnung: TS 8/8, also 800 l/min bei 8 bar
+- Einsatz: Wasserentnahme aus offenen Gewässern, an Stellen, die das Fahrzeug nicht erreicht, und zur Wasserförderung über lange Wegstrecken
 
 ---
 
@@ -276,7 +93,7 @@ Bei einem Waldbrand wird die TS an einen Bach gestellt, um Löschwasser zu förd
 **Eigenschaften:**
 
 - Durchmesser: **75 mm**
-- Länge: meist 20 Meter
+- Länge: **5, 20 oder 35 Meter** (meist 20 m)
 - Große Wassermenge (800-2000 L/min)
 
 **Einsatz:**
@@ -349,33 +166,23 @@ Der Angriffstrupp nimmt ein C-Schlauchpaket (3x15m = 45m) und geht ins brennende
 
 **Eigenschaften:**
 
-- Erzeugt Vollstrahl oder Sprühstrahl
-- Größere Reichweite als Hohlstrahlrohr
-- Höherer Wasserdruck nötig
+- Schaltstellungen: **zu – Sprühstrahl – Vollstrahl**
+- Mit Mundstück ca. **100 l/min** bei ca. 5 bar
+- Das Mundstück darf **nur nach Absprache mit dem Einheitsführer** abgeschraubt werden.
 
 **Einsatz:**
 
-- Außenangriff (große Reichweite)
-- Größere Brände
+- Außenangriff, Nachlöscharbeiten
+- Beim Innenangriff ist das Hohlstrahlrohr besser, weil es eine bessere Kühl- und Löschwirkung hat. Mehr dazu unter [Löschwasserversorgung](wasserversorgung.md#strahlrohre).
 
 ---
 
-#### Wenderohr
+#### Werfer (Monitor)
 
-**Eigenschaften:**
-
-- **Großes Strahlrohr** auf dem Fahrzeugdach
-- Schwenkbar, ferngesteuert (vom Maschinist bedient)
-- Hohe Wurfweite (bis 60 Meter)
-
-**Einsatz:**
-
-- Große Brände (Außenangriff)
-- Wenn Trupps nicht nah genug rangehen können
-- Kühlung der Umgebung
-
-**Beispiel:**
-Dachstuhlbrand: Der Maschinist setzt das Wenderohr ein, um von außen zu löschen, während die Trupps ins Gebäude vorgehen.
+- **Großes, schwenkbares Strahlrohr** mit hoher Wasserabgabe und großer Wurfweite
+- Fest auf manchen Tanklöschfahrzeugen oder als tragbarer Werfer. Auf der Drehleiter sitzt er am Korb.
+- Für große Brände im Außenangriff und zum Kühlen der Umgebung
+- Gehört **nicht** zur Normbeladung eines LF
 
 ---
 
@@ -383,11 +190,11 @@ Dachstuhlbrand: Der Maschinist setzt das Wenderohr ein, um von außen zu lösche
 
 **Funktion:** Verteilt **einen** Eingang auf **mehrere** Ausgänge.
 
-**Typen:**
+**Genormter Verteiler: B-CBC**
 
-- **B-Verteiler**: 1x B-Eingang → 2x B-Ausgang
-- **B-2C-Verteiler**: 1x B-Eingang → 2x C-Ausgang
-- **B-3C-Verteiler**: 1x B-Eingang → 3x C-Ausgang
+- **1 B-Eingang** vom Fahrzeug
+- **3 Abgänge: C – B – C**, jeder einzeln absperrbar
+- In Fließrichtung gesehen: links 1. Rohr, rechts 2. Rohr, Mitte Sonderrohre, z. B. ein B-Rohr
 
 **Einsatz:**
 
@@ -395,7 +202,7 @@ Dachstuhlbrand: Der Maschinist setzt das Wenderohr ein, um von außen zu lösche
 - Flexibilität bei der Wasserverteilung
 
 **Beispiel:**
-Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche ab: einer zum Angriffstrupp, einer zum Schlauchmaterialtrupp.
+Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche ab: links das 1. Rohr für den Angriffstrupp, rechts das 2. Rohr, z. B. für den Wassertrupp.
 
 ---
 
@@ -405,51 +212,30 @@ Ein B-Schlauch vom Fahrzeug zum Verteiler. Vom Verteiler gehen zwei C-Schläuche
 
 #### Steckleiter
 
-**Eigenschaften:**
-
-- 2-3 Teile, ineinander steckbar
-- Länge: bis 10 Meter (4-teilig)
-- Leicht, von 2 Personen tragbar
-
-**Einsatz:**
-
-- Rettung aus Fenstern (1.-2. Stock)
-- Zugang zu Dächern
-- Häufig bei kleineren Einsätzen
-
-!!! tip "Du wirst sie oft nutzen!"
-    Die Steckleiter ist Standard bei vielen Einsätzen. Leiterbau wird intensiv in der MTA geübt!
-
----
+- **4 Steckleiterteile**, von denen **höchstens vier** zusammengesteckt werden dürfen
+- Leiterlänge mit 4 Teilen ca. **8,40 m**. Damit erreicht man in der Regel das **2. Obergeschoss**.
+- Aufstellen mit **3 oder 4 Personen**. Liegt sie auf dem Dach eines TSF-W, ist sie vierteilig.
 
 #### Schiebleiter
 
-**Eigenschaften:**
+- **Dreiteilig**, wird mit Zugseil ausgezogen
+- Rettungshöhe bis in das **3. Obergeschoss**. Ein LF 20 hat sie zum Beispiel an Bord.
+- Aufstellen mit **4 Personen**
 
-- 2-3 Teile, ausziehbar
-- Länge: bis 15 Meter
-- Schwerer als Steckleiter
+#### Multifunktionsleiter
 
-**Einsatz:**
+- Auf vielen neueren Fahrzeugen, z. B. HLF. Sie lässt sich als Anlegeleiter, Stehleiter oder Podest verwenden.
 
-- Rettung aus höheren Stockwerken (bis 3. Stock)
-- Beleuchtung von oben
-- Standsicher durch Gewicht
+!!! tip "Grundregeln für tragbare Leitern (FwDV 10)"
+    - **Fester Standplatz**, Leiter **immer sichern**
+    - Anstellwinkel **65°–75°**
+    - Besteigen im **Pass- oder Kreuzgang**, die Sprossen im **Klammergriff** umfassen
+    - Rettung über die Leiter: die Person mit **Brustbund** sichern (Pfahlstich + Spierenstich)
 
----
+### Sprungpolster
 
-#### Hakenleiter
-
-**Eigenschaften:**
-
-- Einhängbar an Fensterbrüstungen
-- Nur ca. 4 Meter lang
-- Wird von oben eingehängt
-
-**Einsatz:**
-
-- Rettung von oben nach unten (z. B. vom Dach)
-- Ergänzung zur Steckleiter
+- **SP 16**: zugelassen für Rettungshöhen bis **max. 16 m**
+- Nur als letztes Mittel, wenn keine andere Rettung möglich ist
 
 ---
 
@@ -513,8 +299,8 @@ Um eine eingeklemmte Person aus einem PKW zu retten, wird das Dach mit der Scher
 
 **Typen:**
 
-- **Niederdruck**: große Hebekraft (bis 40 Tonnen!), niedriger Druck
-- **Hochdruck**: geringere Kraft, höherer Druck
+- **Hochdruck-Hebekissen** (ca. 8–12 bar): **große Hebekraft**, aber **geringer Hub**. Sie sind flach und passen in schmale Spalten.
+- **Niederdruck-Hebekissen** (ca. 0,5–1 bar): **großer Hub**, aber **geringere Hebekraft**
 
 **Einsatz:**
 
@@ -554,13 +340,21 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
    - Schnittfest
    - Griffig
 
-6. **Feuerwehrgurt (Haltegurt)**
+6. **Feuerwehr-Haltegurt**
    - Mit Karabinerhaken
-   - Für Absturzsicherung
-   - Zum Befestigen von Gerät
+   - **Nur zum Halten und Rückhalten**, also so, dass ein Absturz gar nicht erst möglich ist
+   - **Kein Auffanggurt!** Wo ein freier Fall nicht ausgeschlossen werden kann, braucht man einen Auffanggurt und den Gerätesatz Absturzsicherung.
 
 !!! danger "PSA ist Pflicht!"
-    **Ohne vollständige PSA** darfst du **nicht** am Einsatz teilnehmen!
+    **Ohne vollständige PSA** darfst du **nicht** am Einsatz teilnehmen! Feuerwehrschutzschuhwerk ist bei **Einsätzen und Übungen** zu tragen.
+    Welche Schutzausrüstung getragen wird und ob davon abgewichen wird, ordnet **nur der Einheitsführer** an.
+
+**Ergänzende Schutzausrüstung** (auf Anordnung bzw. je nach Lage):
+
+- **Gesichtsschutz** (Visier) und **Infektionsschutzhandschuhe** bei der technischen Hilfeleistung
+- **Infektionsschutzhandschuhe** bei der Versorgung von Verletzten
+- **Warnkleidung** im Straßenverkehr
+- **Pressluftatmer** bei Einsätzen mit gefährlichen Stoffen
 
 ---
 
@@ -681,10 +475,10 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 
 | Thema | Kernaussage |
 |-------|-------------|
-| **Standardfahrzeug** | LF 10/20 (Löschgruppenfahrzeug für 9 Personen) |
+| **Standardfahrzeug** | LF 10/20 (Löschgruppenfahrzeug, Besatzung Gruppe 1/8) |
 | **Schläuche** | B (75mm) für Versorgung, C (42/52mm) für Angriff |
 | **Strahlrohr** | Hohlstrahlrohr ist Standard im Innenangriff |
-| **PSA** | Stiefel, Hose, Jacke, Helm, Handschuhe, Gurt – immer vollständig! |
+| **PSA** | Stiefel, Hose, Jacke, Helm, Handschuhe, Haltegurt – immer vollständig! Haltegurt nur zum Halten/Rückhalten |
 | **Atemschutz** | PA (Pressluftatmer) für Innenangriff bei Bränden |
 
 ---
@@ -692,7 +486,7 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 ## Quiz: Teste dein Wissen!
 
 ??? question "1. Wie viele Personen passen in ein LF 20?"
-    **Antwort:** 9 Personen (1 Gruppenführer + 4 Trupps à 2 Personen)
+    **Antwort:** Eine Gruppe 1/8/9: Gruppenführer, Maschinist, Melder, Angriffstrupp, Wassertrupp und Schlauchtrupp.
 
 ??? question "2. Welchen Durchmesser hat ein B-Schlauch?"
     **Antwort:** 75 mm
@@ -713,7 +507,7 @@ Ein LKW ist umgestürzt und klemmt eine Person ein. Mit Hebekissen wird der LKW 
 
 ## Checkliste: Habe ich alles verstanden?
 
-- [ ] Ich kenne die wichtigsten Feuerwehrfahrzeuge (TSF, LF, TLF, HLF)
+- [ ] Ich kenne die aktuellen Normfahrzeuge und ihre Besatzung (TSF, MLF, LF, HLF, TLF, RW)
 - [ ] Ich weiß, wofür B- und C-Schläuche verwendet werden
 - [ ] Ich kenne den Unterschied zwischen Saug- und Druckschlauch
 - [ ] Ich kann die Bestandteile der PSA benennen

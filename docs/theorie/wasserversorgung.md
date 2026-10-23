@@ -1,6 +1,6 @@
 # Löschwasserversorgung, Schläuche & Armaturen
 
-**MTA-Module:** 5.5, 5.6, 9.1, 9.2, 9.4 · **Grundlage:** FwDV 1 „Grundtätigkeiten“, FwDV 3, DIN 14811 (Schläuche)
+**MTA-Module:** 5.5, 9.1, 9.2, 9.4 · **Grundlage:** FwDV 1 „Grundtätigkeiten“, FwDV 3, DIN 14811 (Schläuche)
 
 ## Lernziele
 
@@ -100,6 +100,9 @@ Aus Bach, Teich oder Löschwasserbehälter muss das Wasser **angesaugt** werden.
 - Die Kupplungen werden mit dem **Kupplungsschlüssel** fest angezogen. Die Saugleitung muss **luftdicht** sein!
 - Am **Saugkorb** kommen zwei Leinen an: Die **Ventilleine** öffnet das Rückschlagventil, damit die Leitung entleert werden kann. Die **Halteleine** sichert und hält die Saugleitung.
 
+!!! warning "Halte- und Ventilleine sind Mehrzweckleinen"
+    Für Halte- und Ventilleine nimmt man **Mehrzweckleinen**, **niemals die Feuerwehrleine**. Die Feuerwehrleine ist ein Rettungsgerät zum Retten, zur Selbstrettung und zum Sichern von Personen. In der Prüfung ist "dient als Halte- und Ventilleine" eine **Falschantwort**.
+
 !!! warning "Saugkorb mindestens 30 cm unter der Wasseroberfläche"
     Liegt der Saugkorb zu flach, entsteht ein **Wasserstrudel (Luftsog)**. Dann zieht die Pumpe Luft und es gibt **Ansaugschwierigkeiten**.
     Er darf aber **nicht auf dem Grund** liegen, sonst saugt er Schlamm und Steine an. Bei Bedarf einen **Eimer unterlegen** oder den Saugkorb **an der Halteleine hängen lassen**.
@@ -118,7 +121,7 @@ Aus Bach, Teich oder Löschwasserbehälter muss das Wasser **angesaugt** werden.
 |----------|-------------------|------------|
 | **A**-Saugschlauch | 110 mm | Saugleitung (formstabil, nicht zusammendrückbar) |
 | **B**-Druckschlauch | 75 mm | Versorgungsleitung: Hydrant → Pumpe → Verteiler |
-| **C**-Druckschlauch | 52 mm bzw. 42 mm | Angriffsleitung ab dem Verteiler |
+| **C**-Druckschlauch | 52 mm bzw. 42 mm | Angriffsleitung ab dem Verteiler, übliche Länge **15 m** |
 | **D**-Druckschlauch | 25 mm | Nachlöscharbeiten, Kübelspritze |
 
 !!! tip "Merkregel: Je weiter vorne im Alphabet, desto dicker der Schlauch"

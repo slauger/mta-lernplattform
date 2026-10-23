@@ -68,7 +68,9 @@ Nach diesem Kapitel kannst du:
 **Platzeinteilung im Fahrzeug:**
 
 - **Vorne:** Gruppenführer (Beifahrer), Maschinist (Fahrer)
-- **Hinten:** Trupps (Angriffstrupp, Wassertrupp, Schlauchmaterialtrupp, Melder)
+- **Hinten:** Melder, Angriffstrupp, Wassertrupp, Schlauchtrupp
+
+Die **feste Sitzordnung** hat einen Vorteil: Jeder kann sich schon während der Anfahrt auf seine Funktion vorbereiten.
 
 ---
 
@@ -95,7 +97,7 @@ Nach diesem Kapitel kannst du:
 
 **Maschinist:**
 
-1. **FMS-Taste "3" drücken** ("Ankunft an der Einsatzstelle") → Leitstelle wird informiert
+1. **Status „4“ drücken** („am Einsatzort“), damit die Leitstelle informiert ist. Status 3 „Einsatz übernommen“ wurde schon bei der Ausfahrt gedrückt.
 2. Fahrzeug **verkehrssicher** abstellen (Warnblinkanlage, ggf. absichern)
 3. Pumpe vorbereiten
 
@@ -144,7 +146,7 @@ vor!"
 **Was machst du als Truppmann?**
 
 1. **Zuhören!** (Befehl genau aufnehmen)
-2. **Wiederholen** (innerlich oder laut): „Angriffstrupp, Brandbekämpfung, C-Rohr, 1. Stock, Treppe"
+2. **Wiederholen:** Der **Truppführer wiederholt den Befehl laut**, z. B. „Angriffstrupp, Brandbekämpfung, C-Rohr, 1. Stock, Treppe“. So weiß der Gruppenführer, dass der Befehl richtig verstanden wurde.
 3. **Ausführen!**
 
 !!! tip "Befehle befolgen!"
@@ -163,8 +165,8 @@ vor!"
 
 **Beispiel Angriffstrupp bei Zimmerbrand:**
 
-- **Truppführer**: Geht vorne, hält Strahlrohr, gibt Richtung vor
-- **Truppmann**: Geht dahinter, sichert Schlauch, beobachtet Umgebung, meldet Gefahren
+- **Truppmann**: führt als **Strahlrohrführer** das Strahlrohr und öffnet es auf Weisung des Truppführers
+- **Truppführer**: gibt Weisungen, z. B. Vollstrahl oder Sprühstrahl, beobachtet die Lage, achtet auf Gefahren und hält Verbindung zum Gruppenführer
 
 **Niemals trennen!**
 Der Trupp bleibt **immer zusammen** – auch wenn es schneller gehen würde, sich aufzuteilen!
@@ -233,97 +235,126 @@ Bei Atemschutzeinsätzen wird jeder Trupp überwacht:
 
 ### Was ist Digitalfunk?
 
-**Digitalfunk** (BOS-Funk = Behörden und Organisationen mit Sicherheitsaufgaben) ist das **verschlüsselte Funksystem** der Feuerwehr, Polizei und Rettungsdienste in Deutschland.
+**BOS** steht für **Behörden und Organisationen mit Sicherheitsaufgaben**. Dazu gehören z. B. Polizei, Feuerwehren (auch Freiwillige Feuerwehren), Rettungsdienst, THW und die Bundeszollverwaltung. Sie funken in einem gemeinsamen, **verschlüsselten Digitalfunknetz** nach dem TETRA-Standard.
+
+Geregelt wird der Sprechfunkverkehr in der **FwDV 800/810**.
 
 **Vorteile gegenüber Analogfunk:**
 
 - **Verschlüsselt** (abhörsicher)
 - **Bessere Sprachqualität**
-- **GPS-Ortung** der Fahrzeuge
-- **Statusmeldungen** (FMS)
+- **Statusmeldungen** per Tastendruck
+- **Notruf** mit Kennung des Geräts
+
+**Betriebsarten:**
+
+- **TMO** (Trunked Mode Operation, Netzbetrieb): Die Funkgeräte verbinden sich über die Basisstationen des Netzes, z. B. für Fahrzeug ↔ Leitstelle.
+- **DMO** (Direct Mode Operation, Direktbetrieb): Die Geräte funken direkt miteinander, ohne Netz. So arbeiten z. B. die Handfunkgeräte an der Einsatzstelle.
+
+**Handfunkgeräte** (HRT) dienen in der Regel der **Funkverbindung von Einsatzkraft zu Einsatzkraft an der Einsatzstelle**. Fahrzeugfunkgeräte (MRT) halten die Verbindung zur Leitstelle.
 
 ---
 
 ### Aufbau eines Funkgeräts
 
-**Bestandteile:**
-
-1. **Display**: Zeigt Kanal, Status, GPS an
-2. **PTT-Taste** (Push To Talk): Sprechtaste (seitlich am Gerät)
+1. **Display**: zeigt die eingestellte **Rufgruppe**, den Status und die Betriebsart
+2. **PTT-Taste** (Push To Talk): Sprechtaste, seitlich am Gerät
 3. **Lautstärke-Regler**
-4. **Kanal-Wahlschalter**
-5. **Notruftaste** (rot)
+4. **Gruppenwahlschalter**: Damit wählst du die Rufgruppe.
+5. **Notruftaste** (orange oder rot)
 
 ---
 
-### Funkkanäle
+### Rufgruppen statt Kanäle
 
-**Kanäle** sind wie Telefonnummern – jeder Kanal ist eine eigene "Leitung".
+Im Digitalfunk gibt es **keine Kanäle** wie im alten Analogfunk, sondern **Rufgruppen**. Alle Geräte in derselben Rufgruppe hören einander.
 
-**Typische Kanäle:**
+- **TMO-Rufgruppen** zur Kommunikation mit der **Integrierten Leitstelle (ILS)**
+- **DMO-Rufgruppen** für die Kommunikation **an der Einsatzstelle**
 
-- **Kanal 1**: Einsatzkanal (alle Fahrzeuge der Einsatzstelle)
-- **Kanal 2**: Organisationskanal (Übungen, interne Absprachen)
-- **Kanal 3**: Kreis-Kanal (alle Feuerwehren im Landkreis)
-
-!!! warning "Richtigen Kanal wählen!"
-    Wenn du auf dem falschen Kanal funkt, hört dich niemand! Gruppenführer sagt dir den Kanal an.
+!!! warning "Richtige Rufgruppe!"
+    Welche Rufgruppe zu schalten ist, gibt der **Einheitsführer** vor. Sendest du in der falschen Rufgruppe, hört dich niemand.
 
 ---
 
-### Funksprüche richtig absetzen
+### Statusmeldungen
 
-**5-W-Regel:**
+| Status | Bedeutung |
+|--------|-----------|
+| **1** | Einsatzbereit über Funk |
+| **2** | Einsatzbereit auf der Wache |
+| **3** | Einsatz übernommen (Anfahrt) |
+| **4** | Am Einsatzort |
+| **5** | Sprechwunsch |
+| **6** | Nicht einsatzbereit |
 
-1. **Von wem?** (Dein Funkrufname)
-2. **An wen?** (Empfänger)
-3. **Was?** (Nachricht)
-4. **Wann?** (bei Bedarf: Zeitangabe)
-5. **Wo?** (bei Bedarf: Ortsangabe)
+---
 
-**Beispiel:**
+### Funkgespräch nach FwDV 810
+
+**1. Anruf:** Damit wird der Sprechfunkverkehr **eröffnet**. Zuerst kommt die **Gegenstelle**, dann „von“ und der **eigene Rufname**.
+
 ```
-"Florian Goldkronach 40/1 (von wem)
-an Leitstelle Bayreuth (an wen),
-Brandbekämpfung erfolgreich, Einsatz beendet (was),
-kommen."
+„Leitstelle Bayreuth von Florian Goldkronach 40/1, kommen.“
 ```
+
+**2. Anrufantwort:**
+
+```
+„Hier Leitstelle Bayreuth, kommen.“
+```
+
+**3. Nachricht:**
+
+```
+„Florian Goldkronach 40/1: Feuer aus, Einsatzstelle wird an die Polizei übergeben, kommen.“
+```
+
+**4. Bestätigung und Ende:**
+
+```
+„Verstanden, Ende.“
+```
+
+!!! tip "Prüfungswissen"
+    - Eröffnet wird der Sprechfunkverkehr durch den **Anruf**.
+    - Die Anrufantwort lautet: **„Hier (Rufname), kommen!“**
+    - Beendet wird das Gespräch mit **„Ende“**, ohne weitere Zusätze.
+    - Versprochen? Dann sag **„ich berichtige“** und die richtige Angabe: „… in einer Stunde – **ich berichtige** – in einer halben Stunde …“
+    - Eine Nachricht **eigenmächtig zu ändern** ist **verboten**.
+    - Schlechte Verbindung? Dann **Standort verändern**.
+
+### Nachrichtenarten
+
+| Art | Bedeutung |
+|-----|-----------|
+| **Durchsage** | **formlose Nachricht**, z. B. „Durchsage an alle: …“ |
+| **Spruch** | **formgebundene Nachricht**, schriftlich mit Vordruck (Vierfachvordruck) |
+
+### Lagemeldung
+
+Eine **Lagemeldung** wird abgesetzt, wenn die Lage **erkundet** wurde oder sich **wesentlich verändert** hat. Sie enthält:
+
+1. **Einsatzort**
+2. **Lage**
+3. **Maßnahmen**
+4. **Zeit- und Kräftebedarf**
 
 ---
 
 ### Funkdisziplin
 
-**Regeln:**
+1. **Erst hören, dann senden.** Warte, bis die Rufgruppe frei ist.
+2. **Erst denken, dann sprechen.** Kurz und präzise.
+3. **Erst PTT drücken, dann sprechen.** Den ersten Moment abwarten, sonst fehlt das erste Wort.
+4. **Deutlich und nicht zu laut sprechen.** Zu lautes Sprechen verzerrt.
+5. **Keine privaten Gespräche.**
+6. **„Kommen“** heißt: Ich erwarte eine Antwort. **„Ende“** heißt: Das Gespräch ist beendet.
 
-1. **Erst hören, dann senden!**
-   - Prüfe, ob der Kanal frei ist
-   - Warte, bis andere ausgesprochen haben
+### Funkwellen und Reichweite
 
-2. **Kurz und präzise**
-   - Keine Romane erzählen
-   - Nur das Wichtigste
-
-3. **Keine privaten Gespräche**
-   - Funk ist nur für Einsatz/Übung
-
-4. **Klar sprechen**
-   - PTT-Taste **erst** drücken, **dann** sprechen
-   - Langsam und deutlich
-
-5. **"Kommen" und "Ende"**
-   - **"Kommen"** = Ich bin fertig, erwarte Antwort
-   - **"Ende"** = Gespräch beendet, keine Antwort nötig
-
----
-
-### Funkspruch-Bausteine
-
-| Baustein | Bedeutung | Beispiel |
-|----------|-----------|----------|
-| **Kommen** | Ich erwarte Antwort | "...Brandbekämpfung läuft, kommen." |
-| **Ende** | Gespräch beendet | "Verstanden, Ende." |
-| **Durchsage** | Alle sollen zuhören | "Durchsage an alle Fahrzeuge..." |
-| **Notfall** | Dringender Notruf | "Notfall, Notfall! Mann unter Atemschutz vermisst!" |
+- **UKW-Funkwellen** breiten sich **fast wie Lichtstrahlen** aus, also annähernd geradlinig.
+- Die **Reichweite** hängt ab von **Bebauung, Geländeform** und gegebenenfalls **Witterung**. Keller, Tiefgaragen und Stahlbeton schirmen ab.
 
 ---
 
@@ -343,7 +374,7 @@ Bei unverständlichen Namen/Orten wird buchstabiert:
 | H | Heinrich | U | Ulrich |
 | I | Ida | V | Viktor |
 | J | Julius | W | Wilhelm |
-| K | Kaufmann | X | Xanthippe |
+| K | Kaufmann | X | Xanthippe (in der Prüfung auch „Xantippe“) |
 | L | Ludwig | Y | Ypsilon |
 | M | Martha | Z | Zacharias |
 
@@ -352,22 +383,16 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 
 ---
 
-### Notruftaste
+### Notruf und Notfallmeldung
 
-**Wann drücken?**
+**Wann?** Bei **Lebensgefahr für Einsatzkräfte**, z. B. bei einem Unfall mit verletzten Feuerwehrleuten oder einem vermissten Atemschutztrupp.
 
-- **Lebensgefahr** für Einsatzkräfte
-- **Unfall** mit verletzten Feuerwehrleuten
-- **Vermisster** Atemschutztrupp
+- Die **Notruftaste** am Funkgerät löst einen Notruf mit der Kennung des Geräts aus.
+- Per Sprache gibt man die **Notfallmeldung** mit dem Kennwort **„Mayday, Mayday, Mayday“** durch, danach Wer? Wo? Was?
+- Bei einer Notfallmeldung ist der **bestehende Sprechfunkverkehr sofort zu unterbrechen**. Die Notfallmeldung hat Vorrang.
 
-**Was passiert?**
-
-- Sirene auf allen Funkgeräten
-- GPS-Position wird übermittelt
-- Leitstelle alarmiert sofort Hilfe
-
-!!! danger "Nur im echten Notfall!"
-    Notruf-Taste **niemals aus Versehen** drücken! Im Notfall aber **nicht zögern**!
+!!! danger "Nur im echten Notfall, dann aber ohne Zögern!"
+    Die Notruftaste niemals aus Versehen drücken. Im Notfall aber **nicht zögern**!
 
 ---
 
@@ -390,9 +415,10 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 
 2. **Einsatzbefehl:**
    ```
-   "Angriffstrupp zur Brandbekämpfung mit C-Rohr
-   im 1. Stock über Treppe vor!
-   Wassertrupp Wasserversorgung vom Hydranten!"
+   "Wasserentnahmestelle Unterflurhydrant vor dem Haus,
+   Verteiler neben den Hauseingang,
+   Angriffstrupp zur Brandbekämpfung unter Atemschutz
+   mit 1. C-Rohr in die Küche im 1. OG über den Treppenraum – vor!"
    ```
 
 3. **Angriffstrupp:**
@@ -402,16 +428,18 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
    - Löscht den Brand in der Küche
 
 4. **Wassertrupp:**
-   - Legt B-Schläuche vom Hydranten zum Fahrzeug
-   - Kuppelt Schläuche an
-   - Öffnet Hydrant
+   - Stellt die Wasserversorgung vom Hydranten zum Fahrzeug her
+   - Steht danach als **Sicherheitstrupp** für den Atemschutzeinsatz bereit
 
-5. **Maschinist:**
-   - Startet Pumpe
-   - Baut Druck auf (8 bar)
-   - Öffnet Ventil für Angriffstrupp
+5. **Schlauchtrupp:**
+   - Verlegt die B-Leitung vom Fahrzeug zum Verteiler
+   - Unterstützt den Angriffstrupp mit Schlauchreserve
 
-6. **Brandbekämpfung erfolgreich:**
+6. **Maschinist:**
+   - Nimmt die Pumpe in Betrieb und bringt den Ausgangsdruck auf
+   - Gibt Wasser auf die B-Leitung zum Verteiler
+
+7. **Brandbekämpfung erfolgreich:**
    - Gruppenführer: "Wasser halt!"
    - Nachlöscharbeiten (Glut ablöschen)
    - Rauch mit Lüfter entfernen
@@ -435,20 +463,27 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 
 2. **Einsatzbefehl:**
    ```
-   "Angriffstrupp zur technischen Rettung
-   mit hydraulischem Rettungsgerät am PKW!
-   Wassertrupp Ölspur abbinden!"
+   "Wassertrupp: Sicherung der Einsatzstelle, Brandschutz sicherstellen!
+   Schlauchtrupp: Geräte bereitstellen!
+   Angriffstrupp: Betreuung des Fahrers, Erstversorgung – vor!"
    ```
 
-3. **Angriffstrupp:**
-   - Holt Spreizer + Schere vom RW/HLF
-   - Spricht mit Verletztem (beruhigen!)
-   - Öffnet Tür mit Spreizer
-   - Befreit Person (zusammen mit Rettungsdienst)
+3. **Wassertrupp (Sicherung):**
+   - Sichert die Einsatzstelle gegen den Verkehr ab
+   - Stellt den **Brandschutz** sicher, z. B. mit Pulverlöscher oder Schnellangriff
+   - Kleine Mengen ausgelaufener Betriebsstoffe deckt er mit **Bindemittel** ab
 
-4. **Wassertrupp:**
-   - Bindet Ölspur mit Bindemittel ab
-   - Verhindert, dass Öl ins Grundwasser läuft
+4. **Schlauchtrupp (Gerät):**
+   - Legt die Geräteablage an
+   - Stellt das hydraulische Rettungsgerät und die Stabilisierung bereit
+
+5. **Angriffstrupp (Rettung):**
+   - Betreut den Fahrer **von außen**, solange das Fahrzeug nicht gesichert ist
+   - Stabilisiert das Fahrzeug, klemmt die Batterie ab (**Minuspol zuerst**)
+   - Befreit die Person mit dem hydraulischen Rettungsgerät, in Absprache mit dem Rettungsdienst
+
+!!! info "FwDV 3 im Hilfeleistungseinsatz"
+    **Angriffstrupp = Rettung**, **Wassertrupp = Sicherung**, **Schlauchtrupp = Gerät**. Ein eigenes Kapitel zur technischen Hilfeleistung folgt.
 
 ---
 
@@ -529,7 +564,7 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
 ### 1. Rückfahrt zum Feuerwehrhaus
 
 - **Kein Blaulicht/Martinshorn** (außer neuer Einsatz)
-- FMS-Taste "4" drücken ("Sprechen auf Wache")
+- Nach Rückkehr und Wiederherstellung der Einsatzbereitschaft: **Status „2“** (einsatzbereit auf der Wache)
 - Entspannen, aber konzentriert bleiben
 
 ---
@@ -632,7 +667,7 @@ Ruß, Rauch und Chemikalien sind **krebserregend**! Kontakt minimieren!
 - [ ] Ich kenne den Aufbau eines Einsatzbefehls
 - [ ] Ich weiß, dass der Trupp niemals getrennt wird
 - [ ] Ich kann einen einfachen Funkspruch absetzen
-- [ ] Ich kenne die 5-W-Regel für Funksprüche
+- [ ] Ich kann Anruf, Anrufantwort und Ende nach FwDV 810 korrekt sprechen
 - [ ] Ich weiß, was nach dem Einsatz zu tun ist (Fahrzeug, Hygiene)
 
 ---

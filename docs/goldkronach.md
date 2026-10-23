@@ -124,16 +124,16 @@ Die FF Goldkronach verfügt über vier Einsatzfahrzeuge und zwei Anhänger:
 
 **Löschgeräte:**
 
-- Feuerlöschpumpe (fest eingebaut)
-- Tragkraftspritze (TS 8/8)
+- Feuerlöschkreiselpumpe FPN (fest eingebaut, im Heck)
+- Tragkraftspritze PFPN 10-1000 (ältere Geräte: TS 8/8)
 - B-Schläuche (20m, mehrere)
 - C-Schläuche (15m, mehrere)
-- Verteiler (B-2C, B-3C)
-- Strahlrohre (Hohlstrahlrohre, CM-Rohre, Wenderohr)
+- Verteiler B-CBC
+- Strahlrohre (Hohlstrahlrohre, BM- und CM-Mehrzweckstrahlrohre)
 
 **Rettungsgeräte:**
 
-- Steckleiter (3-4-teilig)
+- Steckleiter (4 Teile)
 - Schiebleiter
 - Ggf. hydraulisches Rettungsgerät (Spreizer, Schere)
 - Ggf. Hebekissen
