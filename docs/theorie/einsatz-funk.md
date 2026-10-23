@@ -483,7 +483,7 @@ Einsatzort "Bürg" → "Berta-Ulrich-Richard-Gustav"
    - Befreit die Person mit dem hydraulischen Rettungsgerät, in Absprache mit dem Rettungsdienst
 
 !!! info "FwDV 3 im Hilfeleistungseinsatz"
-    **Angriffstrupp = Rettung**, **Wassertrupp = Sicherung**, **Schlauchtrupp = Gerät**. Ein eigenes Kapitel zur technischen Hilfeleistung folgt.
+    **Angriffstrupp = Rettung**, **Wassertrupp = Sicherung**, **Schlauchtrupp = Gerät**. Mehr dazu im Kapitel [Technische Hilfeleistung](hilfeleistung.md).
 
 ---
 

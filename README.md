@@ -15,7 +15,7 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
 
 ## Features
 
-### 📚 Theorie (7 Kapitel)
+### 📚 Theorie (11 Kapitel)
 
 - Ziele, Aufgaben & Werte der Feuerwehr
 - Brennen & Löschen (Brandklassen, Löschmittel, Brandverhalten)
@@ -24,6 +24,10 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
 - Verhalten im Einsatz & Funk (Einsatzablauf, Digitalfunk)
 - Einheiten im Löscheinsatz (FwDV 3: Trupp-Aufgaben, Befehlsschema, Verteiler)
 - Löschwasserversorgung (Hydranten, Saugbetrieb, Schläuche, Armaturen, Strahlrohre)
+- Technische Hilfeleistung & neue Fahrzeugtechnik
+- Leitern & Absturzsicherung
+- Verhalten bei Gefahr & ABC (4A-1C-4E, Gefahrgut, GAMS)
+- Erste Hilfe & Belastung
 
 ### 🛠️ Praxis (3 Kapitel)
 

@@ -47,7 +47,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
 ## 📋 Was bietet diese Plattform?
 
-### 📚 Theorie (7 Kapitel)
+### 📚 Theorie (11 Kapitel)
 
 - [Ziele, Aufgaben & Werte](theorie/ziele-aufgaben.md)
 - [Brennen & Löschen](theorie/brennen-loeschen.md) (Brandklassen, Löschmittel, Brandverhalten)
@@ -56,6 +56,10 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 - [Verhalten im Einsatz & Funk](theorie/einsatz-funk.md) (Einsatzablauf, Digitalfunk)
 - [Einheiten im Löscheinsatz](theorie/loescheinsatz.md) (FwDV 3, Trupp-Aufgaben, Befehlsschema, Verteiler)
 - [Löschwasserversorgung](theorie/wasserversorgung.md) (Hydranten, Saugbetrieb, Schläuche, Armaturen, Strahlrohre)
+- [Technische Hilfeleistung & neue Fahrzeugtechnik](theorie/hilfeleistung.md) (Verkehrsunfall, Trupp-Aufgaben, alternative Antriebe)
+- [Leitern & Absturzsicherung](theorie/leitern-absturz.md) (Steckleiter, Halten/Rückhalten, Feuerwehrleine)
+- [Verhalten bei Gefahr & ABC](theorie/gefahren-abc.md) (4A-1C-4E, Elektrizität, Gefahrgut, GAMS)
+- [Erste Hilfe & Belastung](theorie/erste-hilfe.md) (Vitalfunktionen, Blutung, Schock, Rettung, Stress)
 
 ### 🛠️ Praxis (3 Kapitel)
 
