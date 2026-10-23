@@ -15,13 +15,15 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
 
 ## Features
 
-### 📚 Theorie (5 Kapitel)
+### 📚 Theorie (7 Kapitel)
 
 - Ziele, Aufgaben & Werte der Feuerwehr
 - Brennen & Löschen (Brandklassen, Löschmittel, Brandverhalten)
 - Fahrzeuge & Geräte (LF, HLF, PSA, Atemschutz)
 - Rechtsgrundlagen & Sicherheit (BayFwG, UVV, GAMS)
 - Verhalten im Einsatz & Funk (Einsatzablauf, Digitalfunk)
+- Einheiten im Löscheinsatz (FwDV 3: Trupp-Aufgaben, Befehlsschema, Verteiler)
+- Löschwasserversorgung (Hydranten, Saugbetrieb, Schläuche, Armaturen, Strahlrohre)
 
 ### 🛠️ Praxis (3 Kapitel)
 
@@ -42,6 +44,7 @@ Dieses Repository enthält eine umfassende MTA-Vorbereitung mit:
   - "Nur neue Fragen" / "Nur falsche wiederholen"
   - Sofortiges Feedback mit Erklärungen
   - Keyboard-Shortcuts (a/b/c, Enter, Space)
+  - Filter nach MTA-Thema (alle Fragen den Modulen zugeordnet, `tag_themen.py`)
 - **Durchsicht-Modus**: Alle Fragen aufklappbar zum Lernen
 
 ### 🏠 Goldkronach-spezifisch
