@@ -235,6 +235,11 @@
                 </select>
             </div>
 
+            <div class="control-group">
+                <label for="themaFilter">Thema / Kursabend:</label>
+                <select id="themaFilter" onchange="displayQuestions()"></select>
+            </div>
+
             <div class="button-group">
                 <button class="btn-secondary" onclick="window.location.href='index.html'">← Zum interaktiven Quiz</button>
                 <button class="btn-secondary" onclick="window.location.href='../'">Zurück zur Übersicht</button>
@@ -250,6 +255,7 @@
         </div>
     </div>
 
+    <script src="themen.js"></script>
     <script>
         let allQuestions = [];
 
@@ -273,14 +279,15 @@
         // Display all questions
         function displayQuestions() {
             const container = document.getElementById('questionsList');
+            const questions = filterByThema(allQuestions, 'themaFilter');
 
             // Update stats
-            const singleChoice = allQuestions.filter(q => !q.multiple_choice).length;
-            const multipleChoice = allQuestions.filter(q => q.multiple_choice).length;
-            const withImages = allQuestions.filter(q => q.images && q.images.length > 0).length;
+            const singleChoice = questions.filter(q => !q.multiple_choice).length;
+            const multipleChoice = questions.filter(q => q.multiple_choice).length;
+            const withImages = questions.filter(q => q.images && q.images.length > 0).length;
 
             document.getElementById('stats').innerHTML =
-                `📊 <strong>${allQuestions.length} Fragen</strong> | ` +
+                `📊 <strong>${questions.length} Fragen</strong> | ` +
                 `Single Choice: ${singleChoice} | ` +
                 `Multiple Choice: ${multipleChoice} | ` +
                 `Mit Bildern: ${withImages}`;
@@ -288,15 +295,15 @@
             // Build HTML
             let html = '';
 
-            allQuestions.forEach((question, index) => {
+            questions.forEach((question, index) => {
                 const correctIndices = Array.isArray(question.correct) ? question.correct : [question.correct];
 
                 html += `
                     <div class="question-card" onclick="toggleQuestion(${index})">
                         <div class="question-header">
                             <div style="flex: 1;">
-                                <div class="question-number">Frage ${index + 1} von ${allQuestions.length}</div>
-                                <div class="category-badge">${question.category}</div>
+                                <div class="question-number">Frage ${index + 1} von ${questions.length}</div>
+                                <div class="category-badge">${themaLabel(question)}</div>
                                 <div class="question-text">${question.question}</div>
                             </div>
                             <div class="collapse-icon">▼</div>
@@ -361,6 +368,7 @@
         }
 
         // Initialize
+        initThemaFilter('themaFilter', 'catalogFilter');
         loadQuestions();
     </script>
 </body>
