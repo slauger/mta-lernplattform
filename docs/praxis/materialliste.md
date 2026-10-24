@@ -32,14 +32,14 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 
 ---
 
-### 2. Lehrbuch "Grundlagen der Feuerwehr"
+### 2. Lehrbuch (optional)
 
 **Wofür?** Theorie lernen (Brennen & Löschen, Fahrzeugkunde, etc.)
 
 **Empfehlung:**
 
-- **"Grundlagen der Feuerwehr"** (Ecomed Verlag)
-- Alternativ: **"Feuerwehr-Lehrbuch"** (Wenzel Verlag)
+- Zuerst die **kostenlosen MTA-Teilnehmerunterlagen** auf der [Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)
+- Zum Vertiefen: **„Handbuch für den Feuerwehrmann“** (Hamilton, Boorberg Verlag) oder einzelne **Rote Hefte** (Kohlhammer)
 
 **Wo kaufen?**
 
@@ -86,7 +86,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 
 ### 5. Karabinerhaken
 
-**Wofür?** Halbmastwurf üben
+**Wofür?** Optional, z. B. um Gerät zum Üben einzuhängen. Für die MTA-Knoten nicht nötig.
 
 **Spezifikation:**
 
@@ -175,7 +175,7 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 
 ### 11. Bandschlinge / Seilschlinge
 
-**Wofür?** Zusätzliche Knoten-Übungen (z. B. Prusik)
+**Wofür?** Optional, für die MTA nicht nötig
 
 **Spezifikation:**
 

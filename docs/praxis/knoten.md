@@ -1,583 +1,212 @@
-# Knoten & Stiche
+# Knoten & Stiche, Leinen
+
+**MTA-Module:** 5.10 (Rettungsgeräte – Praxis Knoten und Stiche), 5.12 (Rettung von Personen) · **Grundlage:** FwDV 1 „Grundtätigkeiten“
 
 ## Lernziele
 
 Nach diesem Kapitel kannst du:
 
-- [x] Die wichtigsten Feuerwehrknoten benennen und ihre Einsatzzwecke erklären
-- [x] Mastwurf, Zimmermannsschlag, Achterknoten und Webleinstek binden
-- [x] Die Unterschiede zwischen Knoten, Stek und Bund erklären
-- [x] Knoten zuhause üben
+- [x] Feuerwehrleine und Mehrzweckleine unterscheiden und richtig einsetzen
+- [x] Die Knoten und Stiche der Grundausbildung benennen und ihren Zweck erklären
+- [x] Einen Brustbund anlegen und sichern
+- [x] Gerät zum Hochziehen richtig anschlagen
+
+!!! warning "Verbindlich ist deine Teilnehmerunterlage"
+    Welche Knoten in deiner Prüfung verlangt werden, steht in der **MTA-Teilnehmerunterlage zu Modul 5.10** auf der [Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/). Gleich diese Seite damit ab. Die **Lehrfilme** dort zeigen jeden Knoten Schritt für Schritt, und das ist mit Abstand die beste Übungsvorlage.
 
 ---
 
-## Warum sind Knoten wichtig?
+## Die Leinen der Feuerwehr
 
-Knoten sind **grundlegende Fertigkeiten** bei der Feuerwehr. Du brauchst sie:
+| | **Feuerwehrleine** | **Mehrzweckleine** |
+|---|---|---|
+| **Was ist sie?** | **Rettungsgerät**, gehört zur ergänzenden persönlichen Ausrüstung | Arbeitsleine (früher „Arbeitsleine“) |
+| **Länge** | **30 m** | kürzer |
+| **Wofür?** | **Retten**, **Selbstrettung**, **Sichern von Personen** (Halten/Rückhalten), Sichern und Aufziehen von Geräten | **Halte- und Ventilleine** am Saugkorb, Geräte ziehen und sichern, Absperren |
+| **Verboten** | als **Absturzsicherung**, wenn ein **freier Fall nicht auszuschließen** ist; als Halte- und Ventilleine | **zum Sichern oder Retten von Personen** |
 
-- **Beim Leiterbau** (Leitern sichern)
-- **Bei der Personenrettung** (Personen anseilen)
-- **Beim Gerätesichern** (Geräte gegen Abrutschen sichern)
-- **Bei technischen Hilfeleistungen** (Lasten heben, ziehen)
-
-!!! danger "Fehlerhafte Knoten = Lebensgefahr!"
-    Ein falsch gebundener Knoten kann **Leben kosten**! Übe, bis du sie im Schlaf beherrschst!
-
----
-
-## Begriffserklärung
-
-### Knoten, Stek, Bund
-
-**Knoten:**
-Allgemeine Bezeichnung für Seilverbindungen.
-
-**Stek:**
-Verbindung des Seils mit einem **Gegenstand** (z. B. Mastwurf um einen Pfahl).
-
-**Bund:**
-Verbindung von **zwei Seilen** miteinander (z. B. zwei Leinen verbinden).
-
-!!! tip "In der Praxis"
-    In der Feuerwehr sagt man meist einfach „Knoten" – aber für die Prüfung solltest du die Unterschiede kennen!
+!!! danger "Prüfungsfallen"
+    - Personen, die über eine Leiter gerettet werden, werden **nur mit der Feuerwehrleine** gesichert. Die Mehrzweckleine ist dafür nicht zulässig.
+    - „Die Feuerwehrleine dient als Halte- und Ventilleine“ ist **falsch**.
+    - Haltegurt + Feuerwehrleine dürfen nur zum **Halten/Rückhalten** benutzt werden, **nie** als Auffangsystem.
 
 ---
 
-## Die wichtigsten Feuerwehrknoten
+## Begriffe
+
+| Begriff | Bedeutung | Beispiele |
+|---------|-----------|-----------|
+| **Knoten** | verbindet Leinen miteinander | Kreuzknoten, Schotenstich |
+| **Stich / Schlag** | befestigt eine Leine an einem Gegenstand oder bildet eine Schlaufe | Mastwurf, Zimmermannsschlag, Halbschlag, Pfahlstich |
+| **Bund** | Leine um den Körper einer Person | Brustbund |
+| **Knotensicherung** | sichert das lose Ende gegen Aufgehen | Spierenstich |
+
+**Fachwörter zur Leine:**
+
+- **Laufendes Ende:** das freie Ende, mit dem du den Knoten bindest
+- **Stehender Teil:** der Rest der Leine, der unter Zug steht
+- **Bucht:** eine U-förmig gelegte Leine
+- **Auge / Schlinge:** eine gekreuzt gelegte Leine
 
 ---
 
-## 1. Mastwurf
+## Die Knoten und Stiche im Einzelnen
 
-### Einsatzzweck
+### 1. Mastwurf
 
-**Befestigen einer Leine an runden Gegenständen** (Pfosten, Hydranten, Rohre).
+**Zweck:** Befestigen einer Leine an **runden Gegenständen**, z. B. Schlauch, Strahlrohr, Rohr, Pfahl oder Geländer. Er hält gut unter Zug und lässt sich danach leicht lösen.
 
-**Vorteile:**
+**Zwei Arten:**
 
-- Schnell zu binden
-- Hält sicher
-- Leicht zu lösen (auch unter Last)
+- **Über das Ende gelegt** (Gegenstand hat ein freies Ende, z. B. Pfahl): Zwei gleiche Schlingen legen, die zweite **hinter** die erste schieben und beide über den Gegenstand stülpen.
+- **Um den Gegenstand gebunden** (kein freies Ende): Das laufende Ende um den Gegenstand führen, über den stehenden Teil **kreuzen**, ein zweites Mal herumführen und unter der Kreuzung durchstecken.
 
-**Einsatz:**
+**Kontrolle:** Beide Windungen liegen parallel, das Ende kommt **unter der Kreuzung** heraus.
 
-- Leine am Hydranten befestigen
-- Leiter am Pfosten sichern
-- Gerät an Geländer festmachen
+### 2. Halbschlag
 
----
+**Zweck:** Der Halbschlag **führt** die Last beim Hochziehen und **sichert zusätzlich**. Er wird praktisch immer mit einem anderen Stich kombiniert.
 
-### Anleitung
+**So geht's:** Mit der Leine eine Schlinge um den Gegenstand legen und den stehenden Teil durch die Schlinge führen. Dann festziehen.
 
-**Schritt 1:** Lege eine Schlaufe (Auge) über den Gegenstand.
-```
-      |
-  O   |   (Gegenstand)
- / \  |
-```
+!!! example "Prüfungsfrage: Strahlrohr mit Schlauchleitung hochziehen"
+    Mit **Mastwurf und Halbschlag**. Der **Mastwurf** kommt um die Schlauchleitung hinter dem Strahlrohr, der **Halbschlag** um das Strahlrohr. So hängt es beim Hochziehen gerade. Das Strahlrohr muss dabei **geschlossen** sein.
 
-**Schritt 2:** Lege eine zweite Schlaufe (gleiches Prinzip).
-```
-      |
- O O  |
-/ X \ |
-```
+### 3. Zimmermannsschlag
 
-**Schritt 3:** Lege die beiden Schlaufen übereinander und ziehe über den Gegenstand.
-```
-      |
-  ╱╲  |
- ╱  ╲ |
-|    ||
-```
+**Zweck:** Befestigen einer Leine an **Balken, Rundhölzern und Leiterholmen**, vor allem zum **Hochziehen oder Ablassen von Gegenständen** wie Leitern oder Balken. In Zugrichtung kommen meist **Halbschläge** zur Führung dazu.
 
-**Schritt 4:** Festziehen!
+**So geht's:** Das laufende Ende um den Gegenstand führen, dann um den stehenden Teil legen. Danach **mehrmals um sich selbst eindrehen** (mindestens 3 Törns).
 
----
+**Eigenschaft:** Er **zieht sich unter Zug fest** und löst sich ohne Zug sehr leicht.
 
-### Merkhilfe
+!!! danger "Kein Rettungsknoten!"
+    Der Zimmermannsschlag ist **keine feste Schlaufe** und ist **nicht** zum Sichern von Personen da. Eine Person würde er zuschnüren. Für Personen nimmt man den **Pfahlstich**.
 
-„**Zwei Augen schauen sich an, dann übereinander legen!**"
+### 4. Kreuzknoten
 
----
+**Zweck:** Verbinden von **zwei Leinen gleicher Stärke**.
 
-### Übung zuhause
+**So geht's:** Die Enden zweimal gegenläufig umeinanderlegen. Merksatz: „**Links über rechts, rechts über links.**“
 
-**Material:** Seil (6-8mm), Stuhlbein oder Besenstiel
+**Kontrolle:** Beide Enden liegen auf **derselben Seite** und die Bucht ist symmetrisch. Liegen sie auf verschiedenen Seiten, ist es ein „Altweiberknoten“, und der rutscht durch!
 
-**Aufgabe:**
+### 5. Schotenstich
 
-1. Binde 10x Mastwurf am Stuhlbein
-2. Ziel: Unter 10 Sekunden!
-3. Variante: Mit geschlossenen Augen (Simulation: Dunkelheit)
+**Zweck:** Verbinden von **zwei Leinen unterschiedlicher Stärke** oder Befestigen einer Leine an einer **Öse oder Schlaufe**.
 
----
+**So geht's:** Mit der dickeren Leine eine Bucht legen. Das Ende der dünneren Leine von unten durch die Bucht führen, um die Bucht herumlegen und unter sich selbst durchstecken.
 
-## 2. Zimmermannsschlag (Doppelter Ankerstich)
+**Doppelter Schotenstich:** Das Ende wird ein zweites Mal herumgeführt. Das ist sicherer, z. B. bei glatten Leinen.
 
-### Einsatzzweck
+### 6. Pfahlstich
 
-**Schlaufe am Ende einer Leine** (zum Anseilen von Personen oder Geräten).
+**Zweck:** **Feste Schlaufe, die sich nicht zuzieht.** Er ist die Grundlage für das **Sichern und Retten von Personen** mit dem Brustbund.
 
-**Vorteile:**
+**So geht's:**
 
-- Sehr sicher
-- Zieht sich nicht zu (wichtig bei Personenrettung!)
-- Hält auch unter extremer Last
+1. Ein kleines Auge in den stehenden Teil legen.
+2. Das laufende Ende **von unten durch das Auge** führen.
+3. **Hinter dem stehenden Teil herum** führen.
+4. **Zurück durch das Auge** stecken.
+5. Festziehen, die Schlaufe bleibt dabei in der gewünschten Größe.
 
-**Einsatz:**
+!!! tip "Merksatz"
+    „Die Schlange kommt aus dem Teich, läuft um den Baum und springt zurück in den Teich.“
 
-- Person anseilen (Rettung)
-- Gerät anseilen (Heben/Ziehen)
+### 7. Spierenstich
+
+**Zweck:** **Knotensicherung.** Das lose Ende eines Knotens, z. B. beim Pfahlstich des Brustbunds, wird damit gegen Aufgehen gesichert.
+
+**So geht's:** Das lose Ende **zweimal um den stehenden Teil** wickeln, durch die Windungen zurückführen und festziehen.
 
 ---
 
-### Anleitung
+## Brustbund (Rettungsknoten)
 
-**Schritt 1:** Bilde eine große Schlaufe (Bucht).
-```
-     O
-    / \
-   /   \
-  |     |
-  |     |
-```
+Mit dem **Brustbund** wird eine Person **gesichert oder gerettet**, z. B. bei der Rettung über eine tragbare Leiter.
 
-**Schritt 2:** Führe das lose Ende zweimal um die Bucht herum.
-```
-     O
-    /|\
-   / | \
-  |  |  |
-  ====== (2x umwickeln)
-```
+**Aufbau:**
 
-**Schritt 3:** Führe das Ende durch die obere kleine Schlaufe.
-```
-     O--→ (Ende durch diese Schlaufe)
-    /|\
-   / | \
-```
+1. Die **Feuerwehrleine** unter den Achseln um den Brustkorb legen.
+2. Mit einem **Pfahlstich** eine feste, passende Schlaufe binden. Sie darf sich nicht zuziehen.
+3. Das lose Ende mit einem **Spierenstich** sichern. Je nach Ausbildungsunterlage geht auch ein **Kreuzschlag**.
 
-**Schritt 4:** Festziehen!
+!!! danger "Kontrolle durch den Truppführer"
+    Die korrekte Ausführung des Brustbundes **überprüft der Truppführer** des Trupps, der sichert. Weder der, der den Knoten gebunden hat, noch der Truppmann. Ohne Kontrolle geht es nicht!
+
+!!! example "Prüfungsfragen"
+    - Welche Knoten sichern den Brustbund? → **Pfahlstich und Spierenstich** (bzw. Pfahlstich und Kreuzschlag)
+    - Wie wird eine Person bei der Rettung über tragbare Leitern gesichert? → **Brustbund mit Spierenstich als Knotensicherung**
+    - Welche Leine? → **Feuerwehrleine**
 
 ---
 
-### Merkhilfe
-
-„**Zwei Törns, dann durchstecken!**"
-
----
-
-### Übung zuhause
-
-**Material:** Seil
-
-**Aufgabe:**
-
-1. Binde 10x Zimmermannsschlag
-2. Teste: Kann die Schlaufe sich zuziehen? (Nein!)
-3. Ziel: Unter 20 Sekunden
-
----
-
-## 3. Achterknoten
-
-### Variante A: Endacht (Stopperknoten)
-
-**Einsatzzweck:**
-Seilende gegen Durchrutschen sichern.
-
-**Einsatz:**
-
-- Seil kann nicht durch Öse rutschen
-- Seil kann nicht durch Hand rutschen (beim Ablassen)
-
----
-
-#### Anleitung Endacht
-
-**Schritt 1:** Bilde eine Schlaufe.
-```
-    O
-   / \
-  |   |
-  |___|
-```
-
-**Schritt 2:** Führe das Ende einmal um das stehende Seil und durch die Schlaufe zurück (Form einer 8).
-```
-    ∞
-  (Achterform)
-```
-
-**Schritt 3:** Festziehen!
-
----
-
-### Variante B: Bucht-Achter (Schlaufe)
-
-**Einsatzzweck:**
-Feste Schlaufe am Seilende oder in der Seilmitte.
-
-**Einsatz:**
-
-- Anschlagpunkt für Karabiner
-- Rettung von Personen
-
----
-
-#### Anleitung Bucht-Achter
-
-**Schritt 1:** Bilde eine doppelte Schlaufe (Bucht).
-```
-    O
-   /|\
-  | | |
-```
-
-**Schritt 2:** Führe die Bucht wie beim Achterknoten (Form einer 8).
-
-**Schritt 3:** Festziehen → Feste Schlaufe entsteht.
-
----
-
-### Übung zuhause
-
-**Material:** Seil
-
-**Aufgabe:**
-
-1. 10x Endacht binden
-2. 10x Bucht-Achter binden
-3. Ziel: Achterform muss klar erkennbar sein
-
----
-
-## 4. Webleinstek (Webeleinstek)
-
-### Einsatzzweck
-
-**Befestigen einer Leine an einem Gegenstand** (ähnlich wie Mastwurf, aber noch sicherer).
-
-**Vorteile:**
-
-- Extrem sicher
-- Hält auch bei seitlicher Belastung
-
-**Einsatz:**
-
-- Leitersicherung
-- Gerätesicherung
-
----
-
-### Anleitung
-
-**Schritt 1:** Wickle die Leine einmal um den Gegenstand (wie Mastwurf).
-
-**Schritt 2:** Führe die Leine nochmal rum, aber diesmal **unter** dem stehenden Teil hindurch.
-```
-     |
-    /|
-   / |
-  X  | (Kreuzung!)
-  |  |
-```
-
-**Schritt 3:** Ende durchstecken und festziehen.
-
----
-
-### Merkhilfe
-
-„**Wie Mastwurf, aber mit Kreuzung!**"
-
----
-
-### Übung zuhause
-
-**Material:** Seil, Stuhlbein
-
-**Aufgabe:**
-
-1. 10x Webleinstek binden
-2. Teste: Zieht der Knoten seitlich weg? (Nein!)
-
----
-
-## 5. Halbmastwurf (HMS)
-
-### Einsatzzweck
-
-**Ablassen oder Sichern von Personen/Lasten** (Bremswirkung).
-
-**Vorteile:**
-
-- Reibung → Bremswirkung
-- Kann dynamisch gehalten werden (nachgeben/straffen)
-
-**Einsatz:**
-
-- Person ablassen (z. B. aus Fenster)
-- Last kontrolliert herablassen
-
----
-
-### Anleitung
-
-**Schritt 1:** Bilde zwei Schlaufen nebeneinander (wie zwei „Augen").
-
-**Schritt 2:** Lege sie übereinander (wie Mastwurf).
-
-**Schritt 3:** Hänge sie in einen Karabiner.
-```
-  O
- /|\  (Karabiner)
-| ∞ |
-```
-
-**Schritt 4:** Halte beide Seilenden fest → Reibung bremst!
-
----
-
-### Übung zuhause
-
-**Material:** Seil, Karabiner (oder stabiler Haken)
-
-**Aufgabe:**
-
-1. Binde HMS in Karabiner
-2. Hänge ein Gewicht dran (z. B. Wasserflasche)
-3. Teste: Bremswirkung spürbar?
-
----
-
-## 6. Kreuzklemmknoten (Prusikknoten)
-
-### Einsatzzweck
-
-**Selbstsicherndes Klemmen an einem Seil** (rutscht bei Zug nicht).
-
-**Vorteile:**
-
-- Hält unter Belastung
-- Kann nach oben/unten geschoben werden (ohne Belastung)
-
-**Einsatz:**
-
-- Selbstsicherung beim Abseilen
-- Steigklemme (Seil hochklettern)
-
----
-
-### Anleitung
-
-**Schritt 1:** Bilde eine Schlinge mit dünnerer Leine.
-
-**Schritt 2:** Wickle die Schlinge 3-4x um das Hauptseil.
-```
-  ║  (Hauptseil)
-  ╬═══ (Wicklung)
-  ╬═══
-  ╬═══
-```
-
-**Schritt 3:** Führe die Enden durch die Schlinge und ziehe fest.
-
-**Schritt 4:** Teste: Bei Belastung klemmt der Knoten!
-
----
-
-## Zusammenfassung
-
-| Knoten | Einsatzzweck | Schwierigkeit |
-|--------|--------------|---------------|
-| **Mastwurf** | Befestigen an Gegenstand | Einfach ★☆☆ |
-| **Zimmermannsschlag** | Schlaufe (Personen/Geräte) | Mittel ★★☆ |
-| **Achterknoten** | Stopperknoten / Schlaufe | Einfach ★☆☆ |
-| **Webleinstek** | Sichere Befestigung | Mittel ★★☆ |
-| **Halbmastwurf** | Ablassen/Sichern | Mittel ★★☆ |
-| **Kreuzklemmknoten** | Klemmen am Seil | Schwer ★★★ |
+## Übersicht: Welcher Knoten wofür?
+
+| Aufgabe | Knoten / Stich |
+|---------|----------------|
+| Leine an Schlauch, Rohr oder Pfahl befestigen | **Mastwurf** |
+| Strahlrohr mit Schlauchleitung hochziehen | **Mastwurf + Halbschlag** |
+| Leiter oder Balken hochziehen | **Zimmermannsschlag + Halbschläge** |
+| Zwei gleich starke Leinen verbinden | **Kreuzknoten** |
+| Zwei unterschiedlich starke Leinen verbinden / Leine an Öse | **Schotenstich** (einfach oder doppelt) |
+| Feste Schlaufe, die sich nicht zuzieht | **Pfahlstich** |
+| Knotenende sichern | **Spierenstich** |
+| Person sichern oder retten | **Brustbund**: Pfahlstich + Spierenstich |
 
 ---
 
 ## Übungsplan zuhause
 
-### Woche 1: Grundlagen
+Du brauchst nur eine **Übungsleine** (ca. 3–5 m, 8–12 mm, z. B. aus dem Baumarkt) und einen **Stuhl** oder ein **Geländer**.
 
-**Tag 1-2: Mastwurf**
+| Woche | Fokus | Ziel |
+|-------|-------|------|
+| 1 | Mastwurf (beide Arten), Halbschlag, Kreuzknoten | sauber und ohne Nachdenken |
+| 2 | Zimmermannsschlag, Schotenstich (einfach und doppelt) | Zweck sicher benennen können |
+| 3 | Pfahlstich, Spierenstich, Brustbund (an einer Person, z. B. Familienmitglied) | Brustbund in unter 1 Minute, sauber gesichert |
+| 4 | Alles gemischt, **mit Feuerwehrhandschuhen** und mit geschlossenen Augen | prüfungsreif |
 
-- 3x täglich 10 Wiederholungen
-- Ziel: Unter 10 Sekunden
-
-**Tag 3-4: Achterknoten (Endacht + Bucht-Achter)**
-
-- 3x täglich je 10 Wiederholungen
-- Ziel: Saubere Achterform
-
-**Tag 5-7: Zimmermannsschlag**
-
-- 3x täglich 10 Wiederholungen
-- Ziel: Unter 20 Sekunden
-
----
-
-### Woche 2: Fortgeschrittene
-
-**Tag 1-3: Webleinstek**
-
-- 3x täglich 10 Wiederholungen
-- Ziel: Verwechslung mit Mastwurf vermeiden
-
-**Tag 4-5: Halbmastwurf**
-
-- 3x täglich 10 Wiederholungen
-- Ziel: Bremswirkung verstehen
-
-**Tag 6-7: Alle Knoten mischen**
-
-- Zufällig einen Knoten wählen und binden
-- Ziel: Alle Knoten blind beherrschen
-
----
-
-### Woche 3: Prüfungsvorbereitung
-
-**Simulation:**
-
-- **Partner** nennt Knoten → du bindest blind (oder mit Handschuhen)
-- **Zeitdruck**: Stoppuhr laufen lassen
-- **Prüfungssituation**: Knoten binden, während jemand zuschaut
+!!! tip "So übst du richtig"
+    - **Jeden Tag 10 Minuten** bringen mehr als einmal pro Woche eine Stunde.
+    - Lass dir die **Aufgabe** nennen, nicht den Knoten, z. B. „Strahlrohr hochziehen!“. Dann musst du selbst entscheiden, welcher Knoten passt. Genau so läuft es in der Prüfung.
+    - Sag beim Binden laut, **wofür** der Knoten ist.
 
 ---
 
 ## Häufige Fehler
 
-### Fehler 1: Zu locker binden
-
-**Problem:** Knoten rutscht auf.
-
-**Lösung:** Immer **festziehen** – richtig fest!
-
----
-
-### Fehler 2: Verwechslung (Mastwurf / Webleinstek)
-
-**Problem:** Sieht ähnlich aus, aber Webleinstek hat Kreuzung.
-
-**Lösung:** Üben, bis die Unterschiede klar sind!
+| Fehler | Folge | Richtig |
+|--------|-------|---------|
+| Zimmermannsschlag zum Sichern einer Person | Schlaufe zieht sich zu | **Pfahlstich / Brustbund** |
+| Pfahlstich ohne Knotensicherung | kann aufgehen | **Spierenstich** |
+| Kreuzknoten mit Enden auf verschiedenen Seiten | rutscht durch | „links über rechts, rechts über links“ |
+| Kreuzknoten bei unterschiedlich dicken Leinen | hält nicht | **Schotenstich** |
+| Mehrzweckleine zur Personensicherung | nicht zulässig | **Feuerwehrleine** |
+| Brustbund nicht kontrolliert | Lebensgefahr | **Truppführer prüft** |
 
 ---
 
-### Fehler 3: Falsches Seilende
+## Checkliste: Habe ich alles geübt?
 
-**Problem:** Stehendes Ende und loses Ende verwechselt.
+- [ ] Ich kenne Zweck und Verbote von Feuerwehrleine und Mehrzweckleine
+- [ ] Mastwurf (über das Ende und um den Gegenstand)
+- [ ] Halbschlag, auch in Kombination mit Mastwurf zum Hochziehen
+- [ ] Zimmermannsschlag mit Halbschlägen
+- [ ] Kreuzknoten (Enden auf derselben Seite!)
+- [ ] Schotenstich, einfach und doppelt
+- [ ] Pfahlstich
+- [ ] Spierenstich als Knotensicherung
+- [ ] Brustbund an einer Person, mit Kontrolle
+- [ ] Alles auch mit Feuerwehrhandschuhen
 
-**Lösung:** Merke:
-
-- **Stehendes Ende** = fest, hält Last
-- **Loses Ende** = beweglich, wird verknotet
-
----
-
-### Fehler 4: Zu kompliziert denken
-
-**Problem:** Knoten wirkt kompliziert, man verzettelt sich.
-
-**Lösung:** **Schritt für Schritt**! Nicht überspringen, nicht improvisieren.
-
----
-
-## Material zum Üben
-
-### Was brauchst du?
-
-1. **Übungsleine** (6-8mm Durchmesser, 3-5 Meter Länge)
-   - Baumarkt: Polypropylen-Seil (ca. 5€)
-   - Alternativ: alte Feuerwehrleine (beim Kommandanten nachfragen)
-
-2. **Übungsgegenstand**
-   - Stuhlbein, Tischbein, Besenstiel
-   - Geländer (Balkon, Treppe)
-
-3. **Optional: Karabiner**
-   - Für Halbmastwurf (ca. 5-10€)
-
-!!! tip "Tipp vom Profi"
-    **Immer** eine Übungsleine dabei haben! Beim Fernsehen, in der Bahn, beim Warten – üben, üben, üben!
-
----
-
-## Prüfungsvorbereitung
-
-### Was wird geprüft?
-
-In der **praktischen Prüfung** musst du meist **3-4 Knoten** binden:
-
-1. **Mastwurf** (immer!)
-2. **Zimmermannsschlag** (sehr häufig)
-3. **Achterknoten** (häufig)
-4. **Webleinstek** oder **Halbmastwurf** (gelegentlich)
-
-**Bewertungskriterien:**
-
-- **Korrektheit**: Ist der Knoten richtig gebunden?
-- **Sauberkeit**: Sieht der Knoten ordentlich aus?
-- **Geschwindigkeit**: Schaffst du es in angemessener Zeit? (nicht hetzen, aber auch nicht trödeln)
-
----
-
-### Simulation: Prüfungssituation
-
-**Übung:**
-
-1. Lass dir von einem Freund/Familie einen Knoten nennen
-2. Binde ihn, während jemand zuschaut (Stresssituation!)
-3. Zeitlimit: 30-60 Sekunden pro Knoten
-
-!!! success "Tipp"
-    Je öfter du unter Beobachtung übst, desto entspannter wirst du in der echten Prüfung!
-
----
-
-## Videos und Tutorials
-
-!!! info "Empfehlung"
-    YouTube-Kanal **"Feuerwehr Erklärt"** hat super Videos zu Feuerwehrknoten!
-
-**Suchbegriffe:**
-
-- "Feuerwehr Mastwurf"
-- "Zimmermannsschlag Feuerwehr"
-- "Achterknoten Tutorial"
-
----
-
-## Zusammenfassung: Die Top 4 für die MTA
-
-| Knoten | Häufigkeit Prüfung | Schwierigkeit | Übungszeit |
-|--------|-------------------|---------------|------------|
-| **Mastwurf** | ★★★★★ | Leicht | 2 Tage |
-| **Zimmermannsschlag** | ★★★★★ | Mittel | 4 Tage |
-| **Achterknoten** | ★★★★☆ | Leicht | 2 Tage |
-| **Webleinstek** | ★★★☆☆ | Mittel | 3 Tage |
-
----
-
-## Checkliste: Habe ich alle Knoten geübt?
-
-- [ ] Mastwurf sicher unter 10 Sekunden
-- [ ] Zimmermannsschlag sicher unter 30 Sekunden
-- [ ] Achterknoten (Endacht + Bucht-Achter) beherrscht
-- [ ] Webleinstek ohne Verwechslung mit Mastwurf
-- [ ] Halbmastwurf mit Bremswirkung getestet
-- [ ] Alle Knoten auch mit Handschuhen geübt
+👉 **[Prüfungsfragen zu Knoten üben](../quiz/index.html?thema=knoten)** · **[Fragen zu Leinen und Absturzsicherung](../quiz/index.html?thema=absturz)**
 
 ---
 
 ## Weiterführende Themen
 
-- [Übungen zuhause](uebungen-fitness.md) – Weitere praktische Übungen
-- [Materialliste](materialliste.md) – Was brauchst du zum Üben?
-- [Prüfungsfragen Knoten](../pruefung/fragen.md) – Teste dein Wissen!
+- [Fahrzeuge & Geräte](../theorie/fahrzeuge-geraete.md#leitern): Leitern und Haltegurt
+- [Übungen zuhause](uebungen-fitness.md): weitere praktische Übungen
+- [Materialliste](materialliste.md): Was brauchst du zum Üben?

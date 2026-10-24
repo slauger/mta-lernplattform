@@ -264,6 +264,11 @@
             </div>
 
             <div class="control-group">
+                <label for="themaFilter">Thema / Kursabend:</label>
+                <select id="themaFilter" onchange="updateProgressDisplay()"></select>
+            </div>
+
+            <div class="control-group">
                 <label for="questionCount">Anzahl Fragen:</label>
                 <input type="number" id="questionCount" min="1" max="50" value="10">
             </div>
@@ -327,6 +332,7 @@
         </div>
     </div>
 
+    <script src="themen.js"></script>
     <script src="quiz.js"></script>
 </body>
 </html>

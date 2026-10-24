@@ -43,8 +43,8 @@ function startQuiz() {
     const count = parseInt(document.getElementById('questionCount').value);
     const randomize = document.getElementById('randomize').checked;
 
-    // Start with all questions
-    let filteredQuestions = [...allQuestions];
+    // Start with all questions of the selected topic
+    let filteredQuestions = filterByThema(allQuestions, 'themaFilter');
 
     // Randomize if selected
     if (randomize) {
@@ -88,7 +88,7 @@ function displayQuestion() {
 
     document.getElementById('questionNumber').textContent =
         `Frage ${currentQuestionIndex + 1} von ${currentQuestions.length}`;
-    document.getElementById('category').textContent = question.category;
+    document.getElementById('category').textContent = themaLabel(question);
 
     // Build question HTML with answers
     let questionHTML = `<p style="margin-bottom: 20px;">${question.question}</p>`;
@@ -372,7 +372,7 @@ function resetQuiz() {
 
 // Start quiz with only unseen questions
 function startQuizNewOnly() {
-    const unseenQuestions = allQuestions.filter(q => !seenQuestionIds.includes(q.id));
+    const unseenQuestions = filterByThema(allQuestions, 'themaFilter').filter(q => !seenQuestionIds.includes(q.id));
 
     if (unseenQuestions.length === 0) {
         alert('🎉 Du hast bereits alle Fragen bearbeitet!\n\nNutze "Fortschritt zurücksetzen" um von vorne zu beginnen.');
@@ -404,7 +404,11 @@ function startQuizWrongOnly() {
         return;
     }
 
-    currentQuestions = allQuestions.filter(q => wrongQuestionIds.includes(q.id));
+    currentQuestions = filterByThema(allQuestions, 'themaFilter').filter(q => wrongQuestionIds.includes(q.id));
+    if (currentQuestions.length === 0) {
+        alert('Keine falsch beantworteten Fragen zu diesem Thema gespeichert!');
+        return;
+    }
     currentQuestions = shuffleArray(currentQuestions);
 
     // Reset state
@@ -475,9 +479,10 @@ function updateProgressDisplay() {
     const progressInfo = document.getElementById('progressInfo');
     if (!progressInfo) return;
 
-    const totalQuestions = allQuestions.length;
-    const seenCount = seenQuestionIds.length;
-    const wrongCount = wrongQuestionIds.length;
+    const questions = filterByThema(allQuestions, 'themaFilter');
+    const totalQuestions = questions.length;
+    const seenCount = questions.filter(q => seenQuestionIds.includes(q.id)).length;
+    const wrongCount = questions.filter(q => wrongQuestionIds.includes(q.id)).length;
     const unseenCount = totalQuestions - seenCount;
     const percentage = totalQuestions > 0 ? Math.round((seenCount / totalQuestions) * 100) : 0;
 
@@ -574,4 +579,5 @@ document.addEventListener('keydown', (e) => {
 });
 
 // Initialize
+initThemaFilter('themaFilter', 'catalogFilter');
 loadQuestions();

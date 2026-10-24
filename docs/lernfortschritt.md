@@ -37,8 +37,8 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 
 - [ ] Mastwurf sicher unter 10 Sekunden
 - [ ] Zimmermannsschlag sicher unter 30 Sekunden
-- [ ] Achterknoten (Endacht + Bucht-Achter) beherrscht
-- [ ] Webleinstek ohne Verwechslung mit Mastwurf
+- [ ] Pfahlstich + Spierenstich (Brustbund) sicher
+- [ ] Kreuzknoten, Schotenstich, Halbschlag beherrscht
 - [ ] Fitness-Training begonnen (mind. 2x/Woche)
 - [ ] Materialliste abgearbeitet (Übungsleine, Lehrbuch)
 
@@ -46,7 +46,7 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 
 - [ ] Mind. 50 Prüfungsfragen beantwortet
 - [ ] Mind. 100 Prüfungsfragen beantwortet
-- [ ] Alle 120+ Prüfungsfragen beantwortet
+- [ ] Alle 274 Prüfungsfragen beantwortet (214 Basismodul + 60 Truppführer)
 - [ ] Falsche Fragen wiederholt
 
 #### Goldkronach
@@ -284,10 +284,10 @@ Feste Lernzeiten (z. B. täglich 19:00-19:30 Uhr) helfen, am Ball zu bleiben.
 
 | Woche | Fokus | Ziele |
 |-------|-------|-------|
-| **1** | Einführung + Begriffe + Knoten | - Einführung gelesen<br>- 30 Begriffe gelernt<br>- Mastwurf + Achterknoten sicher |
+| **1** | Einführung + Begriffe + Knoten | - Einführung gelesen<br>- 30 Begriffe gelernt<br>- Mastwurf + Halbschlag + Kreuzknoten sicher |
 | **2** | Theorie: Brennen & Löschen + Fahrzeuge | - Brandklassen gelernt<br>- Fahrzeugtypen kennen<br>- Zimmermannsschlag sicher |
 | **3** | Theorie: Recht + Einsatz + Fitness | - BayFwG, UVV, GAMS gelernt<br>- Einsatzablauf verstanden<br>- 3x Fitness |
-| **4** | Prüfungsvorbereitung | - Alle 120 Fragen beantwortet<br>- Falsche Fragen wiederholt<br>- Knoten perfektioniert |
+| **4** | Prüfungsvorbereitung | - Alle 274 Fragen beantwortet<br>- Falsche Fragen wiederholt<br>- Knoten perfektioniert |
 
 ---
 

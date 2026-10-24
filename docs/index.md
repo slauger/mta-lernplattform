@@ -47,13 +47,19 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
 ## 📋 Was bietet diese Plattform?
 
-### 📚 Theorie (5 Kapitel)
+### 📚 Theorie (11 Kapitel)
 
 - [Ziele, Aufgaben & Werte](theorie/ziele-aufgaben.md)
 - [Brennen & Löschen](theorie/brennen-loeschen.md) (Brandklassen, Löschmittel, Brandverhalten)
 - [Fahrzeuge & Geräte](theorie/fahrzeuge-geraete.md) (LF, HLF, PSA, Atemschutz)
 - [Rechtsgrundlagen & Sicherheit](theorie/recht-sicherheit.md) (BayFwG, UVV, GAMS)
 - [Verhalten im Einsatz & Funk](theorie/einsatz-funk.md) (Einsatzablauf, Digitalfunk)
+- [Einheiten im Löscheinsatz](theorie/loescheinsatz.md) (FwDV 3, Trupp-Aufgaben, Befehlsschema, Verteiler)
+- [Löschwasserversorgung](theorie/wasserversorgung.md) (Hydranten, Saugbetrieb, Schläuche, Armaturen, Strahlrohre)
+- [Technische Hilfeleistung & neue Fahrzeugtechnik](theorie/hilfeleistung.md) (Verkehrsunfall, Trupp-Aufgaben, alternative Antriebe)
+- [Leitern & Absturzsicherung](theorie/leitern-absturz.md) (Steckleiter, Halten/Rückhalten, Feuerwehrleine)
+- [Verhalten bei Gefahr & ABC](theorie/gefahren-abc.md) (4A-1C-4E, Elektrizität, Gefahrgut, GAMS)
+- [Erste Hilfe & Belastung](theorie/erste-hilfe.md) (Vitalfunktionen, Blutung, Schock, Rettung, Stress)
 
 ### 🛠️ Praxis (3 Kapitel)
 
@@ -65,6 +71,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
 - [Interaktives Quiz](quiz/index.html) mit 270+ echten Prüfungsfragen
 - [Alle Fragen durchsehen](quiz/browse.html) (aufklappbar mit Erklärungen)
+- [Fragen nach Thema üben](pruefung/fragen.md) (Fragen den MTA-Modulen zugeordnet)
 
 ### 🏠 Lokale Besonderheiten
 
