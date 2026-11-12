@@ -35,10 +35,10 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 
 #### Praxis
 
-- [ ] Mastwurf sicher unter 10 Sekunden
-- [ ] Zimmermannsschlag sicher unter 30 Sekunden
-- [ ] Pfahlstich + Spierenstich (Brustbund) sicher
-- [ ] Kreuzknoten, Schotenstich, Halbschlag beherrscht
+- [ ] Mastwurf gelegt und gestochen (waagrecht + senkrecht) sicher
+- [ ] Zimmermannsschlag sicher
+- [ ] Pfahlstich + Spierenstich (Brustbund) an einer Person sicher
+- [ ] Schotenstich (einfach, doppelt, mit Aufziehschlaufe), Halbschlag, Halbmastwurf beherrscht
 - [ ] Fitness-Training begonnen (mind. 2x/Woche)
 - [ ] Materialliste abgearbeitet (Übungsleine, Lehrbuch)
 

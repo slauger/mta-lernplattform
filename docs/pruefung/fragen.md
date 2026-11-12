@@ -10,6 +10,9 @@ Alle Fragen stammen aus den offiziellen Fragenkatalogen der Staatlichen Feuerweh
 | MTA Basismodul | 214 | Zwischenprüfung |
 | MTA Truppführer | 60 | Abschlussprüfung (teilweise Multiple Choice) |
 
+!!! tip "Praktische Prüfung"
+    Die praktischen Prüfungsaufgaben der Zwischenprüfung mit den offiziellen Bewertungskriterien findest du unter **[MTA-Module → Zwischenprüfung](../mta-module.md#zwischenprufung)**.
+
 ## Gezielt nach Thema üben
 
 Jede Frage ist einem MTA-Thema zugeordnet. Ein Klick öffnet das Quiz direkt mit den passenden Fragen.

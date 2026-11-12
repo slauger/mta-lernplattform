@@ -21,7 +21,7 @@ graph LR
 
 | Abschnitt | Inhalt | Abschluss |
 |-----------|--------|-----------|
-| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene. Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Damit bist du **Truppmann**. |
+| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Damit bist du **Truppmann**. |
 | **Ausbildung in der Feuerwehr** | Übungsdienst in der eigenen Wehr über **mindestens 2 Jahre**, dazu **Ergänzungsmodule** | – |
 | **Abschlussprüfung** | Wiederholung und Vertiefung | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen, teilweise Multiple Choice). Damit bist du **Truppführer**. |
 
@@ -33,20 +33,15 @@ graph LR
 !!! info "Übergangsmodul"
     Wer die frühere Truppmannausbildung (Teil 1 + 2) schon abgelegt hat, braucht für die Truppführerqualifikation nur die im Ausbildungsplan **blau markierten Module**.
 
-### Prüfungen
+### Zwischenprüfung
 
-**Schriftliche Prüfung:**
+Laut Prüfungsnachweis der Staatlichen Feuerwehrschule Würzburg besteht sie aus:
 
-- Multiple-Choice-Fragen
-- Dauer: ca. 45-60 Minuten
-- Themen: alle Module des Basismoduls
+- **Schriftlicher Teil:** Fragebogen → üben mit den [Prüfungsfragen](pruefung/fragen.md)
+- **Drei praktische Aufgaben** aus einem festen Aufgabenpool (z. B. bewusstlose Person, Strahlrohr, Feuerlöscher, Brustbund, Hydrant, Knoten, Schlauchbrücke)
+- **Eine Sprechfunk-Aufgabe** (Hand- oder Fahrzeugfunkgerät)
 
-**Praktische Prüfung:**
-
-- Knoten und Stiche
-- Gerätehandhabung
-- Löscheinsatz oder technische Hilfeleistung
-- Arbeiten im Trupp
+Alle Aufgaben mit Bewertungskriterien: **[MTA-Module → Zwischenprüfung](mta-module.md#zwischenprufung)**
 
 !!! question "Bestehensgrenze"
     Die genaue Bestehensgrenze und den Prüfungsablauf erfährst du am ersten Lehrgangsabend. Frag dort ausdrücklich danach. Für die Praxis gilt: Die Aufgaben müssen **sicher** beherrscht werden.

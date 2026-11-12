@@ -1,212 +1,178 @@
-# Knoten & Stiche, Leinen
+# Knoten & Stiche
 
 **MTA-Module:** 5.10 (Rettungsgeräte – Praxis Knoten und Stiche), 5.12 (Rettung von Personen) · **Grundlage:** FwDV 1 „Grundtätigkeiten“
 
+!!! abstract "Quelle"
+    MTA-Thema **5.10 Rettungsgeräte – Praxis Knoten und Stiche**, Staatliche Feuerwehrschule Würzburg: Teilnehmerunterlage (Version 1.1) und Ausbilderunterlage (Version 1.0), dazu der offizielle Fragenkatalog.
+
+    Alle Unterlagen mit **Bildern zu jedem Knoten**: [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
+
+    Wie man die Knoten bindet, zeigen die [Videos](#videos) unten.
+
 ## Lernziele
 
-Nach diesem Kapitel kannst du:
+Nach diesem Thema sollst du laut Ausbilderunterlage:
 
-- [x] Feuerwehrleine und Mehrzweckleine unterscheiden und richtig einsetzen
-- [x] Die Knoten und Stiche der Grundausbildung benennen und ihren Zweck erklären
-- [x] Einen Brustbund anlegen und sichern
-- [x] Gerät zum Hochziehen richtig anschlagen
+- [ ] den **Zweck von Feuerwehrleinen und Mehrzweckleinen** kennen
+- [ ] die **unterschiedlichen Knoten**, ihren Zweck und ihre Gestaltung kennen
+- [ ] Knoten und Stiche **sicher ausführen** können
+- [ ] die **Sichtprüfung** nach Gebrauch durchführen und die Leine in den Leinenbeutel einlegen
 
-!!! warning "Verbindlich ist deine Teilnehmerunterlage"
-    Welche Knoten in deiner Prüfung verlangt werden, steht in der **MTA-Teilnehmerunterlage zu Modul 5.10** auf der [Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/). Gleich diese Seite damit ab. Die **Lehrfilme** dort zeigen jeden Knoten Schritt für Schritt, und das ist mit Abstand die beste Übungsvorlage.
+!!! tip "Immer gleich binden"
+    Die Knoten sollen nach den Vorgaben **immer auf die gleiche Weise** gebunden werden – dann kann jeder im Trupp nachvollziehen, ob der Knoten richtig sitzt.
 
 ---
 
-## Die Leinen der Feuerwehr
+## Feuerwehrleine und Mehrzweckleine
 
-| | **Feuerwehrleine** | **Mehrzweckleine** |
+| | Feuerwehrleine | Mehrzweckleine |
 |---|---|---|
-| **Was ist sie?** | **Rettungsgerät**, gehört zur ergänzenden persönlichen Ausrüstung | Arbeitsleine (früher „Arbeitsleine“) |
-| **Länge** | **30 m** | kürzer |
-| **Wofür?** | **Retten**, **Selbstrettung**, **Sichern von Personen** (Halten/Rückhalten), Sichern und Aufziehen von Geräten | **Halte- und Ventilleine** am Saugkorb, Geräte ziehen und sichern, Absperren |
-| **Verboten** | als **Absturzsicherung**, wenn ein **freier Fall nicht auszuschließen** ist; als Halte- und Ventilleine | **zum Sichern oder Retten von Personen** |
+| **Farbe** | weiß | rot |
+| **Zweck** | Rettungs-, Sicherungs- und Signalleine | technische Zwecke |
+| **Prüfpflicht** | ja (GUV-G 9102) | nein |
+| **Aussondern** | 20 Jahre nach Herstellungsdatum | – |
+| **Länge** | 30 m ¹ | – |
+| **Nicht verwenden** | zum Sichern gegen Absturz, wenn ein **freier Fall nicht auszuschließen** ist ¹ | – |
 
-!!! danger "Prüfungsfallen"
-    - Personen, die über eine Leiter gerettet werden, werden **nur mit der Feuerwehrleine** gesichert. Die Mehrzweckleine ist dafür nicht zulässig.
-    - „Die Feuerwehrleine dient als Halte- und Ventilleine“ ist **falsch**.
-    - Haltegurt + Feuerwehrleine dürfen nur zum **Halten/Rückhalten** benutzt werden, **nie** als Auffangsystem.
+¹ aus dem Fragenkatalog Basismodul
 
----
-
-## Begriffe
-
-| Begriff | Bedeutung | Beispiele |
-|---------|-----------|-----------|
-| **Knoten** | verbindet Leinen miteinander | Kreuzknoten, Schotenstich |
-| **Stich / Schlag** | befestigt eine Leine an einem Gegenstand oder bildet eine Schlaufe | Mastwurf, Zimmermannsschlag, Halbschlag, Pfahlstich |
-| **Bund** | Leine um den Körper einer Person | Brustbund |
-| **Knotensicherung** | sichert das lose Ende gegen Aufgehen | Spierenstich |
-
-**Fachwörter zur Leine:**
-
-- **Laufendes Ende:** das freie Ende, mit dem du den Knoten bindest
-- **Stehender Teil:** der Rest der Leine, der unter Zug steht
-- **Bucht:** eine U-förmig gelegte Leine
-- **Auge / Schlinge:** eine gekreuzt gelegte Leine
+!!! danger "Richtige Leine nehmen"
+    In der Prüfung wird bei jeder Knoten-Aufgabe bewertet, ob du die **richtige Leine** zügig aus dem Fahrzeug nimmst. Zum **Retten und Sichern** ist die **Feuerwehrleine** vorgesehen, die Mehrzweckleine für **technische Zwecke**.
 
 ---
 
-## Die Knoten und Stiche im Einzelnen
+## Die Knoten der MTA
 
-### 1. Mastwurf
+### Knoten zur Verbindung von Leinen
 
-**Zweck:** Befestigen einer Leine an **runden Gegenständen**, z. B. Schlauch, Strahlrohr, Rohr, Pfahl oder Geländer. Er hält gut unter Zug und lässt sich danach leicht lösen.
+| Knoten | Wofür? |
+|--------|--------|
+| **Einfacher Schotenstich** | Verbindet zwei Leinen – auch **ungleich starke** |
+| **Einfacher Schotenstich mit Aufziehschlaufe** | **Schnell lösbare** Verbindung zweier Leinen |
+| **Doppelter Schotenstich** | Verbindet zwei, auch ungleich starke Leinen, wenn **größere Belastungen** wirken (sicherer) |
+| **Kreuzknoten** | Verbindet zwei **gleich starke** Leinen (kurze Enden müssen auf derselben Seite liegen) |
 
-**Zwei Arten:**
+!!! note "Kreuzknoten"
+    Der Kreuzknoten ist laut Teilnehmerunterlage **nicht mehr in der FwDV 1 enthalten**, wird aber noch gezeigt.
 
-- **Über das Ende gelegt** (Gegenstand hat ein freies Ende, z. B. Pfahl): Zwei gleiche Schlingen legen, die zweite **hinter** die erste schieben und beide über den Gegenstand stülpen.
-- **Um den Gegenstand gebunden** (kein freies Ende): Das laufende Ende um den Gegenstand führen, über den stehenden Teil **kreuzen**, ein zweites Mal herumführen und unter der Kreuzung durchstecken.
+### Befestigungsknoten
 
-**Kontrolle:** Beide Windungen liegen parallel, das Ende kommt **unter der Kreuzung** heraus.
+| Knoten | Wofür? |
+|--------|--------|
+| **Mastwurf** (gelegt oder gestochen) | Befestigen von Leinen und **Aufziehen von Gegenständen** |
+| **Zimmermannsschlag** | z. B. Signalleine am Arm (Atemschutztrupp), Hochziehen oder Ablassen von Gegenständen. **Schnell und leicht lösbar** |
 
-### 2. Halbschlag
+!!! warning "Mastwurf sichern"
+    Der Mastwurf kann sich an Anschlagpunkten mit **großem Umfang lösen** – dort besonders wichtig: mit **Kreuzschlag sichern**.
 
-**Zweck:** Der Halbschlag **führt** die Last beim Hochziehen und **sichert zusätzlich**. Er wird praktisch immer mit einem anderen Stich kombiniert.
+### Knotensicherung
 
-**So geht's:** Mit der Leine eine Schlinge um den Gegenstand legen und den stehenden Teil durch die Schlinge führen. Dann festziehen.
+| Knoten | Wofür? |
+|--------|--------|
+| **Halbschlag** | Führen von Geräten und Sichern von Knoten bei Lösegefahr |
+| **Spierenstich** | Sichern von Knoten, um ein **Lösen auszuschließen** |
 
-!!! example "Prüfungsfrage: Strahlrohr mit Schlauchleitung hochziehen"
-    Mit **Mastwurf und Halbschlag**. Der **Mastwurf** kommt um die Schlauchleitung hinter dem Strahlrohr, der **Halbschlag** um das Strahlrohr. So hängt es beim Hochziehen gerade. Das Strahlrohr muss dabei **geschlossen** sein.
+### Bremsknoten
 
-### 3. Zimmermannsschlag
+| Knoten | Wofür? |
+|--------|--------|
+| **Halbmastwurf** (gestochen oder gebunden) | Bremswirkung: **Selbstrettung**, **Abseilen** von Personen, **Ablassen** von Gegenständen |
 
-**Zweck:** Befestigen einer Leine an **Balken, Rundhölzern und Leiterholmen**, vor allem zum **Hochziehen oder Ablassen von Gegenständen** wie Leitern oder Balken. In Zugrichtung kommen meist **Halbschläge** zur Führung dazu.
+### Knoten zum Sichern und Retten
 
-**So geht's:** Das laufende Ende um den Gegenstand führen, dann um den stehenden Teil legen. Danach **mehrmals um sich selbst eindrehen** (mindestens 3 Törns).
+| Knoten | Wofür? |
+|--------|--------|
+| **Brustbund / Pfahlstich** | **Rettung von Personen**. Zieht sich nicht zu – daher auch zum Befestigen, wenn **nichts eingeschnürt** werden darf |
+| **Pfahlstich** (allein) | Befestigen von Leinen an **Pfählen und Ringen** |
 
-**Eigenschaft:** Er **zieht sich unter Zug fest** und löst sich ohne Zug sehr leicht.
-
-!!! danger "Kein Rettungsknoten!"
-    Der Zimmermannsschlag ist **keine feste Schlaufe** und ist **nicht** zum Sichern von Personen da. Eine Person würde er zuschnüren. Für Personen nimmt man den **Pfahlstich**.
-
-### 4. Kreuzknoten
-
-**Zweck:** Verbinden von **zwei Leinen gleicher Stärke**.
-
-**So geht's:** Die Enden zweimal gegenläufig umeinanderlegen. Merksatz: „**Links über rechts, rechts über links.**“
-
-**Kontrolle:** Beide Enden liegen auf **derselben Seite** und die Bucht ist symmetrisch. Liegen sie auf verschiedenen Seiten, ist es ein „Altweiberknoten“, und der rutscht durch!
-
-### 5. Schotenstich
-
-**Zweck:** Verbinden von **zwei Leinen unterschiedlicher Stärke** oder Befestigen einer Leine an einer **Öse oder Schlaufe**.
-
-**So geht's:** Mit der dickeren Leine eine Bucht legen. Das Ende der dünneren Leine von unten durch die Bucht führen, um die Bucht herumlegen und unter sich selbst durchstecken.
-
-**Doppelter Schotenstich:** Das Ende wird ein zweites Mal herumgeführt. Das ist sicherer, z. B. bei glatten Leinen.
-
-### 6. Pfahlstich
-
-**Zweck:** **Feste Schlaufe, die sich nicht zuzieht.** Er ist die Grundlage für das **Sichern und Retten von Personen** mit dem Brustbund.
-
-**So geht's:**
-
-1. Ein kleines Auge in den stehenden Teil legen.
-2. Das laufende Ende **von unten durch das Auge** führen.
-3. **Hinter dem stehenden Teil herum** führen.
-4. **Zurück durch das Auge** stecken.
-5. Festziehen, die Schlaufe bleibt dabei in der gewünschten Größe.
-
-!!! tip "Merksatz"
-    „Die Schlange kommt aus dem Teich, läuft um den Baum und springt zurück in den Teich.“
-
-### 7. Spierenstich
-
-**Zweck:** **Knotensicherung.** Das lose Ende eines Knotens, z. B. beim Pfahlstich des Brustbunds, wird damit gegen Aufgehen gesichert.
-
-**So geht's:** Das lose Ende **zweimal um den stehenden Teil** wickeln, durch die Windungen zurückführen und festziehen.
+!!! danger "Brustbund immer sichern"
+    Der Pfahlstich wird **generell mit einem Spierenstich gesichert**.
 
 ---
 
-## Brustbund (Rettungsknoten)
+## Videos
 
-Mit dem **Brustbund** wird eine Person **gesichert oder gerettet**, z. B. bei der Rettung über eine tragbare Leiter.
+Binden lernt man am besten mit Video und Seil in der Hand. Die **FF Mainz-Bretzenheim** hat dazu eine kurze Reihe gemacht:
 
-**Aufbau:**
+| Video | Inhalt (mit Sprungmarken) |
+|-------|---------------------------|
+| [Feuerwehr Grundlagen – Die Feuerwehrknoten](https://www.youtube.com/watch?v=jlU_oSqqhgM) (5 min) | [Doppelter Ankerstich](https://www.youtube.com/watch?v=jlU_oSqqhgM&t=6s) · [Mastwurf](https://www.youtube.com/watch?v=jlU_oSqqhgM&t=95s) · [Schotenstich](https://www.youtube.com/watch?v=jlU_oSqqhgM&t=182s) · [Zimmermannsstich](https://www.youtube.com/watch?v=jlU_oSqqhgM&t=246s) · [Spierenstich](https://www.youtube.com/watch?v=jlU_oSqqhgM&t=284s) |
+| [Feuerwehr Grundlagen – Gerätschaften einbinden](https://www.youtube.com/watch?v=-9aNKq9v4NM) (4 min) | [Axt](https://www.youtube.com/watch?v=-9aNKq9v4NM&t=47s) · [Strahlrohr & Schlauch](https://www.youtube.com/watch?v=-9aNKq9v4NM&t=80s) · [Feuerlöscher](https://www.youtube.com/watch?v=-9aNKq9v4NM&t=132s) · [Verbandkasten](https://www.youtube.com/watch?v=-9aNKq9v4NM&t=169s) |
+| [112 Bretzenheim – Was ist eine Feuerwehrleine?](https://www.youtube.com/watch?v=R0XgPKpstfA) (1 min) | Die Leinenarten und wofür man sie nimmt |
 
-1. Die **Feuerwehrleine** unter den Achseln um den Brustkorb legen.
-2. Mit einem **Pfahlstich** eine feste, passende Schlaufe binden. Sie darf sich nicht zuziehen.
-3. Das lose Ende mit einem **Spierenstich** sichern. Je nach Ausbildungsunterlage geht auch ein **Kreuzschlag**.
-
-!!! danger "Kontrolle durch den Truppführer"
-    Die korrekte Ausführung des Brustbundes **überprüft der Truppführer** des Trupps, der sichert. Weder der, der den Knoten gebunden hat, noch der Truppmann. Ohne Kontrolle geht es nicht!
-
-!!! example "Prüfungsfragen"
-    - Welche Knoten sichern den Brustbund? → **Pfahlstich und Spierenstich** (bzw. Pfahlstich und Kreuzschlag)
-    - Wie wird eine Person bei der Rettung über tragbare Leitern gesichert? → **Brustbund mit Spierenstich als Knotensicherung**
-    - Welche Leine? → **Feuerwehrleine**
+!!! note "Hinweise zu den Videos"
+    - Die FF Mainz-Bretzenheim ist aus **Rheinland-Pfalz** – die Videos folgen nicht der bayerischen MTA-Unterlage.
+    - Im Video heißt der Zimmermannsschlag **„Zimmermannsstich“**.
+    - Der **doppelte Ankerstich** wird im Video gezeigt, steht aber **nicht** in der bayerischen Unterlage 5.10.
+    - **Nicht** im Video: Brustbund/Pfahlstich, Halbmastwurf, Halbschlag – dafür die Bilder der [Lernbar-Unterlage](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate) und den Ausbilder nutzen.
 
 ---
 
-## Übersicht: Welcher Knoten wofür?
+## Aus dem Fragenkatalog
 
-| Aufgabe | Knoten / Stich |
-|---------|----------------|
-| Leine an Schlauch, Rohr oder Pfahl befestigen | **Mastwurf** |
-| Strahlrohr mit Schlauchleitung hochziehen | **Mastwurf + Halbschlag** |
-| Leiter oder Balken hochziehen | **Zimmermannsschlag + Halbschläge** |
-| Zwei gleich starke Leinen verbinden | **Kreuzknoten** |
-| Zwei unterschiedlich starke Leinen verbinden / Leine an Öse | **Schotenstich** (einfach oder doppelt) |
-| Feste Schlaufe, die sich nicht zuzieht | **Pfahlstich** |
-| Knotenende sichern | **Spierenstich** |
-| Person sichern oder retten | **Brustbund**: Pfahlstich + Spierenstich |
+Diese Fragen zu Leinen und Knoten stehen im offiziellen Fragenkatalog (schriftliche Prüfung):
 
----
-
-## Übungsplan zuhause
-
-Du brauchst nur eine **Übungsleine** (ca. 3–5 m, 8–12 mm, z. B. aus dem Baumarkt) und einen **Stuhl** oder ein **Geländer**.
-
-| Woche | Fokus | Ziel |
-|-------|-------|------|
-| 1 | Mastwurf (beide Arten), Halbschlag, Kreuzknoten | sauber und ohne Nachdenken |
-| 2 | Zimmermannsschlag, Schotenstich (einfach und doppelt) | Zweck sicher benennen können |
-| 3 | Pfahlstich, Spierenstich, Brustbund (an einer Person, z. B. Familienmitglied) | Brustbund in unter 1 Minute, sauber gesichert |
-| 4 | Alles gemischt, **mit Feuerwehrhandschuhen** und mit geschlossenen Augen | prüfungsreif |
-
-!!! tip "So übst du richtig"
-    - **Jeden Tag 10 Minuten** bringen mehr als einmal pro Woche eine Stunde.
-    - Lass dir die **Aufgabe** nennen, nicht den Knoten, z. B. „Strahlrohr hochziehen!“. Dann musst du selbst entscheiden, welcher Knoten passt. Genau so läuft es in der Prüfung.
-    - Sag beim Binden laut, **wofür** der Knoten ist.
-
----
-
-## Häufige Fehler
-
-| Fehler | Folge | Richtig |
-|--------|-------|---------|
-| Zimmermannsschlag zum Sichern einer Person | Schlaufe zieht sich zu | **Pfahlstich / Brustbund** |
-| Pfahlstich ohne Knotensicherung | kann aufgehen | **Spierenstich** |
-| Kreuzknoten mit Enden auf verschiedenen Seiten | rutscht durch | „links über rechts, rechts über links“ |
-| Kreuzknoten bei unterschiedlich dicken Leinen | hält nicht | **Schotenstich** |
-| Mehrzweckleine zur Personensicherung | nicht zulässig | **Feuerwehrleine** |
-| Brustbund nicht kontrolliert | Lebensgefahr | **Truppführer prüft** |
-
----
-
-## Checkliste: Habe ich alles geübt?
-
-- [ ] Ich kenne Zweck und Verbote von Feuerwehrleine und Mehrzweckleine
-- [ ] Mastwurf (über das Ende und um den Gegenstand)
-- [ ] Halbschlag, auch in Kombination mit Mastwurf zum Hochziehen
-- [ ] Zimmermannsschlag mit Halbschlägen
-- [ ] Kreuzknoten (Enden auf derselben Seite!)
-- [ ] Schotenstich, einfach und doppelt
-- [ ] Pfahlstich
-- [ ] Spierenstich als Knotensicherung
-- [ ] Brustbund an einer Person, mit Kontrolle
-- [ ] Alles auch mit Feuerwehrhandschuhen
+| Frage | Richtige Antwort |
+|-------|------------------|
+| Welchen Zweck hat die Feuerwehrleine? | Rettung, Selbstrettung, Sicherung/Aufziehen von Geräten |
+| Wann darf die Feuerwehrleine **nicht** eingesetzt werden? | Zum Sichern gegen Absturz, wenn ein freier Fall nicht auszuschließen ist |
+| Dient die Feuerwehrleine als Halte- und Ventilleine? | **Nein** |
+| Welche Leine zur Sicherung einer Person bei der Rettung über die Steckleiter? | **Feuerwehrleine** |
+| Wie wird eine Person bei der Rettung über tragbare Leitern gesichert? | **Brustbund mit Spierenstich** als Knotensicherung |
+| Welche Knoten sichern den Brustbund? | **Pfahlstich und Spierenstich** bzw. Pfahlstich und Kreuzschlag |
+| Wer überprüft den Brustbund? (Truppführer-Katalog) | Der **Truppführer** des sichernden Trupps |
+| Womit wird eine Schlauchleitung mit Strahlrohr zum Hochziehen befestigt? | **Mastwurf und Halbschlag** |
 
 👉 **[Prüfungsfragen zu Knoten üben](../quiz/index.html?thema=knoten)** · **[Fragen zu Leinen und Absturzsicherung](../quiz/index.html?thema=absturz)**
 
 ---
 
+## Was in der Zwischenprüfung drankommt
+
+Drei der praktischen Prüfungsaufgaben sind Knoten-Aufgaben (Thema 5.10). Bewertet wird jeweils auch der **Gesamteindruck** (Sicherheit, zügige Ausführung).
+
+| Aufgabe | Was du zeigen musst |
+|---------|---------------------|
+| **Brustbund anlegen** (an einer Person) | Feuerwehrleine nehmen · Leine an **Hals und Rücken** richtig führen · **Pfahlstich** straff sitzend · mit **Spierenstich** sichern |
+| **Knoten und Stiche 1** | Richtige Leine · **Zimmermannsschlag** · **Mastwurf gestochen (waagrecht)** · **Strahlrohr zum Aufziehen befestigen** |
+| **Knoten und Stiche 2** | Richtige Leine · **Einfacher Schotenstich** · **Mastwurf gelegt** · **Mastwurf gestochen (senkrecht)** |
+
+Alle Prüfungsaufgaben: [Zwischenprüfung](../mta-module.md#zwischenprufung)
+
+---
+
+## Nach dem Üben: Sichtprüfung
+
+- Nach **jeder Benutzung** (Übungs- oder Einsatzende) prüft der Benutzer die Feuerwehrleine auf **Verschleiß oder Beschädigungen**
+- Eine Leine, die **schlagartig dynamisch belastet** wurde, ist **sofort** zu prüfen
+
+!!! quote "Aus der Ausbilderunterlage"
+    Das Leben Deiner Kameraden und Dein Leben kann davon abhängen.
+
+---
+
+## Checkliste
+
+- [ ] Einfacher Schotenstich
+- [ ] Einfacher Schotenstich mit Aufziehschlaufe
+- [ ] Doppelter Schotenstich
+- [ ] Mastwurf gelegt
+- [ ] Mastwurf gestochen (waagrecht und senkrecht)
+- [ ] Zimmermannsschlag
+- [ ] Halbschlag
+- [ ] Spierenstich
+- [ ] Halbmastwurf (gestochen und gebunden)
+- [ ] Brustbund / Pfahlstich mit Spierenstich – an einer Person
+- [ ] Strahlrohr zum Aufziehen befestigen
+- [ ] Ich weiß, wann Feuerwehrleine und wann Mehrzweckleine
+
+!!! info "Üben"
+    Wie die Knoten gebunden werden, zeigen die [Videos](#videos), die Bilder in der [Teilnehmerunterlage 5.10](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate) und dein Ausbilder im Lehrgang.
+
+---
+
 ## Weiterführende Themen
 
-- [Fahrzeuge & Geräte](../theorie/fahrzeuge-geraete.md#leitern): Leitern und Haltegurt
-- [Übungen zuhause](uebungen-fitness.md): weitere praktische Übungen
-- [Materialliste](materialliste.md): Was brauchst du zum Üben?
+- [Zwischenprüfung: Knoten-Aufgaben](../mta-module.md#zwischenprufung) – Was in der Prüfung drankommt!
+- [Leitern & Absturzsicherung](../theorie/leitern-absturz.md) – Feuerwehrleine und Haltegurt beim Halten und Rückhalten
+- [Erste Hilfe & Belastung](../theorie/erste-hilfe.md#rettung-und-transport-von-personen-modul-512) – Rettung und Transport von Personen

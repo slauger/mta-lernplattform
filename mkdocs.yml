@@ -61,6 +61,7 @@ nav:
   - Einführung:
       - Orientierung & MTA: einfuehrung.md
       - Begriffe & Abkürzungen: begriffe.md
+      - MTA-Module & Unterlagen: mta-module.md
   - Theorie:
       - Ziele, Aufgaben & Werte: theorie/ziele-aufgaben.md
       - Brennen & Löschen: theorie/brennen-loeschen.md

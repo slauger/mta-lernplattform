@@ -95,7 +95,7 @@ In der **MTA-Grundausbildung** lernst du das **Halten und Rückhalten**.
 
 ## Personen über Leitern retten
 
-1. Die Person wird mit dem **Brustbund** gesichert: Pfahlstich mit **Spierenstich** als Knotensicherung, siehe [Knoten & Stiche](../praxis/knoten.md#brustbund-rettungsknoten).
+1. Die Person wird mit dem **Brustbund** gesichert: Pfahlstich mit **Spierenstich** als Knotensicherung, siehe [Knoten & Stiche](../praxis/knoten.md#knoten-zum-sichern-und-retten).
 2. Dafür nimmt man **nur die Feuerwehrleine**. Die Mehrzweckleine ist nicht zulässig.
 3. Der **Truppführer** des sichernden Trupps **überprüft den Brustbund**.
 4. Gesichert wird über einen **Anschlagpunkt oberhalb** der Person, z. B. über eine Sprosse oder einen Fensterpfosten.
