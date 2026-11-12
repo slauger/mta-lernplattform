@@ -36,3 +36,6 @@ wheels/
 
 # Environment
 .env
+
+# Lokale Unterlagen (Scans, PDFs, persönliche Dokumente) - nicht veröffentlichen
+quellen/

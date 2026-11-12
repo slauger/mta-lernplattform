@@ -15,6 +15,7 @@ Hier stehen nur Quellen, die für die bayerische MTA wirklich relevant sind. **D
 - Die offizielle Lernplattform der **Staatlichen Feuerwehrschule Würzburg**
 - Enthält die **Teilnehmerunterlagen zur Modularen Truppausbildung**, Lernmodule, Filme und ein Lexikon
 - Der Ausbildungsplan des KFV Bayreuth verweist direkt auf die MTA-Teilnehmerunterlagen: [t1p.de/eicl](https://t1p.de/eicl)
+- Alle MTA-Themen mit direktem Link zur passenden Lernbar-Seite: **[MTA-Module & Unterlagen](mta-module.md)**
 
 !!! success "Das ist deine wichtigste Quelle"
     Die Teilnehmerunterlagen auf der Lernbar sind genau das Material, nach dem in der MTA unterrichtet und geprüft wird.
@@ -41,14 +42,23 @@ Die wichtigsten Vorschriften für die MTA:
 
 Erhältlich sind sie kostenlos als PDF bei den Staatlichen Feuerwehrschulen bzw. über die Lernbar. Deine Feuerwehr hat sie meist auch ausgedruckt.
 
-### 4. Kreisfeuerwehrverband Bayreuth
+### 4. Gesetze und Merkblätter
+
+| Dokument | Gedruckt | Online |
+|----------|----------|--------|
+| **Bayerisches Feuerwehrgesetz (BayFwG)** | Sonderdruck 1.001 der Staatlichen Feuerwehrschulen (gibt es in der MTA) | [gesetze-bayern.de](https://www.gesetze-bayern.de/Content/Document/BayFwG/true) (amtlich, immer aktuell) |
+| **Versicherungsschutz für die Freiwilligen Feuerwehren Bayerns** | Merkblatt 1.009 der SFS Würzburg (gibt es in der MTA) | [Lernbar](https://www.feuerwehr-lernbar.bayern/) · [PDF beim KFV Aschaffenburg](https://kfv-ab.de/images/Versicherungsschutz_f%C3%BCr_die_Freiwilligen_Feuerwehren_Bayerns.pdf) (evtl. ältere Ausgabe) |
+
+Zusammenfassung: [Recht & Sicherheit](theorie/recht-sicherheit.md)
+
+### 5. Kreisfeuerwehrverband Bayreuth
 
 **Link:** [kfv-bayreuth-lehrgaenge.de](https://kfv-bayreuth-lehrgaenge.de/)
 
 - Hier meldest du dich für die Lehrgänge im Landkreis Bayreuth an, auch für die MTA.
 - Dort findest du die Lehrgangsinfos mit Mindestalter, Inhalten und Hinweisen.
 
-### 5. Landesfeuerwehrverband Bayern
+### 6. Landesfeuerwehrverband Bayern
 
 **Link:** [www.lfv-bayern.de](https://www.lfv-bayern.de/)
 
@@ -77,6 +87,7 @@ Erhältlich sind sie kostenlos als PDF bei den Staatlichen Feuerwehrschulen bzw.
 ## Videos
 
 - **Mediathek der Feuerwehr-Lernbar**: offizielle Lehrfilme, z. B. zu Knoten, Leitern und Einheiten im Einsatz
+- **Knoten:** Videos der FF Mainz-Bretzenheim mit Sprungmarken → [Knoten & Stiche – Videos](praxis/knoten.md#videos)
 - Bei YouTube-Videos gilt: Viele stammen aus anderen Bundesländern oder zeigen veraltete Vorgehensweisen. **Im Zweifel gilt immer das, was in deiner MTA gelehrt wird.**
 
 ---

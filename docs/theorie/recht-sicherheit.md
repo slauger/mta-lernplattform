@@ -54,64 +54,80 @@ Das BayFwG ist in **Artikel** gegliedert, nicht in Paragraphen. Nach **Art. 1** 
 - **Bürgerpflicht:** Wer einen Brand bemerkt, muss ihn **melden** und einen **Löschversuch** unternehmen, soweit zumutbar.
 - **Personen zur Hilfeleistung verpflichten** darf **nur der Einsatzleiter**.
 
-#### Kann-Aufgaben (freiwillig)
+#### Freiwillige Aufgaben (KANN)
 
-- Ölspurbeseitigung
-- Türöffnung (hilflose Person)
-- Tierrettung
-- Wespennester entfernen
-- Auspumpen von Kellern (nach Unwetter)
+Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Gesundheit, Einsatz mit Zustimmung der Gemeinde. Die Feuerwehr darf sie nur übernehmen, wenn die **Einsatzbereitschaft nicht leidet** (Art. 4 Abs. 3).
 
-!!! warning "Nicht verpflichtend"
-    Die Feuerwehr **kann**, muss aber nicht. Die Entscheidung liegt bei der Gemeinde oder dem Kommandanten.
+- Wespennester beseitigen, Bienenschwärme einfangen
+- Türöffnung bei Schlüsselverlust (**ohne** Gefahr – mit hilfloser Person dahinter ist es technische Hilfe!)
+- Auspumpen von Kellern und Baugruben
+- Verkehrsregelung bei Veranstaltungen (z. B. Prozession, Radrennen)
+- Fahnenmasten aufstellen, Dekoration anbringen
+
+!!! warning "Unterschied ist wichtig"
+    Pflicht- oder freiwillige Aufgabe entscheidet u. a. über **Haftpflicht-Versicherungsschutz** und **Kostenersatz** (Art. 28 BayFwG).
 
 ---
 
 ### Rechte nach BayFwG
 
-**Feuerwehrangehörige haben:**
+**Feuerwehrdienstleistende haben:**
 
-1. **Sonderrechte im Straßenverkehr** (§ 35 StVO)
-   - Blaul icht und Martinshorn
-   - Befreien von Geschwindigkeitsbegrenzungen
-   - Richtungsanzeigern nicht folgen (Wendemanöver)
+1. **Keine Nachteile im Job** (Art. 9 Abs. 1)
+   - Während des Feuerwehrdienstes keine Arbeitspflicht
+   - Arbeitgeber zahlt den Lohn weiter
+   - Private Arbeitgeber bekommen das Geld **auf Antrag von der Gemeinde** erstattet (Art. 10)
 
-   !!! warning "Nur auf Einsatzfahrt!"
-       Sonderrechte gelten **nur im Einsatz** – nicht privat!
+2. **Ersatz von Auslagen und Sachschäden** (Art. 9 Abs. 5)
+   - Notwendige Auslagen werden erstattet
+   - Verpflegung bei Einsätzen über 4 Stunden
+   - Sachschäden (Kleidung, Brille, eigenes Auto auf dem Weg) – wenn **nicht vorsätzlich oder grob fahrlässig**
 
-2. **Betreten von Grundstücken**
-   - Zum Zweck der Brandbekämpfung oder Hilfeleistung
-   - Auch gegen den Willen des Eigentümers
+3. **Betreten fremder Grundstücke** (Art. 23 Abs. 2)
+   - Gebäude, Grundstücke, Fahrzeuge dürfen zur Brandbekämpfung oder Hilfeleistung betreten und benutzt werden
+   - Eigentümer müssen das dulden
 
-3. **Versicherungsschutz**
-   - Gesetzliche Unfallversicherung
-   - Bei Verletzungen im Dienst
+4. **Platzverweis** (Art. 24)
+   - Führungsdienstgrade dürfen die Einsatzstelle absperren und Personen wegschicken, wenn keine Polizei da ist
 
-4. **Freistellung von der Arbeit**
-   - Arbeitgeber muss für Einsätze freistellen
-   - Keine Nachteile für den Arbeitnehmer
+5. **Versicherungsschutz** – siehe [Versicherungsschutz](#versicherungsschutz)
+
+!!! info "Sonderrechte stehen nicht im BayFwG"
+    Blaulicht, Martinshorn und Sonderrechte regelt die **StVO** (§§ 35, 38) – siehe [unten](#straenverkehrsordnung-stvo-fur-einsatzfahrten).
 
 ---
 
 ### Pflichten nach BayFwG
 
-**Feuerwehrangehörige sind verpflichtet:**
+**Feuerwehrdienst ist Ehrenamt** (Art. 6 Abs. 1). Feuerwehrdienstleistende sind verpflichtet:
 
-1. **Teilnahme an Übungen und Ausbildung**
-   - Regelmäßig (mind. 1-2x pro Monat)
-   - Lehrgänge besuchen
+1. **Teilnahme an Einsätzen, Ausbildung und Bereitschaftsdiensten**
+   - Lehrgänge besuchen (z. B. MTA)
 
-2. **Ausrücken bei Alarm**
-   - Wenn möglich und zumutbar
-   - Keine Gefährdung des eigenen Lebens/Gesundheit
+2. **Weisungen befolgen**
+   - Anweisungen von Kommandant und Führungsdienstgraden
 
-3. **Schweigepflicht**
+3. **Verschwiegenheit**
    - Keine Details über Einsätze erzählen (Datenschutz!)
    - Keine Fotos von Verletzten oder Toten veröffentlichen
 
 4. **Pflegliche Behandlung der Ausrüstung**
    - PSA sauber und funktionsfähig halten
    - Geräte nach Einsatz reinigen
+
+---
+
+### Wer darf mitmachen?
+
+| Alter | Was? | Grundlage |
+|-------|------|-----------|
+| ab 6 | Kinderfeuerwehr | Art. 7 Abs. 1 |
+| 12–18 | Feuerwehranwärter (Jugendfeuerwehr) | Art. 7 Abs. 2 |
+| ab 16 | Einsatz – aber nur **außerhalb** der unmittelbaren Gefahrenzone | Art. 7 Abs. 2 |
+| ab 18 bis Regelaltersgrenze | Feuerwehrdienst (aktiv) | Art. 6 Abs. 2 |
+
+!!! info "Kommandant"
+    Wird von den aktiven Mitgliedern **geheim für 6 Jahre gewählt** (Art. 8 Abs. 2).
 
 ---
 
@@ -235,47 +251,81 @@ Nach FwDV 3 setzt der **Angriffstrupp den Verteiler** und verlegt seine C-Leitun
 
 ## Versicherungsschutz
 
-### Gesetzliche Unfallversicherung
+!!! abstract "Quelle"
+    Merkblatt **1.009 „Versicherungsschutz für die Freiwilligen Feuerwehren Bayerns"** der Staatlichen Feuerwehrschule Würzburg – bekommst du in der MTA. Links: siehe [Quellen](#quellen).
+
+### Gesetzliche Unfallversicherung (KUVB)
 
 **Wer ist versichert?**
-Alle Feuerwehrangehörigen, **automatisch** und ohne Beitrag. Versicherungsträger ist die **Kommunale Unfallversicherung Bayern (KUVB)**.
+Alle Feuerwehrdienstleistenden – **automatisch, ohne Beitrag**. Auch Personen, die bei einem Einsatz helfen oder herangezogen werden (Art. 23).
+
+**Wer ist zuständig?**
+Die **Kommunale Unfallversicherung Bayern (KUVB)** in München.
 
 **Was ist versichert?**
 
-- Einsätze
-- Übungen
-- Lehrgänge
-- Hin- und Rückweg (Wohnung ↔ Feuerwehrhaus ↔ Einsatzstelle)
+- **Einsatzunfall** – Pflicht- und freiwillige Aufgaben, Übungen, Lehrgänge, Dienstsport (keine Wettkämpfe)
+- **Wegeunfall** – direkter Weg zwischen Wohnung und Feuerwehrdienst
+- **Berufskrankheit** (im Feuerwehrdienst selten)
 
-**Was übernimmt die Versicherung?**
+!!! tip "Besonderheiten beim Weg"
+    - Normal beginnt der Schutz an der **Haustür**. **Bei Alarm** bist du schon **in der Wohnung** versichert (z. B. Sturz auf der Treppe).
+    - Umwege nur für Fahrgemeinschaften oder wenn der Weg schneller ist.
+    - Heimweg muss spätestens **2 Stunden nach Dienstende** beginnen – erst noch in die Wirtschaft = kein Schutz mehr.
 
-- Arztkosten
-- Krankenhauskosten
-- Rehabilitation
-- Rente (bei Invalidität)
-- Hinterbliebenenrente (bei Tod)
+**Was übernimmt die KUVB?**
 
-!!! success "Kostenlos!"
-    Du musst **nichts bezahlen** – die Versicherung ist automatisch aktiv!
+- Heilbehandlung, Krankenhaus, Reha, Pflege
+- Berufshilfe (Umschulung, wenn du deinen Beruf nicht mehr ausüben kannst)
+- Verletztengeld, Rente, Hinterbliebenenrente
+- **Mehrleistungen** extra für Feuerwehrleute (weil Ehrenamt)
 
----
-
-### Was ist NICHT versichert?
-
-- Private Fahrten (z. B. Einkaufen auf dem Weg zum Feuerwehrhaus)
-- Grobe Fahrlässigkeit (z. B. Alkohol, absichtliche Regelverstöße)
-- Vorsatz (absichtliche Schädigung)
-
-!!! warning "Wichtig"
-    Halte dich an die Regeln (UVV, FwDV), dann bist du versichert!
+!!! success "Weisung = versichert"
+    Wer einer Weisung seines Vorgesetzten folgt, ist versichert – auch wenn die Weisung eigentlich nicht ganz in Ordnung war. Auch wenn die Schutzkleidung ausnahmsweise nicht komplett getragen wurde, besteht Versicherungsschutz.
 
 ---
 
-### Entschädigung bei Verdienstausfall
+### Wann gibt es KEINEN Schutz?
 
-**Regelung:** Wenn du für einen Einsatz von der Arbeit freigestellt wirst, zahlt die Gemeinde eine Entschädigung an den Arbeitgeber (der zahlt dich weiter).
+- **Berauschende Mittel (Alkohol, Drogen):** Wer nicht mehr zu vernünftiger Arbeit in der Lage ist, ist **nicht versichert** – egal, ob der Alkohol den Unfall verursacht hat
+- **Private Unterbrechungen** (z. B. Einkaufen, Wirtshaus vor dem Heimweg)
+- **Vereinsaktivitäten ohne Bezug zum Feuerwehrdienst** (z. B. Ausflug, Fußballturnier) → dafür gibt es die Unfall-Zusatzversicherung des Vereins
 
-**Beispiel:** Du bist 5 Stunden im Einsatz während deiner Arbeitszeit. Dein Arbeitgeber zahlt dein Gehalt weiter, die Gemeinde erstattet ihm die Kosten.
+!!! warning "Unterschied Unfall ↔ Sachschaden"
+    Bei **Unfällen** bist du laut Merkblatt auch versichert, wenn du einer Weisung folgst oder die Schutzkleidung ausnahmsweise nicht komplett getragen hast. Bei **Sachschäden** (Art. 9 Abs. 5) zahlt die Gemeinde bei **Vorsatz oder grober Fahrlässigkeit nicht**.
+
+---
+
+### Sachschäden (dein Eigentum)
+
+Die **Gemeinde** ersetzt Schäden an deinen Sachen im Feuerwehrdienst – auch auf dem Weg dorthin (Art. 9 Abs. 5 BayFwG):
+
+- **Kleidung**
+- **Brille, Uhr** (übliche Gegenstände – keine teure Luxusuhr, kein Bargeld)
+- **Eigenes Auto** – deine Kasko zahlt zuerst, die Gemeinde ersetzt Selbstbeteiligung und Rabattverlust
+
+!!! info "Schaden melden"
+    Schäden an privaten Sachen **sofort dem Kommandanten melden** – der gibt es an die Gemeinde weiter.
+
+---
+
+### Schäden bei anderen (Drittschäden)
+
+**Beispiel:** Beim Einsatz wird der Gartenzaun des Nachbarn beschädigt oder du rammst auf der Anfahrt ein anderes Auto.
+
+- Bei **Pflichtaufgaben** haftet die **Gemeinde** – abgesichert über die Kommunale Haftpflichtversicherung. Deine **persönliche** Haftung ist mitversichert.
+- Eine private Amtshaftpflichtversicherung brauchst du als normaler Feuerwehrdienstleistender **nicht**.
+- Wer durch Feuerwehrmaßnahmen einen unzumutbaren Schaden hat, bekommt eine Entschädigung von der Gemeinde (Art. 27).
+
+---
+
+### Lohn und Verdienstausfall
+
+**Regelung:** Dein Arbeitgeber zahlt während des Einsatzes weiter (Art. 9 Abs. 1). Auf Antrag bekommt er das Geld von **der Gemeinde deiner Feuerwehr** zurück – nicht von der Gemeinde, in der der Einsatz war (Art. 10).
+
+**Beispiel:** Du bist 5 Stunden im Einsatz während deiner Arbeitszeit. Dein Arbeitgeber zahlt dein Gehalt weiter, die Gemeinde Goldkronach erstattet ihm die Kosten.
+
+**Selbstständige** bekommen ihren Verdienstausfall direkt von der Gemeinde (bis zu einem Höchstbetrag, Art. 9 Abs. 3).
 
 ---
 
@@ -455,7 +505,16 @@ Beim Löschen mit dem **CM-Strahlrohr** gilt bei Niederspannung: **Sprühstrahl 
     **Antwort:** Dienstvorschrift für Einheiten im Lösch- und Hilfeleistungseinsatz (Taktik, Befehle)
 
 ??? question "6. Wann gilt Versicherungsschutz?"
-    **Antwort:** Bei Einsätzen, Übungen, Lehrgängen + Hin- und Rückweg
+    **Antwort:** Bei Einsätzen, Übungen, Lehrgängen + Hin- und Rückweg (gesetzliche Unfallversicherung über die KUVB)
+
+??? question "7. Wer erstattet deinem Arbeitgeber den Lohn für die Einsatzzeit?"
+    **Antwort:** Die Gemeinde deiner Feuerwehr – auf Antrag des Arbeitgebers (Art. 10 BayFwG)
+
+??? question "8. Deine Brille geht im Einsatz kaputt. Wer zahlt?"
+    **Antwort:** Die Gemeinde (Art. 9 Abs. 5 BayFwG) – sofern nicht vorsätzlich oder grob fahrlässig. Sofort dem Kommandanten melden!
+
+??? question "9. Ab wann ist man bei einem Alarm versichert?"
+    **Antwort:** Schon in der eigenen Wohnung – nicht erst ab der Haustür
 
 ---
 
@@ -467,6 +526,19 @@ Beim Löschen mit dem **CM-Strahlrohr** gilt bei Niederspannung: **Sprühstrahl 
 - [ ] Ich weiß, dass ich automatisch versichert bin
 - [ ] Ich kenne die Regel "Eigenschutz vor Fremdschutz"
 - [ ] Ich weiß, was GAMS bedeutet
+
+---
+
+## Quellen
+
+| Dokument | Online |
+|----------|--------|
+| **Bayerisches Feuerwehrgesetz (BayFwG)** – Sonderdruck 1.001 der Staatlichen Feuerwehrschulen | [gesetze-bayern.de (amtlicher, aktueller Text)](https://www.gesetze-bayern.de/Content/Document/BayFwG/true) |
+| **Merkblatt 1.009 Versicherungsschutz** – Staatliche Feuerwehrschule Würzburg | [feuerwehr-lernbar.bayern](https://www.feuerwehr-lernbar.bayern/) · [PDF (KFV Aschaffenburg)](https://kfv-ab.de/images/Versicherungsschutz_f%C3%BCr_die_Freiwilligen_Feuerwehren_Bayerns.pdf) |
+| **KUVB** – FAQs zum Versicherungsschutz für Feuerwehren | [kuvb.de](https://www.kuvb.de/) |
+
+!!! note "Stand"
+    Das BayFwG wurde zuletzt im **Juli 2025** geändert (u. a. Altersgrenze „Regelaltersgrenze" statt 65). Die online verfügbare PDF-Version des Merkblatts 1.009 kann älter sein als die gedruckte Ausgabe aus der MTA – im Zweifel gilt der aktuelle Gesetzestext.
 
 ---
 
