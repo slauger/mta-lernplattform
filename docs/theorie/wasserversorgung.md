@@ -301,10 +301,14 @@ Die Entscheidung trifft der **Truppführer**. Der Strahlrohrführer öffnet das 
 
 ### Abstände zu elektrischen Anlagen (CM-Strahlrohr)
 
-Laut Fragenkatalog gilt beim **CM-Strahlrohr**:
+Mindestabstände beim **CM-Strahlrohr** (Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“):
 
-- **1 m** mit **Sprühstrahl** bei **Niederspannung** (bis 1.000 V)
-- **10 m** mit **Vollstrahl** bei **Hochspannung** (über 1.000 V)
+| | Sprühstrahl | Vollstrahl |
+|---|---|---|
+| **Niederspannung** (bis 1.000 V) | 1 m | 5 m |
+| **Hochspannung** (über 1.000 V) | 5 m | 10 m |
+
+Beim **BM-Strahlrohr** erhöhen sich die Abstände um **2 m**. Im Fragenkatalog wird „1 m Sprühstrahl bei Niederspannung und 10 m Vollstrahl bei Hochspannung“ abgefragt.
 
 Bei Hohlstrahlrohren gelten die Angaben in der **Bedienungsanleitung des Herstellers**.
 

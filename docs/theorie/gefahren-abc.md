@@ -12,7 +12,7 @@ Nach diesem Kapitel kannst du:
 
 - [x] Die Gefahren der Einsatzstelle nach dem Schema **4A – 1C – 4E** benennen
 - [x] Richtig reagieren bei Einsturzgefahr, Elektrizität und Strahlung
-- [x] Das Signal „Gefahr – Alles zurück!“ richtig befolgen
+- [x] Das Signal „Gefahr – Alle sofort zurück!“ richtig befolgen
 - [x] Gefahrgut an Warntafel und Gefahrzetteln erkennen
 - [x] Die **GAMS-Regel** anwenden
 - [x] Kontamination und Inkorporation unterscheiden
@@ -55,7 +55,9 @@ Der Truppführer ist für die Sicherheit seines Trupps verantwortlich. Beim Vorg
 2. Wenn nötig: **Rückweg antreten, und zwar geschlossen als Trupp**. Keiner geht für sich allein!
 3. Wenn nötig: **Notfallmeldung** mit dem Kennwort **„Mayday“**
 
-### Signal „Gefahr – Alles zurück!“
+### Signal „Gefahr – Alle sofort zurück!“
+
+Im Fragenkatalog kommt das Signal auch als „Gefahr – Alles zurück!“ vor – gemeint ist dasselbe.
 
 1. **Signal wiederholen**
 2. **Sammelplatz am Fahrzeug** aufsuchen
@@ -313,7 +315,7 @@ Das Merkschema erfasst nicht alle Gefahren. Weitere entstehen z. B. bei der Fahr
 ## Checkliste: Habe ich alles verstanden?
 
 - [ ] Ich kann 4A – 1C – 4E auswendig
-- [ ] Ich weiß, was ich bei „Gefahr – Alles zurück!“ tue
+- [ ] Ich weiß, was ich bei „Gefahr – Alle sofort zurück!“ tue
 - [ ] Ich kenne die Mindestabstände zu elektrischen Anlagen
 - [ ] Ich kenne die Reihenfolge beim Stromunfall
 - [ ] Ich kann CO und CO₂ unterscheiden

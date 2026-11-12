@@ -1,34 +1,42 @@
 # Einführung & Orientierung
 
+!!! abstract "Quelle"
+    Teilnehmer- und Ausbilderunterlage MTA 2.1 „Rechtsgrundlagen und Organisation“, Teilnehmerunterlage MTA 2.2 „Rechte und Pflichten“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Teilnehmerunterlage MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, Ausbilderunterlage MTA 5.2 „Spezielle persönliche Schutzausrüstung“, Teilnehmerunterlage MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Präsentation MTA 8 „Verhalten bei Gefahr“, Prüfungsunterlagen MTA 15.4 „Zwischenprüfung“ (alle SFS Würzburg); Bayerisches Feuerwehrgesetz (BayFwG); Ausbildungsplan Inspektion I Landkreis Bayreuth 2026/27; dazu der offizielle Fragenkatalog.
+    Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
+
 ## Was ist die Modulare Truppausbildung (MTA)?
 
-Die **Modulare Truppausbildung (MTA)** ist die standardisierte Grundausbildung für alle Feuerwehrangehörigen in Bayern. Sie ersetzt die frühere Truppmann-Ausbildung und ist **Voraussetzung** für alle weiterführenden Lehrgänge.
+Die **Modulare Truppausbildung (MTA)** ist die Ausbildung für Feuerwehrdienstleistende in Bayern. Ihr **Basismodul** ist die **feuerwehrtechnische Grundausbildung**. Es beinhaltet auch die **Funkausbildung** und die **Erste-Hilfe-Ausbildung**.
 
 ### Zweck der MTA
 
 !!! quote "Ziel"
-    Die MTA soll dich befähigen, **im Einsatz unter Anleitung** als Truppmann oder Truppfrau zu arbeiten. Du lernst die Grundlagen, um bei Bränden, technischen Hilfeleistungen und anderen Einsätzen sicher und effektiv zu helfen.
+    In der MTA lernst du die Aufgaben im **Trupp**: Truppmann und Truppführer bilden zusammen einen Trupp. Ziel am Ende der gesamten Ausbildung ist die **Truppführerqualifikation**.
+
+!!! info "Warum das Basismodul so wichtig ist"
+    Feuerwehranwärter dürfen ab **16 Jahren** an Einsätzen teilnehmen, wenn das **Basismodul abgeschlossen** ist und der **Kommandant zustimmt** – und auch dann nur außerhalb des unmittelbaren Gefahrenbereichs (mehr unter [Mindestalter](#aufbau-der-mta-in-bayern)).
 
 ### Aufbau der MTA in Bayern
 
 ```mermaid
 graph LR
     A[Basismodul] --> B[Zwischenprüfung]
-    B --> C[Ausbildung in der eigenen Wehr<br/>mind. 2 Jahre, inkl. Ergänzungsmodule]
+    B --> C[Modul „Ausbildungs- und Übungsdienst“<br/>in der eigenen Wehr]
     C --> D[Abschlussprüfung]
-    D --> E[Truppführer]
+    D --> E[Truppführerqualifikation]
 ```
 
 | Abschnitt | Inhalt | Abschluss |
 |-----------|--------|-----------|
-| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Damit bist du **Truppmann**. |
-| **Ausbildung in der Feuerwehr** | Übungsdienst in der eigenen Wehr über **mindestens 2 Jahre**, dazu **Ergänzungsmodule** | – |
-| **Abschlussprüfung** | Wiederholung und Vertiefung | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen, teilweise Multiple Choice). Damit bist du **Truppführer**. |
+| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Das Zwischenzeugnis berechtigt zur Teilnahme am Modul **„Ausbildungs- und Übungsdienst“**. |
+| **Ausbildungs- und Übungsdienst** | Ausbildung in der eigenen Wehr | – |
+| **Abschlussprüfung** | Wiederholung und Vertiefung, Blick aus Sicht des **Truppführers** | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen; bei einem Teil der Fragen sind mehrere Antworten richtig). |
 
-!!! info "Mindestalter (laut Lehrgangsausschreibung KFV Bayreuth)"
-    - Start der MTA: **15 Jahre**
-    - Zwischenprüfung: **16 Jahre**
-    - Abschlussprüfung: **18 Jahre**
+!!! info "Mindestalter und Altersgrenzen"
+    - Start der MTA (Landkreis Bayreuth): **15 Jahre**
+    - Feuerwehranwärter: vom vollendeten **12.** bis zum vollendeten **18. Lebensjahr** (Art. 7 BayFwG)
+    - Einsätze als Anwärter: erst ab dem vollendeten **16. Lebensjahr**, nur **außerhalb der unmittelbaren Gefahrenzone**, Basismodul abgeschlossen, Kommandant muss zustimmen
+    - Feuerwehrdienst als Erwachsener: ab dem vollendeten **18. Lebensjahr** (Art. 6 BayFwG)
 
 !!! info "Übergangsmodul"
     Wer die frühere Truppmannausbildung (Teil 1 + 2) schon abgelegt hat, braucht für die Truppführerqualifikation nur die im Ausbildungsplan **blau markierten Module**.
@@ -52,109 +60,129 @@ Alle Aufgaben mit Bewertungskriterien: **[MTA-Module → Zwischenprüfung](mta-m
 
 ### Hierarchie und Struktur
 
-Die Feuerwehr in Bayern ist hierarchisch organisiert:
+Abwehrender Brandschutz und technischer Hilfsdienst sind eine **Pflichtaufgabe der Gemeinde**. Dazu muss die Gemeinde Feuerwehren **aufstellen, ausrüsten und unterhalten**.
 
 ```
-Landesfeuerwehrverband Bayern (LFV)
+Staat (Landrat / Landratsamt)
     ↓
-Bezirksfeuerwehrverband (BFV)
+Kreisbrandrat (KBR)
     ↓
-Kreisfeuerwehrverband (KFV)
+Kreisbrandinspektor (KBI) – Inspektionsbereich
     ↓
-Freiwillige Feuerwehr Goldkronach
+Kreisbrandmeister (KBM)
+
+Gemeinde → Freiwillige Feuerwehr Goldkronach
     ↓
-Gruppen / Züge
+Kommandant
     ↓
-Trupps (2 Personen)
+Züge (nur bei größeren Wehren) / Gruppen / Staffeln
+    ↓
+Trupps (Truppführer + Truppmann)
 ```
+
+Die **Feuerwehrverbände** (Kreis-, Bezirks- und Landesfeuerwehrverband) stehen **nicht** in dieser Befehlskette. Sie sind Interessenvertretungen der Feuerwehren.
+
+**Arten der Feuerwehren:** Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr, Werkfeuerwehr und sonstige Feuerwehren (z. B. Betriebsfeuerwehren).
 
 ### Ebenen im Detail
 
 #### 1. Landesebene
 
-- **Landesfeuerwehrverband Bayern (LFV)**
-- Vertritt alle Feuerwehren in Bayern
-- Erstellt Ausbildungsrichtlinien
-- Organisiert Landeswettbewerbe
+- Der **Staat** fördert den Brandschutz und den technischen Hilfsdienst und unterhält die **Landesfeuerwehrschulen** (z. B. die Staatliche Feuerwehrschule Würzburg, von der die MTA-Unterlagen stammen).
+- Der **Landesfeuerwehrverband Bayern (LFV)** ist eine Interessenvertretung der Feuerwehren. Das Staatsministerium arbeitet mit ihm zusammen.
 
 #### 2. Bezirksebene
 
 - **Bezirksfeuerwehrverband (BFV)**
 - Goldkronach gehört zum Bezirk Oberfranken
-- Koordiniert größere Einsätze
 
 #### 3. Kreisebene
 
-- **Kreisfeuerwehrverband (KFV)**
 - Goldkronach gehört zum Landkreis Bayreuth
-- **Kreisbrandrat (KBR)**: oberster Feuerwehrmann im Landkreis
-- **Kreisbrandinspektor (KBI)**: zuständig für einen Inspektionsbereich, z. B. die Inspektion I
-- Organisiert MTA-Lehrgänge auf Kreisebene
+- **Kreisbrandrat (KBR)**: höchster Feuerwehrler im Landkreis. Er wird von den Kommandanten der Freiwilligen Feuerwehren und den Leitern der Werkfeuerwehren auf sechs Jahre gewählt. Er berät und unterstützt Landratsamt, Gemeinden und Feuerwehren, besichtigt die Feuerwehren und sorgt für die Ausbildungsveranstaltungen.
+- **Kreisbrandinspektor (KBI)**: steht einem Kreisbrandinspektionsbereich vor (z. B. die Inspektion I) und untersteht dem KBR
+- **Kreisbrandmeister (KBM)**: untersteht dem KBI, betreut seine Feuerwehren und spezielle Aufgabengebiete
+- KBI und KBM werden vom KBR **bestellt**. KBR, KBI und KBM sind ehrenamtlich **für den Staat** tätig und unterstehen dem **Landrat**.
+- **Kreisfeuerwehrverband (KFV)**: Über ihn läuft im Landkreis Bayreuth die Anmeldung zu den Lehrgängen ([kfv-bayreuth-lehrgaenge.de](https://kfv-bayreuth-lehrgaenge.de/)).
 
 #### 4. Gemeindeebene
 
 - **Freiwillige Feuerwehr Goldkronach**
-- Eigenständige Organisation
-- Zuständig für Einsätze im Gemeindegebiet
+- Die gemeindliche Feuerwehr ist eine **öffentliche Einrichtung der Gemeinde**
+- Der **Feuerwehrverein** unterstützt die gemeindliche Einrichtung Feuerwehr personell. Die Mitgliedschaft im Verein ist getrennt von der Aufnahme in die Feuerwehr: In die Feuerwehr nimmt dich der **Kommandant** auf, für den Verein stellst du einen eigenen Aufnahmeantrag.
 
 ### Rollen in der Feuerwehr
 
 #### Kommandant
 
-- **Leiter der Feuerwehr** vor Ort
-- Verantwortlich für Ausbildung, Einsätze, Organisation
-- Wird von den Mitgliedern gewählt
+- Wird von den Feuerwehrdienstleistenden und den Feuerwehranwärtern ab 16 Jahren in **geheimer Wahl auf sechs Jahre** gewählt; die Gemeinde muss die Wahl im Benehmen mit dem Kreisbrandrat bestätigen
+- Sorgt für die **Einsatzbereitschaft**, leitet die **Einsätze** und die **Ausbildung**
+- **Ernennt** die Mannschafts- und Führungsdienstgrade und **nimmt** neue Feuerwehrdienstleistende und Anwärter **auf**
+- Berät die Gemeinde in Fragen des Brandschutzes und des technischen Hilfsdienstes
 
-**Beispiel:** Der Kommandant plant den Übungsplan, bestellt neue Geräte und führt große Einsätze.
+**Beispiel:** Wenn du verhindert bist, entschuldigst du dich beim Kommandanten oder beim nächsten Vorgesetzten.
 
 #### Stellvertretender Kommandant
 
-- Unterstützt den Kommandant
-- Vertritt ihn bei Abwesenheit
+- Wird wie der Kommandant gewählt
+- Vertritt den Kommandanten
+
+#### Zugführer
+
+- Wird vom Kommandanten bestellt, nur bei größeren Freiwilligen Feuerwehren
+- Führt den Zug bei Einsatz, Ausbildung und Übungen
 
 #### Gruppenführer
 
-- Leitet eine Gruppe (1/8/9: Gruppenführer, Maschinist, Melder, Angriffs-, Wasser- und Schlauchtrupp)
-- Kommandiert im Einsatz die Gruppe
-
-**Beispiel:** Bei einem Wohnungsbrand teilt der Gruppenführer die Aufgaben ein: „Angriffstrupp zur Menschenrettung vor, Wassertrupp Wasserversorgung sicherstellen!"
+- Wird vom Kommandanten bestellt
+- Führt die zugeteilte Gruppe bei Einsatz, Ausbildung, Übungen und sonstigen Tätigkeiten
+- Hat die Einsatzleitung, wenn nur Gruppenführer anwesend sind
 
 #### Truppführer
 
-- Leitet einen Trupp (2 Personen)
-- Arbeitet eigenverantwortlich an Teilaufgaben
+- Bildet mit dem Truppmann einen **Trupp**
+- Der Trupp handelt im Rahmen seines Auftrags **selbstständig und eigenverantwortlich**; der Truppführer ist für die **Sicherheit des Trupps** und die Erledigung des Auftrags verantwortlich
+- Trifft die Entscheidungen im Trupp, z. B. welcher Bereich zuerst abgesucht wird, wenn der Befehl dazu nichts sagt
 
-**Beispiel:** Der Truppführer des Angriffstrupps führt seinen Truppmann ins brennende Gebäude.
+**Beispiel:** Der Truppführer bestimmt, ob der Trupp mit Vollstrahl oder Sprühstrahl löscht.
 
 #### Truppmann / Truppfrau
 
-- Unterstützt den Truppführer
-- Führt Anweisungen aus
-- **Das bist du nach der MTA!**
+- Bildet mit dem Truppführer einen Trupp
+- Führt die vom Vorgesetzten angeordneten Tätigkeiten aus
 
-**Beispiel:** Der Truppmann trägt das Strahlrohr, während der Truppführer die Richtung vorgibt.
+**Beispiel:** Legt der Truppmann die Schläuche falsch aus, muss ihn der Truppführer darauf hinweisen und überwachen, dass er die Hinweise beachtet.
 
 ### Funktionen im Einsatz
 
 #### Grundstruktur: Der Trupp
-Ein **Trupp** besteht immer aus **2 Personen**:
+Ein **Trupp** besteht aus:
 
-- **Truppführer** (erfahrener)
-- **Truppmann** (weniger erfahren)
+- **Truppführer**
+- **Truppmann**
 
-!!! warning "Niemals allein!"
-    In der Feuerwehr arbeitet man **niemals allein**. Der Trupp ist die kleinste Einheit und sichert sich gegenseitig ab.
+!!! warning "Truppweise arbeiten!"
+    Der Trupp bleibt **stets zusammen** und geht **truppweise geschlossen** vor.
+
+#### Taktische Einheiten
+
+- **Selbstständiger Trupp**
+- **Staffel** (1/5/6): Einheitsführer, Maschinist, Angriffstrupp, Wassertrupp
+- **Gruppe** (1/8/9): die **taktische Grundeinheit** der Feuerwehr
+- **Zug**
 
 #### Die Gruppe (1/8/9)
 
 Eine **Gruppe** besteht aus:
 
-1. **Gruppenführer** (1): erkundet, entscheidet, befiehlt
-2. **Maschinist** (1): fährt das Fahrzeug, bedient die Pumpe
-3. **Melder** (1): übermittelt Befehle und Rückmeldungen
-4. **Angriffstrupp** (2): rettet, setzt den Verteiler, nimmt das 1. Rohr vor
-5. **Wassertrupp** (2): stellt die Wasserversorgung zwischen Wasserentnahmestelle und Fahrzeug her
-6. **Schlauchtrupp** (2): verlegt die B-Leitung vom Fahrzeug zum Verteiler, unterstützt mit Schlauchreserve
+1. **Gruppenführer** (1): führt die Gruppe, ist für die Sicherheit der Mannschaft verantwortlich, bestimmt die Fahrzeugaufstellung, ist an keinen bestimmten Platz gebunden
+2. **Maschinist** (1): ist Fahrer, bedient Pumpe und Aggregate, sichert sofort die Einsatzstelle (Warnblinkanlage, Fahrlicht, Blaulicht)
+3. **Melder** (1): übernimmt befohlene Aufgaben (z. B. Informationsübertragung, Betreuung, Erkundung)
+4. **Angriffstrupp** (2): rettet, setzt den Verteiler, nimmt in der Regel das erste Rohr vor und verlegt seine Schlauchleitung selbst
+5. **Wassertrupp** (2): rettet, stellt die Wasserversorgung zwischen Wasserentnahmestelle und Fahrzeug sowie vom Fahrzeug zum Verteiler her, kuppelt den Verteiler an die B-Leitung an, wird beim Atemschutzeinsatz Sicherheitstrupp
+6. **Schlauchtrupp** (2): rettet, unterstützt die vorgehenden Trupps beim Verlegen der Schlauchleitung vom Verteiler zur Einsatzstelle, führt auf Befehl weitere Tätigkeiten aus
+
+Fehlen Einsatzkräfte, bestimmt der Einheitsführer, wer welche Aufgaben übernimmt.
 
 **Beispiel Einsatz Wohnungsbrand:**
 ```
@@ -162,9 +190,10 @@ Gruppenführer: "Wasserentnahmestelle Unterflurhydrant vor dem Haus,
                 Verteiler neben den Hauseingang,
                 Angriffstrupp zur Menschenrettung unter Atemschutz
                 mit 1. C-Rohr in das 1. OG über den Treppenraum – vor!"
-Angriffstrupp: setzt den Verteiler und geht mit C-Rohr ins Haus vor
-Wassertrupp:   stellt die Wasserversorgung vom Hydranten zum Fahrzeug her
-Schlauchtrupp: verlegt die B-Leitung zum Verteiler und bringt Schlauchreserve
+Angriffstrupp: wiederholt den Befehl, setzt den Verteiler und geht mit C-Rohr vor
+Wassertrupp:   stellt die Wasserversorgung vom Hydranten zum Fahrzeug
+               und die B-Leitung vom Fahrzeug zum Verteiler her
+Schlauchtrupp: unterstützt den Angriffstrupp beim Verlegen der C-Leitung
 ```
 
 Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
@@ -173,56 +202,14 @@ Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
 
 ## Typischer Ablauf der Ausbildung
 
-### Phase 1: Theoretische Grundlagen (ca. 30-40 Stunden)
+1. **Basismodul** (Lehrgang auf Kreisebene): Themen 1.0 bis 15, Theorie und Praxis. Die einzelnen Themen findest du unter [MTA-Module](mta-module.md).
+2. **Erste Hilfe:** Für die feuerwehrspezifische Erste Hilfe brauchst du vorher einen **Erste-Hilfe-Grundlehrgang**. Die Bescheinigung wird bei Thema 5.12 kontrolliert und darf **nicht älter als 5 Jahre** sein.
+3. **Zwischenprüfung:** schriftlicher Fragebogen, drei praktische Aufgaben und eine Sprechfunk-Aufgabe (siehe oben).
+4. **Modul „Ausbildungs- und Übungsdienst“** in der eigenen Wehr. Für manche spezielle Schutzausrüstung sind zusätzlich **Ergänzungsmodule bzw. Lehrgänge** erforderlich.
+5. **Abschlussprüfung** mit dem Fragenkatalog Truppführer.
 
-- Rechtsgrundlagen (FwG, UVV)
-- Brennen und Löschen
-- Fahrzeugkunde
-- Gerätekunde
-- Gefahren an der Einsatzstelle
-- Verhalten im Einsatz
-
-**Lernmethoden:**
-
-- Präsentationen
-- Videos
-- Gruppenarbeiten
-- Diskussionen
-
-### Phase 2: Praktische Ausbildung (ca. 40-50 Stunden)
-
-- Knoten und Stiche
-- Leitern
-- Schläuche kuppeln und verlegen
-- Löschübungen (mit Wasser, ggf. mit Feuer)
-- Technische Hilfeleistung (Absichern, Retten, Heben)
-- Atemschutz-Gewöhnung
-- Funk
-
-**Lernmethoden:**
-
-- Stationsausbildung
-- Übungen in Kleingruppen
-- Reale Szenarien
-- Wiederholung, Wiederholung, Wiederholung
-
-### Phase 3: Prüfungsvorbereitung
-
-- Zusammenfassung der Theorie
-- Wiederholung Knoten
-- Probeprüfungen
-
-### Phase 4: Prüfung
-
-- Schriftlich (Multiple Choice)
-- Praktisch (Stationen)
-
-### Phase 5: Ausbildung in der Feuerwehr (mind. 2 Jahre) bis zur Abschlussprüfung
-
-- Teilnahme am regulären Übungsdienst
-- Vertiefung der Kenntnisse
-- Einsatznachbesprechungen
-- Spezialisierungen (z. B. Atemschutz, Maschinist)
+!!! tip "Frag nach"
+    Wie lange der Ausbildungs- und Übungsdienst in deiner Wehr dauert und wann die Abschlussprüfung ansteht, erfährst du von deinem Kommandanten bzw. deinen Ausbildern.
 
 ---
 
@@ -232,50 +219,54 @@ Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
 
 **Ziel:** Verstehen, **warum** wir etwas tun
 
-**Inhalte:**
+**Inhalte (Beispiele):**
 
 - Wie funktioniert Verbrennung?
 - Welche Löschmittel gibt es?
 - Welche Gesetze regeln die Feuerwehr?
 - Wie funktioniert ein Feuerlöscher?
 
-**Lernort:** Klassenzimmer, Schulungsraum
-
-**Prüfung:** Schriftlicher Test
+**Prüfung:** schriftlicher Teil der Zwischenprüfung
 
 !!! tip "Lerntipp"
-    Theorie ist die Basis für sicheres Handeln im Einsatz. Wer versteht, warum etwas gemacht wird, macht es richtig.
+    Wer versteht, warum etwas gemacht wird, kann es sich leichter merken.
 
 ### Praxis
 
 **Ziel:** Können, **wie** wir etwas tun
 
-**Inhalte:**
+**Inhalte (Beispiele):**
 
 - Knoten binden
 - Schläuche kuppeln
 - Leitern aufstellen
-- Löschübungen durchführen
+- Feuerlöscher einsetzen
 
-**Lernort:** Feuerwehrhaus, Übungsgelände, Straße
-
-**Prüfung:** Praktische Stationen
+**Prüfung:** praktische Aufgaben und Sprechfunk-Aufgabe der Zwischenprüfung
 
 !!! tip "Übungstipp"
-    Praxis braucht Wiederholung! Knoten, die du 100-mal gemacht hast, kannst du auch unter Stress.
+    Praxis braucht Wiederholung! Übe vor allem die Knoten immer wieder.
 
 ---
 
 ## Beförderungen & Dienstgrade
 
-Nach der MTA kannst du dich weiterbilden, z. B. als Atemschutzgeräteträger, Maschinist oder später Gruppenführer.
+**Ernannt** werden die Dienstgrade vom **Kommandanten**. Wie viele Dienstgrade es in einer Feuerwehr gibt, richtet sich nach ihrer Stärke.
 
-!!! question "Dienstgrade in Bayern"
-    Welche Dienstgrade es gibt und welche Voraussetzungen jeweils gelten, ist in Bayern landesrechtlich geregelt. Ernannt werden sie vom **Kommandanten**.
-    Die genauen Voraussetzungen, also Dienstjahre und Lehrgänge, erfragst du am besten direkt bei deinem Kommandanten. Wir führen hier bewusst keine Tabelle, solange sie nicht gegen die aktuelle Regelung geprüft ist.
+Dienstgrade bei den Freiwilligen Feuerwehren (in dieser Reihenfolge):
 
-!!! info "Wichtig"
-    Dienstgrade sind **keine Ränge wie beim Militär**, sondern zeigen Erfahrung und Ausbildung. Respekt verdient man sich durch Können, nicht durch Schulterklappen.
+| Gruppe | Dienstgrad |
+|--------|------------|
+| – | Feuerwehranwärter/-in |
+| Mannschaftsdienstgrade | Feuerwehrmann/-frau · Oberfeuerwehrmann/-frau · Hauptfeuerwehrmann/-frau |
+| Führungsdienstgrade | Löschmeister/-in · Oberlöschmeister/-in · Hauptlöschmeister/-in · Brandmeister/-in · Oberbrandmeister/-in · Hauptbrandmeister/-in |
+
+- **Dienstgradabzeichen:** schwarzes Stoffabzeichen mit roter Umrandung und roten oder silberfarbenen Balken, getragen am linken Oberärmel von Dienstrock und Dienstmantel
+- Führungsdienstgraden wird meistens zugleich eine **Funktion** übertragen, z. B. Gruppenführer oder Zugführer (bzw. deren Stellvertreter).
+- **Kommandant**, **stellvertretender Kommandant**, **Zugführer** und **Gruppenführer** sind **Führungsfunktionen**, keine Dienstgrade. Der Kommandant trägt als Funktionsabzeichen einen schmalen goldenen Balken am Ärmel und einen senkrechten roten Balken vorne am Helm.
+
+!!! question "Voraussetzungen für Beförderungen"
+    Welche Dienstjahre und Lehrgänge für den nächsten Dienstgrad nötig sind, erfragst du direkt bei deinem Kommandanten.
 
 ---
 
@@ -284,19 +275,19 @@ Nach der MTA kannst du dich weiterbilden, z. B. als Atemschutzgeräteträger, Ma
 ### 1. Sicherheit geht vor
 
 !!! danger "Oberste Regel"
-    **Eigenschutz vor Fremdschutz!** Du kannst niemandem helfen, wenn du selbst verletzt bist.
+    **Sicherheit und Eigenschutz gehen auch im Feuerwehreinsatz stets vor!** Ein verletzter oder toter Helfer kann nicht mehr helfen.
 
-### 2. Kameradschaft
+### 2. Truppweise arbeiten
 
-Die Feuerwehr funktioniert nur, wenn alle zusammenarbeiten und sich gegenseitig helfen.
+Der Trupp bleibt stets zusammen, sichert den Rückzugsweg und meldet erkannte Gefahren sofort.
 
-### 3. Freiwilligkeit
+### 3. Ehrenamt
 
-In Bayern sind die meisten Feuerwehren freiwillig. Das bedeutet: Du machst das ehrenamtlich, in deiner Freizeit – aus Überzeugung.
+Feuerwehr ist eine **Pflichtaufgabe der Gemeinde**. Der Feuerwehrdienst wird – soweit nichts anderes bestimmt ist – **ehrenamtlich** geleistet.
 
-### 4. Politische & religiöse Neutralität
+### 4. Verhalten in der Öffentlichkeit
 
-Die Feuerwehr hilft **allen Menschen**, unabhängig von Herkunft, Religion oder politischer Einstellung.
+Jeder Feuerwehrdienstleistende ist ein **Spiegelbild seiner Organisation** in der Öffentlichkeit. Korrektes und höfliches Verhalten gegenüber Bürgern an der Einsatzstelle sollte selbstverständlich sein.
 
 ---
 
@@ -304,17 +295,17 @@ Die Feuerwehr hilft **allen Menschen**, unabhängig von Herkunft, Religion oder 
 
 ### Während der MTA
 
-- **Pünktlichkeit**: Sei immer 10 Minuten früher da
+- **Pünktlichkeit**: Sei rechtzeitig da
 - **Mitarbeit**: Stelle Fragen, mach mit, lerne aktiv
 - **Respekt**: Gegenüber Ausbildern und Kameraden
 - **Eigeninitiative**: Übe zuhause (Knoten!), lies nach
 
-### Nach der MTA
+### Pflichten im Feuerwehrdienst
 
-- **Übungsdienst**: Nimm regelmäßig teil (1-2x pro Monat)
-- **Einsätze**: Rücke aus, wenn du alarmiert wirst
-- **Weiterbildung**: Besuche weitere Lehrgänge
-- **Kameradschaft**: Engagiere dich, hilf mit, pflege das Gemeinschaftsleben
+- **Teilnahme**: Feuerwehrdienstleistende haben an Einsätzen, Ausbildungsveranstaltungen, Sicherheitswachen und am Bereitschaftsdienst teilzunehmen
+- **Weisungen**: Die Weisungen der Vorgesetzten sind zu befolgen; Einsatzbefehle werden ausgeführt, nicht „ausdiskutiert“
+- **Dienstverhinderung**: Kannst du aus dringenden Gründen oder wegen Krankheit nicht kommen, entschuldige dich beim Kommandanten oder beim nächsten Vorgesetzten
+- **Dienst- und Schutzkleidung**: im Dienst tragen und bei Bedarf reinigen und instand halten
 
 ---
 
