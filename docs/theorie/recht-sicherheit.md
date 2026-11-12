@@ -407,35 +407,15 @@ Wenn die Gefahr zu groß wird → **sofortiger Rückzug**!
 
 ## Gefahren an der Einsatzstelle
 
-### Merkschema: 4A – 1C – 4E
+Die Gefahren der Einsatzstelle merkst du dir mit dem Schema **4A – 1C – 4E**:
 
-Mit diesem Schema erkennst du die **Gefahren der Einsatzstelle**. Es wird direkt geprüft, z. B. mit der Frage: „Welche Gefahr fehlt?“
+| | Gefahren |
+|---|---|
+| **4 A** | Atemgifte · Angstreaktion · Ausbreitung · Atomare Gefahren |
+| **1 C** | Chemische (und biologische) Gefahren |
+| **4 E** | Erkrankung/Verletzung · Explosion · Elektrizität · Einsturz |
 
-| | Gefahr | Beispiele | Schutz |
-|---|---|---|---|
-| **A** | **Atemgifte** | Rauch, Kohlenmonoxid (CO), Blausäure | Atemschutz |
-| **A** | **Angstreaktion** | Panik bei Betroffenen *und* bei Einsatzkräften | Ruhe ausstrahlen, Betroffene betreuen |
-| **A** | **Ausbreitung** | Feuer, Rauch, auslaufende Stoffe | Nur mit **Wasser am Rohr** vorgehen, Rückzugsweg sichern |
-| **A** | **Atomare Gefahren** | radioaktive Stoffe | **Abstand**, **Aufenthaltszeit begrenzen**, **Abschirmung**, **Inkorporation vermeiden** |
-| **C** | **Chemische Stoffe** | Säuren, Laugen, Gefahrgut | GAMS-Regel, Kennzeichnung beachten |
-| **E** | **Erkrankung / Verletzung** | Infektionen, Schnitte, Verbrennungen | PSA, Infektionsschutzhandschuhe, Hygiene |
-| **E** | **Explosion** | Gasflaschen, Staub, Dämpfe | Abstand, Deckung, Rückzug |
-| **E** | **Elektrizität** | Freileitungen, Hausinstallation, Photovoltaik | **Mindestabstände** einhalten, abschalten lassen |
-| **E** | **Einsturz** | Decken, Wände, Bäume | **Trümmerschatten** meiden, unter standfesten Bauteilen Schutz suchen |
-
-!!! tip "Trümmerschatten"
-    Der **Trümmerschatten** ist der Bereich, der durch **Einsturz bedroht** ist. Als Faustregel gilt ein Abstand von etwa der Höhe des Bauteils. Dort legt man weder Verteiler noch Geräte ab.
-
-### Abstände zu elektrischen Anlagen (DIN VDE 0132)
-
-| Spannung | Mindestabstand |
-|----------|----------------|
-| bis 1 kV (Niederspannung) | **1 m** |
-| über 1 kV bis 110 kV | **3 m** |
-| über 110 kV bis 220 kV | **4 m** |
-| über 220 kV bis 380 kV | **5 m** |
-
-Beim Löschen mit dem **CM-Strahlrohr** gilt bei Niederspannung: **Sprühstrahl 1 m**, **Vollstrahl 5 m**. Bei Hochspannung: **Sprühstrahl 5 m**, **Vollstrahl 10 m**.
+Was die einzelnen Gefahren bedeuten, wie du dich verhältst und welche Abstände zu elektrischen Anlagen gelten, steht im Kapitel **[Verhalten bei Gefahr & ABC](gefahren-abc.md)**.
 
 ---
 
