@@ -1,12 +1,15 @@
 # Einführung & Orientierung
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage MTA 2.1 „Rechtsgrundlagen und Organisation“, Teilnehmerunterlage MTA 2.2 „Rechte und Pflichten“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Teilnehmerunterlage MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, Ausbilderunterlage MTA 5.2 „Spezielle persönliche Schutzausrüstung“, Teilnehmerunterlage MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Präsentation MTA 8 „Verhalten bei Gefahr“, Prüfungsunterlagen MTA 15.4 „Zwischenprüfung“ (alle SFS Würzburg); Bayerisches Feuerwehrgesetz (BayFwG); Ausbildungsplan Inspektion I Landkreis Bayreuth 2026/27; dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage MTA 2.1 „Rechtsgrundlagen und Organisation“, Teilnehmerunterlage MTA 2.2 „Rechte und Pflichten“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Teilnehmerunterlage MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, Ausbilderunterlage MTA 5.2 „Spezielle persönliche Schutzausrüstung“, Teilnehmerunterlage MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Präsentation MTA 8 „Verhalten bei Gefahr“, Prüfungsunterlagen MTA 15.4 „Zwischenprüfung“ (alle SFS Würzburg); Bayerisches Feuerwehrgesetz (BayFwG); Ausbildungsplan Inspektion I Landkreis Bayreuth 2026/27; [Lehrgangsinfo MTA des KFV Bayreuth](https://kfv-bayreuth-lehrgaenge.de/lehrgangsinfo.php?lehrgang=LGT-6a6af544-cdf2-4432-a3f3-fd2a8f1b8a11) (Mindestalter); dazu der offizielle Fragenkatalog.
+    Ergänzend zur Dauer des Ausbildungs- und Übungsdienstes und zu Folgelehrgängen: [MTA – Informationen zur Durchführung im Landkreis Landshut (2019)](https://adlkofen.feuerwehren.bayern/media/filer_public/a0/bd/a0bd6d50-47b4-48fa-990a-f535e424cb4c/mta_informationen_zur_durchfuhrung_2019.pdf) · [Anmeldevoraussetzungen MTA, Landkreis Weißenburg-Gunzenhausen (2023)](https://kfv-wug.feuerwehren.bayern/media/filer_public/c6/9e/c69ebb8e-8152-4eb1-a241-81078aa3e369/2023_02_01_anmeldevorausetzugnen_mta.pdf)
     Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
 
 ## Was ist die Modulare Truppausbildung (MTA)?
 
 Die **Modulare Truppausbildung (MTA)** ist die Ausbildung für Feuerwehrdienstleistende in Bayern. Ihr **Basismodul** ist die **feuerwehrtechnische Grundausbildung**. Es beinhaltet auch die **Funkausbildung** und die **Erste-Hilfe-Ausbildung**.
+
+Die MTA ist **Voraussetzung für weiterführende Lehrgänge**, z. B. Atemschutzgeräteträger oder Maschinist. Welche Module jeweils abgeschlossen sein müssen (Basismodul oder komplette MTA), steht in der Lehrgangsausschreibung.
 
 ### Zweck der MTA
 
@@ -29,11 +32,11 @@ graph LR
 | Abschnitt | Inhalt | Abschluss |
 |-----------|--------|-----------|
 | **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Das Zwischenzeugnis berechtigt zur Teilnahme am Modul **„Ausbildungs- und Übungsdienst“**. |
-| **Ausbildungs- und Übungsdienst** | Ausbildung in der eigenen Wehr | – |
+| **Ausbildungs- und Übungsdienst** | Ausbildung im Übungsdienst der eigenen Wehr, in der Regel über **etwa zwei Jahre** (Landkreis-Unterlagen nennen z. B. 40 Ausbildungsstunden, die der Kommandant bestätigt) | – |
 | **Abschlussprüfung** | Wiederholung und Vertiefung, Blick aus Sicht des **Truppführers** | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen; bei einem Teil der Fragen sind mehrere Antworten richtig). |
 
 !!! info "Mindestalter und Altersgrenzen"
-    - Start der MTA (Landkreis Bayreuth): **15 Jahre**
+    - Laut Lehrgangsinfo des KFV Bayreuth: Start der MTA **15 Jahre**, Zwischenprüfung **16 Jahre**, Abschlussprüfung **18 Jahre**
     - Feuerwehranwärter: vom vollendeten **12.** bis zum vollendeten **18. Lebensjahr** (Art. 7 BayFwG)
     - Einsätze als Anwärter: erst ab dem vollendeten **16. Lebensjahr**, nur **außerhalb der unmittelbaren Gefahrenzone**, Basismodul abgeschlossen, Kommandant muss zustimmen
     - Feuerwehrdienst als Erwachsener: ab dem vollendeten **18. Lebensjahr** (Art. 6 BayFwG)
@@ -101,7 +104,7 @@ Die **Feuerwehrverbände** (Kreis-, Bezirks- und Landesfeuerwehrverband) stehen 
 - Goldkronach gehört zum Landkreis Bayreuth
 - **Kreisbrandrat (KBR)**: höchster Feuerwehrler im Landkreis. Er wird von den Kommandanten der Freiwilligen Feuerwehren und den Leitern der Werkfeuerwehren auf sechs Jahre gewählt. Er berät und unterstützt Landratsamt, Gemeinden und Feuerwehren, besichtigt die Feuerwehren und sorgt für die Ausbildungsveranstaltungen.
 - **Kreisbrandinspektor (KBI)**: steht einem Kreisbrandinspektionsbereich vor (z. B. die Inspektion I) und untersteht dem KBR
-- **Kreisbrandmeister (KBM)**: untersteht dem KBI, betreut seine Feuerwehren und spezielle Aufgabengebiete
+- **Kreisbrandmeister (KBM)**: untersteht dem KBI (bei Aufgaben für den ganzen Landkreis direkt dem KBR), betreut seine Feuerwehren und spezielle Aufgabengebiete
 - KBI und KBM werden vom KBR **bestellt**. KBR, KBI und KBM sind ehrenamtlich **für den Staat** tätig und unterstehen dem **Landrat**.
 - **Kreisfeuerwehrverband (KFV)**: Über ihn läuft im Landkreis Bayreuth die Anmeldung zu den Lehrgängen ([kfv-bayreuth-lehrgaenge.de](https://kfv-bayreuth-lehrgaenge.de/)).
 
@@ -205,7 +208,7 @@ Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
 1. **Basismodul** (Lehrgang auf Kreisebene): Themen 1.0 bis 15, Theorie und Praxis. Die einzelnen Themen findest du unter [MTA-Module](mta-module.md).
 2. **Erste Hilfe:** Für die feuerwehrspezifische Erste Hilfe brauchst du vorher einen **Erste-Hilfe-Grundlehrgang**. Die Bescheinigung wird bei Thema 5.12 kontrolliert und darf **nicht älter als 5 Jahre** sein.
 3. **Zwischenprüfung:** schriftlicher Fragebogen, drei praktische Aufgaben und eine Sprechfunk-Aufgabe (siehe oben).
-4. **Modul „Ausbildungs- und Übungsdienst“** in der eigenen Wehr. Für manche spezielle Schutzausrüstung sind zusätzlich **Ergänzungsmodule bzw. Lehrgänge** erforderlich.
+4. **Modul „Ausbildungs- und Übungsdienst“** in der eigenen Wehr, in der Regel über etwa zwei Jahre. Für manche spezielle Schutzausrüstung sind zusätzlich **Ergänzungsmodule bzw. Lehrgänge** erforderlich.
 5. **Abschlussprüfung** mit dem Fragenkatalog Truppführer.
 
 !!! tip "Frag nach"
@@ -263,7 +266,7 @@ Dienstgrade bei den Freiwilligen Feuerwehren (in dieser Reihenfolge):
 
 - **Dienstgradabzeichen:** schwarzes Stoffabzeichen mit roter Umrandung und roten oder silberfarbenen Balken, getragen am linken Oberärmel von Dienstrock und Dienstmantel
 - Führungsdienstgraden wird meistens zugleich eine **Funktion** übertragen, z. B. Gruppenführer oder Zugführer (bzw. deren Stellvertreter).
-- **Kommandant**, **stellvertretender Kommandant**, **Zugführer** und **Gruppenführer** sind **Führungsfunktionen**, keine Dienstgrade. Der Kommandant trägt als Funktionsabzeichen einen schmalen goldenen Balken am Ärmel und einen senkrechten roten Balken vorne am Helm.
+- **Kommandant**, **stellvertretender Kommandant**, **Verbandsführer**, **Zugführer** und **Gruppenführer** sind **Führungsfunktionen**, keine Dienstgrade. Der Kommandant trägt als Funktionsabzeichen einen schmalen goldenen Balken am Ärmel und einen senkrechten roten Balken vorne am Helm.
 
 !!! question "Voraussetzungen für Beförderungen"
     Welche Dienstjahre und Lehrgänge für den nächsten Dienstgrad nötig sind, erfragst du direkt bei deinem Kommandanten.

@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlagen MTA 4.1 Fahrzeugkunde – Theorie, Ausbilderunterlage MTA 4.2 Fahrzeugkunde – Praxis, Präsentation Fahrzeugkunde, Fachinformation „Feuerwehrfahrzeuge“, Teilnehmer- und Ausbilderunterlagen MTA 5.1 Persönliche Schutzausrüstung und MTA 5.2 Spezielle Persönliche Schutzausrüstung, Teilnehmer- und Ausbilderunterlage MTA 5.3 Löschgeräte, Ausbilderunterlage MTA 5.13 Beleuchtungs- und Warngeräte (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) und [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
+    Ergänzend: FwDV 7 Atemschutz, Stand 2002/2005 ([PDF](https://www.lv-saarland.drk.de/fileadmin/user_upload/FwDV7.pdf)) zu Fülldruck und Atemfiltern, [DIN 14345 Verteiler B-CBC](https://www.dinmedia.de/de/norm/din-14345/150889629) (ersetzt durch DIN EN 17407) und das Handout FIS II.2 des INFS Luxemburg ([PDF](https://112.public.lu/content/dam/112/fr/formation/handouts-leveso/20220120-fis-ii2-handout.pdf)) zu Hoch- und Niederdruckhebekissen.
 
 ## Lernziele
 
@@ -45,18 +46,18 @@ Feuerwehrfahrzeuge sind Kraftfahrzeuge, die zur **Bekämpfung von Bränden**, zu
 |----------|-----------|-------------|-------|--------------|
 | **TSA** (Tragkraftspritzenanhänger) | **keine** | **kein Tank** | Tragkraftspritze PFPN 10-1000 | Beladung für eine **Gruppe 1/8** |
 | **TSF** (Tragkraftspritzenfahrzeug) | Staffel 1/5 | **kein Tank** | Tragkraftspritze PFPN 10-1000 | Beladung für eine **Gruppe 1/8**, 4 Pressluftatmer, 4-teilige Steckleiter |
-| **TSF-W** (… mit Wassertank) | Staffel 1/5 | 500 l | Tragkraftspritze PFPN 10-1000 | Beladung für eine Gruppe, Schnellangriffseinrichtung, **4-teilige Steckleiter** |
+| **TSF-W** (… mit Wassertank) | Staffel 1/5 | 500 l (Fachinformation: 500–750 l) | Tragkraftspritze PFPN 10-1000 | Beladung für eine Gruppe, Schnellangriffseinrichtung, **4-teilige Steckleiter** |
 | **MLF** (Mittleres Löschfahrzeug) | Staffel 1/5 | 600 l bis 1.000 l | FPN 10-1000 | **Besatzung Staffel, Beladung Gruppe** |
-| **LF 10** | Gruppe 1/8 | 1.200 l | FPN 10-1000 | Schnellangriffseinrichtung, Schaumausrüstung, 4-teilige Steckleiter |
-| **HLF 10** | Gruppe 1/8 | 1.000 l | FPN 10-1000 | wie LF 10, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
-| **LF 20** | Gruppe 1/8 | 2.000 l | FPN 10-2000 | zusätzlich fahrbare Haspel am Heck, **3-teilige Schiebleiter**, Sprungpolster |
-| **HLF 20** | Gruppe 1/8 | 1.600 l | FPN 10-2000 | wie LF 20, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
-| **LF 20 KatS** | Gruppe 1/8 | 1.000 l | FPN 10-2000 **und** Tragkraftspritze PFPN 10-2000 | Brandbekämpfung, schnelle Wasserabgabe, **Wasserförderung**, technische Hilfeleistung; tragbarer Stromerzeuger, Lichtmast, 300 m B-Schläuche während der Fahrt verlegbar |
-| **TLF 2000** | **Trupp 1/2** | 2.000 l | FPN 10-1000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
-| **TLF 3000** | **Trupp 1/2** | 3.000 l | FPN 10-2000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
-| **TLF 4000** | **Trupp 1/2** | 4.000 l | FPN 10-2000 | 2 Pressluftatmer, Schaummitteltank, Schaum-Wasserwerfer auf dem Dach |
+| **LF 10** | Gruppe 1/8 | mind. 1.200 l | FPN 10-1000 | Schnellangriffseinrichtung, Schaumausrüstung, 4-teilige Steckleiter |
+| **HLF 10** | Gruppe 1/8 | mind. 1.000 l | FPN 10-1000 | wie LF 10, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
+| **LF 20** | Gruppe 1/8 | mind. 2.000 l | FPN 10-2000 | zusätzlich fahrbare Haspel am Heck, **3-teilige Schiebleiter**, Sprungpolster |
+| **HLF 20** | Gruppe 1/8 | mind. 1.600 l | FPN 10-2000 | wie LF 20, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
+| **LF 20 KatS** | Gruppe 1/8 | mind. 1.000 l | FPN 10-2000 **und** Tragkraftspritze PFPN 10-2000 | Brandbekämpfung, schnelle Wasserabgabe, **Wasserförderung**, technische Hilfeleistung; tragbarer Stromerzeuger, Lichtmast, 300 m B-Schläuche während der Fahrt verlegbar |
+| **TLF 2000** | **Trupp 1/2** | mind. 2.000 l | FPN 10-1000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
+| **TLF 3000** | **Trupp 1/2** | mind. 3.000 l | FPN 10-2000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
+| **TLF 4000** | **Trupp 1/2** | mind. 4.000 l | FPN 10-2000 | 2 Pressluftatmer, Schaummitteltank, Schaum-Wasserwerfer auf dem Dach |
 | **RW** (Rüstwagen) | **Trupp 1/2** | – | – | für die technische Hilfeleistung ausgelegt; fest eingebaute Zugeinrichtung, Stromerzeuger, Lichtmast |
-| **DLAK 23/12** (Drehleiter) | Trupp 1/2 | – | – | Die Zahlen bezeichnen die **Nennreichweite** (Rettungshöhe und horizontale Ausladung) |
+| **DLAK 23/12** (Drehleiter) | Trupp 1/2 | – | – | **D**reh**l**eiter **A**utomatisch mit **K**orb. Die Zahlen bezeichnen die **Nennreichweite**: 23 m Rettungshöhe bei 12 m horizontaler Ausladung |
 | **ELW 1** (Einsatzleitwagen) | 1/2 | – | – | Einsatzleitung, Anfahrt und Erkundung von Einsatzstellen, Führung taktischer Einheiten |
 
 !!! tip "Merkregeln für die Prüfung"
@@ -153,7 +154,7 @@ Mehr zu Brandklassen und Löschmitteln unter [Brennen & Löschen](brennen-loesch
 #### Fest eingebaute Pumpe (FPN)
 
 - Fest im Fahrzeug eingebaut (bei den aktuellen Löschfahrzeugen im **Heck**) und **vom Fahrzeugmotor angetrieben**. Bedient wird sie am **Pumpenbedienstand**, das ist Aufgabe des Maschinisten.
-- Bezeichnung **FPN 10-1000:** **F**euerlösch**k**reisel**p**umpe **N**ormaldruck mit einer Nennförderleistung von **1.000 l/min** bei einem Nennförderdruck von **10 bar**
+- Bezeichnung **FPN 10-1000:** **F**euerlöschkreisel**p**umpe **N**ormaldruck mit einer Nennförderleistung von **1.000 l/min** bei einem Nennförderdruck von **10 bar**
 - MLF, LF 10, HLF 10 und TLF 2000 haben eine FPN 10-1000. LF 20, HLF 20, LF 20 KatS, TLF 3000 und TLF 4000 haben eine FPN 10-2000.
 
 #### Tragkraftspritze (PFPN)
@@ -182,13 +183,15 @@ Es gibt **Mehrzweckstrahlrohre** (BM, CM, DM) und **Hohlstrahlrohre**. Details f
 
 - **CM-Strahlrohr:** Schaltstellungen Vollstrahl, geschlossen, Sprühstrahl. Mit Mundstück ca. **100 l/min** (bei ca. 5 bar). Das Mundstück darf **nur nach Absprache mit dem Einheitsführer** abgeschraubt werden.
 - **Hohlstrahlrohr:** Beim **Innenangriff bevorzugt**, weil sich eine **bessere Kühl- und Löschwirkung** erzielen lässt. Mehrzweckstrahlrohre sollen für die Brandbekämpfung im Gebäudeinnern nicht verwendet werden.
-- **Werfer:** Das TLF 4000 hat einen **Schaum-Wasserwerfer auf dem Dach**.
+- **Werfer (Monitor):** großes Strahlrohr für hohe Wasserabgabe. Das TLF 4000 hat einen **Schaum-Wasserwerfer auf dem Dach**. Auf Drehleitern und auf dem LF 20 (tragbarer Wasserwerfer) ist ein Werfer **Zusatzbeladung**, gehört also nicht zur Mindestbeladung.
 
 ---
 
 ### Verteiler
 
 Der Verteiler teilt eine Leitung in **mehrere Schlauchleitungen** auf.
+
+- **Genormter Verteiler B-CBC:** **ein B-Eingang**, drei Abgänge **C – B – C**. Die Abgänge sind absperrbar (Ausführung mit Niederschraubventil oder mit Kugelhahnabsperrung).
 
 - **Belegung in Fließrichtung gesehen:** **links 1. Rohr**, **rechts 2. Rohr**, **Mitte 3. Rohr oder Sonderrohr**
 - **Langsam öffnen und schließen**, sonst entstehen Druckstöße
@@ -214,6 +217,12 @@ Aufstellen, Besteigen und Sichern: [Tragbare Leitern](leitern-absturz.md#tragbar
 ### Geräte der technischen Hilfeleistung
 
 Hydraulisches Rettungsgerät (Spreizer, Schneidgerät, Rettungszylinder), Hebekissen und weitere Geräte für die einfache und erweiterte Hilfeleistung findest du im Kapitel [Technische Hilfeleistung – Geräte](hilfeleistung.md#gerate-der-technischen-hilfeleistung). Die Ausstattung für die **erweiterte technische Hilfeleistung** ist auf dem **HLF** verladen.
+
+!!! info "Hochdruck- und Niederdruckhebekissen"
+    Hebekissen (Druckkissen) werden pneumatisch mit Druckluft aus Druckluftflaschen betrieben. Laut MTA-Unterlage haben sie z. B. eine Hubkraft von 96 bis 677 kN, eine Hubhöhe von 20 bis 50 cm und einen Betriebsüberdruck von max. 8 bar. Der Ausbilder soll den Unterschied zwischen Niederdruck- und Hochdruckhebekissen erklären:
+
+    - **Hochdruckhebekissen** (ca. 8 bis 12 bar): kleine Fläche, die nötige Hubkraft entsteht durch den **hohen Betriebsdruck**
+    - **Niederdruckhebekissen** (ca. 0,5 bis 1 bar): **große Auflagefläche**, die Hubkraft entsteht durch die große Fläche bei geringem Druck. Sie werden z. B. eingesetzt, wenn Lasten mit empfindlicher Bausubstanz angehoben werden müssen.
 
 ---
 
@@ -262,7 +271,7 @@ Bei der Feuerwehr gibt es besondere Gefahren. Die **Unfallverhütungsvorschrift 
 - **Gesichtsschutz** (am Helm, z. B. Klappvisier): bei Gefahren für Gesicht und Augen, z. B. durch **Splitter**, **wegschnellende Teile**, **Funken** oder **Spritzer gefährlicher Stoffe**
 - **Augenschutz:** bei besonderen Gefahren für die Augen, z. B. Metallfunken beim Einsatz der Trennschleifmaschine
 - **Gehörschutz:** Kapseln oder Gehörschutzstöpsel
-- **Warnkleidung:** bei Tätigkeiten im **Straßenverkehr**, bei **schlechten Sichtverhältnissen** und auf Anordnung des Gruppenführers. Auch eine Feuerwehrüberjacke kann die Funktion der Warnkleidung erfüllen.
+- **Warnkleidung:** für alle, die der Gefahr durch **fließenden Verkehr** ausgesetzt sind; der Gruppenführer befiehlt ggf. „Warnkleidung anlegen!“. Auch eine Feuerwehrüberjacke kann die Funktion der Warnkleidung erfüllen.
 - **Infektionsschutzhandschuhe:** bei der Versorgung von Verletzten, auch unter den Feuerwehrschutzhandschuhen
 
 !!! danger "Wer bestimmt die Schutzausrüstung?"
@@ -295,12 +304,15 @@ Gegen manche Gefahren (z. B. Atemgifte, Hitzestrahlung, Ätzwirkung) bietet die 
 - **Umluftunabhängiges** Atemschutzgerät: besteht aus **Atemschutzmaske** und **Pressluftatmer**
 - Für den **Innenangriff** bei der Brandbekämpfung
 - Die Einsatzdauer ist durch den **Luftvorrat begrenzt** (laut Unterlage ca. 50 Minuten)
+- Der Fülldruck der Druckbehälter beträgt bei Pressluftatmern in der Regel **200 bar oder 300 bar** (FwDV 7)
 
 ### Filtergeräte
 
 - Bestehen aus **Atemschutzmaske** und **Atemfilter**
 - Setzen **immer ausreichend Sauerstoff** in der Atemluft voraus
 - **Grundsätzlich nur im Freien** einsetzbar. Bei der Brandbekämpfung im Freien kann die Mindestausrüstung ergänzt um ein Filtergerät ausreichen.
+- Nach FwDV 7 dürfen Filtergeräte **nicht** eingesetzt werden, wenn Art und Eigenschaft der Atemgifte **unbekannt** sind, wenn der Filter gegen Art oder Konzentration nicht schützt oder bei starker Flocken- oder Staubbildung.
+- **Gasfilter** schützen vor Gasen und Dämpfen, **Partikelfilter** halten Partikel zurück, **Kombinationsfilter** können beides. Bei der Feuerwehr wird in der Regel der Kombinationsfilter **ABEK2-P3** verwendet.
 
 !!! danger "Innenangriff: umluftunabhängig!"
     Zur Schutzausrüstung im Innenangriff gehört **umluftunabhängiger Atemschutz** (Pressluftatmer). Filtergeräte sind grundsätzlich nur im Freien einsetzbar.
@@ -373,7 +385,7 @@ Warngeräte warnen die Verkehrsteilnehmer, kennzeichnen Gefahrenstellen und sich
 ## Quiz: Teste dein Wissen!
 
 ??? question "1. Welche Besatzung hat ein LF 20?"
-    **Antwort:** Eine Gruppe 1/8.
+    **Antwort:** Eine Gruppe 1/8, also 9 Einsatzkräfte (1/8/9): Gruppenführer, Maschinist, Melder, Angriffstrupp, Wassertrupp und Schlauchtrupp.
 
 ??? question "2. Was bedeutet die Bezeichnung FPN 10-1000?"
     **Antwort:** Feuerlöschkreiselpumpe Normaldruck mit einer Nennförderleistung von 1.000 l/min bei einem Nennförderdruck von 10 bar.

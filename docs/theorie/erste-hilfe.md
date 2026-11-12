@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Ausbilderleitfaden MTA 5.12 Rettung und Unterlagen MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlagen Verhalten bei Gefahr und Einheiten im Hilfeleistungseinsatz (SFS Würzburg); Lehrplan, Konzept zur Schulung und Präsentation MTA 6.2 „Stressbewältigung bei der Feuerwehr – Umgang mit Belastungen im Einsatzwesen“ (Staatliche Feuerwehrschulen Bayerns / LFV Bayern); praktische Zwischenprüfung Aufgabe 1 „Auffinden einer bewusstlosen Person“; dazu der offizielle Fragenkatalog. Für MTA 6.1 Erste Hilfe gibt es keine eigene SFS-Teilnehmerunterlage.
     Alle Unterlagen: [Feuerwehr-Lernbar – Erste Hilfe](https://www.feuerwehr-lernbar.bayern/post/mta-erste-hilfe) · [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
+    Ergänzend für die Erste-Hilfe-Maßnahmen (Wiederbelebung, Blutung, Schock, Betreuung): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm).
 
 ## Lernziele
 
@@ -12,7 +13,7 @@ Nach diesem Kapitel kannst du:
 
 - [x] Die lebenswichtigen Körperfunktionen prüfen
 - [x] Eine bewusstlose Person richtig versorgen
-- [x] Die Prüfungsantworten zu starker Blutung und Schock nennen
+- [x] Starke Blutungen stillen und einen Schock erkennen
 - [x] Verletzte betreuen
 - [x] Personen mit und ohne Hilfsmittel retten und transportieren
 - [x] Stress erkennen und mit belastenden Einsätzen umgehen
@@ -48,6 +49,9 @@ Zur Überprüfung der lebenswichtigen Körperfunktionen gehört:
 2. **Mund- und Rachenraum kontrollieren**
 3. **Atmung feststellen** (sehen, hören, fühlen)
 
+!!! note "So steht es im Erste-Hilfe-Handbuch (DGUV Information 204-007)"
+    Reagiert die Person nicht, **laut um Hilfe rufen**. Zum Freimachen der Atemwege den **Kopf nach hinten überstrecken** und das **Kinn anheben**. Die Atmung prüfst du **höchstens 10 Sekunden**. Schnappatmung ist **keine normale Atmung**.
+
 !!! tip "Reihenfolge"
     **Zuerst Bewusstsein, dann Atmung.** Das wird geprüft, auch in der Truppführer-Prüfung.
 
@@ -64,8 +68,8 @@ In der Prüfung bekommst du beim Überprüfen der Vitalfunktionen die Informatio
 
 | Befund | Maßnahme |
 |--------|----------|
-| **Bewusstlos, normale Atmung** | **Stabile Seitenlage**, betreuen bis zum Eintreffen des Rettungsdienstes |
-| **Bewusstlos, keine normale Atmung** | Die Maßnahmen dafür lernst du im Erste-Hilfe-Grundlehrgang |
+| **Bewusstlos, normale Atmung** | **Stabile Seitenlage**, **Notruf 112**, Atmung **ständig kontrollieren**, betreuen bis zum Eintreffen des Rettungsdienstes |
+| **Bewusstlos, keine normale Atmung** | **Notruf 112**, sofort **Herzdruckmassage und Beatmung im Wechsel 30 : 2** (100–120 Kompressionen pro Minute, ca. 5–6 cm tief), **AED** (Defibrillator) holen lassen und einsetzen |
 | **Bei Bewusstsein** | Betreuen, siehe [Betreuung von Verletzten](#betreuung-von-verletzten) |
 
 ---
@@ -74,7 +78,15 @@ In der Prüfung bekommst du beim Überprüfen der Vitalfunktionen die Informatio
 
 **Prüfungsantwort bei starker Blutung (Schnittwunde):** **Druckverband anlegen.**
 
-Wie du den Druckverband anlegst, lernst du im Erste-Hilfe-Grundlehrgang.
+So gehst du nach dem Erste-Hilfe-Handbuch (DGUV Information 204-007) vor:
+
+1. Person **hinlegen**, **Einmalhandschuhe** anziehen
+2. Verletzte Gliedmaße **hochhalten** und die Wunde **abdrücken** (sauberes Tuch oder flache Hand fest auf die Wunde pressen)
+3. **Druckverband anlegen**, spätestens jetzt den **Rettungsdienst alarmieren**
+4. Blutet der Druckverband an Arm oder Bein **stark durch**, mit behandschuhten Händen auf die Wunde drücken, bis der Rettungsdienst übernimmt
+
+!!! danger "Nicht falsch"
+    **„Abbinden der Blutung, z. B. am Arm“** ist im Fragenkatalog eine **falsche** Antwort. Richtig ist der **Druckverband**.
 
 ---
 
@@ -86,7 +98,9 @@ Wie du den Druckverband anlegst, lernst du im Erste-Hilfe-Grundlehrgang.
 - **Frieren**
 - **kalter Schweiß auf der Stirn**
 
-Die Maßnahmen zur Schockbekämpfung lernst du im Erste-Hilfe-Grundlehrgang.
+Weitere Anzeichen nach dem Erste-Hilfe-Handbuch (DGUV Information 204-007): Zittern, Unruhe und Angst, **schwacher, beschleunigter Puls**. Achtung: „Schneller und gut tastbarer Puls“ ist im Fragenkatalog **falsch**.
+
+**Maßnahmen** (DGUV Information 204-007): **Rettungsdienst alarmieren**, die Person **warm zudecken** (z. B. Rettungsdecke), die **Beine leicht (ca. 20 cm) hochlagern** – nicht bei Atemnot oder Herzbeschwerden – und **ständig betreuen**, bis Hilfe eintrifft.
 
 ---
 
@@ -97,6 +111,7 @@ So betreust du eine verletzte Person als Feuerwehrangehöriger:
 - **Erste Hilfe leisten**
 - **Sagen, dass du für sie da bist** und dass **der Rettungsdienst informiert** ist
 - **Gut zusprechen** und **zuhören**
+- Bis zum Eintreffen des Rettungsdienstes **bei der Person bleiben**, sie ggf. zudecken (Rettungsdecke) und vor Neugierigen abschirmen (DGUV Information 204-007)
 
 ### Verletzte im Fahrzeug
 
@@ -120,6 +135,7 @@ Für die Rettung und den Transport von **nicht gehfähigen Verletzten** hat die 
 | **Schaufeltrage** | Hilfsmittel zur Rettung und zum Transport |
 | **Rettungsbrett** | Hilfsmittel zur Rettung und zum Transport |
 | **Steckleiter** | Als **Hilfskrankentrage** verwendbar |
+| **Rettungstuch** | Gehört z. B. zur Ausrüstung des **Sicherheitstrupps** beim Atemschutzeinsatz |
 | **Feuerwehrleine mit Brustbund** | Rettung über tragbare Leitern, siehe [Leitern & Absturzsicherung](leitern-absturz.md#personen-uber-leitern-retten) |
 
 Ohne Hilfsmittel kann eine Person bei der **Sofortrettung** mit dem **Rautek-Griff** herausgenommen werden. Danach wird sie je nach Verletzungsart gelagert (z. B. **stabile Seitenlage**).
@@ -237,7 +253,7 @@ Ein **belastendes Ereignis** übersteigt die psychischen Belastungsgrenzen eines
 ## Quiz: Teste dein Wissen!
 
 ??? question "1. Du findest eine Person, die nicht reagiert. Was tust du?"
-    **Antwort:** Ich spreche die Person an und berühre sie (laut ansprechen, an den Schultern schütteln). Ich frage nach dem Rettungsdienst bzw. setze einen Notruf ab. Ich prüfe die Vitalfunktionen (Mund- und Rachenraum kontrollieren, Atmung feststellen durch sehen, hören, fühlen). Atmet sie normal, bringe ich sie in die stabile Seitenlage und betreue sie bis zum Eintreffen des Rettungsdienstes.
+    **Antwort:** Ich spreche die Person an und berühre sie (laut ansprechen, an den Schultern schütteln). Ich frage nach dem Rettungsdienst bzw. setze einen Notruf ab. Ich prüfe die Vitalfunktionen (Mund- und Rachenraum kontrollieren, Atmung feststellen durch sehen, hören, fühlen). Atmet sie normal, bringe ich sie in die stabile Seitenlage, kontrolliere ständig die Atmung und betreue sie bis zum Eintreffen des Rettungsdienstes. Atmet sie nicht normal, beginne ich sofort mit Herzdruckmassage und Beatmung im Wechsel 30 : 2 und lasse einen AED holen.
 
 ??? question "2. Woran erkennst du einen Schock?"
     **Antwort:** An fahler Blässe, Frieren und kaltem Schweiß auf der Stirn.
@@ -260,7 +276,8 @@ Ein **belastendes Ereignis** übersteigt die psychischen Belastungsgrenzen eines
 - [ ] Ich habe einen Erste-Hilfe-Grundlehrgang besucht
 - [ ] Ich kann die lebenswichtigen Körperfunktionen in der richtigen Reihenfolge prüfen
 - [ ] Ich kann die Prüfungsaufgabe „Auffinden einer bewusstlosen Person“ inkl. stabiler Seitenlage zeigen
-- [ ] Ich kenne die Prüfungsantwort bei starker Blutung und die Schockanzeichen
+- [ ] Ich weiß, wann stabile Seitenlage und wann Herz-Lungen-Wiederbelebung (30 : 2, AED) nötig ist
+- [ ] Ich kenne die Prüfungsantwort bei starker Blutung (Druckverband) und die Schockanzeichen
 - [ ] Ich weiß, wie ich Verletzte betreue
 - [ ] Ich kenne die Tragen der Feuerwehr und die Regeln für den Transport mit der Krankentrage
 - [ ] Ich kenne Stressreaktionen, Bewältigungsstrategien und weiß, was nach belastenden Einsätzen hilft

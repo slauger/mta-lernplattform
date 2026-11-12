@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Ausbilderunterlagen MTA 11.1 „Einheiten im Hilfeleistungseinsatz – Theorie“ (mit Folien und Arbeitsblatt), 11.2 – 11.4 „Praxis 1–3“ und 11.5 – 11.7 „Einsatzübung 1–3“; Ausbilderunterlagen MTA 5.7 „Geräte für die einfache Hilfeleistung“ und 5.8 „Geräte für die erweiterte Hilfeleistung“; Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 13 „Fahrzeugtechnik (alternative Antriebe)“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Einheiten im Hilfeleistungseinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) · [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) · [Feuerwehr-Lernbar – Fahrzeugtechnik](https://www.feuerwehr-lernbar.bayern/post/mta-fahrzeugtechnik)
+    Ergänzend: [StVO § 11 Abs. 2 (Rettungsgasse)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (Ausgabe 2026)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) und deren Vorgängerfassung [GUV-I 8664 (2012)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), auf die die MTA-Unterlage 13 zur AUTO-Regel verweist
 
 ## Lernziele
 
@@ -74,6 +75,8 @@ Auf einer Autobahn mit drei Fahrstreifen gilt:
 
 - Fahrzeuge auf dem **linken Fahrstreifen** weichen **ganz nach links** aus,
 - **alle anderen** weichen nach **rechts** aus.
+
+Das gilt nach **StVO § 11 Abs. 2** auf Autobahnen und Außerortsstraßen mit **mindestens zwei Fahrstreifen** je Richtung, sobald der Verkehr stockt: Die Gasse entsteht immer zwischen dem **äußerst linken** und dem rechts daneben liegenden Fahrstreifen, egal ob es 2, 3 oder mehr Fahrstreifen sind.
 
 ### Wenn du selbst an einem Unfall vorbeikommst (z. B. bei einer Bewegungsfahrt)
 
@@ -163,7 +166,7 @@ Betriebsstoffe aus Fahrzeugen (Kraftstoff, Motor- und Getriebeöl, Kühl- und Br
 ## Geräte der technischen Hilfeleistung
 
 !!! warning "Ergänzende Schutzausrüstung in der technischen Hilfeleistung"
-    Bei fast allen Geräten verwendest du **Gesichtsschutz**, z. B. auch beim Heben und Unterbauen. Wer Verletzte versorgt, trägt **Infektionsschutzhandschuhe**. Je nach Gerät kommen **Schnittschutz** und **Gehörschutz** hinzu.
+    Bei fast allen Geräten verwendest du **Gesichtsschutz**, z. B. auch beim Heben und Unterbauen. Wer Verletzte versorgt, trägt **Infektionsschutzhandschuhe**, und zwar **unter den Feuerwehr-Schutzhandschuhen** (MTA 5.1 „Persönliche Schutzausrüstung“). Je nach Gerät kommen **Schnittschutz** und **Gehörschutz** hinzu.
 
 ### Geräte für die einfache Hilfeleistung (Modul 5.7)
 
@@ -231,7 +234,7 @@ Alternative Antriebe bedeuten Mobilität mit wenig oder keiner Abhängigkeit vom
 | **Erdgas (CNG)** | Druckgas, gespeichert mit **bis zu 250 bar** | **Leichter als Luft.** Bei Brand schmilzt eine Thermosicherung (ca. 110 °C) und das Gas tritt kontrolliert aus. |
 | **Flüssiggas (LPG, „Autogas“)** | Propan/Butan, **flüssig** bei 5–10 bar gespeichert | **Schwerer als Luft**, sammelt sich in Schächten und Gräben. Oft nachgerüstet, dann gibt es keine verlässlichen Merkmale oder Rettungskarten. |
 | **Wasserstoff (H2)** | gasförmig bis 700 bar oder tiefkalt verflüssigt | Deutlich leichter als Luft, sehr großer Explosionsbereich, Flamme **kaum sichtbar** |
-| **Hybrid / Elektro** | Elektromotor mit Batterie (Energiespeicher), beim Hybrid kombiniert mit einem Verbrennungsmotor | **Hochvolt-System** (HV), erkennbar an **orangefarbenen Kabeln** |
+| **Hybrid / Elektro** | Elektromotor mit Batterie (Energiespeicher), beim Hybrid kombiniert mit einem Verbrennungsmotor | **Hochvolt-System** (HV, nach DGUV Gleichspannung über 60 V bis 1.500 V), erkennbar an **orangefarbenen Kabeln** |
 
 !!! info "Sicherheitseinrichtungen"
     Bei Gasfahrzeugen schließt ein **elektromagnetisches Ventil** am Tank, sobald die Zündung ausgeschaltet wird, das Airbag-Steuergerät einen Unfall erkennt oder die Batterie abgeklemmt wird. Bei Hybrid- und Elektrofahrzeugen wird das HV-System u. a. beim **Ausschalten der Zündung** und bei **Airbag-Auslösung** deaktiviert.
@@ -245,6 +248,10 @@ Alternative Antriebe bedeuten Mobilität mit wenig oder keiner Abhängigkeit vom
 - Zusätzliche Tankfüllstands- bzw. Ladeanzeige, Umschalter zwischen Gas und Benzin
 - Hellblaue oder grüne Applikationen, besondere Bauform, Kennzeichen mit **„E“** am Ende (möglich, aber nicht bei allen)
 - Bei Wasserstoff: durchsichtige Türverriegelungspins, die bei Gasaustritt **rot blinken**
+
+!!! tip "Gedankenstütze: AUTO-Regel"
+    Die MTA-Unterlage empfiehlt für die Erkundung die **AUTO-Regel** (nach DGUV Information 205-022):
+    **A**ustretende Betriebsstoffe (Zischen, Gasgeruch, Lachen- oder Nebelbildung) – **U**nterboden, Motor- und Kofferraum erkunden (Gastanks, orangefarbene Kabel) – **T**ankdeckel öffnen (zusätzlicher Einfüllstutzen, Ladebuchse) – **O**berfläche absuchen (Beschriftungen, Überdruckventile, **fehlender Auspuff**).
 
 Bei der Erkundung des Fahrzeugtyps (vor allem Aufgabe des Gruppenführers) wird ca. **50 m vor** der gemeldeten Einsatzstelle angehalten. Ist der Fahrzeugtyp nicht erkennbar, werden Fahrer oder Insassen befragt und die Rettungskarte gesucht. Dann wird erkundet: Innenraum, Tankdeckel, Kofferraum, Motorhaube, orangefarbene Kabel sichtbar?
 
@@ -272,12 +279,14 @@ Bei erkennbarem Gasaustritt oder Brand gilt die **GAMS-Regel**: **G**efahr erken
 
 **Hybrid- und Elektrofahrzeug:**
 
-- **Fahrbereitschaft** im Kombiinstrument prüfen (z. B. „Ready“, „GO“) und das **Hybridsystem deaktivieren**
+- **Fahrbereitschaft** im Kombiinstrument prüfen (z. B. „Ready“, „GO“) und das **Hybridsystem deaktivieren**, z. B. durch **Ausschalten der Zündung**
+- Den **Schlüssel abziehen** und wegen möglicher **schlüsselloser Systeme (Keyless)** vom Fahrzeug entfernt ablegen (GUV-I 8664: mind. 5 m; im Übergabeprotokoll der DGUV Information 205-022 wird „Schlüssel entfernt“ abgefragt)
 - **Orangefarbene Kabel und Komponenten nicht berühren, öffnen oder beschädigen**. Die Rettungskarte zeigt, wo Batterie und Trennstellen sitzen.
 - **Servicestecker nicht ziehen** (Gefahr eines Lichtbogens, nur durch unterwiesenes Personal)
-- Fahrzeug **gegen Wegrollen sichern**
+- Fahrzeug **gegen Wegrollen sichern**. Elektromotoren laufen **lautlos**: Ist der Antrieb noch aktiv, kann sich das Fahrzeug **geräuschlos in Bewegung setzen** („leise“ heißt nicht „aus“).
 - Tritt Elektrolyt-Gel aus: **Schutzbrille** und **Chemikalienschutzhandschuhe** tragen, mit Chemikalienbinder aufnehmen
 - Bei Brand der Batterie: mit **ausreichend Wasser** löschen und die **Abstände nach VDE 0132** einhalten
+- Auch nach dem Löschen kann der Akku erneut thermisch durchgehen und **wieder zu brennen** beginnen. Deshalb die Temperatur des Akkus kontrollieren, z. B. mit der **Wärmebildkamera** (DGUV Information 205-022: alle 5 Minuten über mindestens 30 Minuten).
 
 !!! info "Restspannung"
     Nach dem Deaktivieren fällt die Spannung laut Teilnehmerunterlage nach **ca. 5 Minuten** ab. Die Ausbilderunterlage nennt bis zu 10 Minuten Restspannung.
@@ -345,5 +354,5 @@ Bei erkennbarem Gasaustritt oder Brand gilt die **GAMS-Regel**: **G**efahr erken
 ## Weiterführende Themen
 
 - [Erste Hilfe & Rettung](erste-hilfe.md): Vitalfunktionen und Betreuung
-- [Fahrzeuge & Geräte](fahrzeuge-geraete.md): Hydraulisches Rettungsgerät und Hebekissen
+- [Fahrzeuge & Geräte](fahrzeuge-geraete.md): Fahrzeuge, PSA und Beleuchtung
 - [Verhalten bei Gefahr](gefahren-abc.md): Elektrizität, Explosion und GAMS-Regel

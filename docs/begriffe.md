@@ -3,6 +3,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlagen MTA Basismodul (SFS Würzburg), BayFwG, offizieller Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation)
+    Ergänzend: FwDV 7 „Atemschutz“ (Stand 2002 mit Änderungen 2005, z. B. [hier als PDF](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), Merkblatt für die Feuerwehren Bayerns [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Brandklassen-Beispiele nach DIN EN 2), [DIN 14811](https://www.dinmedia.de/de/norm/din-14811/101847000).
 
 Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die du für die MTA brauchst. Jeder Begriff enthält eine **Erklärung** und ein **Praxisbeispiel**.
 
@@ -34,7 +35,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Atemschutzgeräteträger
-**Erklärung:** Feuerwehrangehöriger, der mit Atemschutzgerät vorgeht. In der Gruppe sollen Angriffs- und Wassertrupp Atemschutzgeräteträger sein. Wer z. B. wegen einer Erkältung nicht einsatzbereit ist, teilt das dem Einheitsführer schon auf der Anfahrt mit.
+**Erklärung:** Feuerwehrangehöriger, der mit Atemschutzgerät vorgeht. Nach FwDV 7 muss er das 18. Lebensjahr vollendet haben, körperlich geeignet sein (regelmäßige arbeitsmedizinische Untersuchung) und die Ausbildung zum Atemschutzgeräteträger erfolgreich absolviert haben. In der Gruppe sollen Angriffs- und Wassertrupp Atemschutzgeräteträger sein. Wer z. B. wegen einer Erkältung nicht einsatzbereit ist, teilt das dem Einheitsführer schon auf der Anfahrt mit.
 
 **Beispiel:** Bei einem Wohnungsbrand geht der Angriffstrupp mit umluftunabhängigem Atemschutz (Pressluftatmer) ins verrauchte Gebäude vor.
 
@@ -68,14 +69,14 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Atemschutzüberwachung
-**Erklärung:** Überwachung der eingesetzten Atemschutzgeräteträger. In der Gruppe führt sie der **Maschinist auf Befehl** durch.
+**Erklärung:** Überwachung der eingesetzten Atemschutzgeräteträger. In der Gruppe führt sie der **Maschinist auf Befehl** durch. Sie unterstützt die Trupps bei der Kontrolle ihrer Behälterdrücke und registriert den Einsatz: Namen, Uhrzeit beim Anschließen, Uhrzeit bei 1/3 und 2/3 der zu erwartenden Einsatzzeit, Erreichen des Einsatzziels, Beginn des Rückzugs (FwDV 7).
 
 **Beispiel:** Der Gruppenführer befiehlt dem Maschinisten die Atemschutzüberwachung, bevor der Angriffstrupp unter Atemschutz vorgeht.
 
 ---
 
 ### Atemschutzmaske
-**Erklärung:** Atemanschluss für den Atemschutz. Mit Pressluftatmer ergibt sie umluftunabhängigen Atemschutz, mit Atemfilter ein Filtergerät.
+**Erklärung:** Atemanschluss für den Atemschutz. Bei der Feuerwehr wird als Atemanschluss eine **Vollmaske** (oder eine Masken/Helm-Kombination) verwendet. Mit Pressluftatmer ergibt sie umluftunabhängigen Atemschutz, mit Atemfilter ein Filtergerät.
 
 **Beispiel:** Bei einem Brand im Freien kann das Filtergerät (Atemschutzmaske mit Atemfilter) ausreichen, im Gebäude brauchst du den Pressluftatmer.
 ---
@@ -143,28 +144,28 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Brandklasse A
-**Erklärung:** Brände fester, glutbildender Stoffe (z. B. Holz, Papier, Kohle).
+**Erklärung:** Brände fester, glutbildender Stoffe (z. B. Holz, Papier, Stroh, Textilien, Kohle).
 
 **Beispiel:** Ein Papierkorb brennt – Brandklasse A. Löschen mit Wasser oder Schaum.
 
 ---
 
 ### Brandklasse B
-**Erklärung:** Brände flüssiger oder flüssig werdender Stoffe (z. B. Benzin, Diesel, Petroleum, Kerzenwachs).
+**Erklärung:** Brände flüssiger oder flüssig werdender Stoffe (z. B. Benzin, Diesel, Petroleum, Öle, Lacke, Teer, Kerzenwachs).
 
 **Beispiel:** Benzin läuft aus einem Kanister und brennt – Brandklasse B. Geeignet sind Schaum, Kohlendioxid oder Pulver. Wasser ist nur eingeschränkt geeignet.
 
 ---
 
 ### Brandklasse C
-**Erklärung:** Brände gasförmiger Stoffe (z. B. Erdgas, Propan, Butan, Acetylen).
+**Erklärung:** Brände gasförmiger Stoffe (z. B. Erdgas, Propan, Butan, Wasserstoff, Acetylen).
 
 **Beispiel:** Eine Gasleitung ist undicht und brennt – Brandklasse C. Gelöscht wird durch Schließen der Gasleitung (Beseitigen).
 
 ---
 
 ### Brandklasse D
-**Erklärung:** Brände von Metallen (z. B. Magnesium).
+**Erklärung:** Brände von Metallen (z. B. Magnesium, Aluminium, Lithium, Natrium).
 
 **Beispiel:** Magnesiumspäne in einer Werkstatt brennen – Brandklasse D. Löschen mit D-Löschpulver (Metallbrandpulver) oder trockenem Sand bzw. Zement (NICHT mit Wasser!).
 
@@ -225,6 +226,13 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Beseitigung einer Kontamination, also einer Verunreinigung von Personen, Gegenständen oder Flächen mit ABC-Gefahrstoffen. Die Dekontamination durch die Feuerwehr ist die Grobreinigung.
 
 **Beispiel:** Nach einem Einsatz mit Gefahrstoffen werden die Einsatzkräfte an der Einsatzstelle nach Weisung des Einheitsführers dekontaminiert.
+
+---
+
+### DIN 14811
+**Erklärung:** DIN-Norm „Feuerlöschschläuche – Druckschläuche und Einbände für Pumpen und Feuerwehrfahrzeuge“. Sie regelt die flach faltbaren Druckschläuche der Feuerwehr (z. B. B-, C- und D-Schläuche).
+
+**Beispiel:** B-Druckschläuche haben 75 mm Innendurchmesser und sind 5, 20 oder 35 m lang.
 
 ---
 
@@ -583,7 +591,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### MTA (Modulare Truppausbildung)
-**Erklärung:** Grundausbildung der Feuerwehren in Bayern. Sie beginnt mit dem **Basismodul** (feuerwehrtechnische Grundausbildung) und der **Zwischenprüfung**.
+**Erklärung:** Grundausbildung der Feuerwehren in Bayern. Sie beginnt mit dem **Basismodul** (feuerwehrtechnische Grundausbildung) und der **Zwischenprüfung**. Danach folgt der Ausbildungs- und Übungsdienst in der eigenen Wehr (in der Regel etwa zwei Jahre). Den Abschluss bildet die **Abschlussprüfung**, mit der du die **Truppführer**-Qualifikation erwirbst (siehe [Einführung](einfuehrung.md)).
 
 **Beispiel:** Nach dem Basismodul darfst du ab 16 Jahren mit Zustimmung des Kommandanten an Einsätzen teilnehmen, aber nur außerhalb der unmittelbaren Gefahrenzone.
 ---
@@ -758,7 +766,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ### Trupp
 **Erklärung:** Truppführer und Truppmann bilden zusammen einen Trupp. Der selbstständige Trupp ist eine taktische Einheit (Besatzung 1/2, z. B. auf TLF oder RW).
 
-**Beispiel:** Ein Trupp bleibt stets zusammen und beachtet die Eigensicherung.
+**Beispiel:** Ein Trupp bleibt stets zusammen und beachtet die Eigensicherung. Unter Atemschutz wird immer truppweise vorgegangen (FwDV 7) – umgangssprachlich die „Zweimannregel“.
 
 ---
 

@@ -3,13 +3,15 @@
 **MTA-Module:** 2.1, 2.2 · dazu Teile aus 6.2, 7.1, 7.2 und 9.3
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 2.1 „Organisation der Feuerwehr“ und MTA 2.2 „Rechte und Pflichten“, Teilnehmerunterlagen MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, 7.2 „Hygiene im Einsatz“ und 9.3 „Anwendung im Brandeinsatz“, Lehrplan und Präsentation MTA 6.2 „Umgang mit Belastungen im Einsatz“ (Staatliche Feuerwehrschulen Bayerns, LFV Bayern), der amtliche Text des BayFwG (Stand Juli 2025), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 2.1 „Organisation der Feuerwehr“ und MTA 2.2 „Rechte und Pflichten“, Teilnehmerunterlagen MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, 7.2 „Hygiene im Einsatz“ und 9.3 „Anwendung im Brandeinsatz“, Lehrplan und Präsentation MTA 6.2 „Umgang mit Belastungen im Einsatz“ (Staatliche Feuerwehrschulen Bayerns, LFV Bayern), der amtliche Text des BayFwG (Stand Juli 2025), Ausbilderleitfaden MTA 5.12 „Rettung“, dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Verhalten im Einsatz](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Erste Hilfe und Belastung](https://www.feuerwehr-lernbar.bayern/post/mta-erste-hilfe)
+    Ergänzend: Merksatz „Retten – Löschen – Bergen – Schützen“ nach [Feuerwehr Nürnberg](https://www.nuernberg.de/internet/feuerwehr/helfen_retten_gemeinschaft.html) und [bpb – Das junge Politik-Lexikon: Feuerwehr](https://www.bpb.de/kurz-knapp/lexika/das-junge-politik-lexikon/320285/feuerwehr/) · Priorität der Menschenrettung nach [Landesfeuerwehrschule Baden-Württemberg – Einsatztaktik bei Brandeinsätzen](https://www.lfs-bw.de/fileadmin/LFS-BW/themen/lernunterlagen/f3/dokumente/F3_Einsatztaktik_Brandeinsatz.pdf) · Krebsrisiko nach [DGUV/IPA – Krebsrisiko im Feuerwehrdienst](https://dguv.de/medien/fb-fhb/documents/fg-feuerwehren-2024/taeger_krebsrisiko-im-feuerwehrdienst.pdf)
 
 ## Lernziele
 
 Nach diesem Kapitel kannst du:
 
+- [x] Den Merksatz „Retten – Löschen – Bergen – Schützen“ erklären und Retten von Bergen unterscheiden
 - [x] Die Pflichtaufgaben der Feuerwehr benennen und mit Beispielen erklären
 - [x] Den Unterschied zwischen Pflichtaufgaben und weiteren Aufgaben erklären
 - [x] Die Grundbegriffe der Einsatztaktik (Löschen, Schützen, Retten, Bergen) einordnen
@@ -18,6 +20,29 @@ Nach diesem Kapitel kannst du:
 - [x] Die wichtigsten Hygieneregeln nach dem Einsatz anwenden
 
 ---
+
+## Die vier Grundaufgaben: Retten – Löschen – Bergen – Schützen
+
+Die Aufgaben der Feuerwehr werden in einem bekannten Merksatz zusammengefasst:
+
+!!! quote "Grundsatz"
+    **Retten – Löschen – Bergen – Schützen**
+
+| Aufgabe | Bedeutung | Beispiele |
+|---------|-----------|-----------|
+| **Retten** | **Lebende** Menschen und Tiere aus einer lebens- oder gesundheitsgefährdenden Zwangslage befreien und in Sicherheit bringen | Person aus verrauchter Wohnung, eingeklemmte Person nach Verkehrsunfall |
+| **Löschen** | Brände bekämpfen – eine der ältesten Aufgaben der Feuerwehr | Zimmerbrand, Scheunenbrand, Fahrzeugbrand |
+| **Bergen** | **Tote** sowie **Sachen** aus Gefahrenlagen holen | Verstorbene Person nach einem Unfall, Unfallfahrzeug |
+| **Schützen** | Schäden begrenzen und vorbeugen, damit es gar nicht erst zum Unglück kommt | Nachbargebäude vor dem Übergreifen eines Brandes abschirmen, Sicherheitswachen, Brandschutzerziehung |
+
+!!! tip "Retten oder Bergen?"
+    **Lebendes wird gerettet, Tote oder Sachen werden geborgen** (Ausbilderleitfaden MTA 5.12 „Rettung“).
+    „Retten“ hat dabei zwei Bedeutungen: lebensrettende Sofortmaßnahmen (Atmung, Kreislauf, Herztätigkeit) und das **Befreien aus einer lebens- oder gesundheitsgefährdenden Zwangslage**.
+
+!!! danger "Menschenrettung – aber nicht um jeden Preis"
+    Die Rettung von Menschen hat **höchste Priorität**. Trotzdem musst du deinen **Eigenschutz** beachten: Trupps gehen **nie am Feuer vorbei** – auch nicht zur Menschenrettung. Oft muss deshalb zuerst der Brand bekämpft werden, damit die Menschenrettung sicher möglich ist.
+
+Der Merksatz ist kein Gesetzestext. Welche Aufgaben die Feuerwehr in Bayern **erfüllen muss**, regelt das Bayerische Feuerwehrgesetz:
 
 ## Die Aufgaben der Feuerwehr
 
@@ -179,12 +204,15 @@ Das Kommando „Gefahr – Alle sofort zurück!“ ertönt – du diskutierst ni
 
 ### Rechte der Feuerwehrdienstleistenden
 
-- **Aktives und passives Wahlrecht** (z. B. bei der Kommandantenwahl ab 16 Jahren)
+- **Aktives und passives Wahlrecht** (z. B. darfst du den Kommandanten ab 16 Jahren mitwählen; gewählt werden kann nur, wer nach dem 18. Lebensjahr mindestens vier Jahre Dienst geleistet und die vorgeschriebenen Lehrgänge besucht hat)
 - **Freistellung von der Arbeit** bei Einsätzen, Ausbildungsveranstaltungen, Sicherheitswachen und Bereitschaftsdiensten
 - **Lohnfortzahlung** durch den Arbeitgeber bzw. Verdienstausfallersatz
 - **Ersatz von Sachschäden** durch die Gemeinde
 - **Versicherungsschutz** bei Körperschäden (KUVB)
 - **Ausbildung** und **persönliche Schutzausrüstung**
+
+!!! info "Befugnisse im Einsatz"
+    Feuerwehrleute dürfen **Sachen entfernen**, die den Einsatz behindern (z. B. Pkw auf dem Unterflurhydranten), und **fremde Gebäude und Grundstücke** zur Brandbekämpfung oder Hilfeleistung **betreten und benutzen**. Eigentümer und Besitzer müssen das dulden (Art. 23 Abs. 2 BayFwG). Schäden sind dabei so gering wie möglich zu halten.
 
 !!! info "Sonderrechte im Straßenverkehr"
     Nach **§ 35 StVO** ist die Feuerwehr von den Vorschriften der StVO befreit, **soweit es zur Erfüllung hoheitlicher Aufgaben dringend geboten** ist – und nur mit größtmöglicher Sorgfalt. Details: [StVO für Einsatzfahrten](recht-sicherheit.md#straenverkehrsordnung-stvo-fur-einsatzfahrten)
@@ -248,6 +276,7 @@ Mehr dazu: [Physische und psychische Belastung](erste-hilfe.md#physische-und-psy
 
 - Brandrauch enthält **immer gesundheitsschädliche Stoffe** (z. B. Ruß, Teer, Spurengifte).
 - Sie können über die **Atemwege**, den **Magen-Darm-Trakt** oder die **Haut** in den Körper gelangen.
+- Darunter sind auch **krebserzeugende Stoffe**. Die Internationale Agentur für Krebsforschung (IARC) der WHO stuft die berufliche Exposition als Feuerwehreinsatzkraft seit 2022 als **krebserregend für den Menschen** ein (Gruppe 1).
 
 **Maßnahmen:**
 
@@ -267,9 +296,10 @@ Mehr dazu: [Einsatzstellenhygiene](recht-sicherheit.md#8-einsatzstellenhygiene)
 
 | Aspekt | Kernaussage |
 |--------|-------------|
+| **Merksatz** | Retten – Löschen – Bergen – Schützen (Lebendes wird gerettet, Tote und Sachen werden geborgen) |
 | **Pflichtaufgaben** | Abwehrender Brandschutz und technischer Hilfsdienst (Art. 1, Art. 4 BayFwG) |
 | **Weitere Aufgaben** | Sicherheitswachen, Katastrophenhilfe, Amtshilfe, freiwillige Tätigkeiten |
-| **Eigenschutz** | Sicherheit und Eigenschutz gehen stets vor |
+| **Eigenschutz** | Menschenrettung hat höchste Priorität – aber Sicherheit und Eigenschutz gehen stets vor |
 | **Werte** | Ehrenamt, Kameradschaft, Hilfsbereitschaft, Disziplin |
 | **Herausforderungen** | Physisch + psychisch belastend – Stress ist normal, Hilfe annehmen |
 | **Hygiene** | Brandrauch enthält immer gesundheitsschädliche Stoffe |
@@ -278,25 +308,37 @@ Mehr dazu: [Einsatzstellenhygiene](recht-sicherheit.md#8-einsatzstellenhygiene)
 
 ## Quiz: Teste dein Wissen!
 
-??? question "1. Was zählt zu den Pflichtaufgaben der Feuerwehr?"
+??? question "1. Nenne die vier Grundaufgaben der Feuerwehr."
+    **Antwort:** Retten, Löschen, Bergen, Schützen
+
+??? question "2. Was ist der Unterschied zwischen Retten und Bergen?"
+    **Antwort:**
+
+    - **Retten** = Lebende Menschen oder Tiere aus einer lebens- oder gesundheitsgefährdenden Zwangslage befreien
+    - **Bergen** = Tote oder Sachen aus dem Gefahrenbereich holen
+
+??? question "3. Was hat im Einsatz höchste Priorität – und was musst du dabei trotzdem beachten?"
+    **Antwort:** Die Menschenrettung. Aber: Eigenschutz beachten – nie am Feuer vorbei, auch nicht zur Menschenrettung.
+
+??? question "4. Was zählt zu den Pflichtaufgaben der Feuerwehr?"
     **Antwort:** Brandbekämpfung und technische Hilfeleistung
 
-??? question "2. Wer muss die Feuerwehr aufstellen, ausrüsten und unterhalten?"
+??? question "5. Wer muss die Feuerwehr aufstellen, ausrüsten und unterhalten?"
     **Antwort:** Die Gemeinde (Art. 1 Abs. 2 BayFwG)
 
-??? question "3. Nenne zwei Beispiele für den technischen Hilfsdienst."
+??? question "6. Nenne zwei Beispiele für den technischen Hilfsdienst."
     **Antwort:** z. B. Verkehrsunfall mit eingeklemmter Person, Landwirt ohnmächtig im Silo, Hochwasser, Damm droht zu brechen
 
-??? question "4. Warum ist Einsatzstellenhygiene wichtig?"
-    **Antwort:** Brandrauch enthält immer gesundheitsschädliche Stoffe, die über Atemwege, Magen-Darm-Trakt oder Haut aufgenommen werden können
+??? question "7. Warum ist Einsatzstellenhygiene wichtig?"
+    **Antwort:** Brandrauch enthält immer gesundheitsschädliche – auch krebserzeugende – Stoffe, die über Atemwege, Magen-Darm-Trakt oder Haut aufgenommen werden können
 
-??? question "5. Was ist Stress?"
+??? question "8. Was ist Stress?"
     **Antwort:** Eine Reaktion des Körpers
 
-??? question "6. Welche Verhaltensweise ist nach psychisch belastenden Einsätzen vorteilhaft?"
+??? question "9. Welche Verhaltensweise ist nach psychisch belastenden Einsätzen vorteilhaft?"
     **Antwort:** Nach dem Einsatz zusammensetzen, miteinander reden und evtl. PSNV hinzuziehen
 
-??? question "7. Was bedeutet GAMS?"
+??? question "10. Was bedeutet GAMS?"
     **Antwort:**
 
     - **G**efahr erkennen
@@ -308,6 +350,9 @@ Mehr dazu: [Einsatzstellenhygiene](recht-sicherheit.md#8-einsatzstellenhygiene)
 
 ## Checkliste: Habe ich alles verstanden?
 
+- [ ] Ich kann die vier Grundaufgaben (Retten – Löschen – Bergen – Schützen) benennen
+- [ ] Ich kenne den Unterschied zwischen Retten und Bergen
+- [ ] Ich weiß, dass Menschenrettung höchste Priorität hat – aber nicht ohne Eigenschutz
 - [ ] Ich kann die Pflichtaufgaben der Feuerwehr benennen und Beispiele geben
 - [ ] Ich kenne die weiteren und die freiwilligen Aufgaben der Feuerwehr
 - [ ] Ich verstehe, dass Sicherheit und Eigenschutz vorgehen

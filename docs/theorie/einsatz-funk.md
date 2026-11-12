@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“ und 7.2 „Hygiene im Einsatz“; Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 14.1 „Rechtsgrundlagen“, 14.2 „Grundlagen des Digitalfunks“, 14.3 „Gerätekunde und -bedienung“, 14.4 „Grundsätze des Sprechfunkbetriebes“, Ausbilderunterlagen und Arbeitsblätter 14.5/14.6 „Sprechfunkbetrieb – Übungen im TMO-/DMO-Betrieb“, Fachinformation Sprechfunk, Taschenkarten „Buchstabiertafel“ und „Funkrufnamen – Auszug“, praktische Zwischenprüfung (Aufgaben zum Sprechfunk) (alle Staatliche Feuerwehrschulen Bayerns), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Verhalten im Einsatz und in der Öffentlichkeit](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Sprechfunk](https://www.feuerwehr-lernbar.bayern/post/mta-sprechfunk)
+    Ergänzend: [§ 52 Abs. 3 StVZO](https://www.gesetze-im-internet.de/stvzo_2012/__52.html) (blaues Blinklicht) · [FwDV 7 „Atemschutz“](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2022-09/FwDV%207%20-%20Homepage.pdf) · [DGUV Information 205-035 „Hygiene und Kontaminationsvermeidung bei der Feuerwehr“](https://publikationen.dguv.de/regelwerk/informationen/3730/hygiene-und-kontaminationsvermeidung-bei-der-feuerwehr)
 
 ## Lernziele
 
@@ -29,6 +30,14 @@ Nach diesem Kapitel kannst du:
 
 Die Einsatztätigkeit beginnt mit der Alarmierung. Die **Funkalarmierung** ist ein Verfahren zum **Alarmieren von Führungs- und Einsatzkräften**.
 
+**Wie wirst du alarmiert?**
+
+- **Sirene** (laute Alarmierung): alarmiert die gesamte Mannschaft
+- **Funkmeldeempfänger** (stille Alarmierung): alarmiert die gesamte Feuerwehr, nur eine bestimmte Gruppe oder einzelne Feuerwehrdienstleistende
+- **Telefon**: nur in Ausnahmefällen, z. B. bei Ausfall der Sirene
+
+Nach der Alarmierung findest du dich **unverzüglich am Feuerwehrhaus** ein.
+
 **Darauf achtest du:**
 
 - **Persönliche Einsatzfähigkeit** beachten: Krankheit, Einfluss von Alkohol oder anderen Rauschmitteln, berufliche Verpflichtungen
@@ -46,6 +55,8 @@ Die Einsatztätigkeit beginnt mit der Alarmierung. Die **Funkalarmierung** ist e
 |---|---|---|
 | **Sonderrechte** (§ 35 StVO) | **Ja** – aber nur unter gebührender Berücksichtigung der öffentlichen Sicherheit und Ordnung | Der Privat-Pkw ist für andere **nicht als Sonderrechtsfahrzeug zu erkennen** → **erhöhte Unfallgefahr** |
 | **Wegerecht** | **Nein** | Andere Verkehrsteilnehmer können den Alarm nicht erkennen |
+
+**Kein Blaulicht am Privat-Pkw:** Blaues Blinklicht dürfen nur die in § 52 Abs. 3 StVZO genannten Fahrzeuge führen – bei der Feuerwehr deren gekennzeichnete Einsatz- und Kommandofahrzeuge, nicht private Fahrzeuge von Feuerwehrangehörigen.
 
 **Wichtig:**
 
@@ -77,7 +88,7 @@ Die Einsatztätigkeit beginnt mit der Alarmierung. Die **Funkalarmierung** ist e
 
 **Als Mitfahrer:**
 
-- **Einteilung der Mannschaft** durch den Einheitsführer während der Anfahrt. Grundsatz: **Die Sitzordnung im Fahrzeug ergibt die Funktion an der Einsatzstelle.**
+- **Einteilung der Mannschaft** durch den Einheitsführer während der Anfahrt. Grundsatz: **Die Sitzordnung im Fahrzeug ergibt die Funktion an der Einsatzstelle** (Sitzordnung und Merkspruch im Kapitel [Löscheinsatz](loescheinsatz.md#sitzordnung-absitzen-antreten)).
 - **Beeinträchtigungen** sofort dem Einheitsführer mitteilen, z. B. ein wegen Erkältung nicht einsatzbereiter Atemschutzgeräteträger. Nur so kann der Einheitsführer die Einsatzfähigkeit jedes Einzelnen bei der Einteilung berücksichtigen.
 - **Gedankliche Vorbereitung:** Welche Funktion habe ich? Was erwartet mich vermutlich aufgrund von Meldebild, Alarmdurchsage oder Sprechfunkverkehr? Auf welche Belastungen kann ich mich einstellen?
 - **Ausrüsten im Fahrzeug:** Pressluftatmer **erst nach Befehl** anlegen (kurz vor Erreichen der Einsatzstelle, bei verhaltener Fahrweise); sonstige Ausrüstung wie Feuerwehrleine, Feuerwehrhaltegurt/-sicherheitsgurt, Warnweste (falls erforderlich)
@@ -178,6 +189,11 @@ Der **Trupp bleibt stets zusammen** und beachtet die **Eigensicherung**.
 #### 3. Atemschutzüberwachung
 
 Die Atemschutzüberwachung führt in der Gruppe der **Maschinist auf Befehl** durch. Mehr dazu im Kapitel [Löscheinsatz](loescheinsatz.md).
+
+Nach FwDV 7 ist bei jedem Atemschutzeinsatz eine Atemschutzüberwachung durchzuführen; verantwortlich ist der Einheitsführer. Registriert werden u. a. die **Namen** der Einsatzkräfte unter Atemschutz (ggf. mit Funkrufnamen), die **Uhrzeit** beim Anschließen, das Erreichen des Einsatzziels und der Beginn des Rückzugs. Nach **einem und zwei Dritteln** der zu erwartenden Einsatzzeit wird der Trupp auf seine Behälterdrücke hingewiesen.
+
+!!! warning "Unter Atemschutz nur mit Ausbildung"
+    Unter Atemschutz darf nur eingesetzt werden, wer u. a. das **18. Lebensjahr** vollendet hat, nach **G 26** körperlich geeignet ist und die **Ausbildung zum Atemschutzgeräteträger** erfolgreich absolviert hat (FwDV 7, Abschnitt 3).
 
 ---
 
@@ -410,6 +426,7 @@ Eine **Lagemeldung** wird abgesetzt, wenn die Lage **erkundet** wurde oder sich 
 
 - **Funkwellen** breiten sich **geradlinig, fast wie Lichtstrahlen** aus. Für eine gesicherte Verbindung braucht es deshalb eine quasi optische Sichtverbindung.
 - Durch **Reflexion** (z. B. an Gebäuden oder Geländeformationen) ist Empfang aber auch ohne Sichtverbindung möglich.
+- Im Fragenkatalog heißt es dazu: **UKW-Funkwellen** breiten sich **fast genauso aus wie Lichtstrahlen**.
 - Mit zunehmender Entfernung und beim Durchdringen von Materialien (z. B. Wände) werden die Wellen **schwächer**. Die **Reichweite** hängt ab von **Bebauung, Geländeform** und gegebenenfalls **Witterung** – dazu zählen auch bauliche Verhältnisse wie Stahlbetonbauten, Metallfassaden oder Tunnelanlagen.
 - Im Digitalfunk bricht die Verbindung **ohne Vorankündigung** ab. Oft hilft schon eine **Körperdrehung oder ein geringfügiger Standortwechsel**.
 
@@ -450,7 +467,7 @@ Eigennamen und schwer verständliche Wörter werden buchstabiert. Im BOS-Funk gi
 - Alle Funkgeräte haben eine **Notruffunktion** (rot bzw. orange gekennzeichnete Taste).
 - Der Notruf schaltet das Mikrofon für einen programmierten Zeitraum frei – die **Sprechtaste muss nicht gedrückt** werden. Alle Teilnehmer der aktiven Gruppe hören, was im Umfeld des Notrufenden passiert; **alle anderen Gespräche werden unterbrochen**.
 - **Im TMO** geht der Notruf in die aktive Gruppe **und zur ILS** (dazu eine SDS, bei GPS-fähigen Geräten auch die letzten GPS-Daten). **Im DMO** bleibt er **in der aktiven Gruppe**.
-- Per Sprache ist **„Mayday“** das Kennwort für **Einsatzkräfte in Not**.
+- Per Sprache ist **„Mayday“** das Kennwort für **Einsatzkräfte in Not**. Aufbau der Notfallmeldung: „**Mayday, Mayday, Mayday** – eigener Funkrufname – Angabe zu Ort und Notlage – **Mayday, kommen**“.
 - Wird im Sprechfunk eine **Notfallmeldung** abgesetzt, ist der **bestehende Sprechfunkverkehr zu unterbrechen**.
 
 !!! danger "Notruf versehentlich ausgelöst?"
@@ -586,7 +603,7 @@ Jeder soll dabei seine Sichtweise darstellen können.
 
 ### 4. Einsatzstellenhygiene
 
-**Warum?** **Brandrauch** enthält **immer gesundheitsschädliche Stoffe**, die über die **Atemwege**, den **Magen-Darm-Trakt** oder die **Haut** in den Körper gelangen können. Hauptbestandteile sind Wasserdampf, Ruß und Teer, verschiedene Spurengifte sowie Kohlenmonoxid und Kohlendioxid. Der Großteil der Brandtoten stirbt nicht durch Hitze oder Flammen, sondern durch **Rauchgasintoxikation**.
+**Warum?** **Brandrauch** enthält **immer gesundheitsschädliche Stoffe**, die über die **Atemwege**, den **Magen-Darm-Trakt** oder die **Haut** in den Körper gelangen können. Hauptbestandteile sind Wasserdampf, Ruß und Teer, verschiedene Spurengifte sowie Kohlenmonoxid und Kohlendioxid. Der Großteil der Brandtoten stirbt nicht durch Hitze oder Flammen, sondern durch **Rauchgasintoxikation**. Zu den Gefahrstoffen bei Brandeinsätzen zählen auch **krebserzeugende Stoffe** wie Benzol und polyzyklische aromatische Kohlenwasserstoffe (PAK) (DGUV Information 205-035) – deshalb Kontakt minimieren und Kontamination nicht verschleppen.
 
 **An der Einsatzstelle:**
 

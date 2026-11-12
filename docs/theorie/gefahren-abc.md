@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlagen und Präsentationen MTA 12.1 „Gefahren und Kennzeichnungen“ und 12.2 „Verhalten im ABC-Einsatz“, Fachinformation und Taschenkarte „Kennzeichnung im ABC-Einsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr) und [Feuerwehr-Lernbar – ABC-Gefahrenstoffe](https://www.feuerwehr-lernbar.bayern/post/mta-abc-gefahrenstoffe)
+    Ergänzend: Abstände nach DIN VDE 0132 ([Forum Verlag](https://forum-verlag.com/fachwissen/elektrosicherheit-und-elektrotechnik/din-vde-0132-abstaende-brandbekaempfung/)), ADR-Gefahrgutliste für UN 1202/1203 ([umwelt-online](https://umwelt-online.de/recht/gefahr.gut/adr/adr_rid23/32ta1200.htm)), Abstandsgesetz bei Strahlung ([brandwacht 3/2018, SFS Regensburg](https://brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_3_2018_s97_und_115_aus_den_feuerwehrschulen_strahlen.pdf)), Stromunfall ([DGUV Information 204-007](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/4.htm)).
 
 ## Lernziele
 
@@ -57,11 +58,11 @@ Der Truppführer ist für die Sicherheit seines Trupps verantwortlich. Beim Vorg
 
 ### Signal „Gefahr – Alle sofort zurück!“
 
-Im Fragenkatalog kommt das Signal auch als „Gefahr – Alles zurück!“ vor – gemeint ist dasselbe.
+Bemerkt eine Einsatzkraft eine **besondere Gefahr** (z. B. Einsturz- oder Explosionsgefahr) und müssen sich alle unverzüglich in Sicherheit bringen, gibt sie das Kommando **„Gefahr – Alle sofort zurück!“**. Im Fragenkatalog kommt das Signal auch als „Gefahr – Alles zurück!“ vor – gemeint ist dasselbe.
 
-1. **Signal wiederholen**
-2. **Sammelplatz am Fahrzeug** aufsuchen
-3. **Meldung beim Einheitsführer**
+1. **Signal wiederholen**, also das Kommando weitergeben
+2. **Zurückgehen** und den **Sammelplatz am Fahrzeug** aufsuchen
+3. **Meldung beim Einheitsführer**, denn er **überprüft die Vollzähligkeit** der Mannschaft
 
 !!! danger "Nicht falsch"
     Nur das Signal zu wiederholen reicht nicht. Und nicht zum Rettungswagen gehen: **Sammelplatz ist am Fahrzeug.**
@@ -84,8 +85,8 @@ Mögliche Anzeichen sind z. B. Kopfschmerzen, Unruhe, Sehstörungen, Übelkeit, 
 
 | | **Kohlenmonoxid (CO)** | **Kohlendioxid (CO₂)** |
 |---|---|---|
-| Entstehung | bei **unvollkommener** Verbrennung | – |
-| Eigenschaften | **farb-, geruch- und geschmacklos**, **brennbar**, **leichter als Luft** | **farb-, geruch- und geschmacklos**, nicht brennbar, **schwerer als Luft** |
+| Entstehung | bei **unvollkommener** Verbrennung | bei **vollkommener** Verbrennung |
+| Eigenschaften | **farb-, geruch- und geschmacklos**, **brennbar** (explosionsfähig), etwas **leichter als Luft** | **farb-, geruch- und geschmacklos**, nicht brennbar, etwa 1,5-mal **schwerer als Luft** |
 | Wirkung | **giftig**: Blut- und Nervengift | **ungiftig**, steuert die Atmung, **erstickend** bei zu hoher Konzentration |
 
 !!! tip "Eselsbrücke"
@@ -131,13 +132,16 @@ Elektrischer Strom kann im Körper **Herzrhythmusstörungen** sowie Störungen v
 | Fahrleitungen an Bahnstrecken | **mindestens 10 m** |
 | herabhängende Freileitungen und berührte Metallteile (Spannungstrichter) | **mindestens 20 m** |
 
-Die Mindestabstände gelten **auch für Gegenstände**. Berühren Kräne, Bagger oder Leitern eine Hochspannungsleitung, gelten dieselben Abstände wie bei herabhängenden Freileitungen.
+!!! note "Genauer nach DIN VDE 0132"
+    Die Norm staffelt die Hochspannung feiner: über 1 kV bis 110 kV **3 m**, über 110 kV bis 220 kV **4 m**, über 220 kV bis 380 kV **5 m**. Die MTA-Unterlagen nehmen für Hochspannung pauschal den Faustwert **5 m** – das ist auch die Prüfungsantwort für 380 kV.
+
+Die Mindestabstände gelten **auch für Gegenstände**, also auch beim **Aufstellen von Leitern** (Faustwert: Niederspannung 1 m, Hochspannung 5 m). Berühren Kräne, Bagger oder Leitern eine Hochspannungsleitung, gelten dieselben Abstände wie bei herabhängenden Freileitungen.
 
 **Löschen mit dem CM-Strahlrohr:** Bei Niederspannung gelten **Sprühstrahl 1 m** und **Vollstrahl 5 m**. Bei Hochspannung gelten **Sprühstrahl 5 m** und **Vollstrahl 10 m**. Bei Hohlstrahlrohren stehen die Abstände in der Bedienungsanleitung.
 
 ### Stromunfall im Niederspannungsbereich (230/400 V): Reihenfolge
 
-1. **Stromleitung spannungsfrei schalten** (lassen)
+1. **Stromleitung spannungsfrei schalten** (lassen), z. B. Stecker ziehen, Gerät ausschalten, notfalls Sicherung
 2. Den Verunfallten **von einem gut isolierten Standort aus wegziehen**, z. B. von einer trockenen Holzbohle. Nicht mit bloßen Händen berühren.
 3. **Rettungsdienst** über den Einheitsführer **alarmieren**
 4. **Erste Hilfe** leisten
@@ -154,6 +158,9 @@ Mit der Menschenrettung darf erst begonnen werden **nach Abschaltung und Freigab
 - **Keine Schalthandlungen ohne Befehl**. Bei beschädigten Anlagen schaltet nur Elektro-Fachpersonal.
 - Mindestens **1 m Abstand** zu möglicherweise spannungsführenden Teilen, Strahlrohrabstände beachten (CM-Rohr: 1 m Sprühstrahl, 5 m Vollstrahl).
 
+!!! tip "Prüfungsantwort (Truppführer): PV-Anlage auf dem Dach entdeckt"
+    **Meldung an den Einheitsführer: „Photovoltaikanlage vorhanden!“**, **Strahlrohrabstand den Gefahren anpassen** und den **Trupp vor herabstürzenden Teilen schützen**. „Keine besondere Reaktion“ ist falsch.
+
 ---
 
 ## Atomare Gefahren (Strahlung)
@@ -162,10 +169,10 @@ Ionisierende Strahlung ist **nicht abschaltbar**, kann Materialien durchdringen 
 
 Grundsätze, um die Strahlenbelastung gering zu halten:
 
-1. **Abstand halten.** Je größer der Abstand, desto geringer die Strahlung. Regelfall: mindestens 50 m.
+1. **Abstand halten.** Je größer der Abstand, desto geringer die Strahlung. Regelfall: mindestens 50 m. Nach dem Abstandsgesetz steigt die Strahlung bei **halbiertem Abstand auf das Vierfache** – umgekehrt bringt doppelter Abstand nur noch ein Viertel.
 2. **Abschirmung nutzen**, z. B. Mauer oder Erdwall.
 3. **Aufenthaltsdauer begrenzen**, also so kurz wie möglich im Nahbereich des Strahlers bleiben.
-4. **Inkorporation ausschließen**: Strahler niemals anfassen, Pressluftatmer und Schutzanzug nach Anweisung des Einheitsführers, am Einsatzort nicht essen, trinken oder rauchen.
+4. **Inkorporation ausschließen**: Strahler niemals anfassen, Pressluftatmer und Schutzanzug nach Anweisung des Einheitsführers, am Einsatzort nicht essen, trinken oder rauchen. Einsatzkräfte mit **offenen Wunden** werden nicht eingesetzt.
 
 ### Kontamination und Inkorporation
 
@@ -193,7 +200,7 @@ Orangefarbene Warntafeln kennzeichnen **Straßen- und Schienenfahrzeuge, die gef
 ```
 
 - **Oben: Nummer zur Kennzeichnung der Gefahr**, 2 oder 3 Ziffern. Die erste Ziffer gibt die Hauptgefahr an.
-- **Unten: Nummer zur Kennzeichnung des Stoffes (UN-Nummer).** Beispiel aus der Ausbildung: UN 1170 ist Ethanol.
+- **Unten: Nummer zur Kennzeichnung des Stoffes (UN-Nummer).** Beispiel aus der Ausbildung: UN 1170 ist Ethanol. Häufig auf der Straße: **33 / 1203** = **Benzin** (Ottokraftstoff), **30 / 1202** = **Diesel** bzw. leichtes Heizöl.
 
 | Ziffer | Gefahr |
 |---|---|
@@ -216,12 +223,13 @@ Eine **verdoppelte Ziffer** bedeutet eine **Zunahme der Gefahr**. Reicht eine Zi
 
 | Aussehen | Bedeutung | Gefahr |
 |----------|-----------|--------|
-| Flamme, **schwarz auf rot** | **flüssiger** brennbarer Stoff | **Brandgefahr** |
-| Flamme, **schwarz auf weiß-rot** | brennbarer Stoff | **Brandgefahr** |
+| Flamme, **schwarz auf rot** | **flüssiger** brennbarer Stoff (Klasse 3); dasselbe Symbol gibt es für entzündbare Gase (Klasse 2.1) | **Brandgefahr** |
+| Flamme, **schwarz auf weiß-rot gestreift** | entzündbarer **fester** Stoff (Klasse 4.1) | **Brandgefahr** |
+| Explodierende Bombe, **schwarz auf orange** | **explosiver** Stoff (Klasse 1) | **Explosionsgefahr** |
 | Ätzsymbol, **schwarz-weiß** | **ätzender** Stoff (Klasse 8) | **Verätzungsgefahr** |
 | Biogefährdung | **ansteckungsgefährlicher** Stoff (Klasse 6.2) | **Ansteckungsgefahr** |
 | Totenkopf | **giftiger** Stoff (Klasse 6.1) | Vergiftungsgefahr |
-| Flügelrad | **radioaktiver** Stoff (Klasse 7) | Strahlung |
+| Flügelrad, schwarz auf gelb-weiß | **radioaktiver** Stoff (Klasse 7) | Strahlung |
 | Warnzeichen **schwarz auf gelb**, z. B. an einer Tür | Warnung vor **explosionsfähiger Atmosphäre** | **Explosionsgefahr** |
 | Kennzeichen **schwarz-weiß** für **begrenzte Mengen** (LQ) | Verpackung enthält kleinere Behälter mit Gefahrgut **in begrenzten Mengen** | Fahrzeug braucht dann in der Regel keine orangefarbene Warntafel |
 
@@ -256,7 +264,7 @@ Die **erste Absperrgrenze** (Gefahrenbereich) bei unbekannten ABC-Gefahrstoffen 
 
 - **Keine Zündquellen** mitführen (Mobiltelefone, Streichhölzer, Feuerzeuge)
 - Gefahrenbereich nur mit **angeordneter Schutzausrüstung** betreten
-- **Windrichtung** beachten, Berührung mit Gefahrgut vermeiden
+- **Windrichtung** beachten, Berührung mit Gefahrgut vermeiden: **nicht in ausgelaufene Stoffe treten**, Dämpfe und Rauch meiden (auf der dem Wind zugewandten Seite bleiben)
 - Hinweise auf ABC-Gefahrstoffe **sofort melden**
 - Im Gefahrenbereich **nicht essen, trinken oder rauchen**
 - Den Gefahrenbereich **nur über den Dekon-Platz** verlassen

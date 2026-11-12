@@ -3,7 +3,7 @@
 **MTA-Module:** 5.6, 9.5 – 9.10 · **Grundlage:** FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Ausbilderunterlagen MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ und Ausbilderunterlage MTA 5.6 „Schläuche und Armaturen – Praxis“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Ausbilderunterlagen MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ und Ausbilderunterlage MTA 5.6 „Schläuche und Armaturen – Praxis“, ergänzend die Unterlagen MTA 3 „Brennen und Löschen“, MTA 5.3 „Löschgeräte“, MTA 8 „Verhalten bei Gefahr“ und MTA 9.3 „Anwendung im Brandeinsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
 ## Lernziele
@@ -224,7 +224,7 @@ Der Truppführer meldet dem Einheitsführer:
 Der **Einheitsführer befiehlt die Lage** des Verteilers, z. B. „Verteiler zur Gartentür“. Der **Angriffstrupp setzt ihn** dort ab (im Trupp stehend oder am Boden gekuppelt). Der **Angriffstruppführer** bestimmt an dieser Stelle die **genaue Lage** und ist dafür verantwortlich:
 
 - **seitlich versetzt**, damit der Zugang zum Gebäude nicht behindert wird
-- **nicht im Trümmerschatten**
+- **nicht im Trümmerschatten** (durch Einsturz bedrohter Bereich)
 - **nicht im Schließbereich der Haustür**
 
 ### Belegung der Abgänge (in Fließrichtung gesehen)
@@ -300,9 +300,9 @@ Das **Mundstück** des BM- oder CM-Strahlrohrs darf **nicht eigenmächtig abgesc
 1. **Menschenrettung hat oberste Priorität.**
 2. **Truppweise geschlossen vorgehen.** Der Trupp geht im Gefahrenbereich grundsätzlich gemeinsam vor.
 3. **Spätestens ab der Rauchgrenze mit Wasser am Rohr** vorgehen.
-4. **Rückzugsweg sichern.**
+4. **Rückzugsweg sichern.** Der Schlauch dient dabei als Rückzugswegsicherung.
 5. **Erkannte Gefahren sofort melden.**
-6. **Schaden so gering wie möglich halten.**
+6. **Schaden so gering wie möglich halten:** Wasser sparsam einsetzen, Strahlrohre rechtzeitig schließen und Wasserschaden vermeiden.
 7. **Ausreichende Schlauchreserve** und **Sicherheitsabstände zu elektrischen Anlagen** einhalten.
 8. **Wasserabgabe immer wieder stoppen**, damit der Wasserdampf abziehen und die Entwicklung der Löscharbeiten kontrolliert werden kann.
 9. Mit dem **Innenangriff** erst beginnen, wenn eine ständige Wasserabgabe sichergestellt ist.
@@ -310,6 +310,9 @@ Das **Mundstück** des BM- oder CM-Strahlrohrs darf **nicht eigenmächtig abgesc
 11. Im Freien (z. B. Palettenstapel): **mit Sprühstrahl**, stets **außerhalb des Brandrauchs**, um das Brandobjekt bewegen und die Position immer wieder wechseln. „Gegen den Wind angreifen“ ist im Fragenkatalog eine Falschantwort.
 12. Holzbauweise (z. B. Scheune): **Verbindungsstellen (Knotenpunkte) zuerst** ablöschen.
 13. Wohnungsbrand: in der Regel **truppweise unter Atemschutz**.
+
+!!! tip "Einsatzgrundsätze beim Einsatz von Feuerlöschern (MTA 5.3)"
+    Feuer **in Windrichtung** angreifen, **von vorne nach hinten** und **von unten nach oben** löschen (Ausnahme: Tropf- und Fließbrände von oben nach unten), Flächenbrände am Rand beginnend. „Feuer gegen die Windrichtung angreifen“ ist im Fragenkatalog eine Falschantwort.
 
 !!! warning "Photovoltaikanlage entdeckt?"
     Meldung an den Einheitsführer („Fotovoltaikanlage vorhanden!“), Strahlrohrabstand den Gefahren anpassen und den Trupp vor herabstürzenden Teilen schützen.

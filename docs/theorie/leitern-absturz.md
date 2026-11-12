@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlage MTA 5.11 Rettungsgeräte – Praxis Leitern, Teilnehmer- und Ausbilderunterlagen sowie Präsentation MTA 10.1/10.2 Sichern gegen Absturz (SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate) und [Feuerwehr-Lernbar – Sichern gegen Absturz](https://www.feuerwehr-lernbar.bayern/post/mta-sichern-gegen-absturz)
+    Ergänzend: [FwDV 10 „Die tragbaren Leitern“, Stand November 2019](https://www.nlbk.niedersachsen.de/download/160686)
 
 ## Lernziele
 
@@ -47,7 +48,7 @@ Tragbare Leitern werden auf den Feuerwehrfahrzeugen mitgeführt, von der Mannsch
 - Bei **B-Leiterteilen fehlen die unteren beiden Sprossen**. Unten immer ein **A-Teil oder ein B-Teil mit Einsteckteil** verwenden.
 - Steighöhen in der Regel: **1 Leiterteil** bis ins Erdgeschoss, **2 oder 3 Leiterteile** bis ins 1. OG, **4 Leiterteile** bis ins 2. OG
 - **Als Hilfsgerät:** auf nicht durchbruchsicheren Flächen, als Hilfskrankentrage, zur Eisrettung, zum Bau einer Schlauchüberführung
-- Der **Einheitsführer** bestimmt die Anzahl der Leiterteile. Es werden **grundsätzlich alle Leiterteile vom Fahrzeugdach** entnommen. Ist die Zahl nicht sofort befohlen, kommen alle Leiterteile zur Einsatzstelle.
+- Der **Einheitsführer** bestimmt die Anzahl der Leiterteile (so die MTA-Unterlage; die FwDV 10 von 2019 überträgt das dem Truppführer, der den Befehl zur Vornahme erhalten hat). Es werden **grundsätzlich alle Leiterteile vom Fahrzeugdach** entnommen. Ist die Zahl nicht sofort befohlen, kommen alle Leiterteile zur Einsatzstelle.
 
 **Schiebleiter:** Im **Freistand** darf sie nur **bis zu den Stützstangen** bestiegen werden.
 
@@ -103,7 +104,7 @@ Der vorgehende Trupp darf die Steckleiter **selbst sichern**:
 
 ### Besteigen
 
-- Im **Pass- oder Kreuzgang**, die Sprossen im **Klammergriff** umfassen: dicht an die Leiter anschmiegen und mit beiden Händen an den Sprossen festhalten
+- Im **Pass- oder Kreuzgang**, die Sprossen im **Klammergriff** umfassen: dicht an die Leiter anschmiegen und mit beiden Händen an den Sprossen festhalten. Klammergriff heißt nach FwDV 10: Die **Finger umfassen die Sprosse von oben**, die **Daumen liegen unter der Sprosse**.
     - **Passgang:** linker Fuß und linke Hand ruhen auf den Sprossen, rechter Fuß und rechte Hand bewegen sich, dann umgekehrt
     - **Kreuzgang:** linker Fuß und rechte Hand ruhen, rechter Fuß und linke Hand bewegen sich, dann umgekehrt
 - Möglichst **rhythmisch und schwingungsfrei** steigen
@@ -146,7 +147,7 @@ In der **MTA-Grundausbildung** lernst du das **Halten und Rückhalten**. Diese M
     - Wenn ein Absturz **nicht definitiv auszuschließen** ist, muss **immer der Gerätesatz Absturzsicherung** verwendet werden.
     - Der **Feuerwehr-Haltegurt** ist **kein Auffanggurt**. Er darf grundsätzlich **nicht** als Auffanggurt benutzt werden.
     - Die **Feuerwehrleine** darf **nicht** zum Sichern gegen Absturz eingesetzt werden, wenn ein **freier Fall nicht auszuschließen** ist. Diese Gefahr besteht immer dann, wenn sich die Sicherung **nicht oberhalb** des zu Sichernden befindet.
-    - Beim **Rückhalten** ist ein Abstand von **ca. 2 m zur Absturzkante** einzuhalten.
+    - Beim **Rückhalten** ist ein Mindestabstand von **ca. 2 m zur Absturzkante** einzuhalten.
     - Der **Anschlagpunkt** liegt **oberhalb** der zu sichernden Person und muss tragfähig sein.
     - Für das Halten **genügen Feuerwehrleine und Feuerwehr-Haltegurt**.
 
@@ -182,7 +183,7 @@ Der **Truppführer** überprüft die Begehbarkeit des Daches, kontrolliert den F
 - **Zweck:** Rettung, Selbstrettung, Sichern von Personen, Transport/Sicherung und Aufziehen von Geräten, Halten und Rückhalten
 - Wird **im Leinenbeutel** über der **rechten Schulter** getragen, der Beutel liegt am Rücken. Bei der Vornahme tragbarer Leitern und im Atemschutzeinsatz wird sie selbstständig mitgeführt.
 - Nach jedem Gebrauch bzw. mindestens **einmal jährlich prüfen**
-- **Nicht verwechseln:** Die **rote Mehrzweckleine** ist für technische Zwecke gedacht, nicht zum Sichern von Personen.
+- **Nicht verwechseln:** Die **rote Mehrzweckleine** ist für technische Zwecke gedacht (z. B. als **Halte- und Ventilleine** an der Saugleitung), nicht zum Sichern von Personen. Umgekehrt gilt: **Feuerwehrleinen nicht als Mehrzweckleinen verwenden!**
 
 ### Feuerwehr-Haltegurt
 

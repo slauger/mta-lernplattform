@@ -3,7 +3,8 @@
 **MTA-Module:** 5.5, 9.1, 9.2, 9.4 · **Grundlage:** FwDV 1 „Grundtätigkeiten“, FwDV 3
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlage MTA 4.1 „Fahrzeugkunde – Theorie“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Ergänzend: [HLFS Hessen – Lernunterlage Löschgeräte, Schläuche, Armaturen (06/2020)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2023-01/%284%29%20FB-Ausbilder_LernU_L%C3%B6schger%C3%A4te-Lernunterlage_Vers002.doc.pdf) (Hinweisschild, Verteiler, Sammelstück) · [NLBK Niedersachsen – Lehrunterlage Maschinisten](https://www.nlbk.niedersachsen.de/download/48297) (Saughöhe) · [UK RLP – Handlungshilfe Sichere und saubere Entnahme von Löschwasser](https://feuerwehr.ukrlp.de/fileadmin/ukrlp/daten/pdf/feuerwehr_portal/sicherheit_gesundheitsschutz/so_machts_die_feuerwehr/Handlungshilfe_Sichere_und_saubere_Entnahme_von_Loeschwasser.pdf) · [Gemeinde Brunnthal – Merkblatt Bedienung Unterflurhydrant](https://brunnthal.de/media/1707/merkblatt-bedienung-unterflurhydrant.pdf) · [Berliner Wasserbetriebe – WN 314 Hinweisschilder (in Anlehnung an DIN 4066)](https://www.bwb.de/werknormen/wn314_03-2018.pdf)
     Alle Unterlagen: [Feuerwehr-Lernbar – MTA Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) und [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
 ## Lernziele
@@ -28,6 +29,7 @@ Für die Bereitstellung und den Unterhalt der Löschwasserversorgungsanlagen ist
 | **Abhängige** Löschwasserversorgung (Hydranten) | Unterflurhydrant, Überflurhydrant mit Fallmantel, Überflurhydrant ohne Fallmantel | sichergestellt durch das **Trinkwasserversorgungsnetz** |
 | **Unabhängige** Löschwasserversorgung – **unerschöpflich** | natürliche offene Gewässer (Seen, Flüsse), künstliche offene Gewässer (Kanäle, Speicherseen, Löschwasserbrunnen) | Entnahme mit der Feuerlöschkreiselpumpe über eine **selbstverlegte Saugleitung** oder einen **fest angebauten Sauganschluss** |
 | **Unabhängige** Löschwasserversorgung – **erschöpflich** | Löschwasserteiche, unterirdische Löschwasserbehälter, sonstige Behälter | wie oben |
+| **Mitgeführtes** Wasser | Löschwassertank des Fahrzeugs, z. B. LF 20 max. 2.000 l, TLF 4000 max. 4.000 l | sofort verfügbar, aber begrenzt |
 
 !!! tip "Reihenfolge bei Fahrzeugen mit Löschwasserbehälter"
     **Zuerst** die Leitung **vom Fahrzeug zum Verteiler**, **danach** die Leitung **vom Fahrzeug zur Wasserentnahmestelle**.
@@ -48,8 +50,22 @@ Der Unterflurhydrant liegt im Boden. Du erkennst ihn am **Hinweisschild** und an
 
 Das Hinweisschild zeigt die **Position des Hydranten** und den **Durchmesser der Wasserleitung**.
 
+Das Schild ist **weiß mit rotem Rand** und schwarzer Schrift.
+
+```
+   ┌───────────────────┐
+   │       H 100       │   ← H = Hydrant, 100 = lichte Weite der Leitung in mm
+   │  1,5  ┃           │   ← 1,5 m nach links (vom Betrachter aus gesehen)
+   │ ━━━━━━╋━━━━━━     │
+   │       ┃ 4,2       │   ← 4,2 m vor dem Schild
+   └───────────────────┘
+```
+
+!!! example "Lesen"
+    Du stehst vor dem Schild und schaust es an. Der Hydrant liegt dann **1,5 m nach links** versetzt und **4,2 m vor dem Schild**, also vom Schild aus in deine Richtung. Das Schild hängt höchstens etwa 10 m vom Hydranten entfernt.
+
 !!! tip "Hinweisschild üben"
-    Wie man die Angaben auf dem Schild genau abliest, zeigt dir dein Ausbilder am Hinweisschild vor Ort.
+    Übe das Ablesen mit deinem Ausbilder an einem Hinweisschild vor Ort.
 
 ### Inbetriebnahme Schritt für Schritt
 
@@ -63,6 +79,11 @@ Der Wassertruppführer legt mit dem Wassertruppmann fest, wer den Hydranten vorb
 6. **Hydrant spülen.**
 7. **Druckschlauch ankuppeln.**
 8. Den entsprechenden **Abgang am Standrohr öffnen**.
+
+!!! warning "Langsam bedienen und voll geöffnet lassen"
+    - Den Hydranten **langsam öffnen und schließen**, um **Druckschläge** im Trinkwassernetz zu vermeiden. Druckstöße können zu Rohrbrüchen führen.
+    - Die Hydrantenabsperrung bleibt während der Entnahme **voll geöffnet**. Die Wassermenge regelst du über die **Niederschraubventile** am Standrohr. Bei falscher Anwendung kann der Unterflurhydrant **unterspült** werden.
+    - Achtung beim Arbeiten mit dem Unterflurhydrantenschlüssel: Er kann **abrutschen**.
 
 ### Außerbetriebnahme
 
@@ -136,7 +157,7 @@ Entnahmestellen der unabhängigen Löschwasserversorgung erkennst du am **Hinwei
 | **Wassertruppführer** | bestimmt die **Anzahl der Saugschläuche** |
 | **Wasser- und Schlauchtrupp** | entnehmen die Saugschläuche und legen sie **von der Pumpe beginnend** hintereinander ab |
 | **Maschinist** | legt **2 Kupplungsschlüssel, Saugkorb, Halte- und Ventilleine** am Ende der Saugleitung bereit |
-| **Wassertrupp** | **kuppelt** die Saugschläuche und legt **Halte- und Ventilleine** an |
+| **Wassertrupp** | **kuppelt** die Saugschläuche (mit den **Kupplungsschlüsseln**) und legt **Halte- und Ventilleine** an |
 | **Schlauchtrupp** | **unterstützt** (hebt die Saugleitung zum Anlegen der Leinen an) |
 
 **Zuwasserbringen:**
@@ -157,13 +178,18 @@ Der **Abbau** erfolgt in **umgekehrter Reihenfolge**.
 !!! warning "Saugkorb mindestens 30 cm unter der Wasseroberfläche"
     Liegt der Saugkorb zu flach, bildet sich ein **Wasserstrudel (Luftsog)**, und es gibt **Ansaugschwierigkeiten**.
 
+Die Saugleitung muss **dicht** sein: Undichtigkeiten lassen keine vollständige Entlüftung zu und verringern die erreichbare Saughöhe.
+
+!!! info "Physik: Wie hoch kann man saugen?"
+    Eigentlich „saugt“ die Pumpe nicht: Der **Luftdruck** drückt das Wasser in die luftleer gemachte Saugleitung. Auf Meereshöhe reicht das theoretisch für etwa **10 m** (genau 10,33 m). Durch Verluste (rund 15 %) liegt die praktische Grenze darunter; Saughöhen **über 7,5 m** sollen vermieden werden.
+
 ### Fest angebauter Sauganschluss
 
 - Ablauf wie oben, aber **ohne Saugkorb** und **ohne Halte- und Ventilleine**.
 - Saugleitung möglichst **steigend zur Pumpe** und **ohne starke Krümmung** verlegen. Bei starker Krümmung können die Dichtflächen der Saugschläuche undicht werden.
 
 !!! info "FPN 10-1000"
-    Die Pumpenbezeichnung **FPN 10-1000** bedeutet: **F**euerlöschkreisel**p**umpe **N**ormaldruck mit einer Nennförderleistung von **1.000 l/min** bei **10 bar** Nennförderdruck.
+    Die Pumpenbezeichnung **FPN 10-1000** bedeutet: **F**euerlöschkreisel**p**umpe **N**ormaldruck mit einer Nennförderleistung von **1.000 l/min** bei **10 bar** Nennförderdruck. Dieser Nennwert gilt bei **3 m geodätischer Saughöhe**.
 
 ---
 
@@ -187,6 +213,8 @@ Falt- und rollbare Schläuche zur Förderung von Löschmitteln.
 !!! tip "Merkregel: Je weiter vorne im Alphabet, desto dicker der Schlauch"
     **A > B > C > D**
 
+**Verwendung:** B-Schläuche bilden die Versorgungsleitung (Wasserentnahmestelle → Pumpe → Verteiler), C-Schläuche die Angriffsleitung ab dem Verteiler. D-Schläuche findest du z. B. an der Kübelspritze.
+
 **Druckschläuche S** sind formbeständige Druckschläuche für den **Schnellangriff**. Wasser fließt auch im aufgerollten Zustand.
 
 ### Saugschläuche
@@ -199,7 +227,7 @@ Falt- und rollbare Schläuche zur Förderung von Löschmitteln.
 
 - Schläuche **nach jedem Gebrauch reinigen und trocknen**.
 - **Nasse** (gebrauchte) Schläuche **einfach rollen**, **trockene** (saubere) Schläuche **doppelt rollen**.
-- Möglichst nicht über den Boden und scharfe Ecken ziehen.
+- Möglichst nicht über den Boden und scharfe Ecken ziehen, **ohne Knick und Drall** verlegen.
 - Herabhängende Schlauchleitungen mit dem **Schlauchhalter** sichern. Schlauchleitungen dürfen **nicht auf tragbaren Leitern verlegt oder an ihnen befestigt** werden.
 - Zum Überfahren **Schlauchbrücken** verwenden: mindestens **3 pro Fahrbahnseite** im Abstand von **etwa 1 m**. Dann können Pkw und Lkw mit unterschiedlicher Spurbreite darüberfahren.
 
@@ -230,8 +258,8 @@ Unter „Armaturen“ versteht man **Kupplungen**, **wasserführende Armaturen**
 |--------|---------|----------|
 | zur **Wasserentnahme** | **Saugkorb** | Wasserentnahme aus offenem Gewässer; mit Rückschlagventil und Schutzsieb |
 | | **Standrohr** | Wasserentnahme aus dem **Unterflurhydranten**; drehbares Oberteil mit Niederschraubventilen, Standrohrfuß mit **Klauenmutter** |
-| zur **Löschmittelfortleitung** | **Sammelstück** | führt **zwei oder mehr kleine Leitungen** zu **einer großen** zusammen, z. B. 2 B-Leitungen am Pumpeneingang. Bei nur einer Zuleitung schließt eine Klappe den freien Ausgang selbsttätig |
-| | **Verteiler** | teilt in **mehrere Schlauchleitungen** auf (mit Niederschraubventil oder Kugelhahn) |
+| zur **Löschmittelfortleitung** | **Sammelstück** | führt **zwei oder mehr kleine Leitungen** zu **einer großen** zusammen, z. B. 2 B-Leitungen am Pumpeneingang. Üblich ist das Sammelstück **A-2B** (zwei B-Leitungen auf den A-Saugeingang). Bei nur einer Zuleitung schließt eine Klappe den freien Ausgang selbsttätig |
+| | **Verteiler** | teilt in **mehrere Schlauchleitungen** auf (mit Niederschraubventil oder Kugelhahn); üblich ist der Verteiler **B-CBC**: eine B-Leitung rein, **zwei C-Abgänge und ein B-Abgang** (Mitte) raus |
 | | **Stützkrümmer** | entlastet den Trupp am **B-Strahlrohr** (2 statt 3 Personen), verringert die **Rückstoßkräfte**; auch als Knickschutz über scharfe Kanten |
 | zur **Löschmittelabgabe** | **Strahlrohr** | gezielte Wasserabgabe durch verschiedene Strahlformen |
 
@@ -308,9 +336,9 @@ Mindestabstände beim **CM-Strahlrohr** (Ausbilderunterlage MTA 8 „Verhalten b
 | **Niederspannung** (bis 1.000 V) | 1 m | 5 m |
 | **Hochspannung** (über 1.000 V) | 5 m | 10 m |
 
-Beim **BM-Strahlrohr** erhöhen sich die Abstände um **2 m**. Im Fragenkatalog wird „1 m Sprühstrahl bei Niederspannung und 10 m Vollstrahl bei Hochspannung“ abgefragt.
+Bei **mehr als 5 bar** am Strahlrohr erhöhen sich die Abstände um **2 m**. Beim Einsatz von **BM-Strahlrohren** kann sich der Abstand auf **bis zu 18 m** vergrößern. Im Fragenkatalog wird „1 m Sprühstrahl bei Niederspannung und 10 m Vollstrahl bei Hochspannung“ abgefragt.
 
-Bei Hohlstrahlrohren gelten die Angaben in der **Bedienungsanleitung des Herstellers**.
+**Genormte Hohlstrahlrohre:** bei Niederspannung Sprühstrahl 1 m, Vollstrahl 5 m; bei Hochspannung nach Bedienungsanleitung des Strahlrohrs. Bei **nicht genormten** Hohlstrahlrohren gelten die Mindestabstände aus der **Bedienungsanleitung**.
 
 ---
 

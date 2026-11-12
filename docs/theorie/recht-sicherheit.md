@@ -5,6 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 2.1 „Organisation der Feuerwehr“ und MTA 2.2 „Rechte und Pflichten, Satzungen der Feuerwehr“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Merkblatt 1.009 „Versicherungsschutz“, für die Sicherheitsregeln die Unterlagen MTA 5.1 „PSA“, 7.1 „Verhalten im Einsatz“, 7.2 „Hygiene im Einsatz“, 8 „Verhalten bei Gefahr“, 9.5 „Einheiten im Löscheinsatz“ und 10.1 „Sichern gegen Absturz“ (alle SFS Würzburg), der amtliche Text des BayFwG (Stand Juli 2025), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Verhalten im Einsatz](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr)
+    Ergänzend: [§ 38 StVO](https://www.gesetze-im-internet.de/stvo_2013/__38.html) · [KUVB-Information zur DGUV Vorschrift 49 „Feuerwehren“ (2019)](https://www.kfv-landsberg.net/phocadownload/fb2/Die_neue_Unfallverhtungsvorschrift__2019-01-23_.pdf) · [Bekanntmachung zur FwDV 100 in Bayern](https://www.gesetze-bayern.de/Content/Document/BayVwV96946/true) · [brandwacht 4/2022 „Hygiene bei der Feuerwehr“](https://www.brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_4_2022_s142_144_einsatzhygiene.pdf)
 
 ## Lernziele
 
@@ -98,7 +99,7 @@ Außerdem gilt nach **Art. 4 Abs. 2**:
 
 #### Freiwillige Aufgaben (KANN)
 
-Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Gesundheit, Einsatz mit Zustimmung der Gemeinde. Die Feuerwehr darf sie nur übernehmen, wenn die **Einsatzbereitschaft nicht leidet** (Art. 4 Abs. 3).
+Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Gesundheit, Einsatz mit Zustimmung der Gemeinde. Im Einzelfall ordnet sie der **Kommandant oder der zuständige Führungsdienstgrad** an. Die Feuerwehr darf sie nur übernehmen, wenn die **Einsatzbereitschaft nicht leidet** (Art. 4 Abs. 3).
 
 - Wespennester beseitigen, Bienenschwärme einfangen
 - Türöffnung bei Schlüsselverlust (**ohne** Gefahr – mit hilfloser Person dahinter ist es technische Hilfe!)
@@ -143,7 +144,8 @@ Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Ge
 
 **Feuerwehrdienst ist Ehrenamt** (Art. 6 Abs. 1). Feuerwehrdienstleistende sind verpflichtet:
 
-1. **Teilnahme an Einsätzen, Ausbildung und Bereitschaftsdiensten**
+1. **Teilnahme an Einsätzen, Ausbildung, Sicherheitswachen und Bereitschaftsdiensten** – unverzüglich und regelmäßig
+   - Nach Alarmierung **unverzüglich am Feuerwehrhaus einfinden**
    - Lehrgänge besuchen (z. B. MTA)
 
 2. **Weisungen befolgen**
@@ -177,7 +179,10 @@ Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Ge
 
 ### Was sind UVV?
 
-Die **Unfallverhütungsvorschriften** werden von der **Kommunalen Unfallversicherung Bayern (KUVB)** erlassen und sollen helfen, Unfälle zu vermeiden. Für die Feuerwehr gilt die **UVV „Feuerwehren“** (in den Unterlagen auch als GUV-V C 53 bezeichnet).
+Die **Unfallverhütungsvorschriften** werden von der **Kommunalen Unfallversicherung Bayern (KUVB)** erlassen und sollen helfen, Unfälle zu vermeiden. Sie sind – wie Gesetze und Verordnungen im Arbeitsschutz – **verbindlich**. Für die Feuerwehr gilt die **UVV „Feuerwehren“**.
+
+!!! note "GUV-V C 53 oder DGUV Vorschrift 49?"
+    Die frühere UVV „Feuerwehren“ hieß **GUV-V C 53** (gültig seit 1989) – so steht es noch in einigen MTA-Unterlagen. In Bayern gilt seit dem **23.01.2019** die neu gefasste **DGUV Vorschrift 49 „Feuerwehren“**, die die KUVB in Kraft gesetzt hat. Gemeint ist in beiden Fällen die UVV „Feuerwehren“.
 
 - Die UVV „Feuerwehren“ gilt bei **Einsätzen, Übungen und Ausbildung**.
 - **Jeder** hat die Pflicht, sich mit dem Inhalt vertraut zu machen und danach zu handeln.
@@ -210,7 +215,7 @@ Sind besondere Gefahren zu erwarten, wird die Mindestausrüstung **erweitert** o
 
 #### 2. Arbeiten im Trupp
 
-**Regel:** Gearbeitet wird **truppweise**. Ein Trupp besteht aus **Truppführer und Truppmann**. Der Trupp **bleibt stets zusammen** und beachtet die Eigensicherung.
+**Regel:** Gearbeitet wird **truppweise**. Ein Trupp besteht aus **Truppführer und Truppmann**. Der Trupp **bleibt stets zusammen** und beachtet die Eigensicherung. Umgangssprachlich spricht man von der „Zweimannregel“.
 
 **Beispiel:** Auch beim Erkunden im zugewiesenen Bereich gehst du **nicht allein** los.
 
@@ -224,7 +229,7 @@ Sind besondere Gefahren zu erwarten, wird die Mindestausrüstung **erweitert** o
 
 - **Halten** mit **Feuerwehr-Haltegurt + Feuerwehrleine**: Es besteht **keine Gefahr eines Absturzes**. Die Sicherungsleine ist **oberhalb** des zu Sichernden angeschlagen und wird immer straff geführt.
 - **Rückhalten** mit **Feuerwehr-Haltegurt + Feuerwehrleine**: Der Absturz ist ausgeschlossen, weil die Absturzkante **nicht erreicht werden kann**. Es darf keine Gefahr des Einbrechens bestehen. Mindestabstand zur Absturzkante **ca. zwei Meter**.
-- **Absturz nicht definitiv auszuschließen**: Dann muss **immer ein Gerätesatz „Absturzsicherung“** verwendet werden. Halten und Rückhalten dürfen auf keinen Fall damit verwechselt werden.
+- **Absturz nicht definitiv auszuschließen**: Dann muss **immer ein Gerätesatz „Absturzsicherung“** verwendet werden. Halten und Rückhalten dürfen auf keinen Fall damit verwechselt werden. Die Feuerwehrleine darf hier nicht eingesetzt werden, und der **Feuerwehr-Haltegurt darf grundsätzlich nicht als Auffanggurt** genutzt werden.
 
 **Beispiel:** Arbeit auf einem tragfähigen Flachdach mit Abstand zur Kante: Rückhalten mit Haltegurt und Feuerwehrleine ist möglich. Arbeit direkt an der Dachkante: Haltegurt und Feuerwehrleine reichen **nicht**.
 
@@ -279,8 +284,11 @@ Details: [Sichern gegen Absturz](leitern-absturz.md#sichern-gegen-absturz)
 | **FwDV 3** | Einheiten im Lösch- und Hilfeleistungseinsatz |
 | **FwDV 7** | Atemschutz |
 | **FwDV 10** | Die tragbaren Leitern |
+| **FwDV 100** | Führung und Leitung im Einsatz |
 | **FwDV 500** | Einheiten im ABC-Einsatz |
-| **FwDV 810** | Sprech- und Datenfunkverkehr |
+| **FwDV 800 / 810** | Regeln für den Sprechfunkverkehr (FwDV 810: Sprech- und Datenfunkverkehr) |
+
+Auch die **FwDV 100** ist in Bayern vom Innenministerium zur Anwendung in Aus- und Fortbildung sowie im Einsatz **empfohlen** (Bekanntmachung vom 10.08.2004).
 
 ---
 
@@ -448,7 +456,7 @@ Wenn die Gefahr zu groß wird → **Rückzug**!
 
 ### 8. Einsatzstellenhygiene
 
-Brandrauch enthält **immer gesundheitsschädliche Stoffe**. Sie können über die **Atemwege**, den **Magen-Darm-Trakt** oder die **Haut** in den Körper gelangen. Deshalb:
+Brandrauch enthält **immer gesundheitsschädliche Stoffe** – darunter auch **krebserregende**. Waren Einsatzkräfte krebserregenden Stoffen ausgesetzt, wird das deshalb im Expositionsverzeichnis der DGUV dokumentiert. Die Stoffe können über die **Atemwege**, den **Magen-Darm-Trakt** oder die **Haut** in den Körper gelangen. Deshalb:
 
 **An der Einsatzstelle:**
 
@@ -503,7 +511,12 @@ Feuerwehr, Polizei, Bundeswehr, Bundespolizei, Zoll, Katastrophenschutz und Rett
 
 ### § 38 StVO: Blaues Blinklicht
 
-**§ 38 StVO** regelt das **blaue und gelbe Blinklicht** und damit das **Wegerecht**. Mit dem Privatfahrzeug gibt es **kein Wegerecht**, weil andere Verkehrsteilnehmer den Alarm nicht erkennen können.
+**§ 38 StVO** regelt das **blaue und gelbe Blinklicht** und damit das **Wegerecht**:
+
+- **Blaulicht + Einsatzhorn** zusammen nur, wenn **höchste Eile** geboten ist (z. B. um Menschenleben zu retten oder schwere gesundheitliche Schäden abzuwenden, Gefahr für die öffentliche Sicherheit oder Ordnung abzuwenden oder bedeutende Sachwerte zu erhalten). Es ordnet an: **„Alle übrigen Verkehrsteilnehmer haben sofort freie Bahn zu schaffen.“**
+- **Blaulicht allein** dient nur zur **Warnung** – an Unfall- oder sonstigen Einsatzstellen, bei Einsatzfahrten oder bei der Begleitung von Fahrzeugen oder geschlossenen Verbänden.
+
+Mit dem Privatfahrzeug gibt es **kein Wegerecht**, weil andere Verkehrsteilnehmer den Alarm nicht erkennen können.
 
 ---
 
@@ -584,6 +597,8 @@ Feuerwehr, Polizei, Bundeswehr, Bundespolizei, Zoll, Katastrophenschutz und Rett
 | **Bayerisches Feuerwehrgesetz (BayFwG)** – Sonderdruck 1.001 der Staatlichen Feuerwehrschulen | [gesetze-bayern.de (amtlicher, aktueller Text)](https://www.gesetze-bayern.de/Content/Document/BayFwG/true) |
 | **Merkblatt 1.009 Versicherungsschutz** – Staatliche Feuerwehrschule Würzburg | [feuerwehr-lernbar.bayern](https://www.feuerwehr-lernbar.bayern/) · [PDF (KFV Aschaffenburg)](https://kfv-ab.de/images/Versicherungsschutz_f%C3%BCr_die_Freiwilligen_Feuerwehren_Bayerns.pdf) |
 | **KUVB** – FAQs zum Versicherungsschutz für Feuerwehren | [kuvb.de](https://www.kuvb.de/) |
+| **DGUV Vorschrift 49 „Feuerwehren“** (UVV, löst GUV-V C 53 ab) | [publikationen.dguv.de](https://publikationen.dguv.de/regelwerk/dguv-vorschriften/1507/feuerwehren) · [KUVB-Information zur Inkraftsetzung in Bayern](https://www.kfv-landsberg.net/phocadownload/fb2/Die_neue_Unfallverhtungsvorschrift__2019-01-23_.pdf) |
+| **§ 35 und § 38 StVO** | [gesetze-im-internet.de](https://www.gesetze-im-internet.de/stvo_2013/__38.html) |
 
 !!! note "Stand"
     Das BayFwG wurde zuletzt im **Juli 2025** geändert (u. a. Altersgrenze „Regelaltersgrenze" statt 65). Die online verfügbare PDF-Version des Merkblatts 1.009 kann älter sein als die gedruckte Ausgabe aus der MTA – im Zweifel gilt der aktuelle Gesetzestext.

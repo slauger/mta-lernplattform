@@ -3,8 +3,9 @@
 **MTA-Module:** 3, 5.3, 9.3 · **Grundlage:** Merkblätter 5.01 „Brennen und Löschen“ und 5.02 „Löschmittel – Löschverfahren“ der SFS Würzburg
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 3 „Brennen und Löschen“, Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.3 „Löschen – Anwendung im Brandeinsatz“, Teilnehmer- und Ausbilderunterlage MTA 5.3 „Löschgeräte – Theorie“ (Feuerlöscher), Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“ (Strahlrohrabstände) und Zwischenprüfung Praktischer Teil, Aufgabe 3 (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 3 „Brennen und Löschen“, Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.3 „Löschen – Anwendung im Brandeinsatz“, Teilnehmer- und Ausbilderunterlage MTA 5.3 „Löschgeräte – Theorie“ (Feuerlöscher), Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“ (Strahlrohrabstände, Atemgifte), Teilnehmerunterlage MTA 7.2 „Hygiene im Einsatz“ (Brandrauch) und Zwischenprüfung Praktischer Teil, Aufgabe 3 (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Brennen und Löschen](https://www.feuerwehr-lernbar.bayern/post/brennen-und-loschen) und [Feuerwehr-Lernbar – MTA Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz)
+    Ergänzend: Merkblätter für die Feuerwehren Bayerns [5.001 „Brennen und Löschen“](https://grafing.feuerwehren.bayern/media/filer_public/d5/d3/d5d38b0d-77ba-45a7-95b5-975d31e3d3fd/brennen_und_loeschen_version-40.pdf) (Version 4.1), [5.002 „Löschmittel – Löschverfahren“](https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf) (Version 4.1) und [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Version 4.1, Brandklassen-Beispiele nach DIN EN 2), alle SFS Würzburg.
 
 ## Lernziele
 
@@ -64,7 +65,7 @@ Brennstoffe werden nach ihrem **Aggregatzustand** eingeteilt:
 
 - Farbloses, geruchloses Gas, **nicht brennbar**
 - Mit ca. **21 %** in der Umgebungsluft enthalten
-- **Ohne Sauerstoff ist keine Verbrennung möglich**
+- **Ohne Sauerstoff ist keine Verbrennung möglich**. Sinkt der Sauerstoffanteil der Luft unter ca. **15 %**, kann in den meisten Fällen keine Verbrennung mehr ablaufen.
 - Je besser Sauerstoff und brennbarer Stoff gemischt sind, desto intensiver die Verbrennung
 - Mehr Sauerstoff beschleunigt die Verbrennung, z. B. beim Öffnen einer Tür zum Brandraum (**Stichflammengefahr**)
 
@@ -111,16 +112,16 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 
 | Brandklasse | Stoffart | Beispiele | Geeignete Löschmittel |
 |-------------|----------|-----------|-----------------------|
-| **A** | Feste, glutbildende Stoffe | Holz, Papier, Kohle | Wasser, Wasser mit Zusätzen, Schaum, ABC-Pulver (Glutbrandpulver) |
-| **B** | Flüssige oder flüssig werdende Stoffe | Benzin, Diesel, Petroleum, Kerzenwachs | Schaum, ABC-/BC-Pulver, CO₂ |
-| **C** | Gasförmige Stoffe | Erdgas, Propan, Acetylen | ABC-/BC-Pulver, CO₂; Gaszufuhr absperren |
-| **D** | Metalle | z. B. Magnesium | D-Löschpulver, trockener Sand/Zement |
+| **A** | Feste, glutbildende Stoffe | Holz, Papier, Stroh, Textilien, Kohle | Wasser, Wasser mit Zusätzen, Schaum, ABC-Pulver (Glutbrandpulver) |
+| **B** | Flüssige oder flüssig werdende Stoffe | Benzin, Diesel, Petroleum, Öle, Lacke, Teer, Kerzenwachs | Schaum, ABC-/BC-Pulver, CO₂ |
+| **C** | Gasförmige Stoffe | Erdgas, Propan, Wasserstoff, Acetylen | ABC-/BC-Pulver, CO₂; Gaszufuhr absperren |
+| **D** | Metalle | Magnesium, Aluminium, Lithium, Natrium, Kalium | D-Löschpulver, trockener Sand/Zement |
 | **F** | Speiseöle und -fette | in Frittier- und Fettbackgeräten | Fettbrandlöscher, Deckel auf Fritteuse/Topf |
 
 ### Brandklasse A – Feste Stoffe
 
 - Brände fester Stoffe, hauptsächlich organischer Natur, die normalerweise **unter Glutbildung** verbrennen
-- Beispiele: Holz, Papier, Kohle
+- Beispiele: Holz, Papier, Stroh, Textilien, Kohle
 - Löschverfahren im Regelfall: **Abkühlen**
 
 !!! success "Prüfungsantwort"
@@ -131,11 +132,12 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 ### Brandklasse B – Flüssigkeiten
 
 - Brände von flüssigen oder flüssig werdenden Stoffen, Verbrennung **nur mit Flamme (ohne Glut)**
-- Beispiele: Benzin, Diesel, Petroleum, Spiritus, Kerzenwachs
+- Beispiele: Benzin, Diesel, Petroleum, Spiritus, Öle, Lacke, Teer, Kerzenwachs
 - Löschverfahren im Regelfall: **Ersticken**, z. B. Schaumteppich auf der Flüssigkeit
 
 !!! danger "Wasser bei brennbaren Flüssigkeiten nur eingeschränkt!"
     Es brennen **nur die Dämpfe** einer Flüssigkeit. Wasser ist für Brandklasse B nur **eingeschränkt** geeignet: Ein Benzinbrand lässt sich mit Wasser aus der Sprühflasche nicht löschen, und bei Behältern mit brennbaren Flüssigkeiten droht das **Überlaufen**.
+    Die meisten brennbaren Flüssigkeiten sind **leichter als Wasser**. Das Löschwasser sinkt darin zu Boden, ohne nennenswert auf die Flammen zu wirken. Läuft der Behälter durch den Wassereintrag über, breitet sich der Brand aus.
 
 **Richtig löschen:**
 
@@ -148,9 +150,12 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 ### Brandklasse C – Gase
 
 - Brände von Gasen, Verbrennung **nur mit Flamme (ohne Glut)**
-- Beispiele: Erdgas, Propan, Acetylen
+- Beispiele: Erdgas, Propan, Wasserstoff, Acetylen
 - Löschmittel: ABC-/BC-Pulver, CO₂. **Schaum** löscht einen Propangasbrand **nicht**.
 - Löschverfahren **Beseitigen:** Gasleitung bzw. Gaszufuhr schließen
+
+!!! warning "Erst die Gaszufuhr absperren!"
+    Gasbrände werden in der Praxis meist **nicht gelöscht**, sondern durch **Abstellen der Gaszufuhr** beendet. Wird die Flamme gelöscht, ohne dass die Gaszufuhr unmittelbar danach unterbrochen werden kann, strömt unverbranntes Gas aus. Es entsteht **Explosionsgefahr**.
 
 ---
 
@@ -162,7 +167,7 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 - Brennende Magnesiumspäne lassen sich weder mit ABC-Pulver noch mit CO₂ löschen, nur mit D-Pulver.
 
 !!! danger "Kein Wasser auf Metallbrände!"
-    Bei Bränden der Brandklasse D darf **kein Wasser** als Löschmittel verwendet werden.
+    Bei Bränden der Brandklasse D darf **kein Wasser** als Löschmittel verwendet werden. Bei den sehr hohen Verbrennungstemperaturen reagiert Wasser heftig mit dem brennenden Metall, dabei wird brennbarer **Wasserstoff** abgespalten. Es besteht die Gefahr einer **Knallgasexplosion**.
 
 ---
 
@@ -189,6 +194,9 @@ Eine Verbrennung endet von selbst, wenn die Verbrennungswärme nicht mehr ausrei
 
 !!! tip "Merke"
     Beim Einsatz von **Löschmitteln** kommen vorrangig nur **Abkühlen** und **Ersticken** zur Anwendung.
+
+!!! info "Antikatalytische Löschwirkung (Inhibition)"
+    Das Merkblatt 5.001 nennt zusätzlich die **antikatalytische Löschwirkung**: Das Löschmittel greift direkt in die Verbrennungsreaktion ein und unterbricht die **Kettenreaktion** der Verbrennung. Darauf beruht vor allem die schlagartige Wirkung von **Löschpulver** bei Flammenbränden. In der Praxis wird sie vereinfachend dem Ersticken zugeordnet („inneres Ersticken“). Für die MTA-Prüfung gelten die drei Löschverfahren **Abkühlen, Ersticken, Beseitigen**.
 
 ---
 
@@ -268,6 +276,12 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 
 **Schaumarten:** **Schwerschaum, Mittelschaum, Leichtschaum**. Maßgebend ist die **Verschäumungszahl**: Sie gibt an, um wie viel größer das Schaumvolumen ist als das Volumen des Wasser-Schaummittel-Gemisches.
 
+| Schaumart | Verschäumungszahl | Typische Anwendung |
+|-----------|-------------------|--------------------|
+| **Schwerschaum** | bis 20 | Hoher Wasseranteil, kühlt auch, relativ große Wurfweite. Besonders für größere Flüssigkeitsbrände. |
+| **Mittelschaum** | über 20 bis 200 | Geringere Wurfweite, wirkt fast nur erstickend. Eher zum schützenden Abdecken ausgelaufener Stoffe. |
+| **Leichtschaum** | über 200 | Sehr geringe Dichte. Zum **Fluten** geschlossener Räume wie Hallen oder Keller, wenn der Brandherd nicht zugänglich ist. |
+
 **Erzeugung und Ausbringung:** Feuerlöscher, Schaumstrahlrohr und Zumischer, Fahrzeuge mit Druckluftschaumanlage, Schaumwerfer, Leichtschaumgeneratoren
 
 !!! info "Schaum bei Benzinbränden"
@@ -285,6 +299,10 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 - Anwendungsbereich: Brandklassen (A), B, C
 - Ausbringung: tragbare Feuerlöscher, fahrbare Geräte, ortsfeste Löschanlagen
 
+!!! warning "Nachteile von Löschpulver"
+    - Pulver **verunreinigt** die Brandstelle großflächig, vor allem in Gebäuden. Danach ist oft eine aufwändige Reinigung nötig, in empfindlichen technischen Anlagen kann Pulver große Schäden anrichten.
+    - Pulver kühlt kaum. Besonders bei Bränden der Klasse B besteht nach dem Löschen **Rückzündungsgefahr** an heißen Oberflächen.
+
 **D-Löschpulver (Metallbrandpulver):**
 
 - Hauptlöschwirkung: **Ersticken**. Das brennende Metall wird abgedeckt, der Sauerstoff kommt nicht mehr heran.
@@ -301,6 +319,7 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 - Bei Normaltemperatur **schwerer als Luft**
 - **Elektrisch nicht leitend**
 - Niedrige Austrittstemperatur (ca. −70 °C)
+- Verflüchtigt sich **rückstandsfrei**, es bleiben keine Verunreinigungen zurück
 
 **Hauptlöschwirkung:** **Ersticken durch Verdrängen**: Der Sauerstoffanteil der Luft wird unter die für die Verbrennung nötige Konzentration gesenkt. Die Kühlwirkung ist gering.
 
@@ -309,7 +328,7 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 **Ausbringung:** tragbare Feuerlöscher oder fahrbare Geräte mit Düsen (Gas) oder Schneerohr (Kohlendioxidschnee), ortsfeste Löschanlagen
 
 !!! danger "Lebensgefahr!"
-    CO₂ steuert die Atmung und wirkt bei **zu hoher Konzentration erstickend**.
+    CO₂ ist **toxisch**. Es verdrängt den Sauerstoff und wirkt zusätzlich über die Steuerung der Atmung: Bei leicht erhöhter Konzentration steigt die Atemfrequenz, bei hoher Konzentration kommt es bis zum **Atemstillstand**.
 
 ---
 
@@ -409,6 +428,11 @@ Ein typisches Atemgift im Brandrauch ist **Kohlenmonoxid (CO)**:
 - farb-, geruch- und geschmacklos
 - brennbar und leichter als Luft
 - giftig (Blut- und Nervengift)
+
+Daneben kann Brandrauch weitere Atemgifte enthalten, z. B. **Blausäure**, Chlorwasserstoff oder Stickoxide. Beim Verbrennen von PVC entstehen Salzsäuredämpfe.
+
+!!! danger "Rauch tötet schneller als Feuer!"
+    Bei Bränden in geschlossenen Räumen geht vom Brandrauch meist die größte Gefahr aus. Der Großteil der Brandtoten stirbt nicht durch Hitze oder Flammen, sondern an einer **Rauchgasvergiftung**.
 
 **Schutz:** Ohne Atemschutz nur **außerhalb der Rauchgrenze** arbeiten. Bei Fahrzeugbränden möglichst Atemschutz verwenden.
 
@@ -571,6 +595,9 @@ Gefahr: Die Person läuft in Panik davon.
 
 ??? question "10. Nenne die Einsatzgrundsätze für tragbare Feuerlöscher."
     **Antwort:** In Windrichtung angreifen, von vorne nach hinten und Flächenbrände vom Rand her löschen, von unten nach oben löschen (Tropf- und Fließbrände von oben nach unten), mehrere Löscher gleichzeitig einsetzen, Vorsicht vor Wiederentzündung.
+
+??? question "11. Woran sterben die meisten Brandopfer?"
+    **Antwort:** Am Brandrauch (Rauchgasvergiftung, z. B. durch Kohlenmonoxid), nicht an Hitze oder Flammen.
 
 👉 **[Alle Prüfungsfragen zu diesem Thema üben](../quiz/index.html?thema=brennen)**
 
