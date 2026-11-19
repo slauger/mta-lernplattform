@@ -1,9 +1,9 @@
 # Begriffe & Abkürzungen
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen MTA Basismodul (SFS Würzburg), BayFwG, offizieller Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen MTA Basismodul (SFS Würzburg), [BayFwG](https://www.gesetze-bayern.de/Content/Document/BayFwG), offizieller Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation)
-    Ergänzend: FwDV 7 „Atemschutz“ (Stand 2002 mit Änderungen 2005, z. B. [hier als PDF](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), Merkblatt für die Feuerwehren Bayerns [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Brandklassen-Beispiele nach DIN EN 2), [DIN 14811](https://www.dinmedia.de/de/norm/din-14811/101847000).
+    Ergänzend: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (Stand 2008)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm), FwDV 7 „Atemschutz“ (Stand 2002 mit Änderungen 2005, z. B. [hier als PDF](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), Merkblatt für die Feuerwehren Bayerns [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Brandklassen-Beispiele nach DIN EN 2), [DIN 14811](https://www.dinmedia.de/de/norm/din-14811/101847000).
 
 Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die du für die MTA brauchst. Jeder Begriff enthält eine **Erklärung** und ein **Praxisbeispiel**.
 
@@ -206,7 +206,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### BF (Berufsfeuerwehr)
-**Erklärung:** Feuerwehr aus Beamten des feuerwehrtechnischen Dienstes. Die Gemeinde muss sie aufstellen, wenn eine Freiwillige Feuerwehr oder Pflichtfeuerwehr nicht ausreicht. Das BayFwG nennt die gemeindlichen Feuerwehren (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) und die Werkfeuerwehren.
+**Erklärung:** Feuerwehr aus Beamten des feuerwehrtechnischen Dienstes. Das BayFwG nennt die gemeindlichen Feuerwehren (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) und die Werkfeuerwehren. Eine Pflichtfeuerwehr muss die Gemeinde aufstellen, wenn eine Freiwillige Feuerwehr nicht zustande kommt.
 
 **Beispiel:** Berufsfeuerwehren gibt es in Städten ab etwa 100.000 Einwohnern, während die FF Goldkronach ehrenamtlich arbeitet.
 
@@ -340,7 +340,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Status (Statusmeldung)
-**Erklärung:** Kurze Meldung per Funk an die Leitstelle über das Funkmeldesystem (FMS). Im Digitalfunk wird sie im TMO durch langes Drücken der entsprechenden Zifferntaste gesendet. Status 0–9 sind bundeseinheitlich.
+**Erklärung:** Kurze Meldung per Funk an die Leitstelle über das Funkmeldesystem (FMS). Im Digitalfunk wird sie nur im TMO gesendet; die Statusinformation wird über die Zifferntasten des Funkgeräts eingegeben. Status 0–9 sind bundeseinheitlich.
 
 **Beispiel:** Status 2 = Einsatzbereit Wache, Status 3 = Einsatzübernahme, Status 4 = Einsatzort.
 
@@ -354,7 +354,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Führungskraft
-**Erklärung:** Person mit Führungsverantwortung. Einheitsführer sind Truppführer, Staffelführer, Gruppenführer und Zugführer.
+**Erklärung:** Person mit Führungsverantwortung. Einheitsführer sind Truppführer (eines selbstständigen Trupps), Staffelführer, Gruppenführer und Zugführer (FwDV 3).
 
 **Beispiel:** Der Gruppenführer ist die Führungskraft der Gruppe.
 
@@ -490,7 +490,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### KBI (Kreisbrandinspektor)
-**Erklärung:** Führungsdienstgrad auf Landkreisebene. Er ist für einen **Inspektionsbereich** zuständig, z. B. die Inspektion I im Landkreis Bayreuth. Ein KBI ist zugleich Vertreter des Kreisbrandrats.
+**Erklärung:** Führungsdienstgrad auf Landkreisebene. Er ist für einen **Inspektionsbereich** zuständig, z. B. die Inspektion I im Landkreis Bayreuth. Die Kreisbrandinspektoren werden vom Kreisbrandrat bestellt und sind seine Vertreter; einen von ihnen bestimmt er zu seinem ständigen Vertreter.
 
 **Beispiel:** Der KBI der Inspektion I eröffnet die MTA mit der Lehrgangsorganisation.
 

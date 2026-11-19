@@ -3,8 +3,8 @@
 **MTA-Module:** 4.1, 4.2, 5.1, 5.2, 5.3, 5.4, 5.13
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen MTA 4.1 Fahrzeugkunde – Theorie, Ausbilderunterlage MTA 4.2 Fahrzeugkunde – Praxis, Präsentation Fahrzeugkunde, Fachinformation „Feuerwehrfahrzeuge“, Teilnehmer- und Ausbilderunterlagen MTA 5.1 Persönliche Schutzausrüstung und MTA 5.2 Spezielle Persönliche Schutzausrüstung, Teilnehmer- und Ausbilderunterlage MTA 5.3 Löschgeräte, Ausbilderunterlage MTA 5.13 Beleuchtungs- und Warngeräte (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
-    Alle Unterlagen: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) und [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
+    Teilnehmer- und Ausbilderunterlagen MTA 4.1 Fahrzeugkunde – Theorie, Ausbilderunterlage MTA 4.2 Fahrzeugkunde – Praxis, Präsentation Fahrzeugkunde, Fachinformation „Feuerwehrfahrzeuge“, Teilnehmer- und Ausbilderunterlagen MTA 5.1 Persönliche Schutzausrüstung und MTA 5.2 Spezielle Persönliche Schutzausrüstung, Teilnehmer- und Ausbilderunterlage MTA 5.3 Löschgeräte, Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen, Ausbilderunterlage MTA 5.8 Geräte für die erweiterte Hilfeleistung, Ausbilderunterlage MTA 5.13 Beleuchtungs- und Warngeräte (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Alle Unterlagen: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen), [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) und [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
     Ergänzend: FwDV 7 Atemschutz, Stand 2002/2005 ([PDF](https://www.lv-saarland.drk.de/fileadmin/user_upload/FwDV7.pdf)) zu Fülldruck und Atemfiltern, [DIN 14345 Verteiler B-CBC](https://www.dinmedia.de/de/norm/din-14345/150889629) (ersetzt durch DIN EN 17407) und das Handout FIS II.2 des INFS Luxemburg ([PDF](https://112.public.lu/content/dam/112/fr/formation/handouts-leveso/20220120-fis-ii2-handout.pdf)) zu Hoch- und Niederdruckhebekissen.
 
 ## Lernziele
@@ -222,7 +222,7 @@ Hydraulisches Rettungsgerät (Spreizer, Schneidgerät, Rettungszylinder), Hebeki
     Hebekissen (Druckkissen) werden pneumatisch mit Druckluft aus Druckluftflaschen betrieben. Laut MTA-Unterlage haben sie z. B. eine Hubkraft von 96 bis 677 kN, eine Hubhöhe von 20 bis 50 cm und einen Betriebsüberdruck von max. 8 bar. Der Ausbilder soll den Unterschied zwischen Niederdruck- und Hochdruckhebekissen erklären:
 
     - **Hochdruckhebekissen** (ca. 8 bis 12 bar): kleine Fläche, die nötige Hubkraft entsteht durch den **hohen Betriebsdruck**
-    - **Niederdruckhebekissen** (ca. 0,5 bis 1 bar): **große Auflagefläche**, die Hubkraft entsteht durch die große Fläche bei geringem Druck. Sie werden z. B. eingesetzt, wenn Lasten mit empfindlicher Bausubstanz angehoben werden müssen.
+    - **Niederdruckhebekissen** (bis ca. 1 bar): **große Auflagefläche**, die Hubkraft entsteht durch die große Fläche bei geringem Druck. Sie werden z. B. eingesetzt, wenn Lasten mit empfindlicher Bausubstanz angehoben werden müssen.
 
 ---
 
@@ -288,7 +288,7 @@ Gegen manche Gefahren (z. B. Atemgifte, Hitzestrahlung, Ätzwirkung) bietet die 
 | **Starke Wärmestrahlung** | **Hitzeschutzkleidung** Form I, II oder III |
 | **Brennbare Flüssigkeiten** | Kopfhaube mit Sichtschutzgitter, Latzhose, Jacke, Handschuhe mit langen Stulpen, Gummistiefel, ggf. umluftunabhängiger Atemschutz |
 | **Chemikalien** | Flüssigkeitsschutzanzug (nicht gasdicht) oder gasdichter **Chemikalienschutzanzug (CSA)**. CSA nur mit umluftunabhängigem Atemschutz und nach zusätzlicher CSA-Ausbildung. |
-| **Radioaktive Stoffe** | Kontaminationsschutzhaube oder Kontaminationsschutzanzug mit Handschuhen mit langen Stulpen, nur mit umluftunabhängigem Atemschutz |
+| **Radioaktive Stoffe** | Kontaminationsschutzhaube oder Kontaminationsschutzanzug mit Handschuhen mit langen Stulpen, nur mit umluftunabhängigem Atemschutz. Schützt nur vor **Verschmutzung (Kontamination)** mit radioaktiven Stoffen, **nicht vor radioaktiver Strahlung** |
 | **Motorsäge** | Schnittschutzhose, Augen-/Gesichtsschutz, Schnittschutzstiefel, ggf. Forstarbeiterhelm |
 | **Insektenbekämpfung** | einteiliger Schutzanzug, Kopfhaube mit Sichtfenster, Handschuhe mit dicht anliegenden Stulpen, Feuerwehrstiefel |
 
@@ -297,7 +297,7 @@ Gegen manche Gefahren (z. B. Atemgifte, Hitzestrahlung, Ätzwirkung) bietet die 
 ## Atemschutzgeräte
 
 !!! info "Zusätzliche Ausbildung nötig"
-    Für Atemschutzgeräte ist eine **zusätzliche Ausbildung** als Atemschutzgeräteträger nötig, dazu die Tauglichkeit nach **G 26.3** (Pressluftatmer) bzw. **G 26.2** (Filtergeräte). Hier nur der Überblick aus MTA 5.2.
+    Für Atemschutzgeräte ist eine **zusätzliche Ausbildung** als Atemschutzgeräteträger nötig, dazu die arbeitsmedizinische Tauglichkeit nach **G 26** „Atemschutzgeräte“ (FwDV 7; für Pressluftatmer die Gerätegruppe 3, **G 26.3**). Hier nur der Überblick aus MTA 5.2.
 
 ### Pressluftatmer (PA)
 

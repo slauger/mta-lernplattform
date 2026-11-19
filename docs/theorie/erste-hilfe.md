@@ -5,7 +5,7 @@
 !!! abstract "Quelle"
     Ausbilderleitfaden MTA 5.12 Rettung und Unterlagen MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlagen Verhalten bei Gefahr und Einheiten im Hilfeleistungseinsatz (SFS Würzburg); Lehrplan, Konzept zur Schulung und Präsentation MTA 6.2 „Stressbewältigung bei der Feuerwehr – Umgang mit Belastungen im Einsatzwesen“ (Staatliche Feuerwehrschulen Bayerns / LFV Bayern); praktische Zwischenprüfung Aufgabe 1 „Auffinden einer bewusstlosen Person“; dazu der offizielle Fragenkatalog. Für MTA 6.1 Erste Hilfe gibt es keine eigene SFS-Teilnehmerunterlage.
     Alle Unterlagen: [Feuerwehr-Lernbar – Erste Hilfe](https://www.feuerwehr-lernbar.bayern/post/mta-erste-hilfe) · [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
-    Ergänzend für die Erste-Hilfe-Maßnahmen (Wiederbelebung, Blutung, Schock, Betreuung): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm).
+    Ergänzend für die Erste-Hilfe-Maßnahmen (Wiederbelebung, Blutung, Schock, Betreuung): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm). Ergänzend: [FwDV 7 „Atemschutz“](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2022-09/FwDV%207%20-%20Homepage.pdf) (Ausrüstung des Sicherheitstrupps, z. B. Rettungstuch) · [Feuerwehr-Lernbar – Einsatz des Rautek-Griffs](https://www.feuerwehr-lernbar.bayern/post/einsatz-des-rautek-griffs) (Instruktionsblatt der Staatlichen Feuerwehrschulen Bayerns zur Sofortrettung).
 
 ## Lernziele
 

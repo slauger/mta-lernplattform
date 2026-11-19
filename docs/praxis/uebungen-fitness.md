@@ -18,7 +18,7 @@ Die Feuerwehr ist **körperlich extrem fordernd**:
 - **Schläuche tragen**: 15-20 kg
 - **Leitern aufstellen**: 30-50 kg
 - **Personen retten**: 60-100 kg+ tragen
-- **Atemschutz**: 15 kg Zusatzgewicht + verringerte Sauerstoffzufuhr
+- **Atemschutz**: ca. 15 kg Zusatzgewicht (Pressluftatmer)
 - **Hitze**: Bis zu 300°C in Brandnähe
 - **Lange Einsätze**: Manchmal mehrere Stunden ohne Pause
 
@@ -437,7 +437,7 @@ Bei der Alarmierung musst du **schnell** in die PSA. Ziel: **Unter 60 Sekunden!*
 
 ## Prüfungsvorbereitung: Körperliche Leistungstests
 
-Manche MTA-Lehrgänge haben **körperliche Leistungstests**. Typische Aufgaben:
+Die MTA-Zwischenprüfung enthält **keinen Fitness-Test** – sie besteht aus schriftlichem Teil, drei praktischen Aufgaben und einer Sprechfunk-Aufgabe (siehe [Zwischenprüfung](../mta-module.md#zwischenprufung)). Die folgenden Aufgaben sind **Trainingsziele**, keine Prüfungsaufgaben:
 
 ### 1. Schlauch-Lauf
 

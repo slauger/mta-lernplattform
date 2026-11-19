@@ -3,7 +3,7 @@
 **Модулі MTA:** 5.5, 9.1, 9.2, 9.4 · **Основа:** FwDV 1 «Grundtätigkeiten» (базові дії), FwDV 3
 
 !!! abstract "Джерело"
-    Матеріали для учасників і інструкторів MTA 5.5 Schläuche und Armaturen – Theorie, матеріали для інструкторів MTA 5.6 Schläuche und Armaturen – Praxis, матеріали для учасників і інструкторів MTA 9.1 Löschwasserversorgung – Theorie, матеріали для інструкторів MTA 9.2 Löschwasserentnahme – Praxis, матеріали для інструкторів MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, матеріали для учасників і інструкторів MTA 9.3 Anwendung im Brandeinsatz, матеріали для інструкторів MTA 8 «Verhalten bei Gefahr», матеріали для інструкторів MTA 4.1 «Fahrzeugkunde – Theorie» (усі – SFS Würzburg), а також офіційний каталог питань (Fragenkatalog).
+    Матеріали для учасників і інструкторів MTA 5.5 Schläuche und Armaturen – Theorie, матеріали для інструкторів MTA 5.6 Schläuche und Armaturen – Praxis, матеріали для учасників і інструкторів MTA 9.1 Löschwasserversorgung – Theorie, матеріали для інструкторів MTA 9.2 Löschwasserentnahme – Praxis, матеріали для інструкторів MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, матеріали для учасників і інструкторів MTA 9.3 Anwendung im Brandeinsatz, матеріали для інструкторів MTA 8 «Verhalten bei Gefahr», матеріали для учасників і інструкторів MTA 4.1 «Fahrzeugkunde – Theorie», а також фахова інформація «Feuerwehrfahrzeuge» (усі – SFS Würzburg / Feuerwehr-Lernbar), а також офіційний каталог питань (Fragenkatalog).
     Додатково: [HLFS Hessen – Lernunterlage Löschgeräte, Schläuche, Armaturen (06/2020) (німецькою)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2023-01/%284%29%20FB-Ausbilder_LernU_L%C3%B6schger%C3%A4te-Lernunterlage_Vers002.doc.pdf) (вказівна табличка, розгалуження, водозбірник) · [NLBK Niedersachsen – Lehrunterlage Maschinisten (німецькою)](https://www.nlbk.niedersachsen.de/download/48297) (висота всмоктування) · [UK RLP – Handlungshilfe Sichere und saubere Entnahme von Löschwasser (німецькою)](https://feuerwehr.ukrlp.de/fileadmin/ukrlp/daten/pdf/feuerwehr_portal/sicherheit_gesundheitsschutz/so_machts_die_feuerwehr/Handlungshilfe_Sichere_und_saubere_Entnahme_von_Loeschwasser.pdf) · [Gemeinde Brunnthal – Merkblatt Bedienung Unterflurhydrant (німецькою)](https://brunnthal.de/media/1707/merkblatt-bedienung-unterflurhydrant.pdf) · [Berliner Wasserbetriebe – WN 314 Hinweisschilder (in Anlehnung an DIN 4066) (німецькою)](https://www.bwb.de/werknormen/wn314_03-2018.pdf)
     Усі матеріали: [Feuerwehr-Lernbar – MTA Löscheinsatz (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) і [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
@@ -29,7 +29,7 @@
 | **Залежне** водопостачання для гасіння (гідранти) | підземний гідрант (Unterflurhydrant), надземний гідрант із падаючим кожухом (Fallmantel), надземний гідрант без падаючого кожуха | забезпечується **мережею питної води** (Trinkwasserversorgungsnetz) |
 | **Незалежне** водопостачання для гасіння – **невичерпне** | природні відкриті водойми (озера, річки), штучні відкриті водойми (канали, водосховища, пожежні колодязі (Löschwasserbrunnen)) | забір пожежним відцентровим насосом через **самостійно прокладену всмоктувальну лінію** або через **стаціонарний всмоктувальний патрубок** (fest angebauter Sauganschluss) |
 | **Незалежне** водопостачання для гасіння – **вичерпне** | пожежні ставки (Löschwasserteiche), підземні пожежні резервуари, інші резервуари | як вище |
-| **Вода, яку везе автомобіль** | цистерна автомобіля, напр. LF 20 макс. 2 000 л, TLF 4000 макс. 4 000 л | доступна одразу, але обмежена |
+| **Вода, яку везе автомобіль** | цистерна автомобіля, напр. LF 20 – 2 000 л, TLF 4000 – 4 000 л (число в позначенні автомобіля означає **мінімальну кількість** води для гасіння) | доступна одразу, але обмежена |
 
 !!! tip "Послідовність для автомобілів із цистерною"
     **Спочатку** лінія **від автомобіля до розгалуження** (Verteiler), **потім** лінія **від автомобіля до джерела води**.
@@ -62,7 +62,7 @@
 ```
 
 !!! example "Як читати"
-    Ти стоїш перед табличкою і дивишся на неї. Тоді гідрант розташований на **1,5 м ліворуч** і на **4,2 м перед табличкою**, тобто від таблички в твій бік. Табличка висить щонайбільше приблизно за 10 м від гідранта.
+    Ти стоїш перед табличкою і дивишся на неї. Тоді гідрант розташований на **1,5 м ліворуч** і на **4,2 м перед табличкою**, тобто від таблички в твій бік. Відстань від таблички до гідранта не повинна перевищувати 10 м (DIN 4066, так само Werknorm WN 314 берлінського водоканалу).
 
 !!! tip "Потренуйся з табличкою"
     Потренуйся читати табличку разом з інструктором на справжній табличці на місці.

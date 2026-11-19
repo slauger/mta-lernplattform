@@ -4,7 +4,7 @@
 
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Ausbilderunterlagen MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ und Ausbilderunterlage MTA 5.6 „Schläuche und Armaturen – Praxis“, ergänzend die Unterlagen MTA 3 „Brennen und Löschen“, MTA 5.3 „Löschgeräte“, MTA 8 „Verhalten bei Gefahr“ und MTA 9.3 „Anwendung im Brandeinsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
-    Alle Unterlagen: [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
+    Alle Unterlagen: [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) · Ergänzend: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (Stand 2008)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm) (Stärke und Gliederung der taktischen Einheiten)
 
 ## Lernziele
 
@@ -41,7 +41,7 @@ Die Stärke einer Einheit wird als **Führer / Mannschaft / Gesamt** angegeben, 
 
 | Einheit | Stärke | Funktionen | Fahrzeuge (Beispiele) |
 |---------|--------|------------|-----------------------|
-| **Selbstständiger Trupp** | 1/2/**3** | Truppführer + 2 Einsatzkräfte | z. B. TLF 3000 |
+| **Selbstständiger Trupp** | 1/2/**3** | Truppführer, Maschinist, Truppmann (FwDV 3) | z. B. TLF 3000 |
 | **Staffel** | 1/5/**6** | Staffelführer, Maschinist, Angriffstrupp (2), Wassertrupp (2) | TSF, TSF-W, TLF 16/25 |
 | **Gruppe** | 1/8/**9** | Gruppenführer, Maschinist, Melder, Angriffstrupp (2), Wassertrupp (2), Schlauchtrupp (2) | TSA, LF 8/6, (H)LF 10/6, LF 16/12, (H)LF 20/16 |
 
@@ -227,6 +227,9 @@ Der **Einheitsführer befiehlt die Lage** des Verteilers, z. B. „Verteiler zur
 - **nicht im Trümmerschatten** (durch Einsturz bedrohter Bereich)
 - **nicht im Schließbereich der Haustür**
 
+!!! warning "Achtung: Fragenkatalog"
+    Im Fragenkatalog (Basismodul) lautet die richtige Antwort zur Aufgabe des Angriffstrupps bei der Vornahme des Verteilers: „Er setzt den Verteiler; **die genaue Lage wird durch den Einheitsführer vorgegeben**.“ Im Truppführer-Katalog heißt es dagegen: „Der **Truppführer** ist für die genaue Lage des Verteilers verantwortlich“ (nicht im Trümmerschatten, nicht im Schließbereich der Haustür). Für die Prüfung beide Antworten kennen.
+
 ### Belegung der Abgänge (in Fließrichtung gesehen)
 
 ```
@@ -253,7 +256,7 @@ Der **Einheitsführer befiehlt die Lage** des Verteilers, z. B. „Verteiler zur
 
 - Bei „… Rohr Wasser halt!“ **schließt** die Einsatzkraft am Verteiler den Abgang **langsam**.
 - Beim **Stellungswechsel** wird nur geschlossen, **nicht abgekuppelt**, denn am Verteiler ist nicht bekannt, ob es ein Stellungswechsel oder eine Rücknahme ist.
-- Die Truppführer stellen sicher, dass die betreffenden Abgänge geschlossen werden.
+- Dazu kommandieren die Truppführer „1. Rohr Wasser halt!“, „2. Rohr Wasser halt!“ usw. Bei Vornahme und Rücknahme sind die Trupps für ihre Schlauchleitungen selbst verantwortlich.
 
 ---
 

@@ -1,11 +1,11 @@
 # Verhalten bei Gefahr & ABC-Einsatz
 
-**MTA-Module:** 8.0, 12.1, 12.2 · **Grundlage:** FwDV 500 „Einheiten im ABC-Einsatz“, ADR (Gefahrgutkennzeichnung)
+**MTA-Module:** 8, 12.1, 12.2 · **Grundlage:** FwDV 500 „Einheiten im ABC-Einsatz“, ADR (Gefahrgutkennzeichnung)
 
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlagen und Präsentationen MTA 12.1 „Gefahren und Kennzeichnungen“ und 12.2 „Verhalten im ABC-Einsatz“, Fachinformation und Taschenkarte „Kennzeichnung im ABC-Einsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr) und [Feuerwehr-Lernbar – ABC-Gefahrenstoffe](https://www.feuerwehr-lernbar.bayern/post/mta-abc-gefahrenstoffe)
-    Ergänzend: Abstände nach DIN VDE 0132 ([Forum Verlag](https://forum-verlag.com/fachwissen/elektrosicherheit-und-elektrotechnik/din-vde-0132-abstaende-brandbekaempfung/)), ADR-Gefahrgutliste für UN 1202/1203 ([umwelt-online](https://umwelt-online.de/recht/gefahr.gut/adr/adr_rid23/32ta1200.htm)), Abstandsgesetz bei Strahlung ([brandwacht 3/2018, SFS Regensburg](https://brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_3_2018_s97_und_115_aus_den_feuerwehrschulen_strahlen.pdf)), Stromunfall ([DGUV Information 204-007](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/4.htm)).
+    Ergänzend: Abstände nach DIN VDE 0132 ([Forum Verlag](https://forum-verlag.com/fachwissen/elektrosicherheit-und-elektrotechnik/din-vde-0132-abstaende-brandbekaempfung/)), ADR-Gefahrgutliste für UN 1202/1203 ([umwelt-online](https://umwelt-online.de/recht/gefahr.gut/adr/adr_rid23/32ta1200.htm)), Abstandsgesetz bei Strahlung ([brandwacht 3/2018, SFS Regensburg](https://brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_3_2018_s97_und_115_aus_den_feuerwehrschulen_strahlen.pdf)), Stromunfall ([DGUV Information 204-007](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/4.htm)), Wirkung von CO₂ (Merkblatt [5.002 „Löschmittel – Löschverfahren“](https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf), SFS Würzburg).
 
 ## Lernziele
 
@@ -87,11 +87,13 @@ Mögliche Anzeichen sind z. B. Kopfschmerzen, Unruhe, Sehstörungen, Übelkeit, 
 |---|---|---|
 | Entstehung | bei **unvollkommener** Verbrennung | bei **vollkommener** Verbrennung |
 | Eigenschaften | **farb-, geruch- und geschmacklos**, **brennbar** (explosionsfähig), etwas **leichter als Luft** | **farb-, geruch- und geschmacklos**, nicht brennbar, etwa 1,5-mal **schwerer als Luft** |
-| Wirkung | **giftig**: Blut- und Nervengift | **ungiftig**, steuert die Atmung, **erstickend** bei zu hoher Konzentration |
+| Wirkung | **giftig**: Blut- und Nervengift | **ungiftig** (so die Prüfungsantwort), steuert die Atmung, **erstickend** bei zu hoher Konzentration |
 
 !!! tip "Eselsbrücke"
     **CO = „C-Ohne genug Sauerstoff“**, entsteht also bei unvollkommener Verbrennung und ist giftig.
     **CO₂** ist ungiftig, wirkt aber bei zu hoher Konzentration erstickend.
+
+    Achtung: „Ungiftig“ ist die Antwort im Fragenkatalog (im Gegensatz zum Blut- und Nervengift CO). Das Merkblatt 5.002 der SFS Würzburg stuft CO₂ trotzdem als **Atemgift** ein: Es verdrängt den Sauerstoff und wirkt über die Steuerung der Atmung – bei hoher Konzentration bis zum **Atemstillstand** (siehe [Brennen & Löschen](brennen-loeschen.md)).
 
 ---
 
@@ -135,9 +137,9 @@ Elektrischer Strom kann im Körper **Herzrhythmusstörungen** sowie Störungen v
 !!! note "Genauer nach DIN VDE 0132"
     Die Norm staffelt die Hochspannung feiner: über 1 kV bis 110 kV **3 m**, über 110 kV bis 220 kV **4 m**, über 220 kV bis 380 kV **5 m**. Die MTA-Unterlagen nehmen für Hochspannung pauschal den Faustwert **5 m** – das ist auch die Prüfungsantwort für 380 kV.
 
-Die Mindestabstände gelten **auch für Gegenstände**, also auch beim **Aufstellen von Leitern** (Faustwert: Niederspannung 1 m, Hochspannung 5 m). Berühren Kräne, Bagger oder Leitern eine Hochspannungsleitung, gelten dieselben Abstände wie bei herabhängenden Freileitungen.
+Die Mindestabstände gelten **auch für Gegenstände**, also auch beim **Aufstellen von Leitern** (Faustwert: Niederspannung 1 m, Hochspannung 5 m). Berühren Kräne, Bagger oder Leitern eine Hochspannungsleitung, gelten dieselben Abstände wie bei herabhängenden Leitungen (mindestens 20 m, bei Fahrleitungen an Bahnstrecken mindestens 10 m).
 
-**Löschen mit dem CM-Strahlrohr:** Bei Niederspannung gelten **Sprühstrahl 1 m** und **Vollstrahl 5 m**. Bei Hochspannung gelten **Sprühstrahl 5 m** und **Vollstrahl 10 m**. Bei Hohlstrahlrohren stehen die Abstände in der Bedienungsanleitung.
+**Löschen mit dem CM-Strahlrohr** (bei 5 bar Strahlrohrdruck): Bei Niederspannung gelten **Sprühstrahl 1 m** und **Vollstrahl 5 m**. Bei Hochspannung gelten **Sprühstrahl 5 m** und **Vollstrahl 10 m**. Bei höherem Druck am Strahlrohr vergrößern sich die Abstände um 2 m. Genormte Hohlstrahlrohre: bei Niederspannung ebenfalls 1 m Sprühstrahl / 5 m Vollstrahl; bei Hochspannung und bei nicht genormten Hohlstrahlrohren gelten die Abstände aus der Bedienungsanleitung.
 
 ### Stromunfall im Niederspannungsbereich (230/400 V): Reihenfolge
 
@@ -223,7 +225,7 @@ Eine **verdoppelte Ziffer** bedeutet eine **Zunahme der Gefahr**. Reicht eine Zi
 
 | Aussehen | Bedeutung | Gefahr |
 |----------|-----------|--------|
-| Flamme, **schwarz auf rot** | **flüssiger** brennbarer Stoff (Klasse 3); dasselbe Symbol gibt es für entzündbare Gase (Klasse 2.1) | **Brandgefahr** |
+| Flamme, **schwarz auf rot** | **flüssiger** brennbarer Stoff (Klasse 3). Dieselbe Flamme auf Rot tragen auch entzündbare Gase (Klasse 2.1), Unterschied ist die Klassenziffer in der unteren Ecke. Prüfungsantwort zum Bild: **flüssiger** brennbarer Stoff | **Brandgefahr** |
 | Flamme, **schwarz auf weiß-rot gestreift** | entzündbarer **fester** Stoff (Klasse 4.1) | **Brandgefahr** |
 | Explodierende Bombe, **schwarz auf orange** | **explosiver** Stoff (Klasse 1) | **Explosionsgefahr** |
 | Ätzsymbol, **schwarz-weiß** | **ätzender** Stoff (Klasse 8) | **Verätzungsgefahr** |

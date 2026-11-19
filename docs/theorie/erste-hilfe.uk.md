@@ -5,7 +5,7 @@
 !!! abstract "Джерело"
     Посібник для інструкторів MTA 5.12 Rettung і матеріали MTA 5.9 Rettungsgeräte – Theorie, матеріали для інструкторів Verhalten bei Gefahr і Einheiten im Hilfeleistungseinsatz (SFS Würzburg); навчальний план, концепція навчання і презентація MTA 6.2 „Stressbewältigung bei der Feuerwehr – Umgang mit Belastungen im Einsatzwesen“ (Staatliche Feuerwehrschulen Bayerns / LFV Bayern); практичний проміжний іспит, завдання 1 „Auffinden einer bewusstlosen Person“ («Виявлення непритомної людини»); а також офіційний каталог питань. Для MTA 6.1 Erste Hilfe окремого матеріалу SFS для учасників немає.
     Усі матеріали: [Feuerwehr-Lernbar – Erste Hilfe (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-erste-hilfe) · [Feuerwehr-Lernbar – Rettungsgeräte (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
-    Додатково щодо заходів першої допомоги (реанімація, кровотеча, шок, догляд): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“ (німецькою)](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm).
+    Додатково щодо заходів першої допомоги (реанімація, кровотеча, шок, догляд): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“ (німецькою)](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm). Додатково: [FwDV 7 „Atemschutz“ (німецькою)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2022-09/FwDV%207%20-%20Homepage.pdf) (спорядження ланки безпеки, напр. рятувальне полотно) · [Feuerwehr-Lernbar – Einsatz des Rautek-Griffs (німецькою)](https://www.feuerwehr-lernbar.bayern/post/einsatz-des-rautek-griffs) (інструкційний аркуш державних пожежних шкіл Баварії щодо негайного рятування).
 
 ## Навчальні цілі {#lernziele}
 

@@ -2,6 +2,10 @@
 
 **Базовий модуль** (Basismodul) модульної підготовки ланки (MTA) поділено на пронумеровані теми (каталог навчальних цілей державних пожежних шкіл, Lernzielkatalog der Staatlichen Feuerwehrschulen). Ці номери ти знайдеш у своєму плані навчання (Ausbildungsplan) – напр. «5.10 Rettungsgeräte – Praxis Knoten und Stiche» (рятувальне обладнання – практика: вузли).
 
+!!! abstract "Джерело"
+    Загальний зміст MTA Basismodul (Gesamtinhaltsverzeichnis, стан 01/2019) і „Anpassungen MTA Basismodul“ (зміни, стан 11/2023) з розділу Lehrgangsorganisation, екзаменаційні матеріали MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (проміжний іспит – практична частина, стан 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ (протокол проміжного іспиту) і Zwischenzeugnis (проміжне свідоцтво) (усі – SFS Würzburg); план навчання 2026/27 Inspektion I, район Байройт (назви тем, дати, стовпчик «Принести»); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (директива про кваліфікаційний іспит – умови допуску).
+    Усі матеріали (німецькою): [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
+
 До кожної теми на **[Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)** (німецькою) безкоштовно і без реєстрації є:
 
 - **Матеріали для учасників** (Teilnehmerunterlagen) – те, що ти отримуєш на курсі
@@ -39,7 +43,7 @@
 | 8.0 | Поведінка в небезпеці (Verhalten bei Gefahr) | [Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr) | [Поведінка в небезпеці та ABC](theorie/gefahren-abc.md) | |
 | 9.1 / 9.2 | Протипожежне водопостачання – теорія / практика (Löschwasserversorgung) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Протипожежне водопостачання](theorie/wasserversorgung.md) | захисний костюм |
 | 9.3 | Гасіння – застосування під час пожежі (Löschen – Anwendung im Brandeinsatz) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Горіння та гасіння](theorie/brennen-loeschen.md) | |
-| 9.4 | Поводження з пожежними стволами та їх застосування (Strahlrohre) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Протипожежне водопостачання](theorie/wasserversorgung.md#strahlrohre) | захисний костюм |
+| 9.4 | Поводження з пожежними стволами та їх застосування (Strahlrohre; на Lernbar: „Handhabung von Hohlstrahlrohren“) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Протипожежне водопостачання](theorie/wasserversorgung.md#strahlrohre) | захисний костюм |
 | 9.5–9.10 | Підрозділи під час гасіння – теорія / практика (Einheiten im Löscheinsatz) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Підрозділи під час гасіння](theorie/loescheinsatz.md) | захисний костюм |
 | 10.1 / 10.2 | Страхування від падіння – теорія / практика (Sichern gegen Absturz) | [Sichern gegen Absturz](https://www.feuerwehr-lernbar.bayern/post/mta-sichern-gegen-absturz) | [Драбини та захист від падіння](theorie/leitern-absturz.md#sichern-gegen-absturz) | захисний костюм, пояс |
 | 11.1–11.7 | Підрозділи під час технічної допомоги (Einheiten im Hilfeleistungseinsatz) | [Hilfeleistungseinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) | [Технічна допомога](theorie/hilfeleistung.md) | захисний костюм, шолом із візором |
@@ -55,7 +59,7 @@
 
 ## Проміжний іспит (Zwischenprüfung) {#zwischenprufung}
 
-Проміжний іспит (тема 15) завершує базовий модуль. **Після нього ти можеш брати участь у викликах** і складати іспит на кваліфікацію (Leistungsprüfung, від рівня 2).
+Проміжний іспит (тема 15) завершує базовий модуль. **Після нього ти можеш брати участь у викликах** і складати кваліфікаційний іспит „Die Gruppe im Löscheinsatz“ (Leistungsprüfung) від **рівня 2 (Stufe 2)** (рівень 1 за директивою можливий уже під час підготовки ланки).
 
 Згідно з протоколом іспиту (Prüfungsnachweis) він складається з:
 
@@ -99,10 +103,10 @@
     - [ ] Закріпити Pfahlstich **контрольним вузлом** (Spierenstich)
 
 ??? example "Завдання 5: Ввести гідрант у дію та вивести з дії (теми 9.1 / 9.2) – Hydrant in und außer Betrieb nehmen"
-    - [ ] Швидко дістати потрібні частини
-    - [ ] Правильно підготувати гідрант до забору води
+    - [ ] Швидко дістати потрібні частини, пояснити позначення гідранта (за потреби – табличка-вказівник)
+    - [ ] Правильно підготувати гідрант до забору води та **промити** (spülen)
     - [ ] Під'єднати B-рукав, відкрити гідрант **повністю**
-    - [ ] Належним чином вивести гідрант з дії
+    - [ ] Належним чином вивести гідрант з дії (разом із контролем **дренажу**, Entwässerung), скласти частини назад у автомобіль
 
 ??? example "Завдання 6: Вузли 1 (тема 5.10) – Knoten und Stiche 1"
     - [ ] Взяти правильну мотузку
@@ -118,7 +122,7 @@
 
 ??? example "Завдання 8: Встановити рукавний місток (тема 5.6) – Schlauchbrücke aufbauen"
     - [ ] Швидко дістати 3 рукавні містки (Schlauchbrücken) (знати, де вони лежать!)
-    - [ ] Стійко покласти, рукав акуратно лежить в отворах
+    - [ ] Стійко покласти – відстань **бл. 1 м** між першим містком і двома іншими –, рукав акуратно лежить в отворах
     - [ ] Забезпечити **безпеку дорожнього руху** (Verkehrsabsicherung)
 
 ### Завдання з радіозв'язку (Sprechfunk-Aufgaben) {#sprechfunk-aufgaben}

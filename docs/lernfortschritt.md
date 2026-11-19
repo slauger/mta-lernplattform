@@ -109,7 +109,7 @@ Wenn du mit Git vertraut bist, kannst du deinen Lernfortschritt in diesem Repo t
 ### Schritt 1: Repo initialisieren
 
 ```bash
-cd /Users/simon/git/feuerwehr
+cd ~/mta-lernen
 git init
 git add .
 git commit -m "Initial commit: MTA Lernmaterial"
@@ -284,7 +284,7 @@ Feste Lernzeiten (z. B. täglich 19:00-19:30 Uhr) helfen, am Ball zu bleiben.
 
 | Woche | Fokus | Ziele |
 |-------|-------|-------|
-| **1** | Einführung + Begriffe + Knoten | - Einführung gelesen<br>- 30 Begriffe gelernt<br>- Mastwurf + Halbschlag + Kreuzknoten sicher |
+| **1** | Einführung + Begriffe + Knoten | - Einführung gelesen<br>- 30 Begriffe gelernt<br>- Mastwurf + Halbschlag + Spierenstich sicher |
 | **2** | Theorie: Brennen & Löschen + Fahrzeuge | - Brandklassen gelernt<br>- Fahrzeugtypen kennen<br>- Zimmermannsschlag sicher |
 | **3** | Theorie: Recht + Einsatz + Fitness | - BayFwG, UVV, GAMS gelernt<br>- Einsatzablauf verstanden<br>- 3x Fitness |
 | **4** | Prüfungsvorbereitung | - Alle 274 Fragen beantwortet<br>- Falsche Fragen wiederholt<br>- Knoten perfektioniert |

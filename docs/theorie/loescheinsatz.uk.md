@@ -4,7 +4,7 @@
 
 !!! abstract "Джерело"
     Матеріали для учасників і для інструкторів, а також презентація MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, матеріали для інструкторів MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ і матеріали для інструкторів MTA 5.6 „Schläuche und Armaturen – Praxis“, додатково матеріали MTA 3 „Brennen und Löschen“, MTA 5.3 „Löschgeräte“, MTA 8 „Verhalten bei Gefahr“ і MTA 9.3 „Anwendung im Brandeinsatz“ (усі – SFS Würzburg), а також офіційний каталог питань (Fragenkatalog).
-    Усі матеріали: [Feuerwehr-Lernbar – Löscheinsatz (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
+    Усі матеріали: [Feuerwehr-Lernbar – Löscheinsatz (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) · Додатково: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (2008, німецькою)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm) (чисельність і структура тактичних підрозділів)
 
 ## Навчальні цілі {#lernziele}
 
@@ -41,7 +41,7 @@
 
 | Підрозділ | Чисельність | Функції | Автомобілі (приклади) |
 |---------|--------|------------|-----------------------|
-| **Самостійна ланка** (Selbstständiger Trupp) | 1/2/**3** | командир ланки + 2 пожежні | напр. TLF 3000 |
+| **Самостійна ланка** (Selbstständiger Trupp) | 1/2/**3** | командир ланки (Truppführer), водій-моторист (Maschinist), пожежний (Truppmann) – за FwDV 3 | напр. TLF 3000 |
 | **Розрахунок** (Staffel) | 1/5/**6** | командир розрахунку (Staffelführer), водій-моторист (Maschinist), ударна ланка (2), водна ланка (2) | TSF, TSF-W, TLF 16/25 |
 | **Відділення** (Gruppe) | 1/8/**9** | командир відділення, водій-моторист, зв'язковий (Melder), ударна ланка (2), водна ланка (2), рукавна ланка (2) | TSA, LF 8/6, (H)LF 10/6, LF 16/12, (H)LF 20/16 |
 
@@ -232,6 +232,9 @@ Maschinist  Melder  Angriffstrupp  Wassertrupp  Schlauchtrupp
 - **не в зоні падіння уламків** (Trümmerschatten – зона, якій загрожує обвалення)
 - **не в зоні закривання вхідних дверей**
 
+!!! warning "Увага: каталог питань"
+    У каталозі питань (базовий модуль) правильна відповідь щодо завдання ударної ланки при встановленні розгалуження звучить так: „Er setzt den Verteiler; die genaue Lage wird durch den Einheitsführer vorgegeben“ («Вона встановлює розгалуження; **точне місце визначає командир підрозділу**»). У каталозі для командирів ланок (Truppführer) натомість сказано: „Der Truppführer ist für die genaue Lage des Verteilers verantwortlich“ («**Командир ланки** відповідає за точне розташування розгалуження» – не в зоні падіння уламків, не в зоні закривання вхідних дверей). Для іспиту знай обидві відповіді.
+
 ### Розподіл виходів (якщо дивитися за напрямком потоку води) {#belegung-der-abgange-in-flierichtung-gesehen}
 
 ```
@@ -260,7 +263,7 @@ Maschinist  Melder  Angriffstrupp  Wassertrupp  Schlauchtrupp
 
 - За командою „… Rohr Wasser halt!“ («… ствол – воду припинити!») пожежний біля розгалуження **повільно закриває** вихід.
 - Під час **зміни позиції** (Stellungswechsel) вихід лише закривають, **але не від'єднують**, бо біля розгалуження невідомо, чи це зміна позиції, чи згортання лінії.
-- Командири ланок стежать, щоб відповідні виходи закрили.
+- Для цього командири ланок дають команду „1. Rohr Wasser halt!“, „2. Rohr Wasser halt!“ («1-й ствол – воду припинити!») і т. д. Під час прокладання і згортання ланки самі відповідають за свої рукавні лінії.
 
 ---
 

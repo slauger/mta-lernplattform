@@ -1,9 +1,9 @@
 # Терміни та скорочення {#begriffe-abkurzungen}
 
 !!! abstract "Джерело"
-    Матеріали для учасників та інструкторів «MTA Basismodul» (SFS Würzburg), BayFwG, офіційний каталог питань (Fragenkatalog).
+    Матеріали для учасників та інструкторів «MTA Basismodul» (SFS Würzburg), [BayFwG (німецькою)](https://www.gesetze-bayern.de/Content/Document/BayFwG), офіційний каталог питань (Fragenkatalog).
     Усі матеріали: [Feuerwehr-Lernbar – Lehrgangsorganisation (німецькою)](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation)
-    Додатково: FwDV 7 „Atemschutz“ (редакція 2002 зі змінами 2005, напр. [тут як PDF (німецькою)](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), пам'ятка для пожежних команд Баварії [8.012 „Tragbare Feuerlöscher“ (німецькою)](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (приклади класів пожеж за DIN EN 2), [DIN 14811 (німецькою)](https://www.dinmedia.de/de/norm/din-14811/101847000).
+    Додатково: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (2008, німецькою)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm), FwDV 7 „Atemschutz“ (редакція 2002 зі змінами 2005, напр. [тут як PDF (німецькою)](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), пам'ятка для пожежних команд Баварії [8.012 „Tragbare Feuerlöscher“ (німецькою)](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (приклади класів пожеж за DIN EN 2), [DIN 14811 (німецькою)](https://www.dinmedia.de/de/norm/din-14811/101847000).
 
 Цей глосарій пояснює всі важливі пожежні терміни та скорочення, які тобі потрібні для модульної підготовки ланки (MTA). Іспит проходить німецькою, тому кожен термін стоїть німецькою, а поруч – український відповідник. До кожного терміна є **пояснення** і **приклад із практики**.
 
@@ -206,7 +206,7 @@
 ---
 
 ### BF (Berufsfeuerwehr) – професійна пожежна команда {#bf-berufsfeuerwehr}
-**Пояснення:** Пожежна команда з державних службовців пожежно-технічної служби. Громада (Gemeinde) мусить її створити, якщо добровільної пожежної команди (Freiwillige Feuerwehr) або обов'язкової пожежної команди (Pflichtfeuerwehr) недостатньо. BayFwG називає пожежні команди громад (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) і заводські пожежні команди (Werkfeuerwehren).
+**Пояснення:** Пожежна команда з державних службовців пожежно-технічної служби. BayFwG називає пожежні команди громад (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) і заводські пожежні команди (Werkfeuerwehren). Обов'язкову пожежну команду (Pflichtfeuerwehr) громада (Gemeinde) мусить створити, якщо добровільна пожежна команда (Freiwillige Feuerwehr) не утворюється.
 
 **Приклад:** Професійні пожежні команди є в містах приблизно від 100.000 мешканців, а FF Goldkronach працює на добровільних засадах.
 
@@ -340,7 +340,7 @@
 ---
 
 ### Status (Statusmeldung) – статус (статусне повідомлення) {#status-statusmeldung}
-**Пояснення:** Коротке повідомлення по радіо диспетчерському центру (Leitstelle) через систему статусних повідомлень (Funkmeldesystem, FMS). У цифровому радіозв'язку в режимі TMO його надсилають довгим натисканням відповідної цифрової клавіші. Статуси 0–9 однакові по всій Німеччині.
+**Пояснення:** Коротке повідомлення по радіо диспетчерському центру (Leitstelle) через систему статусних повідомлень (Funkmeldesystem, FMS). У цифровому радіозв'язку його надсилають лише в режимі TMO; статусну інформацію вводять цифровими клавішами радіостанції. Статуси 0–9 однакові по всій Німеччині.
 
 **Приклад:** Status 2 = готовий до виїзду в депо (Einsatzbereit Wache), Status 3 = виклик прийнято (Einsatzübernahme), Status 4 = на місці виклику (Einsatzort).
 
@@ -354,7 +354,7 @@
 ---
 
 ### Führungskraft – керівник {#fuhrungskraft}
-**Пояснення:** Особа з відповідальністю за керування. Командирами підрозділів (Einheitsführer) є командир ланки (Truppführer), командир розрахунку (Staffelführer), командир відділення (Gruppenführer) і командир взводу (Zugführer).
+**Пояснення:** Особа з відповідальністю за керування. Командирами підрозділів (Einheitsführer) є командир ланки (Truppführer – самостійної ланки, selbstständiger Trupp), командир розрахунку (Staffelführer), командир відділення (Gruppenführer) і командир взводу (Zugführer) (FwDV 3).
 
 **Приклад:** Командир відділення – керівник відділення.
 
@@ -490,7 +490,7 @@
 ---
 
 ### KBI (Kreisbrandinspektor) – районний пожежний інспектор {#kbi-kreisbrandinspektor}
-**Пояснення:** Командне звання на рівні району. Він відповідає за **інспекційну зону** (Inspektionsbereich), напр. інспекцію I в районі Байройт. KBI водночас є заступником районного пожежного радника (Kreisbrandrat).
+**Пояснення:** Командне звання на рівні району. Він відповідає за **інспекційну зону** (Inspektionsbereich), напр. інспекцію I в районі Байройт. Районних пожежних інспекторів призначає районний пожежний радник (Kreisbrandrat), і вони є його заступниками; одного з них він визначає своїм постійним заступником.
 
 **Приклад:** KBI інспекції I відкриває MTA організаційною частиною курсу (Lehrgangsorganisation).
 

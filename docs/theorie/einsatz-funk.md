@@ -314,7 +314,7 @@ Ein Funkrufname setzt sich zusammen aus **Kennwort – Orts- oder Bereichsbezeic
 
 ### Statusmeldungen
 
-Statusmeldungen (FMS) werden **nur im TMO** gesendet – durch langes Drücken der entsprechenden Zifferntaste. Sie **entlasten den Sprechfunkverkehr**. Der BOS-Status **0 bis 9** ist bundeseinheitlich:
+Statusmeldungen (FMS) werden **nur im TMO** gesendet; die Statusinformation wird über die Zifferntasten des Funkgeräts eingegeben. Sie **entlasten den Sprechfunkverkehr**. Der BOS-Status **0 bis 9** ist bundeseinheitlich:
 
 | Status | Bedeutung |
 |--------|-----------|
@@ -467,7 +467,7 @@ Eigennamen und schwer verständliche Wörter werden buchstabiert. Im BOS-Funk gi
 - Alle Funkgeräte haben eine **Notruffunktion** (rot bzw. orange gekennzeichnete Taste).
 - Der Notruf schaltet das Mikrofon für einen programmierten Zeitraum frei – die **Sprechtaste muss nicht gedrückt** werden. Alle Teilnehmer der aktiven Gruppe hören, was im Umfeld des Notrufenden passiert; **alle anderen Gespräche werden unterbrochen**.
 - **Im TMO** geht der Notruf in die aktive Gruppe **und zur ILS** (dazu eine SDS, bei GPS-fähigen Geräten auch die letzten GPS-Daten). **Im DMO** bleibt er **in der aktiven Gruppe**.
-- Per Sprache ist **„Mayday“** das Kennwort für **Einsatzkräfte in Not**. Aufbau der Notfallmeldung: „**Mayday, Mayday, Mayday** – eigener Funkrufname – Angabe zu Ort und Notlage – **Mayday, kommen**“.
+- Per Sprache ist **„Mayday“** das Kennwort für **Einsatzkräfte in Not**. Aufbau der Notfallmeldung (FwDV 7, Abschnitt 7.6): „**Mayday, Mayday, Mayday** – **hier** (eigener Funkrufname) – Standort – Lage – **Mayday, kommen**“.
 - Wird im Sprechfunk eine **Notfallmeldung** abgesetzt, ist der **bestehende Sprechfunkverkehr zu unterbrechen**.
 
 !!! danger "Notruf versehentlich ausgelöst?"

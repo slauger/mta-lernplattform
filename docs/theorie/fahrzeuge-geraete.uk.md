@@ -3,8 +3,8 @@
 **Модулі MTA:** 4.1, 4.2, 5.1, 5.2, 5.3, 5.4, 5.13
 
 !!! abstract "Джерело"
-    Матеріали для учасників і інструкторів MTA 4.1 Fahrzeugkunde – Theorie, матеріали для інструкторів MTA 4.2 Fahrzeugkunde – Praxis, презентація Fahrzeugkunde, фахова інформація «Feuerwehrfahrzeuge», матеріали для учасників і інструкторів MTA 5.1 Persönliche Schutzausrüstung і MTA 5.2 Spezielle Persönliche Schutzausrüstung, матеріали для учасників і інструкторів MTA 5.3 Löschgeräte, матеріали для інструкторів MTA 5.13 Beleuchtungs- und Warngeräte (усі – SFS Würzburg), а також офіційний каталог питань (Fragenkatalog).
-    Усі матеріали: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) і [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
+    Матеріали для учасників і інструкторів MTA 4.1 Fahrzeugkunde – Theorie, матеріали для інструкторів MTA 4.2 Fahrzeugkunde – Praxis, презентація Fahrzeugkunde, фахова інформація «Feuerwehrfahrzeuge», матеріали для учасників і інструкторів MTA 5.1 Persönliche Schutzausrüstung і MTA 5.2 Spezielle Persönliche Schutzausrüstung, матеріали для учасників і інструкторів MTA 5.3 Löschgeräte, матеріали для учасників і інструкторів MTA 5.5 Schläuche und Armaturen, матеріали для інструкторів MTA 5.8 Geräte für die erweiterte Hilfeleistung, матеріали для інструкторів MTA 5.13 Beleuchtungs- und Warngeräte (усі – SFS Würzburg), а також офіційний каталог питань (Fragenkatalog).
+    Усі матеріали: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen), [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung (німецькою)](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) і [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
     Додатково: FwDV 7 Atemschutz, редакція 2002/2005 ([PDF, німецькою](https://www.lv-saarland.drk.de/fileadmin/user_upload/FwDV7.pdf)) щодо тиску наповнення та фільтрів, [DIN 14345 Verteiler B-CBC (німецькою)](https://www.dinmedia.de/de/norm/din-14345/150889629) (замінено на DIN EN 17407) і роздатковий матеріал FIS II.2 від INFS Luxemburg ([PDF, німецькою](https://112.public.lu/content/dam/112/fr/formation/handouts-leveso/20220120-fis-ii2-handout.pdf)) щодо подушок високого й низького тиску.
 
 ## Цілі навчання (Lernziele) {#lernziele}
@@ -222,7 +222,7 @@
     Пневмоподушки (Hebekissen, Druckkissen) працюють на стисненому повітрі з балонів. За матеріалами MTA вони мають, напр., підйомну силу від 96 до 677 кН, висоту підйому від 20 до 50 см і робочий надлишковий тиск макс. 8 бар. Інструктор має пояснити різницю між подушками низького й високого тиску:
 
     - **Подушки високого тиску (Hochdruckhebekissen)** (бл. 8–12 бар): мала площа, потрібна підйомна сила виникає завдяки **високому робочому тиску**
-    - **Подушки низького тиску (Niederdruckhebekissen)** (бл. 0,5–1 бар): **велика площа опори**, підйомна сила виникає завдяки великій площі при малому тиску. Їх застосовують, напр., коли треба підняти вантаж із чутливою конструкцією.
+    - **Подушки низького тиску (Niederdruckhebekissen)** (до бл. 1 бар): **велика площа опори**, підйомна сила виникає завдяки великій площі при малому тиску. Їх застосовують, напр., коли треба підняти вантаж із чутливою конструкцією.
 
 ---
 
@@ -288,7 +288,7 @@
 | **Сильне теплове випромінювання** | **теплозахисний одяг** (Hitzeschutzkleidung) форми I, II або III |
 | **Горючі рідини** | капюшон із захисною сіткою для очей, напівкомбінезон, куртка, рукавиці з довгими крагами, гумові чоботи, за потреби ізолювальний захист органів дихання |
 | **Хімікати** | костюм для захисту від рідин (не газонепроникний) або газонепроникний **костюм хімічного захисту (Chemikalienschutzanzug, CSA)**. CSA – лише з ізолювальним захистом органів дихання і після додаткового навчання CSA. |
-| **Радіоактивні речовини** | капюшон або костюм для захисту від забруднення (Kontaminationsschutzhaube/-anzug) з рукавицями з довгими крагами, лише з ізолювальним захистом органів дихання |
+| **Радіоактивні речовини** | капюшон або костюм для захисту від забруднення (Kontaminationsschutzhaube/-anzug) з рукавицями з довгими крагами, лише з ізолювальним захистом органів дихання. Захищає лише від **забруднення (контамінації)** радіоактивними речовинами, **не від радіоактивного випромінювання** |
 | **Бензопила (Motorsäge)** | штани із захистом від порізів, захист очей/обличчя, чоботи із захистом від порізів, за потреби шолом лісоруба |
 | **Боротьба з комахами** | суцільний захисний костюм, капюшон з оглядовим вікном, рукавиці зі щільно прилеглими крагами, пожежні чоботи |
 
@@ -297,7 +297,7 @@
 ## Засоби захисту органів дихання (Atemschutzgeräte) {#atemschutzgerate}
 
 !!! info "Потрібне додаткове навчання"
-    Для апаратів захисту органів дихання потрібне **додаткове навчання** як носія апарата (Atemschutzgeräteträger), а також придатність за станом здоров'я за **G 26.3** (дихальний апарат на стисненому повітрі) або **G 26.2** (фільтрувальні апарати). Тут – лише огляд з MTA 5.2.
+    Для апаратів захисту органів дихання потрібне **додаткове навчання** як носія апарата (Atemschutzgeräteträger), а також медична придатність за **G 26** «Atemschutzgeräte» (FwDV 7; для дихальних апаратів на стисненому повітрі (Pressluftatmer) – група приладів 3, **G 26.3**). Тут – лише огляд з MTA 5.2.
 
 ### Дихальний апарат на стисненому повітрі (Pressluftatmer, PA) {#pressluftatmer-pa}
 

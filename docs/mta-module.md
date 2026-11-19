@@ -2,6 +2,10 @@
 
 Das **Basismodul** der Modularen Truppausbildung ist in nummerierte Themen gegliedert (Lernzielkatalog der Staatlichen Feuerwehrschulen). Die Nummern findest du auf deinem Ausbildungsplan wieder – z. B. „5.10 Rettungsgeräte – Praxis Knoten und Stiche".
 
+!!! abstract "Quelle"
+    Gesamtinhaltsverzeichnis MTA Basismodul (Stand 01/2019) und „Anpassungen MTA Basismodul“ (Stand 11/2023) aus der Lehrgangsorganisation, Prüfungsunterlagen MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (Stand 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ und Zwischenzeugnis (alle SFS Würzburg); Ausbildungsplan 2026/27 Inspektion I, Landkreis Bayreuth (Themen-Titel, Termine, Spalte „Mitbringen“); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (Ausbildungsvoraussetzungen).
+    Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
+
 Zu jedem Thema gibt es auf der **[Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)** kostenlos und ohne Anmeldung:
 
 - **Teilnehmerunterlagen** – das, was du im Lehrgang bekommst
@@ -39,7 +43,7 @@ Zu jedem Thema gibt es auf der **[Feuerwehr-Lernbar](https://www.feuerwehr-lernb
 | 8.0 | Verhalten bei Gefahr | [Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr) | [Verhalten bei Gefahr & ABC](theorie/gefahren-abc.md) | |
 | 9.1 / 9.2 | Löschwasserversorgung – Theorie / Praxis | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Löschwasserversorgung](theorie/wasserversorgung.md) | Schutzanzug |
 | 9.3 | Löschen – Anwendung im Brandeinsatz | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Brennen & Löschen](theorie/brennen-loeschen.md) | |
-| 9.4 | Umgang und Anwendung von Strahlrohren | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Löschwasserversorgung](theorie/wasserversorgung.md#strahlrohre) | Schutzanzug |
+| 9.4 | Umgang und Anwendung von Strahlrohren (Lernbar: „Handhabung von Hohlstrahlrohren“) | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Löschwasserversorgung](theorie/wasserversorgung.md#strahlrohre) | Schutzanzug |
 | 9.5–9.10 | Einheiten im Löscheinsatz – Theorie / Praxis | [Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) | [Einheiten im Löscheinsatz](theorie/loescheinsatz.md) | Schutzanzug |
 | 10.1 / 10.2 | Sichern gegen Absturz – Theorie / Praxis | [Sichern gegen Absturz](https://www.feuerwehr-lernbar.bayern/post/mta-sichern-gegen-absturz) | [Leitern & Absturzsicherung](theorie/leitern-absturz.md#sichern-gegen-absturz) | Schutzanzug, Haltegurt |
 | 11.1–11.7 | Einheiten im Hilfeleistungseinsatz | [Hilfeleistungseinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) | [Technische Hilfeleistung](theorie/hilfeleistung.md) | Schutzanzug, Helm mit Visier |
@@ -55,7 +59,7 @@ Zu jedem Thema gibt es auf der **[Feuerwehr-Lernbar](https://www.feuerwehr-lernb
 
 ## Zwischenprüfung
 
-Die Zwischenprüfung (Thema 15) schließt das Basismodul ab. **Danach darfst du an Einsätzen teilnehmen** und die Leistungsprüfung (ab Stufe 2) ablegen.
+Die Zwischenprüfung (Thema 15) schließt das Basismodul ab. **Danach darfst du an Einsätzen teilnehmen** und die Leistungsprüfung „Die Gruppe im Löscheinsatz“ ab **Stufe 2** ablegen (Stufe 1 ist laut Richtlinie schon während der Truppausbildung möglich).
 
 Sie besteht laut Prüfungsnachweis aus:
 
@@ -99,10 +103,10 @@ Die vollständigen Bewertungsbögen (Stand 07/2025) findest du auf der Lernbar u
     - [ ] Pfahlstich mit **Spierenstich** sichern
 
 ??? example "Aufgabe 5: Hydrant in und außer Betrieb nehmen (Themen 9.1 / 9.2)"
-    - [ ] Benötigte Teile zügig entnehmen
-    - [ ] Hydrant richtig zur Wasserentnahme vorbereiten
+    - [ ] Benötigte Teile zügig entnehmen, Bezeichnung des Hydranten (ggf. Hinweisschild) erläutern
+    - [ ] Hydrant richtig zur Wasserentnahme vorbereiten und **spülen**
     - [ ] B-Schlauch anschließen, Hydrant **vollständig** öffnen
-    - [ ] Hydrant ordnungsgemäß außer Betrieb nehmen
+    - [ ] Hydrant ordnungsgemäß außer Betrieb nehmen (inkl. Kontrolle der **Entwässerung**), Teile wieder im Fahrzeug verstauen
 
 ??? example "Aufgabe 6: Knoten und Stiche 1 (Thema 5.10)"
     - [ ] Richtige Leine entnehmen
@@ -118,7 +122,7 @@ Die vollständigen Bewertungsbögen (Stand 07/2025) findest du auf der Lernbar u
 
 ??? example "Aufgabe 8: Schlauchbrücke aufbauen (Thema 5.6)"
     - [ ] 3 Schlauchbrücken zügig entnehmen (Unterbringung kennen!)
-    - [ ] Stabil verlegen, Schlauch liegt sauber in den Öffnungen
+    - [ ] Stabil verlegen – Abstand **ca. 1 m** zwischen der ersten und den beiden anderen Schlauchbrücken –, Schlauch liegt sauber in den Öffnungen
     - [ ] **Verkehrsabsicherung** vornehmen
 
 ### Sprechfunk-Aufgaben

@@ -72,7 +72,7 @@ Außerdem gilt nach **Art. 4 Abs. 2**:
 #### Weitere Grundlagen aus dem BayFwG (prüfungsrelevant)
 
 - **Arten von Feuerwehren:** Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr (gemeindliche Feuerwehren) und Werkfeuerwehr (Art. 4 Abs. 1). Die gemeindlichen Feuerwehren sind **öffentliche Einrichtungen der Gemeinde**.
-- **Mindestalter** für die Aufnahme in die Freiwillige Feuerwehr: **12 Jahre** (als Feuerwehranwärter, Art. 7 Abs. 2). Aufgenommen wird man vom **Kommandanten** (Art. 6 Abs. 3).
+- **Mindestalter** für die Aufnahme in die Freiwillige Feuerwehr: **12 Jahre** (als Feuerwehranwärter, Art. 7 Abs. 2; so die Prüfungsantwort – Kindergruppen sind schon ab 6 Jahren möglich, Art. 7 Abs. 1). Aufgenommen wird man vom **Kommandanten** (Art. 6 Abs. 3).
 - **Einsatzteilnahme** von Feuerwehranwärtern: Das **Basismodul** muss abgeschlossen sein, sie müssen **mindestens 16 Jahre** alt sein, und der **Kommandant muss zustimmen**. Im Einsatz werden sie einem **erfahrenen Feuerwehrdienstleistenden zugeordnet** und nur **außerhalb des unmittelbaren Gefahrenbereichs** eingesetzt.
 - **Kommandantenwahl:** Wahlberechtigt sind alle Feuerwehrdienstleistenden und Feuerwehranwärter **ab 16 Jahren** (Art. 8 Abs. 2). **Aktives Wahlrecht** heißt: Ich darf wählen. **Passives Wahlrecht** heißt: Ich kann gewählt werden.
 - **Dienstgrade** (Mannschafts- und Führungsdienstgrade) ernennt der **Kommandant** (Art. 8 Abs. 1).
@@ -104,7 +104,7 @@ Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Ge
 - Wespennester beseitigen, Bienenschwärme einfangen
 - Türöffnung bei Schlüsselverlust (**ohne** Gefahr – mit hilfloser Person dahinter ist es technische Hilfe!)
 - Auspumpen von Kellern und Baugruben
-- Verkehrsregelung bei Veranstaltungen (z. B. Prozession, Radrennen)
+- Verkehrsregelung bei Veranstaltungen (z. B. Prozession, Radrennen) – nur **mit Zustimmung des zuständigen Gemeindeorgans** (Merkblatt 1.009; eine eigene Befugnis zur Verkehrsregelung hat die Feuerwehr nicht)
 - Fahnenmasten aufstellen, Dekoration anbringen
 
 !!! warning "Unterschied ist wichtig"
@@ -123,7 +123,7 @@ Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Ge
 
 2. **Ersatz von Auslagen und Sachschäden** (Art. 9 Abs. 5)
    - Notwendige Auslagen werden erstattet
-   - Verpflegung bei Einsätzen über 4 Stunden
+   - Kostenlose Verpflegung bei Dienstleistungen (z. B. Einsätzen) von mehr als 4 Stunden
    - Sachschäden (Kleidung, Brille, eigenes Auto auf dem Weg) – wenn **nicht vorsätzlich oder grob fahrlässig**
 
 3. **Betreten fremder Grundstücke** (Art. 23 Abs. 2)
@@ -171,7 +171,7 @@ Merkmale: vorwiegend **privates Interesse**, **keine Gefahr** für Leben oder Ge
 | ab 18 bis Regelaltersgrenze | Feuerwehrdienst (aktiv) | Art. 6 Abs. 2 |
 
 !!! info "Kommandant"
-    Wird von den aktiven Mitgliedern **geheim für 6 Jahre gewählt** (Art. 8 Abs. 2).
+    Wird von den Feuerwehrdienstleistenden und Feuerwehranwärtern ab 16 Jahren **geheim für 6 Jahre gewählt** (Art. 8 Abs. 2).
 
 ---
 
@@ -262,7 +262,7 @@ Details: [Sichern gegen Absturz](leitern-absturz.md#sichern-gegen-absturz)
 **Regel:** Atemschutz darf nur tragen, wer:
 
 - als **Atemschutzgeräteträger ausgebildet** ist und
-- die **Tauglichkeit** nach den arbeitsmedizinischen Grundsätzen **G 26.3** (Pressluftatmer) bzw. G 26.2 (Filtergeräte) nachgewiesen hat.
+- die arbeitsmedizinische **Tauglichkeit** nach **G 26 „Atemschutzgeräte“** nachgewiesen hat (FwDV 7; für Pressluftatmer die Gerätegruppe 3, **G 26.3**).
 
 **Beispiel:** Du darfst als frischer MTA-Absolvent **nicht** einfach PA tragen – erst nach der Atemschutzausbildung! Feuerwehranwärter unter 18 dürfen überhaupt nicht unter Atemschutz arbeiten.
 
@@ -327,7 +327,7 @@ Die **Kommunale Unfallversicherung Bayern (KUVB)** in München.
 !!! tip "Besonderheiten beim Weg"
     - Normal beginnt der Schutz an der **Haustür**. **Bei Alarm** bist du schon **in der Wohnung** versichert (z. B. Sturz auf der Treppe).
     - Umwege nur für Fahrgemeinschaften oder wenn der Weg schneller ist.
-    - Heimweg muss spätestens **2 Stunden nach Dienstende** beginnen – erst noch in die Wirtschaft = kein Schutz mehr.
+    - Heimweg muss spätestens **2 Stunden nach Dienstende** beginnen – in der Zwischenzeit (z. B. in der Wirtschaft) besteht kein Schutz.
 
 **Was übernimmt die KUVB?**
 
@@ -345,7 +345,7 @@ Die **Kommunale Unfallversicherung Bayern (KUVB)** in München.
 
 - **Berauschende Mittel (Alkohol, Drogen):** Wer nicht mehr zu vernünftiger Arbeit in der Lage ist, ist **nicht versichert** – egal, ob der Alkohol den Unfall verursacht hat
 - **Private Unterbrechungen** (z. B. Einkaufen, Wirtshaus vor dem Heimweg)
-- **Vereinsaktivitäten ohne Bezug zum Feuerwehrdienst** (z. B. Ausflug, Fußballturnier) → dafür gibt es die Unfall-Zusatzversicherung des Vereins
+- **Wettkämpfe** (z. B. Fußballturnier, Feuerwehrwettkämpfe außerhalb der Leistungsprüfung) und sonstige **Tätigkeiten des Feuerwehrvereins** → dafür gibt es die Unfall-Zusatzversicherung des Vereins. Vereinsaktivitäten, die wesentlich der Feuerwehr dienen oder die Gemeinschaft fördern, sind laut Merkblatt dagegen gesetzlich versichert.
 
 !!! warning "Unterschied Unfall ↔ Sachschaden"
     Bei **Unfällen** bist du laut Merkblatt auch versichert, wenn du einer Weisung folgst oder die Schutzkleidung ausnahmsweise nicht komplett getragen hast. Bei **Sachschäden** (Art. 9 Abs. 5) zahlt die Gemeinde bei **Vorsatz oder grober Fahrlässigkeit nicht**.

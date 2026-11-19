@@ -5,7 +5,7 @@
 !!! abstract "Quelle"
     Ausbilderunterlagen MTA 11.1 „Einheiten im Hilfeleistungseinsatz – Theorie“ (mit Folien und Arbeitsblatt), 11.2 – 11.4 „Praxis 1–3“ und 11.5 – 11.7 „Einsatzübung 1–3“; Ausbilderunterlagen MTA 5.7 „Geräte für die einfache Hilfeleistung“ und 5.8 „Geräte für die erweiterte Hilfeleistung“; Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 13 „Fahrzeugtechnik (alternative Antriebe)“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Einheiten im Hilfeleistungseinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) · [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) · [Feuerwehr-Lernbar – Fahrzeugtechnik](https://www.feuerwehr-lernbar.bayern/post/mta-fahrzeugtechnik)
-    Ergänzend: [StVO § 11 Abs. 2 (Rettungsgasse)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (Ausgabe 2026)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) und deren Vorgängerfassung [GUV-I 8664 (2012)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), auf die die MTA-Unterlage 13 zur AUTO-Regel verweist
+    Ergänzend: [FwDV 1 „Grundtätigkeiten – Lösch- und Hilfeleistungseinsatz“, Abschnitt 19 „Sichern von Einsatzstellen gegen fließenden Verkehr“ (Feuerwehr-Lernbar – Feuerwehr-Dienstvorschriften)](https://www.feuerwehr-lernbar.bayern/post/fwdv) · [StVO § 11 Abs. 2 (Rettungsgasse)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (Ausgabe 2026)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) und deren Vorgängerfassung [GUV-I 8664 (2012)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), auf die die MTA-Unterlage 13 zur AUTO-Regel verweist
 
 ## Lernziele
 
@@ -56,7 +56,7 @@ Fallen Kräfte aus oder ist die Lage besonders, bestimmt der Einheitsführer die
 
 ### Abstände der Verkehrsabsicherung (nach FwDV 1)
 
-Die Absicherung erfolgt **vor und nach der Unfallstelle**:
+Auf Straßen mit Gegenverkehr erfolgt die Absicherung **vor und nach der Unfallstelle**:
 
 | Straße | Abstand |
 |--------|---------|
@@ -64,7 +64,7 @@ Die Absicherung erfolgt **vor und nach der Unfallstelle**:
 | Außerhalb geschlossener Ortschaften | ca. **200 m** |
 | Autobahn | ca. **800 m** |
 
-Zur Absicherung von Schnellstraßen sind zusätzliche Warn- und Sicherungsgeräte notwendig.
+Auf **Autobahnen und Kraftverkehrsstraßen mit getrennten Richtungsfahrbahnen** wird nur **entgegen der Fahrtrichtung** gesichert, gestaffelt bei ca. 200, 400, 600 und 800 m; die 800 m gelten für Strecken ohne Geschwindigkeitsbegrenzung (FwDV 1). Zur Absicherung von Schnellstraßen sind zusätzliche Warn- und Sicherungsgeräte notwendig, z. B. Faltsignale und Verkehrsleitkegel mit Blitzleuchten.
 
 !!! info "Verkehrsregelung"
     Die Feuerwehr darf auch verkehrslenkende Maßnahmen durchführen, z. B. Zeichen und Weisungen zur Regelung des Verkehrs geben. Die **Federführung** bei der Verkehrsregelung hat jedoch die **Polizei**.
@@ -76,7 +76,7 @@ Auf einer Autobahn mit drei Fahrstreifen gilt:
 - Fahrzeuge auf dem **linken Fahrstreifen** weichen **ganz nach links** aus,
 - **alle anderen** weichen nach **rechts** aus.
 
-Das gilt nach **StVO § 11 Abs. 2** auf Autobahnen und Außerortsstraßen mit **mindestens zwei Fahrstreifen** je Richtung, sobald der Verkehr stockt: Die Gasse entsteht immer zwischen dem **äußerst linken** und dem rechts daneben liegenden Fahrstreifen, egal ob es 2, 3 oder mehr Fahrstreifen sind.
+Das gilt nach **StVO § 11 Abs. 2** auf Autobahnen und Außerortsstraßen mit **mindestens zwei Fahrstreifen** je Richtung, sobald die Fahrzeuge nur noch mit **Schrittgeschwindigkeit** fahren oder stehen: Die Gasse entsteht immer zwischen dem **äußerst linken** und dem rechts daneben liegenden Fahrstreifen, egal ob es 2, 3 oder mehr Fahrstreifen sind.
 
 ### Wenn du selbst an einem Unfall vorbeikommst (z. B. bei einer Bewegungsfahrt)
 

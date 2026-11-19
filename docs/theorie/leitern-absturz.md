@@ -5,7 +5,7 @@
 !!! abstract "Quelle"
     Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlage MTA 5.11 Rettungsgeräte – Praxis Leitern, Teilnehmer- und Ausbilderunterlagen sowie Präsentation MTA 10.1/10.2 Sichern gegen Absturz (SFS Würzburg), dazu der offizielle Fragenkatalog.
     Alle Unterlagen: [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate) und [Feuerwehr-Lernbar – Sichern gegen Absturz](https://www.feuerwehr-lernbar.bayern/post/mta-sichern-gegen-absturz)
-    Ergänzend: [FwDV 10 „Die tragbaren Leitern“, Stand November 2019](https://www.nlbk.niedersachsen.de/download/160686)
+    Ergänzend: [FwDV 10 „Die tragbaren Leitern“, Stand November 2019](https://www.nlbk.niedersachsen.de/download/160686) (auch in der [Feuerwehr-Lernbar – Feuerwehr-Dienstvorschriften](https://www.feuerwehr-lernbar.bayern/post/fwdv)); Ausbilderunterlage MTA 5.10 „Rettungsgeräte – Praxis Knoten und Stiche“ (Feuerwehrleine/Mehrzweckleine)
 
 ## Lernziele
 
@@ -39,7 +39,7 @@ Tragbare Leitern werden auf den Feuerwehrfahrzeugen mitgeführt, von der Mannsch
 |--------|--------|--------------|----------------------|
 | **Steckleiter** | **2- oder 4-teilig**, A- und B-Teile, aus Holz oder Leichtmetall. **Höchstens 4 Leiterteile** zusammenstecken | bis **2. Obergeschoss** | mehr als 1 Leiterteil: **mindestens 3 Feuerwehrdienstleistende** (1 Truppführer + 2 Truppmänner), also **3 oder 4 Personen**. Höchstens **2 Personen** auf der Leiter |
 | **Schiebleiter** | **3 Leiterteile**, über Seilzug ausgezogen, **2 Stützstangen** | bis **3. Obergeschoss** | **2 Trupps** zum Instellungbringen. Höchstens **2 Personen** auf der Leiter |
-| **Multifunktionsleiter (MFL)** | **3 Teile**: 2 gelenkig verbunden, das 3. als Aufsteckteil | als Anlegeleiter 2- oder 3-teilig bis ins **1. Obergeschoss** | dreiteilige MFL: **1 Trupp (2 Personen)**. Als 2-Personen-Leiter zugelassen |
+| **Multifunktionsleiter (MFL)** | **3 Teile**: 2 gelenkig verbunden, das 3. als Aufsteckteil | als Anlegeleiter 2- oder 3-teilig bis ins **1. Obergeschoss** (4- oder 5-teilig, also zwei verbundene MFL: bis ins 2. OG) | dreiteilige MFL: **1 Trupp (2 Personen)**. Als 2-Personen-Leiter zugelassen |
 | **Klappleiter** | zusammenklappbare, einteilige Leiter | kleinere Hindernisse, enge Schächte | nur **1 Person** auf der Leiter |
 
 **Steckleiter im Detail:**
@@ -183,7 +183,7 @@ Der **Truppführer** überprüft die Begehbarkeit des Daches, kontrolliert den F
 - **Zweck:** Rettung, Selbstrettung, Sichern von Personen, Transport/Sicherung und Aufziehen von Geräten, Halten und Rückhalten
 - Wird **im Leinenbeutel** über der **rechten Schulter** getragen, der Beutel liegt am Rücken. Bei der Vornahme tragbarer Leitern und im Atemschutzeinsatz wird sie selbstständig mitgeführt.
 - Nach jedem Gebrauch bzw. mindestens **einmal jährlich prüfen**
-- **Nicht verwechseln:** Die **rote Mehrzweckleine** ist für technische Zwecke gedacht (z. B. als **Halte- und Ventilleine** an der Saugleitung), nicht zum Sichern von Personen. Umgekehrt gilt: **Feuerwehrleinen nicht als Mehrzweckleinen verwenden!**
+- **Nicht verwechseln:** Die **rote Mehrzweckleine** ist für technische Zwecke gedacht (z. B. als **Halte- und Ventilleine** an der Saugleitung), nicht zum Sichern von Personen. Die Feuerwehrleine dient dagegen **vornehmlich als Rettungs-, Sicherungs- und Signalleine**; sie ist prüfpflichtig, die Mehrzweckleine nicht.
 
 ### Feuerwehr-Haltegurt
 

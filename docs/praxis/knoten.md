@@ -116,7 +116,7 @@ Diese Fragen zu Leinen und Knoten stehen im offiziellen Fragenkatalog (schriftli
 |-------|------------------|
 | Welchen Zweck hat die Feuerwehrleine? | Rettung, Selbstrettung, Sicherung/Aufziehen von Geräten |
 | Wann darf die Feuerwehrleine **nicht** eingesetzt werden? | Zum Sichern gegen Absturz, wenn ein freier Fall nicht auszuschließen ist |
-| Dient die Feuerwehrleine als Halte- und Ventilleine? | **Nein** |
+| Dient die Feuerwehrleine als Halte- und Ventilleine? (Truppführer-Katalog) | **Nein** |
 | Welche Leine zur Sicherung einer Person bei der Rettung über die Steckleiter? | **Feuerwehrleine** |
 | Wie wird eine Person bei der Rettung über tragbare Leitern gesichert? | **Brustbund mit Spierenstich** als Knotensicherung |
 | Welche Knoten sichern den Brustbund? | **Pfahlstich und Spierenstich** bzw. Pfahlstich und Kreuzschlag |

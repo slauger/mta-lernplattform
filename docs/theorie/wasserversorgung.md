@@ -3,7 +3,7 @@
 **MTA-Module:** 5.5, 9.1, 9.2, 9.4 · **Grundlage:** FwDV 1 „Grundtätigkeiten“, FwDV 3
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlage MTA 4.1 „Fahrzeugkunde – Theorie“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz, Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“, Teilnehmer- und Ausbilderunterlage MTA 4.1 „Fahrzeugkunde – Theorie“ sowie die Fachinformation „Feuerwehrfahrzeuge“ (alle SFS Würzburg bzw. Feuerwehr-Lernbar), dazu der offizielle Fragenkatalog.
     Ergänzend: [HLFS Hessen – Lernunterlage Löschgeräte, Schläuche, Armaturen (06/2020)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2023-01/%284%29%20FB-Ausbilder_LernU_L%C3%B6schger%C3%A4te-Lernunterlage_Vers002.doc.pdf) (Hinweisschild, Verteiler, Sammelstück) · [NLBK Niedersachsen – Lehrunterlage Maschinisten](https://www.nlbk.niedersachsen.de/download/48297) (Saughöhe) · [UK RLP – Handlungshilfe Sichere und saubere Entnahme von Löschwasser](https://feuerwehr.ukrlp.de/fileadmin/ukrlp/daten/pdf/feuerwehr_portal/sicherheit_gesundheitsschutz/so_machts_die_feuerwehr/Handlungshilfe_Sichere_und_saubere_Entnahme_von_Loeschwasser.pdf) · [Gemeinde Brunnthal – Merkblatt Bedienung Unterflurhydrant](https://brunnthal.de/media/1707/merkblatt-bedienung-unterflurhydrant.pdf) · [Berliner Wasserbetriebe – WN 314 Hinweisschilder (in Anlehnung an DIN 4066)](https://www.bwb.de/werknormen/wn314_03-2018.pdf)
     Alle Unterlagen: [Feuerwehr-Lernbar – MTA Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) und [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
@@ -29,7 +29,7 @@ Für die Bereitstellung und den Unterhalt der Löschwasserversorgungsanlagen ist
 | **Abhängige** Löschwasserversorgung (Hydranten) | Unterflurhydrant, Überflurhydrant mit Fallmantel, Überflurhydrant ohne Fallmantel | sichergestellt durch das **Trinkwasserversorgungsnetz** |
 | **Unabhängige** Löschwasserversorgung – **unerschöpflich** | natürliche offene Gewässer (Seen, Flüsse), künstliche offene Gewässer (Kanäle, Speicherseen, Löschwasserbrunnen) | Entnahme mit der Feuerlöschkreiselpumpe über eine **selbstverlegte Saugleitung** oder einen **fest angebauten Sauganschluss** |
 | **Unabhängige** Löschwasserversorgung – **erschöpflich** | Löschwasserteiche, unterirdische Löschwasserbehälter, sonstige Behälter | wie oben |
-| **Mitgeführtes** Wasser | Löschwassertank des Fahrzeugs, z. B. LF 20 max. 2.000 l, TLF 4000 max. 4.000 l | sofort verfügbar, aber begrenzt |
+| **Mitgeführtes** Wasser | Löschwassertank des Fahrzeugs, z. B. LF 20 2.000 l, TLF 4000 4.000 l (die Zahl in der Fahrzeugbezeichnung steht für die **Mindestmenge** an Löschwasser) | sofort verfügbar, aber begrenzt |
 
 !!! tip "Reihenfolge bei Fahrzeugen mit Löschwasserbehälter"
     **Zuerst** die Leitung **vom Fahrzeug zum Verteiler**, **danach** die Leitung **vom Fahrzeug zur Wasserentnahmestelle**.
@@ -62,7 +62,7 @@ Das Schild ist **weiß mit rotem Rand** und schwarzer Schrift.
 ```
 
 !!! example "Lesen"
-    Du stehst vor dem Schild und schaust es an. Der Hydrant liegt dann **1,5 m nach links** versetzt und **4,2 m vor dem Schild**, also vom Schild aus in deine Richtung. Das Schild hängt höchstens etwa 10 m vom Hydranten entfernt.
+    Du stehst vor dem Schild und schaust es an. Der Hydrant liegt dann **1,5 m nach links** versetzt und **4,2 m vor dem Schild**, also vom Schild aus in deine Richtung. Der Abstand des Schildes vom Hydranten soll 10 m nicht überschreiten (DIN 4066, so auch Werknorm WN 314 der Berliner Wasserbetriebe).
 
 !!! tip "Hinweisschild üben"
     Übe das Ablesen mit deinem Ausbilder an einem Hinweisschild vor Ort.

@@ -283,17 +283,17 @@ Diese Liste enthält alle Materialien, die du für die optimale Vorbereitung auf
 
 ## Zusammenfassung: Was kaufen?
 
-### Minimal-Ausstattung (ca. 35-55 €)
+### Minimal-Ausstattung (ca. 35-50 €)
 
 ✅ Übungsleine (5 €)
 ✅ Lehrbuch (25-40 €)
 ✅ Notizblock (5 €)
 
-**Total:** 35-55 €
+**Total:** 35-50 €
 
 ---
 
-### Empfohlene Ausstattung (ca. 80-130 €)
+### Empfohlene Ausstattung (ca. 90-110 €)
 
 ✅ Übungsleine (5 €)
 ✅ Lehrbuch (30 €)

@@ -5,7 +5,7 @@
 !!! abstract "Джерело"
     Матеріали для інструкторів MTA 11.1 „Einheiten im Hilfeleistungseinsatz – Theorie“ (зі слайдами та робочим аркушем), 11.2 – 11.4 „Praxis 1–3“ і 11.5 – 11.7 „Einsatzübung 1–3“; матеріали для інструкторів MTA 5.7 „Geräte für die einfache Hilfeleistung“ і 5.8 „Geräte für die erweiterte Hilfeleistung“; матеріали для учасників та інструкторів, а також презентація MTA 13 „Fahrzeugtechnik (alternative Antriebe)“ (усі – SFS Würzburg), а також офіційний каталог питань (Fragenkatalog).
     Усі матеріали: [Feuerwehr-Lernbar – Einheiten im Hilfeleistungseinsatz (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) · [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung (німецькою)](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) · [Feuerwehr-Lernbar – Fahrzeugtechnik (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-fahrzeugtechnik)
-    Додатково: [StVO § 11 Abs. 2 (коридор для екстрених служб, Rettungsgasse) (німецькою)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (видання 2026) (німецькою)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) та її попередня редакція [GUV-I 8664 (2012) (німецькою)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), на яку посилається матеріал MTA 13 щодо правила AUTO
+    Додатково: [FwDV 1 „Grundtätigkeiten – Lösch- und Hilfeleistungseinsatz“, розділ 19 „Sichern von Einsatzstellen gegen fließenden Verkehr“ (Feuerwehr-Lernbar – Feuerwehr-Dienstvorschriften) (німецькою)](https://www.feuerwehr-lernbar.bayern/post/fwdv) · [StVO § 11 Abs. 2 (коридор для екстрених служб, Rettungsgasse) (німецькою)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (видання 2026) (німецькою)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) та її попередня редакція [GUV-I 8664 (2012) (німецькою)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), на яку посилається матеріал MTA 13 щодо правила AUTO
 
 ## Навчальні цілі {#lernziele}
 
@@ -56,7 +56,7 @@
 
 ### Відстані для убезпечення руху (за FwDV 1) {#abstande-der-verkehrsabsicherung-nach-fwdv-1}
 
-Убезпечують **перед місцем аварії та за ним**:
+На дорогах із зустрічним рухом убезпечують **перед місцем аварії та за ним**:
 
 | Дорога | Відстань |
 |--------|----------|
@@ -64,7 +64,7 @@
 | Поза населеним пунктом | бл. **200 м** |
 | Автобан | бл. **800 м** |
 
-Для убезпечення швидкісних доріг потрібні додаткові попереджувальні та захисні засоби.
+На **автобанах і автомагістралях (Kraftverkehrsstraßen) із розділеними проїзними частинами** убезпечують лише **проти напрямку руху**, ступінчасто на відстані бл. 200, 400, 600 і 800 м; 800 м стосуються ділянок без обмеження швидкості (FwDV 1). Для убезпечення швидкісних доріг потрібні додаткові попереджувальні та захисні засоби, напр. складані знаки (Faltsignale) і дорожні конуси з проблисковими ліхтарями (Blitzleuchten).
 
 !!! info "Регулювання руху"
     Пожежна команда може також регулювати рух, напр. подавати знаки та вказівки для регулювання руху. Але **головну роль** у регулюванні руху має **поліція**.
@@ -76,7 +76,7 @@
 - автомобілі на **лівій смузі** з'їжджають **якнайлівіше**,
 - **усі інші** з'їжджають **праворуч**.
 
-Згідно зі **StVO § 11 Abs. 2** це діє на автобанах і заміських дорогах з **щонайменше двома смугами** в кожному напрямку, щойно рух зупиняється: **коридор** (Rettungsgasse) завжди утворюється між **крайньою лівою** смугою і смугою праворуч від неї – незалежно від того, 2, 3 чи більше смуг.
+Згідно зі **StVO § 11 Abs. 2** це діє на автобанах і заміських дорогах з **щонайменше двома смугами** в кожному напрямку, щойно автомобілі рухаються лише зі **швидкістю пішохода** або стоять: **коридор** (Rettungsgasse) завжди утворюється між **крайньою лівою** смугою і смугою праворуч від неї – незалежно від того, 2, 3 чи більше смуг.
 
 ### Якщо ти сам проїжджаєш повз аварію (напр. під час тренувальної поїздки) {#wenn-du-selbst-an-einem-unfall-vorbeikommst-z-b-bei-einer-bewegungsfahrt}
 
