@@ -87,13 +87,13 @@ Mögliche Anzeichen sind z. B. Kopfschmerzen, Unruhe, Sehstörungen, Übelkeit, 
 |---|---|---|
 | Entstehung | bei **unvollkommener** Verbrennung | bei **vollkommener** Verbrennung |
 | Eigenschaften | **farb-, geruch- und geschmacklos**, **brennbar** (explosionsfähig), etwas **leichter als Luft** | **farb-, geruch- und geschmacklos**, nicht brennbar, etwa 1,5-mal **schwerer als Luft** |
-| Wirkung | **giftig**: Blut- und Nervengift | **ungiftig** (so die Prüfungsantwort), steuert die Atmung, **erstickend** bei zu hoher Konzentration |
+| Wirkung | **giftig**: Blut- und Nervengift | **ungiftig** (so die Antwort im Truppführer-Fragenkatalog), steuert die Atmung, **erstickend** bei zu hoher Konzentration |
 
 !!! tip "Eselsbrücke"
     **CO = „C-Ohne genug Sauerstoff“**, entsteht also bei unvollkommener Verbrennung und ist giftig.
     **CO₂** ist ungiftig, wirkt aber bei zu hoher Konzentration erstickend.
 
-    Achtung: „Ungiftig“ ist die Antwort im Fragenkatalog (im Gegensatz zum Blut- und Nervengift CO). Das Merkblatt 5.002 der SFS Würzburg stuft CO₂ trotzdem als **Atemgift** ein: Es verdrängt den Sauerstoff und wirkt über die Steuerung der Atmung – bei hoher Konzentration bis zum **Atemstillstand** (siehe [Brennen & Löschen](brennen-loeschen.md)).
+    Achtung: „Ungiftig“ ist die Antwort im Truppführer-Fragenkatalog (im Gegensatz zum Blut- und Nervengift CO). Das Merkblatt 5.002 der SFS Würzburg stuft CO₂ trotzdem als **Atemgift** ein: Es verdrängt den Sauerstoff und wirkt über die Steuerung der Atmung – bei hoher Konzentration bis zum **Atemstillstand** (siehe [Brennen & Löschen](brennen-loeschen.md)).
 
 ---
 

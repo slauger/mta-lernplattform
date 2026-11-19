@@ -206,7 +206,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### BF (Berufsfeuerwehr)
-**Erklärung:** Feuerwehr aus Beamten des feuerwehrtechnischen Dienstes. Das BayFwG nennt die gemeindlichen Feuerwehren (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) und die Werkfeuerwehren. Eine Pflichtfeuerwehr muss die Gemeinde aufstellen, wenn eine Freiwillige Feuerwehr nicht zustande kommt.
+**Erklärung:** Feuerwehr aus Beamten des feuerwehrtechnischen Dienstes. Das BayFwG nennt die gemeindlichen Feuerwehren (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) und die Werkfeuerwehren. Reicht eine Freiwillige Feuerwehr oder Pflichtfeuerwehr nicht aus, muss die Gemeinde eine Berufsfeuerwehr aufstellen (Art. 14 Abs. 1). Eine Pflichtfeuerwehr muss sie aufstellen, wenn eine Freiwillige Feuerwehr nicht zustande kommt (Art. 13).
 
 **Beispiel:** Berufsfeuerwehren gibt es in Städten ab etwa 100.000 Einwohnern, während die FF Goldkronach ehrenamtlich arbeitet.
 

@@ -29,7 +29,7 @@ Für die Bereitstellung und den Unterhalt der Löschwasserversorgungsanlagen ist
 | **Abhängige** Löschwasserversorgung (Hydranten) | Unterflurhydrant, Überflurhydrant mit Fallmantel, Überflurhydrant ohne Fallmantel | sichergestellt durch das **Trinkwasserversorgungsnetz** |
 | **Unabhängige** Löschwasserversorgung – **unerschöpflich** | natürliche offene Gewässer (Seen, Flüsse), künstliche offene Gewässer (Kanäle, Speicherseen, Löschwasserbrunnen) | Entnahme mit der Feuerlöschkreiselpumpe über eine **selbstverlegte Saugleitung** oder einen **fest angebauten Sauganschluss** |
 | **Unabhängige** Löschwasserversorgung – **erschöpflich** | Löschwasserteiche, unterirdische Löschwasserbehälter, sonstige Behälter | wie oben |
-| **Mitgeführtes** Wasser | Löschwassertank des Fahrzeugs, z. B. LF 20 2.000 l, TLF 4000 4.000 l (die Zahl in der Fahrzeugbezeichnung steht für die **Mindestmenge** an Löschwasser) | sofort verfügbar, aber begrenzt |
+| **Mitgeführtes** Wasser | Löschwassertank des Fahrzeugs, z. B. LF 20 mind. 2.000 l, TLF 4000 mind. 4.000 l (beim TLF steht die Zahl für die **Mindestmenge** im Tank, beim LF für die Pumpenleistung, z. B. FPN 10-2000) | sofort verfügbar, aber begrenzt |
 
 !!! tip "Reihenfolge bei Fahrzeugen mit Löschwasserbehälter"
     **Zuerst** die Leitung **vom Fahrzeug zum Verteiler**, **danach** die Leitung **vom Fahrzeug zur Wasserentnahmestelle**.
