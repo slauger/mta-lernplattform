@@ -32,6 +32,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Mit **Feuerwehrleine und Feuerwehr-Haltegurt** darf nur gesichert werden, wenn **keine Absturzgefahr** besteht. Dafür gibt es zwei Methoden. Beim **Halten** ist die Leine oberhalb des zu Sichernden angeschlagen und wird immer straff auf Zug geführt. Beim **Rückhalten** kann die Absturzkante gar nicht erreicht werden (Mindestabstand ca. 2 m). Ist ein Absturz **nicht definitiv auszuschließen**, muss immer der **Gerätesatz Absturzsicherung** verwendet werden.
 
 **Beispiel:** Auf einem Flachdach wird ein Feuerwehrangehöriger mit Haltegurt und Feuerwehrleine so zurückgehalten, dass er nicht näher als ca. 2 m an die Dachkante kommt. Das ist „Rückhalten“.
+
 ---
 
 ### Atemschutzgeräteträger
@@ -59,6 +60,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Trupp, der rettet und in der Regel das erste Rohr vornimmt. Er setzt den Verteiler und verlegt seine C-Leitung ab dem Verteiler selbst. Im Hilfeleistungseinsatz ist er der Rettungstrupp.
 
 **Beispiel:** „Angriffstrupp zur Menschenrettung unter Atemschutz mit 1. C-Rohr in das 1. OG über den Treppenraum – vor!“
+
 ---
 
 ### Atemschutz
@@ -79,6 +81,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Atemanschluss für den Atemschutz. Bei der Feuerwehr wird als Atemanschluss eine **Vollmaske** (oder eine Masken/Helm-Kombination) verwendet. Mit Pressluftatmer ergibt sie umluftunabhängigen Atemschutz, mit Atemfilter ein Filtergerät.
 
 **Beispiel:** Bei einem Brand im Freien kann das Filtergerät (Atemschutzmaske mit Atemfilter) ausreichen, im Gebäude brauchst du den Pressluftatmer.
+
 ---
 
 ### Ausrüstung, Persönliche Schutzausrüstung (PSA)
@@ -101,18 +104,21 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Brandbekämpfung von außen, ohne das Gebäude zu betreten. Grundregeln: Schlauchreserve bereithalten, auf sicheren Standplatz achten, dynamische Strahlrohrführung, Strahlrohr zu, wenn kein Feuer sichtbar ist.
 
 **Beispiel:** Beim kombinierten Außen- und Innenangriff spritzt du nicht blind in Fenster hinein, denn das gefährdet die Trupps im Innenangriff.
+
 ---
 
 ### Brustbund
 **Erklärung:** Rettungsknoten (Brustbund/Pfahlstich) zur Rettung von Personen. Weil er sich nicht zuziehen kann, eignet er sich auch zur Befestigung, wenn nicht eingeschnürt werden darf. Er ist generell mit einem **Spierenstich** zu sichern. Kontrolliert wird er vom Truppführer.
 
 **Beispiel:** Eine Person wird über die Steckleiter gerettet und dabei mit dem Brustbund an der Feuerwehrleine gesichert.
+
 ---
 
 ### Bereitstellung (Einsatz mit Bereitstellung)
 **Erklärung:** Einsatzform, wenn der Einheitsführer zunächst nur Wasserentnahmestelle und Lage des Verteilers bestimmen kann, die genaue Einsatzdurchführung aber noch erkundet werden muss. Auf den Befehl „… zum Einsatz fertig!“ wird die Wasserversorgung bis zum Verteiler aufgebaut, der Angriffstrupp rüstet sich aus und stellt sich am Verteiler bereit. Den eigentlichen Einsatzbefehl gibt der Einheitsführer erst danach.
 
 **Beispiel:** „Wasserentnahmestelle Überflurhydrant, Verteiler neben die Eingangstür – zum Einsatz fertig!“ Der Angriffstrupp bringt Verteiler und C-Schläuche zur befohlenen Stelle und wartet auf den Einsatzbefehl.
+
 ---
 
 ### BFV (Bezirksfeuerwehrverband)
@@ -203,6 +209,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Feuerwehr aus Beamten des feuerwehrtechnischen Dienstes. Die Gemeinde muss sie aufstellen, wenn eine Freiwillige Feuerwehr oder Pflichtfeuerwehr nicht ausreicht. Das BayFwG nennt die gemeindlichen Feuerwehren (Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr) und die Werkfeuerwehren.
 
 **Beispiel:** Berufsfeuerwehren gibt es in Städten ab etwa 100.000 Einwohnern, während die FF Goldkronach ehrenamtlich arbeitet.
+
 ---
 
 ## C
@@ -218,6 +225,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Mehrzweckstrahlrohr (M) der Größe C mit drei Schaltstellungen: **Vollstrahl** (Hebelende vorne), **geschlossen** (Hebelende quer), **Sprühstrahl** (Hebelende hinten). Mit Mundstück gibt es bei ca. 5 bar etwa 100 l/min ab, ohne Mundstück etwa 200 l/min. Für die Brandbekämpfung im Gebäudeinnern soll es nicht verwendet werden.
 
 **Beispiel:** Mit dem CM-Rohr wechselst du zwischen Vollstrahl (große Wurfweite) und Sprühstrahl (sehr gute Energieaufnahme).
+
 ---
 
 ## D
@@ -263,6 +271,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Taktische Einheit aus Mannschaft und Einsatzmitteln: selbstständiger Trupp, Staffel, Gruppe, Zug. Die Gruppe ist die taktische Grundeinheit.
 
 **Beispiel:** Eine Gruppe (1/8/9) besteht aus Gruppenführer, Maschinist, Melder sowie Angriffs-, Wasser- und Schlauchtrupp.
+
 ---
 
 ### Einsatzabschnitt
@@ -276,6 +285,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Befehl des Einheitsführers nach dem Schema **Einheit – Auftrag – Mittel – Ziel – Weg**, abgeschlossen mit „vor!“. Der Führer des beauftragten Trupps wiederholt ihn.
 
 **Beispiel:** „Angriffstrupp zur Brandbekämpfung mit 1. C-Rohr in das 1. OG über den Treppenraum – vor!“
+
 ---
 
 ### Einsatzleiter
@@ -333,12 +343,14 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Kurze Meldung per Funk an die Leitstelle über das Funkmeldesystem (FMS). Im Digitalfunk wird sie im TMO durch langes Drücken der entsprechenden Zifferntaste gesendet. Status 0–9 sind bundeseinheitlich.
 
 **Beispiel:** Status 2 = Einsatzbereit Wache, Status 3 = Einsatzübernahme, Status 4 = Einsatzort.
+
 ---
 
 ### Feuerlöschkreiselpumpe (FPN)
 **Erklärung:** Fest im Fahrzeug eingebaute Pumpe, bei aktuellen Fahrzeugen **im Heck**. FPN steht für „Fire Pump Normal Pressure“. „FPN 10-2000“ heißt: 2.000 l/min Nennförderstrom bei 10 bar Nennförderdruck. Die tragbare Variante ist die **PFPN** (Tragkraftspritze).
 
 **Beispiel:** Das LF 20 hat eine FPN 10-2000, das LF 10 eine FPN 10-1000.
+
 ---
 
 ### Führungskraft
@@ -352,6 +364,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Drahtlose Kommunikation zwischen Einsatzkräften und Leitstelle (BOS-Funk). Der Sprech- und Datenfunkverkehr ist in der FwDV 810 geregelt.
 
 **Beispiel:** „Leitstelle Bayreuth von Florian Goldkronach 40/1, kommen.“ – „Hier Leitstelle Bayreuth, kommen.“
+
 ---
 
 ### Funkrufname
@@ -480,6 +493,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Führungsdienstgrad auf Landkreisebene. Er ist für einen **Inspektionsbereich** zuständig, z. B. die Inspektion I im Landkreis Bayreuth. Ein KBI ist zugleich Vertreter des Kreisbrandrats.
 
 **Beispiel:** Der KBI der Inspektion I eröffnet die MTA mit der Lehrgangsorganisation.
+
 ---
 
 ### Kommandant
@@ -581,6 +595,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Funktion in der Gruppe. Er übernimmt befohlene Aufgaben, z. B. Informationsübertragung, Betreuung oder Erkundung, und arbeitet nach Weisung des Gruppenführers.
 
 **Beispiel:** Der Gruppenführer schickt den Melder mit einer Rückmeldung zum Einsatzleiter.
+
 ---
 
 ### Menschenrettung
@@ -594,6 +609,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Grundausbildung der Feuerwehren in Bayern. Sie beginnt mit dem **Basismodul** (feuerwehrtechnische Grundausbildung) und der **Zwischenprüfung**. Danach folgt der Ausbildungs- und Übungsdienst in der eigenen Wehr (in der Regel etwa zwei Jahre). Den Abschluss bildet die **Abschlussprüfung**, mit der du die **Truppführer**-Qualifikation erwirbst (siehe [Einführung](einfuehrung.md)).
 
 **Beispiel:** Nach dem Basismodul darfst du ab 16 Jahren mit Zustimmung des Kommandanten an Einsätzen teilnehmen, aber nur außerhalb der unmittelbaren Gefahrenzone.
+
 ---
 
 ## N
@@ -657,6 +673,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Bei der **Rauchdurchzündung (Rollover/Rauchgasdurchzündung)** wird die Rauchschicht heißer und dichter, an ihrer Grenze zeigen sich Flammenzungen. Bei richtigem Mischungsverhältnis zündet die Rauchschicht durch. Bei der **Raumdurchzündung (Flashover/Feuerübersprung)** erreichen alle Stoffe im Raum fast gleichzeitig ihre Zündtemperatur, und der Brand breitet sich schlagartig auf alle brennbaren Oberflächen aus (Vollbrand). Ein Sonderfall ist die **Rauchexplosion (Backdraft)**: Ein Feuer im geschlossenen Raum erstickt mangels Sauerstoff. Wird der Raum geöffnet, kommt Luft hinzu, und der Rauch zündet schlagartig durch.
 
 **Beispiel:** Die Rauchschicht wird heißer und dichter, an ihrer Grenze züngeln Flammen. Das sind Warnzeichen einer Rauchdurchzündung.
+
 ---
 
 ### Retten
@@ -686,6 +703,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Ort, an dem sich Einsatzkräfte bei Lageänderung oder Gefahr sammeln, am Verteiler oder am Fahrzeug. Nach dem Kommando „Gefahr – Alle sofort zurück!“ ist das das Feuerwehrfahrzeug.
 
 **Beispiel:** Nach dem Signal wiederholst du es, gehst mit deinem Trupp **zum Feuerwehrfahrzeug** und meldest dich beim Einheitsführer.
+
 ---
 
 ### Schlauchtrupp
@@ -720,6 +738,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Taktische Einheit 1/5/6: Einheitsführer, Maschinist, Angriffstrupp und Wassertrupp.
 
 **Beispiel:** TSF, TSF-W und MLF sind mit einer Staffel besetzt.
+
 ---
 
 ### Standrohr
@@ -754,6 +773,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Löschfahrzeug mit Feuerlöschkreiselpumpe, Schnellangriffseinrichtung und Löschwasserbehälter. Aktuelle Typen sind **TLF 2000**, **TLF 3000** und **TLF 4000**. Die Zahl gibt die Mindestmenge an Löschwasser in Litern an. Besatzung: **Trupp 1/2**.
 
 **Beispiel:** Das TLF 4000 hat 4.000 Liter Wasser an Bord. Ältere Fahrzeuge heißen noch z. B. TLF 16/25.
+
 ---
 
 ### Tragkraftspritze (TS)
@@ -774,12 +794,14 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Führt einen Trupp und ist für dessen Sicherheit und die Erledigung des Einsatzauftrags verantwortlich. Er gibt dem Truppmann Weisungen, z. B. Voll- oder Sprühstrahl, und meldet dem Einheitsführer.
 
 **Beispiel:** Der Truppmann führt das Strahlrohr, der Truppführer bestimmt, wann und wie es geöffnet wird.
+
 ---
 
 ### Truppmann
 **Erklärung:** Mitglied eines Trupps neben dem Truppführer. Er arbeitet nach dessen Weisungen.
 
 **Beispiel:** Als Truppmann arbeitest du im Einsatz unter Anleitung deines Truppführers, z. B. als Strahlrohrführer.
+
 ---
 
 ### TSF (Tragkraftspritzenfahrzeug)
@@ -846,12 +868,14 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Armatur zur Löschmittelfortleitung, die eine B-Leitung auf mehrere absperrbare Abgänge aufteilt. Zur Vermeidung von Druckstößen wird er langsam geöffnet und geschlossen.
 
 **Beispiel:** In Fließrichtung kommt das 1. Rohr links, das 2. Rohr rechts und das 3. Rohr oder ein Sonderrohr in die Mitte.
+
 ---
 
 ### Vollstrahl
 **Erklärung:** Gebündelter Wasserstrahl mit großer Wurfweite und hoher Auftreffwucht, aber schlechter Energieaufnahme.
 
 **Beispiel:** Mit dem Vollstrahl erreichst du einen Brandherd aus größerer Entfernung, z. B. im Außenangriff.
+
 ---
 
 ## W
@@ -860,6 +884,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Kommando, mit dem Wasser in eine Leitung gegeben wird.
 
 **Beispiel:** „**1. Rohr – Wasser marsch!**“ Der Verteiler bzw. die Pumpe wird geöffnet, und Wasser fließt zum 1. Rohr.
+
 ---
 
 ### Wasser halt
@@ -880,6 +905,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 **Erklärung:** Trupp der Gruppe bzw. Staffel. Im **Löscheinsatz** stellt er die Wasserversorgung vom Löschfahrzeug zum Verteiler und zwischen Wasserentnahmestelle und Fahrzeug her, kuppelt den Verteiler an die B-Leitung an und wird beim Atemschutzeinsatz Sicherheitstrupp. Im **Hilfeleistungseinsatz** ist er der **Sicherungstrupp** und sichert die Einsatzstelle auf Befehl gegen weitere Gefahren.
 
 **Beispiel:** Bei offenem Gewässer bestimmt der Wassertruppführer die Anzahl der Saugschläuche.
+
 ---
 
 ### Wenderohr

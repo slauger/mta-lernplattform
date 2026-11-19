@@ -54,6 +54,34 @@ plugins:
             Lehrgangstermine: Заняття курсу
             "11.11. – Einführung & Recht": "11.11 – Вступ і право"
             "19.11. – Brennen & Löschen": "19.11 – Горіння та гасіння"
+            Einführung: Вступ
+            Orientierung & MTA: Орієнтація та MTA
+            Begriffe & Abkürzungen: Терміни та скорочення
+            MTA-Module & Unterlagen: Модулі MTA та матеріали
+            Theorie: Теорія
+            Ziele, Aufgaben & Werte: Цілі, завдання та цінності
+            Brennen & Löschen: Горіння та гасіння
+            Fahrzeuge & Geräte: Автомобілі та обладнання
+            Recht & Sicherheit: Право та безпека
+            Einsatz & Funk: Виклик і радіозв'язок
+            Einheiten im Löscheinsatz: Підрозділи під час гасіння
+            Löschwasserversorgung: Водопостачання для гасіння
+            Technische Hilfeleistung: Технічна допомога
+            Leitern & Absturzsicherung: Драбини та страхування від падіння
+            Verhalten bei Gefahr & ABC: Поведінка в разі небезпеки та РХБ
+            Erste Hilfe & Belastung: Перша допомога та навантаження
+            Praxis: Практика
+            Knoten & Stiche: Вузли (Knoten & Stiche)
+            Übungen zuhause: Вправи вдома
+            Materialliste: Список спорядження
+            Prüfung: Іспит
+            Prüfungsfragen: Питання до іспиту
+            Goldkronach: Гольдкронах
+            Lokale Besonderheiten: Місцеві особливості
+            Ressourcen: Ресурси
+            Bücher, Links & Videos: Книги, посилання та відео
+            Lernfortschritt: Прогрес навчання
+            Fortschritt dokumentieren: Відстежувати прогрес
 
 markdown_extensions:
   - admonition

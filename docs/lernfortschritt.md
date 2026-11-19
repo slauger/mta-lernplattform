@@ -234,7 +234,7 @@ Was mache ich morgen?
 - [ ] Löschmittel für jede Brandklasse kennen
 - [ ] Weiß, warum NIEMALS Wasser auf Fett
 - [ ] Weiß, warum NIEMALS Wasser auf Metalle
-- [ ] 4 Löschwirkungen (Kühlen, Ersticken, Verdünnen, Antikatalytisch) kennen
+- [ ] Die 3 Löschverfahren (Abkühlen, Ersticken, Beseitigen) kennen
 - [ ] Backdraft-Anzeichen kennen
 - [ ] Quiz zu diesem Kapitel bestanden (mind. 80%)
 

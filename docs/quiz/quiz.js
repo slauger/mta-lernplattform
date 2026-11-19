@@ -19,8 +19,9 @@ async function loadQuestions() {
         // Set current catalog key (used for localStorage)
         currentCatalog = catalogFile.replace('.json', '').replace('questions-', '');
 
-        const response = await fetch(catalogFile);
+        const [response, translations] = await Promise.all([fetch(catalogFile), loadTranslations(catalogFile)]);
         allQuestions = await response.json();
+        attachTranslations(allQuestions, translations);
         loadWrongQuestions(); // Load from localStorage (catalog-specific)
         loadSeenQuestions(); // Load from localStorage (catalog-specific)
         console.log(`Loaded ${allQuestions.length} questions from ${catalogFile} (catalog: ${currentCatalog})`);
@@ -34,7 +35,7 @@ async function loadQuestions() {
 
     } catch (error) {
         console.error('Error loading questions:', error);
-        alert('Fehler beim Laden der Fragen. Bitte Seite neu laden.');
+        alert(t('loadError'));
     }
 }
 
@@ -55,7 +56,7 @@ function startQuiz() {
     currentQuestions = filteredQuestions.slice(0, Math.min(count, filteredQuestions.length));
 
     if (currentQuestions.length === 0) {
-        alert('Keine Fragen gefunden!');
+        alert(t('noQuestions'));
         return;
     }
 
@@ -87,17 +88,17 @@ function displayQuestion() {
     }
 
     document.getElementById('questionNumber').textContent =
-        `Frage ${currentQuestionIndex + 1} von ${currentQuestions.length}`;
+        t('questionOf', currentQuestionIndex + 1, currentQuestions.length);
     document.getElementById('category').textContent = themaLabel(question);
 
     // Build question HTML with answers
-    let questionHTML = `<p style="margin-bottom: 20px;">${question.question}</p>`;
+    let questionHTML = `<p style="margin-bottom: 20px;">${qText(question)}</p>`;
 
     // Add images if present
     if (question.images && question.images.length > 0) {
         questionHTML += '<div style="margin: 20px 0;">';
         question.images.forEach(img => {
-            questionHTML += `<img src="data:${img.mime_type};base64,${img.data}" style="max-width: 100%; border-radius: 8px; margin: 10px 0;" alt="Fragebild">`;
+            questionHTML += `<img src="data:${img.mime_type};base64,${img.data}" style="max-width: 100%; border-radius: 8px; margin: 10px 0;" alt="${t('imageAlt')}">`;
         });
         questionHTML += '</div>';
     }
@@ -112,12 +113,12 @@ function displayQuestion() {
                 <div class="answer-option" data-index="${idx}" style="padding: 15px; margin: 8px 0; background: #f8f9fa; border-radius: 8px; cursor: pointer; border: 2px solid transparent; transition: all 0.2s;">
                     <label style="cursor: pointer; display: flex; align-items: center; width: 100%;">
                         <input type="checkbox" id="answer_${idx}" style="margin-right: 10px; width: 18px; height: 18px; cursor: pointer;">
-                        <strong style="margin-right: 8px;">${letter})</strong> ${answer}
+                        <strong style="margin-right: 8px;">${letter})</strong> <span>${answerText(question, idx)}</span>
                     </label>
                 </div>`;
         });
         questionHTML += '</div>';
-        questionHTML += '<button class="btn-primary" onclick="checkAnswer()" style="margin-top: 20px; width: 100%;">Antwort abgeben</button>';
+        questionHTML += `<button class="btn-primary" onclick="checkAnswer()" style="margin-top: 20px; width: 100%;">${t('submit')}</button>`;
     } else {
         // Single Choice - Buttons
         questionHTML += '<div style="margin-top: 20px;" id="answerOptions">';
@@ -125,7 +126,7 @@ function displayQuestion() {
             const letter = String.fromCharCode(97 + idx).toUpperCase();
             questionHTML += `
                 <div class="answer-option" onclick="selectAnswer(${idx})" data-index="${idx}" style="padding: 15px; margin: 8px 0; background: #f8f9fa; border-radius: 8px; cursor: pointer; border: 2px solid transparent; transition: all 0.2s;">
-                    <strong>${letter})</strong> ${answer}
+                    <strong>${letter})</strong> ${answerText(question, idx)}
                 </div>`;
         });
         questionHTML += '</div>';
@@ -187,7 +188,7 @@ function checkAnswer() {
     });
 
     if (selected.length === 0) {
-        alert('Bitte wähle mindestens eine Antwort!');
+        alert(t('pickOne'));
         return;
     }
 
@@ -237,22 +238,22 @@ function showFeedback(isCorrect) {
 
     if (isCorrect) {
         feedbackHTML += '<div style="background: #d4edda; border: 2px solid #4caf50; padding: 15px; border-radius: 8px; margin: 20px 0;">';
-        feedbackHTML += '<strong style="color: #155724;">✅ Richtig!</strong>';
+        feedbackHTML += `<strong style="color: #155724;">${t('correct')}</strong>`;
     } else {
         feedbackHTML += '<div style="background: #f8d7da; border: 2px solid #f44336; padding: 15px; border-radius: 8px; margin: 20px 0;">';
-        feedbackHTML += '<strong style="color: #721c24;">❌ Falsch!</strong>';
+        feedbackHTML += `<strong style="color: #721c24;">${t('wrong')}</strong>`;
     }
 
-    feedbackHTML += `<div style="margin-top: 10px; color: #333;">${question.explanation}</div>`;
+    feedbackHTML += `<div style="margin-top: 10px; color: #333;">${explanationText(question)}</div>`;
 
     if (question.reference) {
-        feedbackHTML += `<div style="margin-top: 10px;"><a href="${question.reference}" target="_blank" style="color: #667eea; font-weight: 600;">📖 Mehr dazu im Theorie-Kapitel →</a></div>`;
+        feedbackHTML += `<div style="margin-top: 10px;"><a href="${question.reference}" target="_blank" style="color: #667eea; font-weight: 600;">${t('moreTheory')}</a></div>`;
     }
 
     feedbackHTML += '</div>';
 
     // Add continue button
-    feedbackHTML += `<button class="btn-primary" onclick="continueToNext(${isCorrect})" style="width: 100%; margin-top: 10px;">Weiter →</button>`;
+    feedbackHTML += `<button class="btn-primary" onclick="continueToNext(${isCorrect})" style="width: 100%; margin-top: 10px;">${t('next')}</button>`;
 
     feedbackSection.innerHTML = feedbackHTML;
     feedbackSection.classList.remove('hidden');
@@ -330,29 +331,29 @@ function showResults() {
     const percentage = Math.round((correctCount / questionsAnswered) * 100);
 
     document.getElementById('score').textContent =
-        `${correctCount}/${questionsAnswered} richtig (${percentage}%)`;
+        `${t('scoreCorrect', correctCount, questionsAnswered)} (${percentage}%)`;
 
     // Show stats
     const resultsDiv = document.getElementById('results');
     resultsDiv.innerHTML = `
-        <h2>🎉 Quiz abgeschlossen!</h2>
-        <div class="score">${correctCount}/${questionsAnswered} richtig</div>
+        <h2>${t('quizDone')}</h2>
+        <div class="score">${t('scoreCorrect', correctCount, questionsAnswered)}</div>
         <p style="font-size: 24px; color: #667eea; margin: 20px 0;">${percentage}%</p>
         <div style="text-align: left; background: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0;">
-            <div style="margin-bottom: 10px;">✅ Richtig: <strong>${correctCount}</strong></div>
-            <div style="margin-bottom: 10px;">❌ Falsch: <strong>${wrongCount}</strong></div>
-            <div>⏭️ Übersprungen: <strong>${questionsAnswered - correctCount - wrongCount}</strong></div>
+            <div style="margin-bottom: 10px;">${t('rightLabel')} <strong>${correctCount}</strong></div>
+            <div style="margin-bottom: 10px;">${t('wrongLabel')} <strong>${wrongCount}</strong></div>
+            <div>${t('skippedLabel')} <strong>${questionsAnswered - correctCount - wrongCount}</strong></div>
         </div>
         ${wrongQuestionIds.length > 0 ? `
             <div style="background: #fff3cd; padding: 15px; border-radius: 10px; margin: 20px 0;">
-                <strong>💡 Tipp:</strong> Du hast ${wrongQuestionIds.length} Frage(n) falsch beantwortet.
-                <br>Diese werden automatisch gespeichert für spätere Wiederholung!
+                <strong>${t('tip')}</strong> ${t('tipWrong', wrongQuestionIds.length)}
+                <br>${t('tipSaved')}
             </div>
         ` : ''}
-        <button class="btn-primary" onclick="resetQuiz()">Neues Quiz starten</button>
+        <button class="btn-primary" onclick="resetQuiz()">${t('newQuiz')}</button>
         ${wrongQuestionIds.length > 0 ? `
             <button class="btn-wrong" onclick="reviewWrongQuestions()" style="margin-top: 10px;">
-                ❌ Falsche Fragen wiederholen (${wrongQuestionIds.length})
+                ${t('reviewWrong', wrongQuestionIds.length)}
             </button>
         ` : ''}
     `;
@@ -375,7 +376,7 @@ function startQuizNewOnly() {
     const unseenQuestions = filterByThema(allQuestions, 'themaFilter').filter(q => !seenQuestionIds.includes(q.id));
 
     if (unseenQuestions.length === 0) {
-        alert('🎉 Du hast bereits alle Fragen bearbeitet!\n\nNutze "Fortschritt zurücksetzen" um von vorne zu beginnen.');
+        alert(t('allSeen'));
         return;
     }
 
@@ -400,13 +401,13 @@ function startQuizNewOnly() {
 // Start quiz with only wrong questions
 function startQuizWrongOnly() {
     if (wrongQuestionIds.length === 0) {
-        alert('Keine falsch beantworteten Fragen gespeichert!');
+        alert(t('noWrong'));
         return;
     }
 
     currentQuestions = filterByThema(allQuestions, 'themaFilter').filter(q => wrongQuestionIds.includes(q.id));
     if (currentQuestions.length === 0) {
-        alert('Keine falsch beantworteten Fragen zu diesem Thema gespeichert!');
+        alert(t('noWrongThema'));
         return;
     }
     currentQuestions = shuffleArray(currentQuestions);
@@ -464,12 +465,12 @@ function loadSeenQuestions() {
 // Clear all progress for current catalog
 function clearProgress() {
     const catalogName = currentCatalog.includes('basismodul') ? 'MTA Basismodul' : 'MTA Truppführer';
-    if (confirm(`Möchtest du wirklich deinen Lernfortschritt für "${catalogName}" zurücksetzen?\n\n- Gesehene Fragen\n- Falsch beantwortete Fragen\n\nDiese Aktion kann nicht rückgängig gemacht werden!`)) {
+    if (confirm(t('confirmReset', catalogName))) {
         wrongQuestionIds = [];
         seenQuestionIds = [];
         saveWrongQuestions();
         saveSeenQuestions();
-        alert('✅ Fortschritt wurde zurückgesetzt!');
+        alert(t('resetDone'));
         updateProgressDisplay();
     }
 }
@@ -487,10 +488,10 @@ function updateProgressDisplay() {
     const percentage = totalQuestions > 0 ? Math.round((seenCount / totalQuestions) * 100) : 0;
 
     let html = '<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;">';
-    html += '<div style="margin-bottom: 10px;"><strong>📊 Lernfortschritt:</strong></div>';
-    html += `<div style="margin-bottom: 5px;">✅ Bearbeitet: <strong>${seenCount} / ${totalQuestions}</strong> (${percentage}%)</div>`;
-    html += `<div style="margin-bottom: 5px;">🆕 Neue Fragen: <strong>${unseenCount}</strong></div>`;
-    html += `<div>❌ Falsch beantwortet: <strong>${wrongCount}</strong></div>`;
+    html += `<div style="margin-bottom: 10px;"><strong>${t('learnProgress')}</strong></div>`;
+    html += `<div style="margin-bottom: 5px;">${t('seen')} <strong>${seenCount} / ${totalQuestions}</strong> (${percentage}%)</div>`;
+    html += `<div style="margin-bottom: 5px;">${t('unseen')} <strong>${unseenCount}</strong></div>`;
+    html += `<div>${t('wrongAnswered')} <strong>${wrongCount}</strong></div>`;
     html += '</div>';
 
     progressInfo.innerHTML = html;
@@ -514,6 +515,11 @@ function shuffleAnswers(question) {
     // Reorder answers
     const newAnswers = shuffledIndices.map(idx => question.answers[idx]);
     question.answers = newAnswers;
+
+    // Übersetzte Antworten in derselben Reihenfolge mitmischen
+    if (question._uk && Array.isArray(question._uk.answers)) {
+        question._uk = { ...question._uk, answers: shuffledIndices.map(idx => question._uk.answers[idx]) };
+    }
 
     // Update correct index/indices
     if (Array.isArray(question.correct)) {
@@ -578,6 +584,23 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
+// Sprache wechseln: feste Texte, Themenliste, Fortschritt und ggf. laufende Frage neu aufbauen
+function onLangChange() {
+    applyStaticTexts('quizTitle');
+    initThemaFilter('themaFilter', 'catalogFilter');
+    updateProgressDisplay();
+
+    const quizRunning = !document.getElementById('quizCard').classList.contains('hidden');
+    const answered = !document.getElementById('feedbackSection').classList.contains('hidden');
+    if (quizRunning && !answered && currentQuestions[currentQuestionIndex]) {
+        displayQuestion();
+    } else if (!document.getElementById('results').classList.contains('hidden') && questionsAnswered > 0) {
+        showResults();
+    }
+}
+
 // Initialize
+initLangSwitch('langSwitch', onLangChange);
+applyStaticTexts('quizTitle');
 initThemaFilter('themaFilter', 'catalogFilter');
 loadQuestions();

@@ -157,7 +157,7 @@
         }
 
         .question-card.expanded .answer-section {
-            max-height: 2000px;
+            max-height: 5000px;
         }
 
         .answer-option {
@@ -215,46 +215,90 @@
             border-radius: 15px;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
         }
+        .lang-switch {
+            display: flex;
+            gap: 6px;
+            justify-content: flex-end;
+            margin-bottom: 10px;
+        }
+
+        .lang-switch button {
+            flex: 0 0 auto;
+            min-width: 0;
+            padding: 6px 12px;
+            font-size: 13px;
+            font-weight: 600;
+            background: #f0f0f0;
+            color: #555;
+            border: 2px solid transparent;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        .lang-switch button.active {
+            background: #667eea;
+            color: white;
+        }
+
+        .de-original {
+            display: block;
+            margin-top: 4px;
+            font-size: 0.8em;
+            font-weight: 400;
+            color: #888;
+        }
+
+        .answer-option[style*="color: white"] .de-original {
+            color: rgba(255, 255, 255, 0.85);
+        }
+
+        @media (max-width: 600px) {
+            .lang-switch button {
+                min-width: 0;
+            }
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <!-- Header -->
         <div class="header">
-            <h1>📚 Fragen durchsehen</h1>
-            <p class="subtitle">Alle Fragen mit Antworten zum Lernen und Wiederholen</p>
+            <div id="langSwitch"></div>
+            <h1 data-i18n="browseHeading">📚 Fragen durchsehen</h1>
+            <p class="subtitle" data-i18n="browseSubtitle">Alle Fragen mit Antworten zum Lernen und Wiederholen</p>
         </div>
 
         <!-- Controls -->
         <div class="controls">
             <div class="control-group">
-                <label for="catalogFilter">Prüfung:</label>
+                <label for="catalogFilter" data-i18n="exam">Prüfung:</label>
                 <select id="catalogFilter" onchange="loadQuestions()">
-                    <option value="questions-mta-basismodul.json">MTA - Basismodul (Zwischenprüfung)</option>
-                    <option value="questions-mta-truppfuehrer.json">MTA - Truppführer (Abschlussprüfung)</option>
+                    <option value="questions-mta-basismodul.json" data-i18n="catalogBasis">MTA - Basismodul (Zwischenprüfung)</option>
+                    <option value="questions-mta-truppfuehrer.json" data-i18n="catalogTf">MTA - Truppführer (Abschlussprüfung)</option>
                 </select>
             </div>
 
             <div class="control-group">
-                <label for="themaFilter">Thema / Kursabend:</label>
+                <label for="themaFilter" data-i18n="thema">Thema / Kursabend:</label>
                 <select id="themaFilter" onchange="displayQuestions()"></select>
             </div>
 
             <div class="button-group">
-                <button class="btn-secondary" onclick="window.location.href='index.html'">← Zum interaktiven Quiz</button>
-                <button class="btn-secondary" onclick="window.location.href='../'">Zurück zur Übersicht</button>
+                <button class="btn-secondary" onclick="window.location.href=pageUrl('index.html')" data-i18n="toQuiz">← Zum interaktiven Quiz</button>
+                <button class="btn-secondary" onclick="window.location.href=overviewUrl()" data-i18n="backOverviewPlain">Zurück zur Übersicht</button>
             </div>
         </div>
 
         <!-- Stats -->
-        <div class="stats" id="stats">Lade Fragen...</div>
+        <div class="stats" id="stats" data-i18n="loading">Lade Fragen...</div>
 
         <!-- Questions List -->
         <div id="questionsList">
-            <div class="loading">Lade Fragen...</div>
+            <div class="loading" data-i18n="loading">Lade Fragen...</div>
         </div>
     </div>
 
+    <script src="i18n.js"></script>
     <script src="themen.js"></script>
     <script>
         let allQuestions = [];
@@ -265,14 +309,15 @@
                 const catalogSelect = document.getElementById('catalogFilter');
                 const catalogFile = catalogSelect.value;
 
-                const response = await fetch(catalogFile);
+                const [response, translations] = await Promise.all([fetch(catalogFile), loadTranslations(catalogFile)]);
                 allQuestions = await response.json();
+                attachTranslations(allQuestions, translations);
 
                 displayQuestions();
             } catch (error) {
                 console.error('Error loading questions:', error);
                 document.getElementById('questionsList').innerHTML =
-                    '<div class="loading">❌ Fehler beim Laden der Fragen</div>';
+                    `<div class="loading">${t('loadErrorShort')}</div>`;
             }
         }
 
@@ -287,10 +332,10 @@
             const withImages = questions.filter(q => q.images && q.images.length > 0).length;
 
             document.getElementById('stats').innerHTML =
-                `📊 <strong>${questions.length} Fragen</strong> | ` +
+                `📊 <strong>${t('statsQuestions', questions.length)}</strong> | ` +
                 `Single Choice: ${singleChoice} | ` +
                 `Multiple Choice: ${multipleChoice} | ` +
-                `Mit Bildern: ${withImages}`;
+                `${t('statsImages')}: ${withImages}`;
 
             // Build HTML
             let html = '';
@@ -302,9 +347,9 @@
                     <div class="question-card" onclick="toggleQuestion(${index})">
                         <div class="question-header">
                             <div style="flex: 1;">
-                                <div class="question-number">Frage ${index + 1} von ${questions.length}</div>
+                                <div class="question-number">${t('questionOf', index + 1, questions.length)}</div>
                                 <div class="category-badge">${themaLabel(question)}</div>
-                                <div class="question-text">${question.question}</div>
+                                <div class="question-text">${qText(question)}</div>
                             </div>
                             <div class="collapse-icon">▼</div>
                         </div>
@@ -315,7 +360,7 @@
                 // Add images if present
                 if (question.images && question.images.length > 0) {
                     question.images.forEach(img => {
-                        html += `<img src="data:${img.mime_type};base64,${img.data}" class="question-image" alt="Fragebild">`;
+                        html += `<img src="data:${img.mime_type};base64,${img.data}" class="question-image" alt="${t('imageAlt')}">`;
                     });
                 }
 
@@ -328,7 +373,7 @@
 
                     html += `
                         <div class="answer-option ${correctClass}">
-                            <strong>${letter})</strong> ${answer}${correctMarker}
+                            <strong>${letter})</strong> ${answerText(question, idx)}${correctMarker}
                         </div>
                     `;
                 });
@@ -336,8 +381,8 @@
                 // Add explanation
                 html += `
                     <div class="explanation">
-                        <div class="explanation-label">💡 Erklärung:</div>
-                        <div class="explanation-text">${question.explanation}</div>
+                        <div class="explanation-label">${t('explanation')}</div>
+                        <div class="explanation-text">${explanationText(question)}</div>
                     </div>
                 `;
 
@@ -346,7 +391,7 @@
                     html += `
                         <div style="margin-top: 15px;">
                             <a href="${question.reference}" target="_blank" style="color: #667eea; font-weight: 600; text-decoration: none;">
-                                📖 Mehr dazu im Theorie-Kapitel →
+                                ${t('moreTheory')}
                             </a>
                         </div>
                     `;
@@ -367,7 +412,16 @@
             cards[index].classList.toggle('expanded');
         }
 
+        // Sprache wechseln: feste Texte, Themenliste und Fragen neu aufbauen
+        function onLangChange() {
+            applyStaticTexts('browseTitle');
+            initThemaFilter('themaFilter', 'catalogFilter');
+            if (allQuestions.length > 0) displayQuestions();
+        }
+
         // Initialize
+        initLangSwitch('langSwitch', onLangChange);
+        applyStaticTexts('browseTitle');
         initThemaFilter('themaFilter', 'catalogFilter');
         loadQuestions();
     </script>
