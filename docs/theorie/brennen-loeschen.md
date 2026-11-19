@@ -113,8 +113,8 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 | Brandklasse | Stoffart | Beispiele | Geeignete Löschmittel |
 |-------------|----------|-----------|-----------------------|
 | **A** | Feste, glutbildende Stoffe | Holz, Papier, Stroh, Textilien, Kohle | Wasser, Wasser mit Zusätzen, Schaum, ABC-Pulver (Glutbrandpulver) |
-| **B** | Flüssige oder flüssig werdende Stoffe | Benzin, Diesel, Petroleum, Öle, Lacke, Teer, Kerzenwachs | Schaum, ABC-/BC-Pulver, CO₂ |
-| **C** | Gasförmige Stoffe | Erdgas, Propan, Wasserstoff, Acetylen | ABC-/BC-Pulver, CO₂; Gaszufuhr absperren |
+| **B** | Flüssige oder flüssig werdende Stoffe | Benzin, Diesel, Petroleum, Öle, Lacke, Teer, Kerzenwachs | Schaum, BC- oder ABC-Pulver, CO₂ |
+| **C** | Gasförmige Stoffe | Erdgas, Propan, Wasserstoff, Acetylen | BC- oder ABC-Pulver, CO₂; Gaszufuhr absperren |
 | **D** | Metalle | Magnesium, Aluminium, Lithium, Natrium, Kalium | D-Löschpulver, trockener Sand/Zement |
 | **F** | Speiseöle und -fette | in Frittier- und Fettbackgeräten | Fettbrandlöscher, Deckel auf Fritteuse/Topf |
 
@@ -151,7 +151,7 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 
 - Brände von Gasen, Verbrennung **nur mit Flamme (ohne Glut)**
 - Beispiele: Erdgas, Propan, Wasserstoff, Acetylen
-- Löschmittel: ABC-/BC-Pulver, CO₂. **Schaum** löscht einen Propangasbrand **nicht**.
+- Löschmittel: BC- oder ABC-Pulver, CO₂. **Schaum** löscht einen Propangasbrand **nicht**.
 - Löschverfahren **Beseitigen:** Gasleitung bzw. Gaszufuhr schließen
 
 !!! warning "Erst die Gaszufuhr absperren!"
@@ -213,7 +213,7 @@ Löschmittel sind Stoffe, die bei fachgerechter Anwendung den Verbrennungsvorgan
 
 **Eigenschaften:**
 
-- Elektrisch leitfähig (Löschwasser)
+- **Elektrisch leitfähig:** Reines Wasser leitet nicht, Löschwasser wegen gelöster Salze und Verunreinigungen aber immer. In elektrischen Anlagen darf trotzdem mit Wasser gelöscht werden, aber nur mit den **Sicherheitsabständen nach DIN VDE 0132** (siehe unten). Sprühstrahl ist dort geeignet, Vollstrahl nur bedingt.
 - Hohes Wärmebindungsvermögen. Ziel ist das **Verdampfen** des Wassers.
 - Starke Volumenvergrößerung beim Verdampfen: 1 l Wasser ergibt ca. 1.700 l Wasserdampf
 - Gefriert (Gefahr im Winter)
@@ -239,14 +239,14 @@ Löschmittel sind Stoffe, die bei fachgerechter Anwendung den Verbrennungsvorgan
 - **Überlaufen** von Behältern mit brennbaren Flüssigkeiten beachten
 - Gefahr von **Fettexplosionen** und von **Staubexplosionen** durch Aufwirbeln
 
-**Mindestabstände von Spannung führenden Teilen (CM-Strahlrohr):**
+**Mindestabstände von Spannung führenden Teilen (CM-Strahlrohr, 5 bar, nach DIN VDE 0132):**
 
 | | Sprühstrahl | Vollstrahl |
 |---|---|---|
-| **Niederspannung** | 1 m | 5 m |
-| **Hochspannung** | 5 m | 10 m |
+| **Niederspannung (bis 1.000 V)** | 1 m | 5 m |
+| **Hochspannung (über 1.000 V)** | 5 m | 10 m |
 
-Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Hochspannung die Angaben in der Bedienungsanleitung.
+Für genormte Hohlstrahlrohre gelten bei Niederspannung dieselben Werte (1 m / 5 m). Bei Hochspannung nur mit geprüftem Hohlstrahlrohr, vorhandener Gefährdungsbeurteilung und den Abständen aus der Bedienungsanleitung.
 
 !!! tip "Strahlrohr schließen, wenn …"
     … über dem Brandherd **kein dunkler Rauch mehr, sondern nur noch weißer Wasserdampf** aufsteigt. Dann hat das Wasser seine Wirkung getan.
@@ -267,7 +267,7 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 **Eigenschaften:**
 
 - Besteht aus **Wasser, Schaummittel und Luft**
-- Elektrisch leitend
+- **Elektrisch leitend** (durch die Bestandteile des Schaummittels). Schaumstrahlrohre deshalb **nicht in spannungsführenden Anlagen** einsetzen. Ausnahme: dafür geprüfte Schaumlöscher (bei Niederspannung 1 m Abstand).
 - Leichter als Wasser und als alle dampfbildenden brennbaren Flüssigkeiten
 
 **Hauptlöschwirkung:** **Ersticken**, zusätzlich Abkühlen (je nach Wasseranteil im Schaum)
@@ -291,13 +291,25 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 
 ### 4. Löschpulver
 
-**ABC-/BC-Löschpulver:**
+**BC-Löschpulver (Flammbrandpulver):**
 
-- Fein gemahlenes Pulver
-- **BC-Pulver** ist elektrisch nicht leitend. **Schmelzendes ABC-Pulver** bildet elektrisch leitfähige Beläge.
-- Hauptlöschwirkung: **schlagartige Unterbrechung der Verbrennungsreaktion** direkt in der Flamme. Beim ABC-Pulver zusätzlich eine erstickende Wirkung durch eine Art luftabschließende Glasur.
-- Anwendungsbereich: Brandklassen (A), B, C
-- Ausbringung: tragbare Feuerlöscher, fahrbare Geräte, ortsfeste Löschanlagen
+- Fein gemahlenes, wasserabweisend behandeltes Pulver
+- Hauptlöschwirkung: **schlagartige Unterbrechung der Verbrennungsreaktion** direkt in der Flamme. Wirkt nur bei Bränden **mit Flamme**, nicht auf Glut.
+- Anwendungsbereich: Brandklassen **B und C** (nicht A)
+- Pulver und Pulverwolke sind elektrisch nicht leitfähig.
+
+**ABC-Löschpulver (Glutbrandpulver):**
+
+- Hauptlöschwirkung wie beim BC-Pulver, zusätzlich bei **Glutbränden**: Das Pulver schmilzt auf heißen Oberflächen und überzieht das Brandgut mit einer luftabschließenden **Glasur** (erstickende Wirkung).
+- Anwendungsbereich: Brandklassen **A, B und C**
+- Pulver und Pulverwolke sind elektrisch nicht leitfähig, das **auf dem Brandgut schmelzende Pulver bildet aber elektrisch leitfähige Beläge**.
+
+Beide Pulver werden mit tragbaren Feuerlöschern, fahrbaren Geräten und ortsfesten Löschanlagen ausgebracht.
+
+!!! warning "Löschpulver in elektrischen Anlagen"
+    - **BC-Pulver:** in Nieder- und Hochspannungsanlagen geeignet, mit Sicherheitsabstand nach DIN VDE 0132.
+    - **ABC-Pulver:** nur in Niederspannungsanlagen (bis 1.000 V) mit Sicherheitsabstand. In Hochspannungsanlagen ist es **gefährlich** (leitfähige Beläge).
+    - „Nicht leitend“ gilt nur für trockenes Pulver. Löschpulver besteht aus Salzen; wird es **nass** (z. B. durch Löschwasser), leitet es Strom.
 
 !!! warning "Nachteile von Löschpulver"
     - Pulver **verunreinigt** die Brandstelle großflächig, vor allem in Gebäuden. Danach ist oft eine aufwändige Reinigung nötig, in empfindlichen technischen Anlagen kann Pulver große Schäden anrichten.
@@ -317,7 +329,7 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 
 - Farb-, geruch- und geschmackloses Gas
 - Bei Normaltemperatur **schwerer als Luft**
-- **Elektrisch nicht leitend**
+- **Elektrisch nicht leitend**, deshalb häufig in elektrischen Anlagen eingesetzt. Trotzdem Sicherheitsabstände einhalten: **1 m bei Niederspannung** (bis 1.000 V), **5 m bei Hochspannung** (bis 380 kV).
 - Niedrige Austrittstemperatur (ca. −70 °C)
 - Verflüchtigt sich **rückstandsfrei**, es bleiben keine Verunreinigungen zurück
 
@@ -345,6 +357,7 @@ Für Hohlstrahlrohre nach Norm gelten bei Niederspannung dieselben Werte, bei Ho
 
 - **Funktionsarten:** Dauerdrucklöscher, Aufladelöscher, Gaslöscher
 - **Benennung nach Löschmittel:** Wasser-, Schaum-, Pulver-, Kohlendioxid- und Fettbrandlöscher
+- **Brandklassen beachten:** Pulverlöscher mit BC-Pulver sind nicht für Brandklasse A geeignet. Tragbare Kohlendioxidlöscher sind nur für Brandklasse B gekennzeichnet (Merkblatt 8.012).
 - **Beschriftung** u. a.: Löschmittelart und Nennfüllmenge, Kurzbedienungsanleitung, Piktogramm der Brandklasse, Gefahrenhinweise
 
 **Einsatzgrundsätze:**
@@ -558,7 +571,7 @@ Gefahr: Die Person läuft in Panik davon.
 | **Wärmeausbreitung** | Wärmeleitung, Wärmestrahlung, Wärmeströmung |
 | **Brandklassen** | A (fest), B (flüssig), C (gasförmig), D (Metall), F (Speisefett/-öl) |
 | **Löschverfahren** | Abkühlen, Ersticken, Beseitigen |
-| **Löschmittel** | Wasser (A), Schaum (B, A), ABC-/BC-Pulver ((A), B, C), D-Pulver (D), CO₂ (B, C), Fettbrandlöscher (F) |
+| **Löschmittel** | Wasser (A), Schaum (B, A), BC-Pulver (B, C), ABC-Pulver (A, B, C), D-Pulver (D), CO₂ (B, C), Fettbrandlöscher (F) |
 | **Brandphasen** | Entstehung → Entwicklung → Rauchdurchzündung → Raumdurchzündung; Sonderfall Rauchexplosion |
 | **Verantwortung** | Gruppenführer wählt das Löschmittel, Truppführer verantwortet den richtigen Einsatz |
 
