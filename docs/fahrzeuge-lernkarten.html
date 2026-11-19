@@ -32,7 +32,7 @@
           font-weight:800;font-size:1.15rem;padding:6px 12px;border-radius:10px;letter-spacing:.5px}
   .inhalt{padding:14px 16px 18px}
   .typ{font-size:1.25rem;font-weight:800;color:var(--rot-dunkel)}
-  .name{font-size:.9rem;color:var(--grau);margin:2px 0 10px}
+  .name{font-size:.9rem;color:var(--grau);margin:2px 0 10px;overflow-wrap:anywhere;hyphens:auto}
   .funk{font-size:.85rem;font-weight:600;margin-bottom:8px}
   .zweck{font-size:.88rem;color:#374151}
   .zweck li{margin-left:18px;margin-top:2px}
@@ -65,17 +65,29 @@
   .schema th{color:var(--grau);font-weight:600}
   .schema .k{font-weight:800;color:var(--rot)}
   footer{text-align:center;color:var(--grau);font-size:.78rem;margin:28px 0 8px}
+
+  /* Sprachumschalter */
+  .lang{display:flex;gap:6px;justify-content:center;margin-top:12px}
+  .lang button{border:1px solid var(--rand);background:var(--karte);color:var(--text);padding:5px 12px;
+               border-radius:999px;font-size:.85rem;cursor:pointer}
+  .lang button.active{background:var(--rot-dunkel);color:#fff;border-color:var(--rot-dunkel)}
+  .de{display:block;color:var(--grau);font-size:.78rem;font-style:italic}
+  .quelle{font-size:.75rem;color:var(--grau);margin-top:10px}
 </style>
 </head>
 <body>
 <header>
-  <h1>🚒 Fahrzeuge der FF Goldkronach</h1>
-  <p>Funkkennung &amp; Fahrzeugtyp – zum Merken</p>
+  <h1 data-i18n="titel">🚒 Fahrzeuge der FF Goldkronach</h1>
+  <p data-i18n="untertitel">Funkkennung &amp; Fahrzeugtyp – zum Merken</p>
+  <div class="lang">
+    <button data-lang="de">Deutsch</button>
+    <button data-lang="uk">Українська</button>
+  </div>
 </header>
 
 <div class="tabs">
-  <button class="tab active" data-tab="uebersicht">📋 Übersicht</button>
-  <button class="tab" data-tab="quiz">🎯 Abfrage</button>
+  <button class="tab active" data-tab="uebersicht" data-i18n="tabUebersicht">📋 Übersicht</button>
+  <button class="tab" data-tab="quiz" data-i18n="tabQuiz">🎯 Abfrage</button>
 </div>
 
 <!-- ÜBERSICHT -->
@@ -85,7 +97,7 @@
 <section id="quiz">
   <div class="flash">
     <img id="q-img" src="" alt="Fahrzeug">
-    <p class="frage">Welche Nummer &amp; welcher Typ?</p>
+    <p class="frage" data-i18n="frage">Welche Nummer &amp; welcher Typ?</p>
     <div id="q-antwort" class="antwort">
       <div class="a-nummer" id="q-nummer"></div>
       <div class="a-typ" id="q-typ"></div>
@@ -93,8 +105,8 @@
       <div class="a-funk" id="q-funk"></div>
     </div>
     <div class="btns">
-      <button class="btn btn-rot" id="q-reveal">Auflösen 👀</button>
-      <button class="btn btn-grau" id="q-next">Nächstes →</button>
+      <button class="btn btn-rot" id="q-reveal" data-i18n="aufloesen">Auflösen 👀</button>
+      <button class="btn btn-grau" id="q-next" data-i18n="naechstes">Nächstes →</button>
     </div>
     <div class="fortschritt" id="q-fortschritt"></div>
   </div>
@@ -102,64 +114,155 @@
 
 <!-- FUNKSCHEMA -->
 <div class="schema">
-  <h2>So funktioniert der Funkrufname</h2>
-  <p style="font-size:.9rem;color:#374151;margin-bottom:12px">
-    <strong>Florian&nbsp;Goldkronach&nbsp;<span class="k">11</span>/1</strong> &nbsp;→&nbsp;
-    <em>Florian</em> = Feuerwehr · <em>Goldkronach</em> = Wehr ·
-    <span class="k">11</span> = Fahrzeugtyp (das meint man mit „der 11er“) · <em>/1</em> = laufende Nummer
-  </p>
-  <table>
-    <tr><th>Kennzahl</th><th>Kategorie (Bayern)</th></tr>
-    <tr><td class="k">11–19</td><td>Führungs- &amp; Mannschaftsfahrzeuge (MZF, ELW, MTW)</td></tr>
-    <tr><td class="k">40–49</td><td>Löschfahrzeuge (LF, HLF, TSF, TLF …)</td></tr>
-    <tr><td class="k">50–59</td><td>Geräte- &amp; Sonderfahrzeuge (GW-L, RW …)</td></tr>
-  </table>
+  <h2 data-i18n="schemaTitel">So funktioniert der Funkrufname</h2>
+  <p style="font-size:.9rem;color:#374151;margin-bottom:12px" data-i18n="schemaText"></p>
+  <table id="schema-tabelle"></table>
+  <p class="quelle" data-i18n="quelle"></p>
 </div>
 
 <footer>
-  FF Goldkronach · Fotos: goldkronach.feuerwehren.bayern · MTA-Lernplattform
+  <span data-i18n="footer">FF Goldkronach · Fotos: goldkronach.feuerwehren.bayern · MTA-Lernplattform</span>
 </footer>
 
 <script>
+// Texte je Sprache. Im ukrainischen Modus steht der deutsche Begriff klein darunter,
+// weil Funkverkehr und Prüfung auf Deutsch sind.
+const TEXTE = {
+  de: {
+    seitentitel:'Fahrzeuge FF Goldkronach – Lernkarten',
+    titel:'🚒 Fahrzeuge der FF Goldkronach',
+    untertitel:'Funkkennung &amp; Fahrzeugtyp – zum Merken',
+    tabUebersicht:'📋 Übersicht', tabQuiz:'🎯 Abfrage',
+    frage:'Welche Nummer &amp; welcher Typ?',
+    aufloesen:'Auflösen 👀', naechstes:'Nächstes →',
+    karte:(i,n)=>`Karte ${i} / ${n}`,
+    nummerSuffix:'er',
+    schemaTitel:'So funktioniert der Funkrufname',
+    schemaText:`<strong>Florian&nbsp;Goldkronach&nbsp;<span class="k">11</span>/1</strong> &nbsp;→&nbsp;
+      <em>Florian</em> = Feuerwehr · <em>Goldkronach</em> = Ort ·
+      <span class="k">11</span> = Fahrzeugart (das meint man mit „der 11er“) · <em>/1</em> = laufende Nummer`,
+    spalteKennzahl:'Kennzahl', spalteKategorie:'Fahrzeugart (Bayern)',
+    quelle:'Quelle: Taschenkarte „Funkrufnamen – Auszug“ der Staatlichen Feuerwehrschulen Bayern (Auszug)',
+    footer:'FF Goldkronach · Fotos: goldkronach.feuerwehren.bayern · MTA-Lernplattform',
+  },
+  uk: {
+    seitentitel:'Автомобілі FF Goldkronach – навчальні картки',
+    titel:'🚒 Автомобілі FF Goldkronach',
+    untertitel:'Позивний (Funkkennung) і тип автомобіля – щоб запам’ятати',
+    tabUebersicht:'📋 Огляд', tabQuiz:'🎯 Перевірка',
+    frage:'Який номер і який тип?',
+    aufloesen:'Показати відповідь 👀', naechstes:'Далі →',
+    karte:(i,n)=>`Картка ${i} / ${n}`,
+    nummerSuffix:'',
+    schemaTitel:'Як побудований позивний (Funkrufname)',
+    schemaText:`<strong>Florian&nbsp;Goldkronach&nbsp;<span class="k">11</span>/1</strong> &nbsp;→&nbsp;
+      <em>Florian</em> = пожежна команда · <em>Goldkronach</em> = населений пункт ·
+      <span class="k">11</span> = вид автомобіля (німецькою кажуть „der 11er“) · <em>/1</em> = порядковий номер`,
+    spalteKennzahl:'Код (Kennzahl)', spalteKategorie:'Вид автомобіля (Баварія)',
+    quelle:'Джерело: кишенькова картка „Funkrufnamen – Auszug“ державних пожежних шкіл Баварії (витяг)',
+    footer:'FF Goldkronach · Фото: goldkronach.feuerwehren.bayern · MTA-Lernplattform',
+  },
+};
+
+// Zweite Teilkennzahl laut Taschenkarte (Auszug, Gruppen 1x–6x)
+const kennzahlen = [
+  { k:'10–14', de:'Führungs- &amp; Mannschaftstransportfahrzeuge (KdoW, MZF, ELW, MTW)',
+    uk:'автомобілі керівництва та перевезення особового складу' },
+  { k:'20–29', de:'Tanklöschfahrzeuge (TLF)',
+    uk:'автоцистерни' },
+  { k:'30–36', de:'Hubrettungs-, Wechsellader- &amp; Kranfahrzeuge (DLK, WLF, KW)',
+    uk:'автодрабини та підйомники, автомобілі зі змінними кузовами, крани' },
+  { k:'40–49', de:'Lösch- &amp; Tragkraftspritzenfahrzeuge (HLF, LF, TSF, MLF)',
+    uk:'пожежні автомобілі для гасіння та автомобілі з переносною мотопомпою' },
+  { k:'50–59', de:'Gerätewagen &amp; Schlauchwagen (GW-L, GW-A, SW)',
+    uk:'автомобілі з обладнанням і рукавні автомобілі' },
+  { k:'60–68', de:'Rüst- &amp; Gerätewagen (RW, Lichtmast, GW-Mess)',
+    uk:'автомобілі технічної допомоги та спеціального обладнання' },
+];
+
 const fahrzeuge = [
   { nummer:"11", funk:"Florian Goldkronach 11/1", typ:"MZF",
-    name:"Mehrzweckfahrzeug", bild:"assets/fahrzeuge/11_mzf.webp",
-    zweck:["Mannschaftstransport","Einsatzleitfahrzeug bei örtlichen Einsätzen","Fahrzeug der Unterstützungsgruppe"] },
+    name:{de:"Mehrzweckfahrzeug", uk:"багатоцільовий автомобіль"}, bild:"assets/fahrzeuge/11_mzf.webp",
+    zweck:{de:["Mannschaftstransport","Einsatzleitfahrzeug bei örtlichen Einsätzen","Fahrzeug für den Zugführer des 17. Löschzugs (Lkr. Bayreuth)"],
+           uk:["Перевезення особового складу","Автомобіль керівництва під час місцевих викликів","Автомобіль командира взводу 17-го взводу гасіння (17. Löschzug) району Байройт"]} },
   { nummer:"40", funk:"Florian Goldkronach 40/1", typ:"HLF 20/16",
-    name:"Hilfeleistungslöschgruppenfahrzeug", bild:"assets/fahrzeuge/40_hlf.webp",
-    zweck:["Löschen + technische Hilfeleistung","2.000 L Wassertank","Allradantrieb &amp; Differentialsperren"] },
+    name:{de:"Hilfeleistungslöschgruppenfahrzeug", uk:"пожежний автомобіль відділення для гасіння та технічної допомоги"}, bild:"assets/fahrzeuge/40_hlf.webp",
+    zweck:{de:["Löschen + technische Hilfeleistung","2.000 L Wassertank","Allradantrieb &amp; Differentialsperren"],
+           uk:["Гасіння + технічна допомога (technische Hilfeleistung)","Бак для води 2 000 л","Повний привід і блокування диференціалів"]} },
   { nummer:"44", funk:"Florian Goldkronach 44/1", typ:"TSF",
-    name:"Tragkraftspritzenfahrzeug", bild:"assets/fahrzeuge/44_tsf.webp",
-    zweck:["Tragkraftspritze + Schläuche","Ehemals Florian Leisau 44/1","Seit Zusammenlegung 2021"] },
+    name:{de:"Tragkraftspritzenfahrzeug", uk:"автомобіль з переносною мотопомпою"}, bild:"assets/fahrzeuge/44_tsf.webp",
+    zweck:{de:["Tragkraftspritze + Schläuche","Ehemals Florian Leisau 44/1","Seit 2023 bei der FF Goldkronach"],
+           uk:["Переносна мотопомпа (Tragkraftspritze) + рукави","Раніше Florian Leisau 44/1","З 2023 року у FF Goldkronach"]} },
   { nummer:"56", funk:"Florian Goldkronach 56/1", typ:"GW-L2",
-    name:"Gerätewagen Logistik 2", bild:"assets/fahrzeuge/56_gwl2.webp",
-    zweck:["Modul Wasserversorgung (2.000 m B-Schlauch)","Wasserversorgung über lange Wege","Logistik &amp; Materialtransport"] },
-  { nummer:"–", funk:"Anhänger (Auwärter)", typ:"Transportanhänger",
-    name:"Sandsackfüllmaschine", bild:"assets/fahrzeuge/anh_sand.webp",
-    zweck:["Sandsackfüllmaschine des Landkreises","Einsatz bei Hochwasser / Starkregen"] },
-  { nummer:"–", funk:"Anhänger (Brenderup)", typ:"Transportanhänger",
-    name:"Allzweck-Anhänger", bild:"assets/fahrzeuge/anh_brenderup.webp",
-    zweck:["Allgemeiner Transport (Schläuche, Sandsäcke)","Spende der Firma SMB Goldkronach"] },
+    name:{de:"Gerätewagen Logistik 2", uk:"автомобіль з обладнанням для логістики 2"}, bild:"assets/fahrzeuge/56_gwl2.webp",
+    zweck:{de:["Modul Wasserversorgung (2.000 m B-Schlauch)","Wasserversorgung über lange Wege","Logistik &amp; Materialtransport"],
+           uk:["Модуль водопостачання (2 000 м рукава B)","Водопостачання на великі відстані","Логістика й перевезення матеріалів"]} },
+  { nummer:"–", funk:{de:"Anhänger (Auwärter)", uk:"Причіп (Auwärter)"}, typ:{de:"Transportanhänger", uk:"транспортний причіп"},
+    name:{de:"Sandsackfüllmaschine", uk:"машина для наповнення мішків піском"}, bild:"assets/fahrzeuge/anh_sand.webp",
+    zweck:{de:["Sandsackfüllmaschine des Landkreises","Einsatz bei Hochwasser / Starkregen"],
+           uk:["Машина для наповнення мішків піском (Sandsackfüllmaschine) району","Застосування під час повені / сильної зливи"]} },
+  { nummer:"–", funk:{de:"Anhänger (Brenderup)", uk:"Причіп (Brenderup)"}, typ:{de:"Transportanhänger", uk:"транспортний причіп"},
+    name:{de:"Allzweck-Anhänger", uk:"універсальний причіп"}, bild:"assets/fahrzeuge/anh_brenderup.webp",
+    zweck:{de:["Allgemeiner Transport (Schläuche, Sandsäcke)","Spende der Firma SMB Goldkronach"],
+           uk:["Загальні перевезення (рукави, мішки з піском)","Подарунок фірми SMB Goldkronach"]} },
 ];
+
+// --- Sprache: ?lang=, sonst gespeicherte Wahl (gemeinsam mit dem Quiz), sonst Herkunft von /uk/ ---
+const LANG_KEY = 'quizLang';
+function startSprache(){
+  const param = new URLSearchParams(location.search).get('lang');
+  if(param==='de'||param==='uk') return param;
+  try{ const s = localStorage.getItem(LANG_KEY); if(s==='de'||s==='uk') return s; }catch(e){}
+  return /\/uk\//.test(document.referrer) ? 'uk' : 'de';
+}
+let lang = startSprache();
+
+// Wert in aktueller Sprache; im ukrainischen Modus mit deutschem Original darunter
+const txt = v => typeof v==='string' ? v : v[lang];
+const mitDe = v => (typeof v==='string' || lang==='de') ? txt(v) : `${v.uk}<span class="de">${v.de}</span>`;
 
 // --- Übersicht rendern ---
 const grid = document.getElementById('uebersicht');
-fahrzeuge.forEach(f=>{
-  const li = f.zweck.map(z=>`<li>${z}</li>`).join('');
-  grid.insertAdjacentHTML('beforeend',`
-    <div class="karte">
-      <div class="bildbox">
-        <span class="nummer">${f.nummer}</span>
-        <img src="${f.bild}" alt="${f.typ}">
-      </div>
-      <div class="inhalt">
-        <div class="typ">${f.typ}</div>
-        <div class="name">${f.name}</div>
-        <div class="funk">📻 ${f.funk}</div>
-        <ul class="zweck">${li}</ul>
-      </div>
-    </div>`);
-});
+function renderUebersicht(){
+  grid.innerHTML = '';
+  fahrzeuge.forEach(f=>{
+    const li = f.zweck[lang].map(z=>`<li>${z}</li>`).join('');
+    grid.insertAdjacentHTML('beforeend',`
+      <div class="karte">
+        <div class="bildbox">
+          <span class="nummer">${f.nummer}</span>
+          <img src="${f.bild}" alt="${txt(f.typ)}">
+        </div>
+        <div class="inhalt">
+          <div class="typ">${mitDe(f.typ)}</div>
+          <div class="name">${mitDe(f.name)}</div>
+          <div class="funk">📻 ${txt(f.funk)}</div>
+          <ul class="zweck">${li}</ul>
+        </div>
+      </div>`);
+  });
+}
+
+function renderSchema(){
+  const T = TEXTE[lang];
+  const zeilen = kennzahlen.map(z=>`<tr><td class="k">${z.k}</td><td>${lang==='de' ? z.de : `${z.uk}<span class="de">${z.de}</span>`}</td></tr>`).join('');
+  document.getElementById('schema-tabelle').innerHTML =
+    `<tr><th>${T.spalteKennzahl}</th><th>${T.spalteKategorie}</th></tr>${zeilen}`;
+}
+
+function setzeSprache(neu){
+  lang = neu;
+  try{ localStorage.setItem(LANG_KEY, lang); }catch(e){}
+  const T = TEXTE[lang];
+  document.documentElement.lang = lang;
+  document.title = T.seitentitel;
+  document.querySelectorAll('[data-i18n]').forEach(el=>{ el.innerHTML = T[el.dataset.i18n]; });
+  document.querySelectorAll('.lang button').forEach(b=>b.classList.toggle('active', b.dataset.lang===lang));
+  renderUebersicht();
+  renderSchema();
+  if(document.getElementById('quiz').classList.contains('active')) zeigeKarte(false);
+}
+document.querySelectorAll('.lang button').forEach(b=>b.addEventListener('click',()=>setzeSprache(b.dataset.lang)));
 
 // --- Tab-Umschaltung ---
 const tabs = document.querySelectorAll('.tab');
@@ -183,16 +286,18 @@ function mischen(){
   }
   pos=0;
 }
-function zeigeKarte(){
+// zuklappen=false beim Sprachwechsel, damit eine aufgedeckte Antwort sichtbar bleibt
+function zeigeKarte(zuklappen=true){
   if(reihenfolge.length===0) mischen();
+  const T = TEXTE[lang];
   const f = quizSet[reihenfolge[pos]];
   document.getElementById('q-img').src = f.bild;
-  document.getElementById('q-nummer').textContent = f.nummer+'er';
-  document.getElementById('q-typ').textContent = f.typ;
-  document.getElementById('q-name').textContent = f.name;
-  document.getElementById('q-funk').textContent = '📻 '+f.funk;
-  document.getElementById('q-antwort').classList.remove('show');
-  document.getElementById('q-fortschritt').textContent = `Karte ${pos+1} / ${quizSet.length}`;
+  document.getElementById('q-nummer').textContent = f.nummer+T.nummerSuffix;
+  document.getElementById('q-typ').innerHTML = mitDe(f.typ);
+  document.getElementById('q-name').innerHTML = mitDe(f.name);
+  document.getElementById('q-funk').textContent = '📻 '+txt(f.funk);
+  if(zuklappen) document.getElementById('q-antwort').classList.remove('show');
+  document.getElementById('q-fortschritt').textContent = T.karte(pos+1, quizSet.length);
 }
 document.getElementById('q-reveal').addEventListener('click',()=>{
   document.getElementById('q-antwort').classList.add('show');
@@ -202,6 +307,8 @@ document.getElementById('q-next').addEventListener('click',()=>{
   if(pos>=reihenfolge.length) mischen();
   zeigeKarte();
 });
+
+setzeSprache(lang);
 </script>
 </body>
 </html>

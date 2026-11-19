@@ -25,6 +25,8 @@ Die **Freiwillige Feuerwehr Goldkronach** ist eine von vielen Feuerwehren im Lan
 
 Die FF Goldkronach verfügt über vier Einsatzfahrzeuge und zwei Anhänger:
 
+👉 **[Fahrzeuge mit Lernkarten üben](fahrzeuge-lernkarten.html)** (Fotos, Funkrufnamen, Abfrage)
+
 ### Fahrzeug 1: Mehrzweckfahrzeug (MZF)
 
 **Typ:** Mehrzweckfahrzeug (MZF)
@@ -35,7 +37,8 @@ Die FF Goldkronach verfügt über vier Einsatzfahrzeuge und zwei Anhänger:
 
 - Transport der Mannschaft
 - Einsatzleitfahrzeug bei örtlichen Schadensereignissen
-- Bei größeren Einsätzen: Fahrzeug der Unterstützungsgruppe
+- Fahrzeug für den Zugführer des 17. Löschzugs im Landkreis Bayreuth
+- Zugfahrzeug für die Anhänger (Allradantrieb)
 
 ---
 
@@ -61,7 +64,7 @@ Die FF Goldkronach verfügt über vier Einsatzfahrzeuge und zwei Anhänger:
 
 **Besonderheiten:**
 
-- Ehemals Florian Leisau 44/1 (Umbenennung nach Zusammenlegung der Feuerwehren 2021)
+- Ehemals Florian Leisau 44/1 (umbenannt, seit die bis 2022 eigenständigen Feuerwehren Leisau und Sickenreuth 2023 der FF Goldkronach zugeordnet wurden)
 
 ---
 
