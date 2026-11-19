@@ -34,8 +34,26 @@ theme:
     - toc.follow
 
 plugins:
-  - search:
-      lang: de
+  - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: de
+          name: Deutsch
+          default: true
+          build: true
+        - locale: uk
+          name: Українська
+          build: true
+          site_name: MTA – підготовка · Добровільна пожежна команда Гольдкронах
+          nav_translations:
+            Start: Початок
+            Lehrgangstermine: Заняття курсу
+            "11.11. – Einführung & Recht": "11.11 – Вступ і право"
+            "19.11. – Brennen & Löschen": "19.11 – Горіння та гасіння"
 
 markdown_extensions:
   - admonition
@@ -58,6 +76,9 @@ markdown_extensions:
 
 nav:
   - Start: index.md
+  - Lehrgangstermine:
+      - "11.11. – Einführung & Recht": termine/2026-11-11.md
+      - "19.11. – Brennen & Löschen": termine/2026-11-19.md
   - Einführung:
       - Orientierung & MTA: einfuehrung.md
       - Begriffe & Abkürzungen: begriffe.md

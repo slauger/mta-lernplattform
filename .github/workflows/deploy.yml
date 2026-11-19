@@ -34,7 +34,7 @@ jobs:
           path: .cache
 
       - name: Install Dependencies
-        run: pip install mkdocs mkdocs-material
+        run: pip install -r requirements.txt
 
       - name: Build Site
         run: mkdocs build
