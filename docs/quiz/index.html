@@ -282,6 +282,8 @@
                 min-width: 0;
             }
         }
+            .catalog-source { font-size: 0.85em; color: #666; margin-top: 6px; line-height: 1.4; }
+        .catalog-source.archiv { color: #b45309; }
     </style>
 </head>
 <body>
@@ -301,9 +303,16 @@
             <div class="control-group">
                 <label for="catalogFilter" data-i18n="exam">Prüfung:</label>
                 <select id="catalogFilter" onchange="loadQuestions()">
-                    <option value="questions-mta-basismodul.json" data-i18n="catalogBasis">MTA - Basismodul (Zwischenprüfung)</option>
-                    <option value="questions-mta-truppfuehrer.json" data-i18n="catalogTf">MTA - Truppführer (Abschlussprüfung)</option>
+                    <optgroup data-i18n-label="groupLernbar" label="Aktuell: Feuerwehr-Lernbar (Stand 20.11.2026)">
+                        <option value="questions-lernbar-zwischenpruefung.json" data-i18n="catalogZwp">Zwischenprüfung (Basismodul), 193 Fragen</option>
+                        <option value="questions-lernbar-abschlusspruefung.json" data-i18n="catalogAbp">Abschlussprüfung (Truppführer), 60 Fragen</option>
+                    </optgroup>
+                    <optgroup data-i18n-label="groupArchiv" label="Archiv: Prüfungsgenerator (Stand 12.01.2026, veraltet)">
+                        <option value="questions-mta-basismodul.json" data-i18n="catalogBasis">Basismodul, 214 Fragen (alt)</option>
+                        <option value="questions-mta-truppfuehrer.json" data-i18n="catalogTf">Truppführer, 60 Fragen (alt)</option>
+                    </optgroup>
                 </select>
+                <p id="catalogSource" class="catalog-source"></p>
             </div>
 
             <div class="control-group">

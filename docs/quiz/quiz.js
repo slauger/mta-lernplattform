@@ -14,7 +14,8 @@ async function loadQuestions() {
     try {
         // Get selected catalog
         const catalogSelect = document.getElementById('catalogFilter');
-        const catalogFile = catalogSelect ? catalogSelect.value : 'questions-mta-basismodul.json';
+        const catalogFile = catalogSelect ? catalogSelect.value : 'questions-lernbar-zwischenpruefung.json';
+        updateCatalogSource();
 
         // Set current catalog key (used for localStorage)
         currentCatalog = catalogFile.replace('.json', '').replace('questions-', '');
@@ -98,7 +99,7 @@ function displayQuestion() {
     if (question.images && question.images.length > 0) {
         questionHTML += '<div style="margin: 20px 0;">';
         question.images.forEach(img => {
-            questionHTML += `<img src="data:${img.mime_type};base64,${img.data}" style="max-width: 100%; border-radius: 8px; margin: 10px 0;" alt="${t('imageAlt')}">`;
+            questionHTML += `<img src="${imageSrc(img)}" style="max-width: 100%; border-radius: 8px; margin: 10px 0;" alt="${t('imageAlt')}">`;
         });
         questionHTML += '</div>';
     }
@@ -464,7 +465,8 @@ function loadSeenQuestions() {
 
 // Clear all progress for current catalog
 function clearProgress() {
-    const catalogName = currentCatalog.includes('basismodul') ? 'MTA Basismodul' : 'MTA Truppführer';
+    const catalogSelect = document.getElementById('catalogFilter');
+    const catalogName = catalogSelect.options[catalogSelect.selectedIndex].textContent;
     if (confirm(t('confirmReset', catalogName))) {
         wrongQuestionIds = [];
         seenQuestionIds = [];

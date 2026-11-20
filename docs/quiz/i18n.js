@@ -1,5 +1,5 @@
 // Zweisprachigkeit (Deutsch / Ukrainisch) für Quiz und Fragenübersicht.
-// Übersetzungen der Fragen liegen in questions-mta-<katalog>-uk.json ({ "<id>": { question, answers, explanation } }).
+// Übersetzungen der Fragen liegen in questions-<katalog>-uk.json ({ "<id>": { question, answers, explanation } }).
 // Im Ukrainisch-Modus wird der deutsche Originaltext klein darunter angezeigt (die Prüfung ist auf Deutsch).
 
 const LANG_STORAGE_KEY = 'quizLang';
@@ -13,8 +13,14 @@ const UI_TEXTS = {
         browseHeading: '📚 Fragen durchsehen',
         browseSubtitle: 'Alle Fragen mit Antworten zum Lernen und Wiederholen',
         exam: 'Prüfung:',
-        catalogBasis: 'MTA - Basismodul (Zwischenprüfung)',
-        catalogTf: 'MTA - Truppführer (Abschlussprüfung)',
+        groupLernbar: 'Aktuell: Feuerwehr-Lernbar (Stand 20.11.2026)',
+        groupArchiv: 'Archiv: Prüfungsgenerator (Stand 12.01.2026, veraltet)',
+        catalogZwp: 'Zwischenprüfung (Basismodul), 193 Fragen',
+        catalogAbp: 'Abschlussprüfung (Truppführer), 60 Fragen',
+        catalogBasis: 'Basismodul, 214 Fragen (alt)',
+        catalogTf: 'Truppführer, 60 Fragen (alt)',
+        sourceLernbar: 'Quelle: offizielle Übungs-Quiz der Feuerwehr-Lernbar.Bayern (Staatliche Feuerwehrschulen), Stand 20.11.2026. Das ist der aktuelle Fragenkatalog.',
+        sourceArchiv: 'Archiv: Fragenkatalog aus dem früheren Prüfungsgenerator, Stand 12.01.2026. Seitdem wurden viele Fragen und einige Lösungen geändert. Zum Lernen den aktuellen Katalog verwenden!',
         thema: 'Thema / Kursabend:',
         allThemen: 'Alle Themen',
         questionCount: 'Anzahl Fragen:',
@@ -73,8 +79,14 @@ const UI_TEXTS = {
         browseHeading: '📚 Перегляд питань',
         browseSubtitle: 'Усі питання з відповідями для навчання й повторення',
         exam: 'Іспит (Prüfung):',
-        catalogBasis: 'MTA – базовий модуль (Basismodul, проміжний іспит)',
-        catalogTf: 'MTA – командир ланки (Truppführer, підсумковий іспит)',
+        groupLernbar: 'Актуально: Feuerwehr-Lernbar (стан 20.11.2026)',
+        groupArchiv: 'Архів: Prüfungsgenerator (стан 12.01.2026, застаріло)',
+        catalogZwp: 'Проміжний іспит (Zwischenprüfung, базовий модуль), 193 питання',
+        catalogAbp: 'Підсумковий іспит (Abschlussprüfung, командир ланки), 60 питань',
+        catalogBasis: 'Базовий модуль (Basismodul), 214 питань (старе)',
+        catalogTf: 'Командир ланки (Truppführer), 60 питань (старе)',
+        sourceLernbar: 'Джерело: офіційні тренувальні тести Feuerwehr-Lernbar.Bayern (Державні пожежні школи Баварії), стан 20.11.2026. Це актуальний каталог питань.',
+        sourceArchiv: 'Архів: каталог питань із колишнього генератора іспитів (Prüfungsgenerator), стан 12.01.2026. Відтоді багато питань і деякі відповіді змінено. Для навчання використовуй актуальний каталог!',
         thema: 'Тема / заняття:',
         allThemen: 'Усі теми',
         questionCount: 'Кількість питань:',
@@ -184,6 +196,8 @@ function applyStaticTexts(titleKey) {
     document.documentElement.lang = currentLang;
     if (titleKey) document.title = t(titleKey);
     document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n); });
+    document.querySelectorAll('[data-i18n-label]').forEach(el => { el.label = t(el.dataset.i18nLabel); });
+    updateCatalogSource();
     document.querySelectorAll('.lang-switch button').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.lang === currentLang);
     });
@@ -205,6 +219,19 @@ function initLangSwitch(containerId, onChange) {
         });
     });
 }
+
+// Hinweis unter der Katalogauswahl: aktueller Stand oder Archiv
+function updateCatalogSource() {
+    const select = document.getElementById('catalogFilter');
+    const hint = document.getElementById('catalogSource');
+    if (!select || !hint) return;
+    const archiv = !select.value.startsWith('questions-lernbar-');
+    hint.textContent = t(archiv ? 'sourceArchiv' : 'sourceLernbar');
+    hint.classList.toggle('archiv', archiv);
+}
+
+// Fragebild: Datei im Ordner bilder/ (src) oder eingebettet (data, alte Kataloge)
+function imageSrc(img) { return img.src || `data:${img.mime_type};base64,${img.data}`; }
 
 // Navigationsziele abhängig von der Sprache
 function overviewUrl() { return currentLang === 'uk' ? '../uk/' : '../'; }

@@ -60,8 +60,9 @@ function initThemaFilter(themaSelectId, catalogSelectId) {
     const katalog = params.get('katalog');
     if (katalog) {
         const catalogSelect = document.getElementById(catalogSelectId);
-        const file = `questions-mta-${katalog}.json`;
-        if ([...catalogSelect.options].some(o => o.value === file)) catalogSelect.value = file;
+        const file = [`questions-lernbar-${katalog}.json`, `questions-mta-${katalog}.json`]
+            .find(f => [...catalogSelect.options].some(o => o.value === f));
+        if (file) catalogSelect.value = file;
     }
 }
 

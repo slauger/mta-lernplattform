@@ -1,0 +1,1133 @@
+[
+  {
+    "id": 1114,
+    "category": "Brennen und Löschen",
+    "thema": "brennen",
+    "question": "Was darf bei Bränden der Brandklasse D als Löschmittel verwendet werden?",
+    "answers": [
+      "Sand",
+      "D-Löschpulver",
+      "Zement",
+      "Schaum"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C",
+    "alte_id": 51
+  },
+  {
+    "id": 1116,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Wo liegt im Außenbereich die erste Absperrgrenze bei einem Einsatz mit unbekannten ABC-Gefahrstoffen (Absperrgrenze des Gefahrenbereichs)?",
+    "answers": [
+      "Mindestens 5 m",
+      "Mindestens 15 m",
+      "Mindestens 50 m",
+      "Mindestens 20 m"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C",
+    "alte_id": 20
+  },
+  {
+    "id": 1097,
+    "category": "Löscheinsatz",
+    "thema": "wasser",
+    "question": "Beim Überqueren von Straßen mit Schlauchleitungen sind mindestens drei Schlauchbrücken auf einer Fahrbahnseite so auszulegen, dass Fahrzeuge verschiedener Spurbreite (PKW/LKW) die Schlauchleitung überfahren können. Der Truppführer achtet darauf, dass die Schlauchbrücken fachgerecht verlegt werden. Wie groß wählen Sie den Abstand?",
+    "answers": [
+      "Etwa 2,5 m",
+      "Etwa 1,0 m",
+      "Etwa 1,5 m",
+      "Etwa 3,0 m"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B",
+    "images": [
+      {
+        "src": "bilder/1097.png"
+      }
+    ],
+    "alte_id": 37
+  },
+  {
+    "id": 1117,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Wie viele Einsatzkräfte sind nach Feuerwehrdienstvorschrift FwDV 10 mindestens notwendig, um eine Steckleiter aufzubauen?",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C",
+    "alte_id": 4
+  },
+  {
+    "id": 1103,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Welchen Vorteil hat die festgelegte Sitzordnung im Löschgruppenfahrzeug?",
+    "answers": [
+      "Ermöglicht schon während der Anfahrt, sich auf die entsprechenden Tätigkeiten vorzubereiten",
+      "Leichtere Kommunikation zwischen den Mitgliedern eines Trupps",
+      "Leichtere Kommunikation zwischen den Truppführern"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C",
+    "alte_id": 39
+  },
+  {
+    "id": 1109,
+    "category": "Verhalten im Einsatz",
+    "thema": "belastung",
+    "question": "Welche Verhaltensweise ist nach psychisch belastenden Einsätzen vorteilhaft?",
+    "answers": [
+      "Nur keine Schwäche zeigen",
+      "Nach dem Einsatz zusammensetzen und miteinander reden",
+      "Eventuell PSNV hinzuziehen",
+      "So schnell wie möglich nach Hause gehen"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C",
+    "alte_id": 5
+  },
+  {
+    "id": 1098,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Der Truppführer ist für die genaue Lage des Verteilers verantwortlich. Wo sollten Sie nach Möglichkeit den Verteiler nicht ablegen?",
+    "answers": [
+      "Im Trümmerschatten",
+      "Im Schließbereich der Haustür",
+      "Außerhalb des Fluchtwegs"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B",
+    "alte_id": 13
+  },
+  {
+    "id": 1124,
+    "category": "Gerätekunde",
+    "thema": "psa",
+    "question": "Der Gesichtsschutz zum Feuerwehrhelm (z. B. Klappvisier) ist zu verwenden",
+    "answers": [
+      "bei Gefahren für das Gesicht und die Augen",
+      "bei Gefahren beispielsweise durch Splitter",
+      "bei Gefahren durch wegschnellende Teile",
+      "Brillenträger brauchen keinen Gesichtsschutz"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C",
+    "alte_id": 53
+  },
+  {
+    "id": 1077,
+    "category": "Brennen und Löschen",
+    "thema": "brennen",
+    "question": "Welche Aussagen über Kohlenmonoxid sind richtig?",
+    "answers": [
+      "schwerer als Luft",
+      "farb-, geruch- und geschmacklos",
+      "ungiftig",
+      "entsteht bei vollkommener Verbrennung"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B",
+    "alte_id": 42
+  },
+  {
+    "id": 1081,
+    "category": "Verhalten im Einsatz",
+    "thema": "einsatz",
+    "question": "Auf was achten Sie beim Anheben schwerer Gegenstände?",
+    "answers": [
+      "gerader Rücken",
+      "Last nah am Körper tragen",
+      "immer PSA tragen",
+      "je Handgriff zwei Personen"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C"
+  },
+  {
+    "id": 1080,
+    "category": "Brennen und Löschen",
+    "thema": "brennen",
+    "question": "Welche Aussagen über Kohlendioxid sind zutreffend?",
+    "answers": [
+      "schwerer als Luft",
+      "farb-, geruch- und geschmacklos",
+      "ungiftig",
+      "entsteht bei jeder Verbrennung"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, D",
+    "alte_id": 50
+  },
+  {
+    "id": 1088,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Was beachten Sie als Truppführer bei der Brandbekämpfung?",
+    "answers": [
+      "Auf eine doppelte Rückwegsicherung mit Schlauch und Feuerwehrleine beim Innenangriff",
+      "Die Position immer wieder wechseln, um den Brand von allen Seiten bekämpfen zu können",
+      "Gegen den Wind angreifen"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B",
+    "alte_id": 10
+  },
+  {
+    "id": 1111,
+    "category": "Verhalten im Einsatz",
+    "thema": "belastung",
+    "question": "Was tun Sie als Truppführer, wenn Ihr Truppmann im Einsatz plötzlich psychische Probleme hat?",
+    "answers": [
+      "Ihn aus dem Einsatzgeschehen herauslösen, betreuen und den Einheitsführer informieren",
+      "Nicht weiter beachten und ihm weiteren Auftrag erteilen",
+      "Ihm verdeutlichen, dass er als Einsatzkraft so etwas wegstecken muss"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 40
+  },
+  {
+    "id": 1107,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Im Einsatz entsteht für Ihren Trupp eine akute Gefahrensituation. Wer entscheidet, ob Ihr Einsatzauftrag abgebrochen wird?",
+    "answers": [
+      "Der Truppführer",
+      "Der Einheitsführer",
+      "Der Truppmann"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 2
+  },
+  {
+    "id": 1084,
+    "category": "Fahrzeugkunde",
+    "thema": "fahrzeuge",
+    "question": "Worauf achten Sie bei der Entnahme von Geräten aus den Fahrzeuggeräteräumen?",
+    "answers": [
+      "Dass die Geräteschlitten zur schnelleren Wiederbeladung im ausgezogenen Zustand belassen werden",
+      "Dass schwere Geräte von mehreren Einsatzkräften getragen werden",
+      "Dass die Aufstiegshilfen (Haltegriffe, Trittbretter, Klapptritt, Leitern usw.) benutzt werden",
+      "Auf mögliche Verletzungsgefahren"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C, D",
+    "alte_id": 30
+  },
+  {
+    "id": 1120,
+    "category": "Verhalten im Einsatz",
+    "thema": "einsatz",
+    "question": "Zu den allgemeinen Aufgaben des Truppführers gehören beispielsweise:",
+    "answers": [
+      "Angriffsweg festlegen, soweit nicht durch den Einheitsführer vorgegeben",
+      "Kontrolle der persönlichen Schutzausrüstung (PSA) des unterstellten Truppmanns",
+      "Festlegen der Wasserentnahmestelle beim Brandeinsatz",
+      "Die Beachtung der Gefahren der Einsatzstelle und die richtige Reaktion auf erkannte Gefahren"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, D",
+    "alte_id": 9
+  },
+  {
+    "id": 1106,
+    "category": "Verhalten im Einsatz",
+    "thema": "einsatz",
+    "question": "Der Truppführer bemerkt, dass sein Truppmann die Schläuche falsch auslegt. Muss der Truppführer etwas tun? Wenn ja, was?",
+    "answers": [
+      "Er muss den Truppmann auf das fachgerechte Auslegen hinweisen und überwachen, dass er die Hinweise beachtet",
+      "Er muss nichts veranlassen, weil noch nichts passiert ist und wenn, wäre es Aufgabe des Einheitsführers, etwas zu sagen",
+      "Er muss nichts tun, denn der Truppmann hat das Auslegen ja in seiner Ausbildung gelernt und muss jetzt seine Erfahrungen selbst machen"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 17
+  },
+  {
+    "id": 1075,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Was müssen Sie bei einem Stromunfall im Niederspannungsbereich (Spannung 230 bis 400 Volt) zuerst tun? Welche Maßnahmen leiten Sie ein!",
+    "answers": [
+      "Den Verunfallten nur mit isolierendem Material wegziehen",
+      "Die Stromleitung spannungsfrei schalten (lassen)",
+      "Rettungsdienst über den Einheitsführer alarmieren",
+      "Unmittelbar Erste Hilfe – Maßnahmen durchführen"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B"
+  },
+  {
+    "id": 1078,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Während des Löschangriffs (Außenangriff) entdecken Sie eine leblose Person. Welchen der folgenden Schritte führen Sie zusammen mit ihrem Truppmann im Rahmen der Patientenkontrolle aus Sicht der Ersten Hilfe vorrangig durch?",
+    "answers": [
+      "Bewusstsein, dann Atmung kontrollieren",
+      "Beine und Arme hochlagern",
+      "Zuerst Blutungen stillen",
+      "Zuerst Feuer löschen, dann Verletzten betreuen"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C",
+    "alte_id": 11
+  },
+  {
+    "id": 1085,
+    "category": "Gerätekunde",
+    "thema": "psa",
+    "question": "Welche der folgenden Feuerlöscher können bei Bränden fester Stoffe wirkungsvoll eingesetzt werden?",
+    "answers": [
+      "Pulverlöscher mit Flammbrandpulver",
+      "Nasslöscher",
+      "Schaumlöscher",
+      "Pulverlöscher mit Glutbrandpulver"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C, D",
+    "alte_id": 8
+  },
+  {
+    "id": 1089,
+    "category": "Hilfeleistungseinsatz",
+    "thema": "thl",
+    "question": "Sie bekommen den Auftrag eine Fahrzeugbatterie abzuklemmen. Welchen Pol klemmen Sie zuerst ab?",
+    "answers": [
+      "Den Minuspol",
+      "Den Pluspol",
+      "Bei modernen Fahrzeugen ist die Reihenfolge egal",
+      "Darf von der Feuerwehr nicht abgeklemmt werden"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 14
+  },
+  {
+    "id": 1118,
+    "category": "Löscheinsatz",
+    "thema": "wasser",
+    "question": "Der vom Einheitsführer benannte Unterflurhydrant ist durch einen Kleintransporter verstellt. Sie entscheiden selbstständig, einen anderen Hydranten in der Nähe zu verwenden. Was ist zu tun?",
+    "answers": [
+      "Den Einheitsführer umgehend über die geänderte Lage informieren",
+      "Ohne vorherige Rücksprache mit dem Einheitsführer darf der andere Hydrant nicht verwendet werden",
+      "Sobald der PKW-Fahrer ausfindig gemacht werden konnte und sein Fahrzeug entfernt hat, den Schlauch auf den „richtigen“ Hydranten umkuppeln."
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A"
+  },
+  {
+    "id": 1090,
+    "category": "Hilfeleistungseinsatz",
+    "thema": "thl",
+    "question": "Bei einem Unfall laufen Betriebsstoffe aus. Womit können Sie kleinere Mengen ausgelaufenen Treibstoffs abdecken?",
+    "answers": [
+      "Wasser",
+      "Ölbindemittel",
+      "Erde",
+      "Sägespäne"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C, D",
+    "alte_id": 36
+  },
+  {
+    "id": 1108,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Während der Brandbekämpfung entdecken Sie eine leblose Person. Wie verhalten Sie sich richtig?",
+    "answers": [
+      "Gemäß meinem Auftrag hat die Brandbekämpfung Vorrang. Um die Person kann ich mich erst später kümmern",
+      "Ich lösche weiter und schicke meinen Truppmann zum Einheitsführer, um Meldung zu machen",
+      "Ich bringe die Person unverzüglich aus dem unmittelbaren Gefahrenbereich und leiste Erste Hilfe",
+      "Ich informiere schnellstmöglich meinen Einheitsführer"
+    ],
+    "correct": [
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C, D",
+    "alte_id": 3
+  },
+  {
+    "id": 1115,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Welche grundsätzlichen Aufgaben übernimmt der Angriffstrupp einer Gruppe im Löscheinsatz?",
+    "answers": [
+      "Er hat keine bestimmten Aufgaben",
+      "Er arbeitet nach Anweisung des Einheitsführers",
+      "Er rettet und nimmt das erste Rohr vor",
+      "Er verlegt die C-Leitung ab dem Verteiler selbst, wenn kein Schlauchtrupp vorhanden ist"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C, D",
+    "alte_id": 57
+  },
+  {
+    "id": 1094,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Welche taktischen Einsatzgrundsätze beachten Sie als Truppführer?",
+    "answers": [
+      "Spätestens ab der Rauchgrenze mit Wasser am Rohr vorgehen",
+      "Schaden so gering wie möglich halten",
+      "Immer kriechend vorgehen",
+      "Löschstrahl nicht unterbrechen"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B",
+    "alte_id": 48
+  },
+  {
+    "id": 1123,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Wann darf bei Unfällen in Hochspannungsanlagen mit der Menschenrettung begonnen werden?",
+    "answers": [
+      "In Hochspannungsanlagen darf die Feuerwehr nicht tätig werden",
+      "Menschenrettung kann immer durchgeführt werden, denn zur Menschenrettung kann von den Unfallverhütungsvorschriften abgewichen werden",
+      "Erst nach Abschaltung und Freigabe durch Fachpersonal, zum Beispiel des Energieversorgungsunternehmens (EVU)l"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C",
+    "alte_id": 55
+  },
+  {
+    "id": 1095,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Der Wassertrupp bekommt den Auftrag, ein Gebäude (rauchfrei) nach Personen zu durchsuchen. Wer legt die Reihenfolge der Absuche fest, wenn im Befehl des Gruppenführers kein Hinweis gegeben wurde?",
+    "answers": [
+      "Der dienstälteste Feuerwehrmann im Trupp",
+      "Der Truppführer",
+      "Der Truppmann",
+      "Der Maschinist"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B",
+    "alte_id": 12
+  },
+  {
+    "id": 1093,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Welche taktischen Einsatzgrundsätze beachten Sie als Truppführer?",
+    "answers": [
+      "Eigenschutz hat oberste Priorität",
+      "Erkannte Gefahren sofort melden",
+      "Truppweise geschlossen vorgehen",
+      "Rückzugsweg sichern"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C, D",
+    "alte_id": 60
+  },
+  {
+    "id": 1105,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Muss der Truppführer seinem Truppmann bei der Brandbekämpfung Weisungen erteilen?",
+    "answers": [
+      "Ja, vor allem, wenn der Truppmann nicht einsatztaktisch richtig vorgeht",
+      "Nein, der Truppmann muss wissen, was zu tun ist",
+      "Ja, insbesondere wenn er mehr Erfahrung hat",
+      "Ja, wenn er nicht sicherheitsgerecht handelt"
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, D",
+    "alte_id": 58
+  },
+  {
+    "id": 1119,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Sie sind bei einem Brandeinsatz. Während der Brandbekämpfung im Erdgeschoss ruft plötzlich im 3. Obergeschoss eine Person um Hilfe. Mit welchen Einsatzmitteln kann die Person aus dem 3. Obergeschoss gerettet werden?",
+    "answers": [
+      "4-teilige Steckleiter",
+      "3-teilige Schiebleiter",
+      "Sprungpolster SP 16"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C",
+    "alte_id": 49
+  },
+  {
+    "id": 1087,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Was beachten Sie als Truppführer bei der Brandbekämpfung?",
+    "answers": [
+      "Keinesfalls ein Gebäude betreten",
+      "Sicherheitsabstände zu elektrischen Anlagen einhalten",
+      "Wasserabgabe immer wieder stoppen, damit der Wasserdampf abziehen kann und die Entwicklung der Löscharbeiten kontrolliert werden kann",
+      "Ausreichende Schlauchreserve"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C, D",
+    "alte_id": 22
+  },
+  {
+    "id": 1121,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Richtiges Verhalten des Truppführers bei Erkennen einer Eigengefährdung ist,",
+    "answers": [
+      "sofortigen Rückzug antreten und Meldung an den Einheitsführer",
+      "wenn aufgrund der Gefahr erforderlich, tritt jedes Truppmitglied für sich den Rückzug an",
+      "wenn aufgrund der Gefahr erforderlich, tritt der Trupp geschlossen den Rückweg an",
+      "ggf. Notfallmeldung - Kennwort: „Mayday“ – absetzen"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C, D",
+    "alte_id": 23
+  },
+  {
+    "id": 1074,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Ihr Trupp erhält den Auftrag, für den Angriffstrupp eine Schlauchleitung zum Vorgehen in ein Gebäude vorzubereiten. Einsatzziel ist eine Wohnung im 1. Obergeschoss. Wie viel Schlauchreserve ordnen sie als Truppführer an?",
+    "answers": [
+      "4 C-Schläuche\r\n(1 C-Länge zum Gebäude, 1 C-Länge für jedes Geschoss, 2 C-Längen je Nutzungseinheit)",
+      "5 C-Schläuche\r\n(2 C-Längen zum Gebäude, 2 C-Längen für jedes Geschoss, 1 C-Länge je Nutzungseinheit)",
+      "6 C-Schläuche\r\n(2 C-Längen zum Gebäude, 1 C-Länge für jedes Geschoss, 3 C-Längen je Nutzungseinheit)",
+      "1 C-Schlauch"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 47
+  },
+  {
+    "id": 1133,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Eine Lagemeldung enthält in der Regel folgende Angaben:",
+    "answers": [
+      "Einsatzort, Lage, Schadenshöhe",
+      "Lage, Maßnahmen, Uhrzeit",
+      "Meldender, Einsatzort, Lageschilderung, durchgeführte Maßnahmen, eingesetzte Einheiten, Nachforderung"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C"
+  },
+  {
+    "id": 1091,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Worauf ist beim Aufstellen einer Steckleiter zu achten?",
+    "answers": [
+      "Auf eine sichere Verriegelung der Sperrbolzen",
+      "Dass die Leiter nicht vor Fluchtwegen/Eingangstüren in Stellung gebracht wird",
+      "Dass immer alle 4 Leiterteile genutzt werden",
+      "Dass 3 Sprossen bzw. 1 m Überstand eingehalten werden, wenn keine andere Möglichkeit zum Festhalten besteht"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, D",
+    "alte_id": 54
+  },
+  {
+    "id": 1132,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Warum wird der Einheitsführer versuchen, die Anzahl der Einsatzkräfte im Gefahrenbereich auf das erforderliche Mindestmaß reduzieren?",
+    "answers": [
+      "Damit alle gleichmäßig mit Arbeit belastet werden",
+      "Um die Eigengefährdung der Einsatzkräfte zu verringern",
+      "Um die notwendige Lohnfortzahlung im Einsatzfall möglichst gering zu halten"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B"
+  },
+  {
+    "id": 1086,
+    "category": "Gerätekunde",
+    "thema": "psa",
+    "question": "Welche der folgenden Feuerlöscher können bei Bränden flüssiger Stoffe wirkungsvoll eingesetzt werden?",
+    "answers": [
+      "Kohlendioxidlöscher",
+      "Feuerlöscher mit Metallbrandpulver",
+      "Pulverlöscher mit ABC-Pulver",
+      "Nasslöscher"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C",
+    "alte_id": 25
+  },
+  {
+    "id": 1129,
+    "category": "Rechtsgrundlagen und Organisation",
+    "thema": "recht",
+    "question": "Welche besonderen Aufgaben hat der Truppführer bei Anwendung der Unfallverhütungsvorschriften?",
+    "answers": [
+      "Der Truppführer muss prüfen, welche Bestimmungen der Unfallverhütungsvorschriften den Trupp betreffen",
+      "Keine, jeder im Trupp achtet auf sich selbst",
+      "Keine, weil beide im Trupp das Gleiche tun"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A"
+  },
+  {
+    "id": 1101,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Wer bestimmt bei Einsatz von Wasser als Löschmittel, ob der Trupp die Brandbekämpfung mit Vollstrahl oder Sprühstrahl durchführt?",
+    "answers": [
+      "Der Einheitsführer",
+      "Der Strahlrohrführer",
+      "Der Truppführer",
+      "Der Einsatzleiter"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C",
+    "alte_id": 1
+  },
+  {
+    "id": 1099,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Als Truppführer sind Sie für die Sicherheit des Trupps verantwortlich. Welche Grundsätze beachten Sie beim Einsatz mit ABC-Gefahrstoffen?",
+    "answers": [
+      "Gefahrenbereich nur mit angeordneter Schutzausrüstung betreten",
+      "Verlassen des Gefahrenbereichs nur über den Dekon-Platz",
+      "Anzeichen von gesundheitlicher Störung an den Einheitsführer melden",
+      "Einsatzstellenhygiene beachten"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C, D",
+    "alte_id": 46
+  },
+  {
+    "id": 1092,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Worauf ist beim Aufstellen einer Steckleiter zu achten?",
+    "answers": [
+      "Dass die Leiter bis zur Fensteroberkante reicht",
+      "Dass ein ausreichender Abstand zu spannungsführenden Teilen eingehalten wird",
+      "Dass der Untergrund waagrecht und tragfähig ist",
+      "Dass ein Anstellwinkel von ca. 85° eingehalten wird"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B, C",
+    "alte_id": 45
+  },
+  {
+    "id": 1128,
+    "category": "Hilfeleistungseinsatz",
+    "thema": "thl",
+    "question": "Beim Einsatz des Einreißhakens",
+    "answers": [
+      "ist Gesichtsschutz erforderlich",
+      "ist der Arbeitsbereich von Personen freizuhalten",
+      "sind Unterlegkeile zu verwenden",
+      "ist der Feuerwehrhelm abzulegen"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B",
+    "alte_id": 56
+  },
+  {
+    "id": 1125,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Beim Aufstellen von tragbaren Leitern ist auf",
+    "answers": [
+      "den richtigen Anstellwinkel von ca. 65° bis 75° (mit angewinkeltem Arm prüfen) zu achten",
+      "erforderliche Mindestabstände zu elektrischen Freileitungen zu achten",
+      "einen ausreichend festen Untergrund zu achten",
+      "einen sicheren Stand zu achten"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C, D",
+    "alte_id": 29
+  },
+  {
+    "id": 1102,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Ein Feuerwehrmann wird durch den Schlauchtrupp mit Hilfe einer Feuerwehrleine gegen Absturz gesichert. Wer überprüft die korrekte Ausführung des Brustbundes?",
+    "answers": [
+      "Der Truppmann des Schlauchtrupps",
+      "Der Feuerwehrdienstleistende, der den Knoten angelegt hat",
+      "Der Truppführer des Schlauchtrupps"
+    ],
+    "correct": [
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): C",
+    "alte_id": 15
+  },
+  {
+    "id": 1083,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Kreuzen Sie die zur GAMS-Regel gehörenden Begriffe an.",
+    "answers": [
+      "Spezialkräfte alarmieren",
+      "Spitzenkräfte anfordern",
+      "Gefahr erkennen",
+      "Menschenrettung durchführen"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C, D",
+    "alte_id": 33
+  },
+  {
+    "id": 1130,
+    "category": "Löscheinsatz",
+    "thema": "wasser",
+    "question": "Sie bemerken als Truppführer, dass ihr Truppmann die B-Druckschläuche falsch auswirft. Bis jetzt hat er sich noch nicht verletzt. Wie handeln sie?",
+    "answers": [
+      "Ich muss ihn auf das fachgerechte Auswerfen hinweisen und überwachen",
+      "Er hat das richtige Auswerfen in seiner Ausbildung gelernt und muss nun seine Erfahrungen machen",
+      "Es ist ja noch nichts passiert, außerdem ist es Aufgabe des Einheitsführers etwas zu sagen"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A"
+  },
+  {
+    "id": 1100,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Sie haben den Auftrag, eine brennende Scheune (Holzbauweise) abzulöschen. Worauf weisen Sie Ihren Truppmann bei der Strahlrohrführung hin?",
+    "answers": [
+      "Verbindungsstellen („Knotenpunkte”) zuerst ablöschen",
+      "Stützen zuerst ablöschen",
+      "Unbeschädigte Dachfläche kühlen"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 52
+  },
+  {
+    "id": 1076,
+    "category": "Brennen und Löschen",
+    "thema": "brennen",
+    "question": "Welche Aussagen über Kohlenmonoxid sind richtig?",
+    "answers": [
+      "entsteht bei unvollkommener Verbrennung",
+      "brennbar",
+      "leichter als Luft",
+      "giftig (Blut- und Nervengift)"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C, D",
+    "alte_id": 28
+  },
+  {
+    "id": 1113,
+    "category": "Hilfeleistungseinsatz",
+    "thema": "thl",
+    "question": "Sie bekommen vom Einheitsführer den Auftrag, den Patienten im Fahrzeug zu betreuen. Worauf achten Sie?",
+    "answers": [
+      "Erst ins Fahrzeug steigen, wenn es gegen Wegrollen/-rutschen gesichert ist",
+      "Es reicht aus, die A-Säule zu unterbauen",
+      "Erst ins Fahrzeug steigen, wenn Rettungsdienst vor Ort",
+      "Es darf nur über den Kofferraum zugestiegen werden"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "images": [
+      {
+        "src": "bilder/1113.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "category": "Löscheinsatz",
+    "thema": "wasser",
+    "question": "Der Einheitsführer befiehlt, dass Sie mit Ihrem Trupp den nächsten Hydranten als Wasserversorgung einsatzbereit machen sollen. In etwa 25 m Entfernung zur Einsatzstelle entdecken Sie einen Unterflurhydranten, auf dem das im Bild dargestellte Fahrzeug parkt. In 100 m Entfernung sehen Sie einen Überflurhydranten – wie entscheiden Sie sich?",
+    "answers": [
+      "Wir rutschen das Fahrzeug zur Seite und machen den Unterflurhydranten einsatzbereit. Als Feuerwehrmann darf ich Sachen, die den Einsatz behindern, entfernen",
+      "Weil bei allen Einsatzmaßnahmen die Verhältnismäßigkeit zu beachten ist, entscheide ich mich für den Überflurhydranten, auch wenn es etwas länger dauert",
+      "Ich weise die Polizei an, den Fahrzeughalter ausfindig zu machen und das Entfernen des Fahrzeuges zu veranlassen"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B",
+    "images": [
+      {
+        "src": "bilder/1096.jpg"
+      }
+    ],
+    "alte_id": 35
+  },
+  {
+    "id": 1104,
+    "category": "Rechtsgrundlagen und Organisation",
+    "thema": "recht",
+    "question": "Welche besonderen Aufgaben hat der Truppführer bei Anwendung der Unfallverhütungsvorschriften?",
+    "answers": [
+      "Der Truppführer ist für die Sicherheit des Trupps verantwortlich",
+      "Er ist für die Einhaltung der Unfallverhütungsvorschrift verantwortlich",
+      "Keine, weil Truppmann und Truppführer jeweils für sich selbst verantwortlich sind",
+      "Keine, weil Truppmann und Truppführer das Gleiche tun"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B",
+    "alte_id": 34
+  },
+  {
+    "id": 1112,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Wie wird in der Regel bei einem Wohnungsbrand vorgegangen?",
+    "answers": [
+      "Ab der Rauchgrenze: nur mit Atemschutz",
+      "Rauchausbreitung im Gebäude vermeiden",
+      "Mit Strahlrohr von außen die Dachhaut kühlen",
+      "Der Truppmann geht mit C–Hohlstrahlrohr in die Wohnung vor, der Truppführer sichert von außen an der Türe ab"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B",
+    "alte_id": 19
+  },
+  {
+    "id": 1126,
+    "category": "Sichern gegen Absturz",
+    "thema": "absturz",
+    "question": "Die Feuerwehrleine …",
+    "answers": [
+      "dient zusammen mit dem Feuerwehr-Haltegurt zum Rückhalten bei Absturzgefahr",
+      "dient als Halte- und Ventilleine",
+      "ist ein Rettungsgerät, das zur ergänzenden persönlichen Ausrüstung gehört",
+      "dient zum Sichern von Personen, zum Beispiel beim Herabsteigen auf einer Leiter"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, C, D",
+    "alte_id": 16
+  },
+  {
+    "id": 1122,
+    "category": "Löscheinsatz",
+    "thema": "loescheinsatz",
+    "question": "Wie reagieren Sie als Truppführer, wenn Ihr Trupp den Auftrag hat „Zur Brandbekämpfung auf der Gebäuderückseite vor!“ und Sie sehen den im Bild dargestellten Dachaufbau?",
+    "answers": [
+      "Meldung an den Einheitsführer „Fotovoltaikanlage vorhanden!“",
+      "Strahlrohrabstand den Gefahren anpassen",
+      "Trupp vor herabstürzenden Teilen schützen",
+      "Brandbekämpfung abbrechen"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C",
+    "images": [
+      {
+        "src": "bilder/1122.jpg"
+      }
+    ],
+    "alte_id": 31
+  },
+  {
+    "id": 1131,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Wie verhalten Sie sich als Truppführer, wenn Einsturzgefahr besteht?",
+    "answers": [
+      "Ein Hinweis an den Einheitsführer ist ausreichend",
+      "Hinweis an den Truppmann geben, im Trupp Schutz unter besonders standfesten Gebäudeteilen suchen, Rückzugs- weg sicherstellen, Meldung an den Einheitsführer",
+      "Ein Hinweis an den Truppmann ist ausreichend"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B"
+  },
+  {
+    "id": 1127,
+    "category": "Hilfeleistungseinsatz",
+    "thema": "thl",
+    "question": "Folgende Hinweise zur Sicherheit sind beim Einsatz einer Brechstange zu beachten:",
+    "answers": [
+      "Beim Einsatz der Brechstange ist Gesichtsschutz zu verwenden",
+      "Beim Einsatz ist Hebelwirkung der Brechstange bestmöglich auszunutzen",
+      "Beim Heben muss die Last durch Unterbauen gesichert werden",
+      "Das maximal anzuhebende Gewicht darf nicht mehr als 10 kg betragen"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A, B, C",
+    "alte_id": 24
+  },
+  {
+    "id": 1079,
+    "category": "Brennen und Löschen",
+    "thema": "brennen",
+    "question": "Welche Aussagen über Kohlendioxid sind zutreffend?",
+    "answers": [
+      "entsteht bei unvollkommener Verbrennung",
+      "brennbar",
+      "leichter als Luft",
+      "steuert die Atmung, ist bei zu hoher Konzentration giftig"
+    ],
+    "correct": [
+      3
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): D",
+    "alte_id": 26
+  },
+  {
+    "id": 1082,
+    "category": "Verhalten bei Gefahr",
+    "thema": "gefahr",
+    "question": "Wie lautet die GAMS-Regel richtig?",
+    "answers": [
+      "Gefahr erkennen, Absperrband anbringen, Menschenrettung durchführen, Spezialkräfte alarmieren",
+      "Gefahr erkennen, Absperren, Menschenrettung durchführen, Spezialkräfte alarmieren",
+      "Gefahr erkennen, Absperren, Menschenrettung durchführen, Sondergeräte alarmieren",
+      "Gefahren weitermelden, Absperren, Menschenrettung durchführen, Spezialkräfte alarmieren"
+    ],
+    "correct": [
+      1
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): B"
+  },
+  {
+    "id": 1110,
+    "category": "Verhalten im Einsatz",
+    "thema": "einsatz",
+    "question": "Wie wird die Rettungsgasse auf einer Autobahn mit 3 Fahrstreifen gebildet?",
+    "answers": [
+      "Die Fahrzeuge auf der linken Spur ganz nach links, alle anderen rechts",
+      "Die Fahrzeuge auf den beiden linken Spuren nach links, alle anderen rechts",
+      "Die Fahrzeuge auf der rechten Spur nach rechts, alle anderen links",
+      "Auf dem Standstreifen"
+    ],
+    "correct": [
+      0
+    ],
+    "multiple_choice": true,
+    "explanation": "Lösung laut Feuerwehr-Lernbar, Quiz „Abschlussprüfung (alle Fragen)“ (Stand 20.11.2026): A",
+    "alte_id": 6
+  }
+]
