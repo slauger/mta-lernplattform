@@ -3,8 +3,8 @@
 Das **Basismodul** der Modularen Truppausbildung ist in nummerierte Themen gegliedert (Lernzielkatalog der Staatlichen Feuerwehrschulen). Die Nummern findest du auf deinem Ausbildungsplan wieder – z. B. „5.10 Rettungsgeräte – Praxis Knoten und Stiche".
 
 !!! abstract "Quelle"
-    Gesamtinhaltsverzeichnis MTA Basismodul (Stand 01/2019) und „Anpassungen MTA Basismodul“ (Stand 11/2023) aus der Lehrgangsorganisation, Prüfungsunterlagen MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (Stand 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ und Zwischenzeugnis (alle SFS Würzburg); Ausbildungsplan 2026/27 Inspektion I, Landkreis Bayreuth (Themen-Titel, Termine, Spalte „Mitbringen“); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (Ausbildungsvoraussetzungen).
-    Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
+    Gesamtinhaltsverzeichnis MTA Basismodul (Stand 01/2019) und „Anpassungen MTA Basismodul“ (Stand 11/2023) aus der Lehrgangsorganisation, Prüfungsunterlagen MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (Stand 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ und Zwischenzeugnis (alle SFS Würzburg); Ausbildungsplan 2026/27 Inspektion I, Landkreis Bayreuth (Themen-Titel, Termine, Spalte „Mitbringen“); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (Ausbildungsvoraussetzungen); Fachinformation zur Modularen Truppausbildung (Version 1.0, Kap. 4 „Zwischenprüfung“, 6 „Abschlussprüfung“, 8 „Prüfungsergebnisse“) und Prüfungsunterlagen der Truppführerqualifikation (Praktische Prüfung, Bewertung Trupp- und Gruppenaufgabe, Nachweis Abschlussprüfung, Zeugnis).
+    Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung) · [Feuerwehr-Lernbar – Truppführerqualifikation](https://www.feuerwehr-lernbar.bayern/post/mta-truppfuhrerqualifikation) · [Feuerwehr-Lernbar – Fachinformation MTA](https://www.feuerwehr-lernbar.bayern/post/mta-grundsatze-und-informationen)
 
 Zu jedem Thema gibt es auf der **[Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)** kostenlos und ohne Anmeldung:
 
@@ -63,9 +63,11 @@ Die Zwischenprüfung (Thema 15) schließt das Basismodul ab. **Danach darfst du 
 
 Sie besteht laut Prüfungsnachweis aus:
 
-1. **Schriftlicher Teil** – Fragebogen → üben mit dem [Quiz](quiz/index.html)
+1. **Schriftlicher Teil** – **50 Fragen**, jeweils ist genau **eine** Antwort richtig. Bestanden ab **50 %** richtigen Antworten. Wer bei einer Frage mehrere Antworten ankreuzt, bekommt dafür 0 Punkte. Hilfsmittel sind nicht erlaubt. → üben mit dem [Quiz](quiz/index.html)
 2. **Drei praktische Aufgaben** aus dem Aufgabenpool unten
 3. **Eine Sprechfunk-Aufgabe**
+
+Der praktische Teil ist nur bestanden, wenn **alle Einzelaufgaben** bestanden sind (laut Fachinformation mindestens vier, davon verbindlich eine aus dem Bereich Funk).
 
 Bewertet wird bei jeder Aufgabe auch der **Gesamteindruck** (Sicherheit, zügige Ausführung). Nimm das Gerät immer **zügig aus dem Fahrzeug** – du musst wissen, wo es liegt!
 
@@ -132,6 +134,47 @@ Die vollständigen Bewertungsbögen (Stand 07/2025) findest du auf der Lernbar u
     - [ ] Betriebsgruppe wechseln
     - [ ] Betriebsmodus wechseln (**Direktbetrieb DMO / Netzbetrieb TMO**)
     - [ ] Meldung absetzen – beim Handfunkgerät an den Einheitsführer, beim Fahrzeugfunkgerät an die „Leitstelle"
+
+## Abschlussprüfung
+
+Die Abschlussprüfung beendet die MTA. Du zeigst darin, dass du als **Truppführer** die Aufträge des Einheitsführers in einer Einsatzsituation selbstständig abarbeiten kannst. Nach bestandener Prüfung bekommst du das **Zeugnis**, die MTA entspricht dann der **Truppführerqualifikation nach FwDV 2**.
+
+**Voraussetzungen:** mindestens **18 Jahre** und das Modul **Ausbildungs- und Übungsdienst** abgeschlossen.
+
+### Schriftlicher Teil
+
+- **15 Fragen** zum sicheren Handeln als Truppführer, üben mit dem [Quiz](quiz/index.html) (Fragenkatalog Truppführer)
+- Bestanden, wenn mindestens **50 %** der Fragen richtig beantwortet sind. Hilfsmittel sind nicht erlaubt.
+- Es können **mehrere Antworten richtig** sein. Eine Frage zählt nur, wenn **alle richtigen** und **keine falsche** Antwort angekreuzt sind. Teilweise richtig gibt 0 Punkte.
+
+### Praktischer Teil
+
+In beiden Aufgaben übernimmst du die Funktion des **Truppführers**. Bewertet wird nur dein Handeln, auch wie du auf deinen Truppmann, den Maschinisten oder unterstützende Trupps reagierst.
+
+1. **Truppaufgabe:** Der Prüfer erteilt dir den Befehl. Ihr rüstet euch komplett aus, einschließlich Beleuchtungs- und Funkgerät. Geräte aus dem Fahrzeug holen und danach wieder verlasten gehört zur Aufgabe, ebenso die Einsatzbereitschaft wiederherzustellen. Die Prüfungsunterlagen nennen 14 Beispielaufgaben:
+
+    ??? example "Die 14 Beispiel-Truppaufgaben"
+        1. Auf- und Abbau einer Wasserversorgung zwischen Wasserentnahmestelle (Hydrant) und Löschfahrzeug/Tragkraftspritze
+        2. Auf- und Abbau einer Saugleitung zwischen offener Wasserentnahmestelle und Löschfahrzeug/Tragkraftspritze
+        3. Vornahme und Rücknahme eines Strahlrohres
+        4. In Stellung bringen einer 4-teiligen Steckleiter
+        5. Rettung einer Person über eine Steckleiter
+        6. Halten
+        7. Rückhalten
+        8. Sichern eines Fahrzeugs
+        9. Aufbau einer Verkehrsabsicherung
+        10. Unterstützung des Gruppenführers bei der Erkundung, Rückmeldung über ein Handfunkgerät
+        11. Erkennen einer Gefahrgut- oder Stoffkennzeichnung, Übermitteln des Stoffnamens mit einem Funkgerät
+        12. Umlagern/Transport eines Patienten
+        13. Auffinden einer bewusstlosen Person
+        14. Erste Hilfe, Versorgung einer Verletzung
+
+2. **Staffel- oder Gruppenaufgabe (Einsatzübung):** Die Funktionen werden ausgelost, ein Prüfer ist in der Regel Einheitsführer. Beispiele: PKW gegen Baum (Verkehrsabsicherung, Brandschutz, Personenbetreuung) oder Brandeinsatz (Wasserversorgung, Strahlrohre vornehmen, tragbare Leiter aufstellen).
+
+Zwei Prüfer vergeben in fünf Kategorien je **0 bis 3 Punkte**: Entnahme/Vornahme, Durchführung/Bedienung, Sicherheit, Kommunikation und Gesamteindruck. Eine Aufgabe ist bestanden mit mindestens **8 von 15 Punkten**, dabei darf **keine Kategorie 0 Punkte** haben. Du erfährst nur „bestanden“ oder „nicht bestanden“, keine Punktzahl.
+
+!!! info "Nicht bestanden – was dann?"
+    Das gilt für Zwischen- und Abschlussprüfung: Bestanden ist die Prüfung nur, wenn **alle Prüfungsteile** bestanden sind. Eine nicht bestandene praktische Aufgabe darf **einmal zeitnah wiederholt** werden. Fällt der schriftliche Teil oder die Wiederholung durch, wird der **gesamte Prüfungsteil** (schriftlich bzw. praktisch) wiederholt.
 
 ---
 

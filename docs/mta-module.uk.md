@@ -3,8 +3,8 @@
 **Базовий модуль** (Basismodul) модульної підготовки ланки (MTA) поділено на пронумеровані теми (каталог навчальних цілей державних пожежних шкіл, Lernzielkatalog der Staatlichen Feuerwehrschulen). Ці номери ти знайдеш у своєму плані навчання (Ausbildungsplan) – напр. «5.10 Rettungsgeräte – Praxis Knoten und Stiche» (рятувальне обладнання – практика: вузли).
 
 !!! abstract "Джерело"
-    Загальний зміст MTA Basismodul (Gesamtinhaltsverzeichnis, стан 01/2019) і „Anpassungen MTA Basismodul“ (зміни, стан 11/2023) з розділу Lehrgangsorganisation, екзаменаційні матеріали MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (проміжний іспит – практична частина, стан 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ (протокол проміжного іспиту) і Zwischenzeugnis (проміжне свідоцтво) (усі – SFS Würzburg); план навчання 2026/27 Inspektion I, район Байройт (назви тем, дати, стовпчик «Принести»); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (директива про кваліфікаційний іспит – умови допуску).
-    Усі матеріали (німецькою): [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
+    Загальний зміст MTA Basismodul (Gesamtinhaltsverzeichnis, стан 01/2019) і „Anpassungen MTA Basismodul“ (зміни, стан 11/2023) з розділу Lehrgangsorganisation, екзаменаційні матеріали MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (проміжний іспит – практична частина, стан 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ (протокол проміжного іспиту) і Zwischenzeugnis (проміжне свідоцтво) (усі – SFS Würzburg); план навчання 2026/27 Inspektion I, район Байройт (назви тем, дати, стовпчик «Принести»); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (директива про кваліфікаційний іспит – умови допуску); Fachinformation zur Modularen Truppausbildung (фахова інформація, версія 1.0, розд. 4 «Проміжний іспит», 6 «Підсумковий іспит», 8 «Результати іспитів») і екзаменаційні матеріали Truppführerqualifikation (практичний іспит, оцінювання завдання ланки і групи, протокол підсумкового іспиту, свідоцтво).
+    Усі матеріали (німецькою): [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung) · [Feuerwehr-Lernbar – Truppführerqualifikation](https://www.feuerwehr-lernbar.bayern/post/mta-truppfuhrerqualifikation) · [Feuerwehr-Lernbar – Fachinformation MTA](https://www.feuerwehr-lernbar.bayern/post/mta-grundsatze-und-informationen)
 
 До кожної теми на **[Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)** (німецькою) безкоштовно і без реєстрації є:
 
@@ -63,9 +63,11 @@
 
 Згідно з протоколом іспиту (Prüfungsnachweis) він складається з:
 
-1. **Письмової частини** – анкета з питаннями → тренуйся з [тестом](quiz/index.html)
+1. **Письмової частини** – **50 питань**, у кожному правильна рівно **одна** відповідь. Складено від **50 %** правильних відповідей. Хто позначить у питанні кілька відповідей, отримує за нього 0 балів. Допоміжні матеріали заборонені. → тренуйся з [тестом](quiz/index.html)
 2. **Трьох практичних завдань** із переліку завдань нижче
 3. **Одного завдання з радіозв'язку**
+
+Практичну частину складено, лише якщо складено **всі окремі завдання** (за фаховою інформацією щонайменше чотири, з них обов'язково одне з радіозв'язку).
 
 У кожному завданні оцінюють також **загальне враження** (впевненість, швидке виконання). Завжди **швидко діставай обладнання з автомобіля** – ти маєш знати, де воно лежить!
 
@@ -132,6 +134,47 @@
     - [ ] Змінити робочу групу (Betriebsgruppe)
     - [ ] Змінити режим роботи (**прямий режим DMO / мережевий режим TMO**, Direktbetrieb / Netzbetrieb)
     - [ ] Передати повідомлення – з портативної радіостанції командирові підрозділу (Einheitsführer), з автомобільної – «диспетчерському центру» (Leitstelle)
+
+## Підсумковий іспит (Abschlussprüfung) {#abschlussprufung}
+
+Підсумковий іспит завершує MTA. На ньому ти показуєш, що як **командир ланки** (Truppführer) можеш самостійно виконувати завдання командира підрозділу (Einheitsführer) у ситуації виклику. Після складання іспиту ти отримуєш **свідоцтво** (Zeugnis), і MTA тоді відповідає **кваліфікації командира ланки за FwDV 2** (Truppführerqualifikation).
+
+**Умови допуску:** щонайменше **18 років** і завершений модуль **«Служба з навчання та тренувань»** (Ausbildungs- und Übungsdienst).
+
+### Письмова частина (Schriftlicher Teil) {#schriftlicher-teil}
+
+- **15 питань** про безпечні дії командира ланки, тренуйся з [тестом](quiz/index.html) (каталог питань Truppführer)
+- Складено, якщо правильно відповіси щонайменше на **50 %** питань. Допоміжні матеріали заборонені.
+- Правильних відповідей може бути **кілька**. Питання зараховується, лише якщо позначено **всі правильні** і **жодної неправильної** відповіді. Частково правильна відповідь дає 0 балів.
+
+### Практична частина (Praktischer Teil) {#praktischer-teil}
+
+В обох завданнях ти виконуєш функцію **командира ланки**. Оцінюють лише твої дії, зокрема як ти реагуєш на дії свого пожежника ланки (Truppmann), машиніста (Maschinist) або ланок підтримки.
+
+1. **Завдання ланки (Truppaufgabe):** Екзаменатор віддає тобі наказ. Ви повністю спорядитеся, включно з освітлювальним приладом і радіостанцією. Дістати обладнання з автомобіля, а потім покласти назад – частина завдання, так само як відновити готовність до виклику. В екзаменаційних матеріалах наведено 14 прикладів завдань:
+
+    ??? example "14 прикладів завдань ланки (Beispiel-Truppaufgaben)"
+        1. Розгортання і згортання водопостачання між місцем забору води (гідрантом) і пожежним автомобілем / переносною мотопомпою – Auf- und Abbau einer Wasserversorgung zwischen Wasserentnahmestelle (Hydrant) und Löschfahrzeug/Tragkraftspritze
+        2. Розгортання і згортання всмоктувальної лінії між відкритим джерелом води і пожежним автомобілем / переносною мотопомпою – Auf- und Abbau einer Saugleitung
+        3. Подача і згортання пожежного ствола – Vornahme und Rücknahme eines Strahlrohres
+        4. Встановлення 4-секційної драбини – In Stellung bringen einer 4-teiligen Steckleiter
+        5. Рятування людини по секційній драбині – Rettung einer Person über eine Steckleiter
+        6. Утримання – Halten
+        7. Стримування – Rückhalten
+        8. Убезпечення автомобіля – Sichern eines Fahrzeugs
+        9. Облаштування огородження на дорозі – Aufbau einer Verkehrsabsicherung
+        10. Допомога командиру групи в розвідці, доповідь по портативній радіостанції – Unterstützung des Gruppenführers bei der Erkundung, Rückmeldung über ein Handfunkgerät
+        11. Розпізнавання маркування небезпечного вантажу або речовини, передача назви речовини по радіо – Erkennen einer Gefahrgut- oder Stoffkennzeichnung, Übermitteln des Stoffnamens mit einem Funkgerät
+        12. Перекладання / транспортування пацієнта – Umlagern/Transport eines Patienten
+        13. Пошук людини без свідомості – Auffinden einer bewusstlosen Person
+        14. Перша допомога, обробка травми – Erste Hilfe, Versorgung einer Verletzung
+
+2. **Завдання відділення або групи (Staffel- oder Gruppenaufgabe, навчальний виклик):** Функції розподіляють жеребкуванням, екзаменатор зазвичай виконує роль командира підрозділу. Приклади: легковик врізався в дерево (забезпечення безпеки руху, протипожежне прикриття, опіка над людьми) або пожежа (водопостачання, подача стволів, встановлення переносної драбини).
+
+Двоє екзаменаторів ставлять у п'яти категоріях по **0–3 бали**: діставання/подача обладнання (Entnahme/Vornahme), виконання/обслуговування (Durchführung/Bedienung), безпека (Sicherheit), комунікація (Kommunikation) і загальне враження (Gesamteindruck). Завдання складено, якщо набрано щонайменше **8 з 15 балів** і **жодна категорія не має 0 балів**. Ти дізнаєшся лише «складено» або «не складено» (bestanden / nicht bestanden), без кількості балів.
+
+!!! info "Не склав – що далі?"
+    Це стосується проміжного і підсумкового іспиту: іспит складено, лише якщо складено **всі частини**. Нескладене практичне завдання можна **один раз невдовзі повторити**. Якщо не складено письмову частину або повторне завдання, повторюють **усю частину іспиту** (письмову або практичну).
 
 ---
 

@@ -1,7 +1,7 @@
 # Einführung & Orientierung
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage MTA 2.1 „Rechtsgrundlagen und Organisation“, Teilnehmerunterlage MTA 2.2 „Rechte und Pflichten“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Teilnehmerunterlage MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, Ausbilderunterlage MTA 5.2 „Spezielle persönliche Schutzausrüstung“, Teilnehmerunterlage MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Präsentation MTA 8 „Verhalten bei Gefahr“, Prüfungsunterlagen MTA 15.3 „Zwischenprüfung – Praktischer Teil“ und 15.4 „Nachweis über die Zwischenprüfung“ (alle SFS Würzburg); Bayerisches Feuerwehrgesetz (BayFwG); Ausbildungsplan Inspektion I Landkreis Bayreuth 2026/27; [Lehrgangsinfo MTA des KFV Bayreuth](https://kfv-bayreuth-lehrgaenge.de/lehrgangsinfo.php?lehrgang=LGT-6a6af544-cdf2-4432-a3f3-fd2a8f1b8a11) (Mindestalter); dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage MTA 2.1 „Rechtsgrundlagen und Organisation“, Teilnehmerunterlage MTA 2.2 „Rechte und Pflichten“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Teilnehmerunterlage MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“, Ausbilderunterlage MTA 5.2 „Spezielle persönliche Schutzausrüstung“, Teilnehmerunterlage MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Präsentation MTA 8 „Verhalten bei Gefahr“, Prüfungsunterlagen MTA 15.3 „Zwischenprüfung – Praktischer Teil“ und 15.4 „Nachweis über die Zwischenprüfung“, Fachinformation zur Modularen Truppausbildung (Version 1.0, Kap. 4 und 6) (alle SFS Würzburg); Bayerisches Feuerwehrgesetz (BayFwG); Ausbildungsplan Inspektion I Landkreis Bayreuth 2026/27; [Lehrgangsinfo MTA des KFV Bayreuth](https://kfv-bayreuth-lehrgaenge.de/lehrgangsinfo.php?lehrgang=LGT-6a6af544-cdf2-4432-a3f3-fd2a8f1b8a11) (Mindestalter); dazu der offizielle Fragenkatalog.
     Ergänzend zur Dauer des Ausbildungs- und Übungsdienstes und zu Folgelehrgängen: [MTA – Informationen zur Durchführung im Landkreis Landshut (2019)](https://adlkofen.feuerwehren.bayern/media/filer_public/a0/bd/a0bd6d50-47b4-48fa-990a-f535e424cb4c/mta_informationen_zur_durchfuhrung_2019.pdf) · [Anmeldevoraussetzungen MTA, Landkreis Weißenburg-Gunzenhausen (2023)](https://kfv-wug.feuerwehren.bayern/media/filer_public/c6/9e/c69ebb8e-8152-4eb1-a241-81078aa3e369/2023_02_01_anmeldevorausetzugnen_mta.pdf)
     Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung)
 
@@ -31,9 +31,9 @@ graph LR
 
 | Abschnitt | Inhalt | Abschluss |
 |-----------|--------|-----------|
-| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (Fragenkatalog Basismodul, 214 Fragen). Das Zwischenzeugnis berechtigt zur Teilnahme am Modul **„Ausbildungs- und Übungsdienst“**. |
+| **Basismodul** | Grundlagen in Theorie und Praxis, als Lehrgang auf Kreisebene (Themen 1.0–15, siehe [MTA-Module](mta-module.md)). Das ist dein Kurs 2026/27. | **Zwischenprüfung** (schriftlich 50 Fragen aus dem Fragenkatalog Basismodul, dazu praktische Aufgaben und eine Sprechfunk-Aufgabe). Das Zwischenzeugnis berechtigt zur Teilnahme am Modul **„Ausbildungs- und Übungsdienst“**. |
 | **Ausbildungs- und Übungsdienst** | Ausbildung im Übungsdienst der eigenen Wehr, in der Regel über **etwa zwei Jahre** (Landkreis-Unterlagen nennen z. B. 40 Ausbildungsstunden, die der Kommandant bestätigt) | – |
-| **Abschlussprüfung** | Wiederholung und Vertiefung, Blick aus Sicht des **Truppführers** | **Abschlussprüfung** (Fragenkatalog Truppführer, 60 Fragen; bei einem Teil der Fragen sind mehrere Antworten richtig). |
+| **Abschlussprüfung** | Wiederholung und Vertiefung, Blick aus Sicht des **Truppführers** | **Abschlussprüfung**: schriftlich 15 Fragen aus dem Fragenkatalog Truppführer (teils mehrere Antworten richtig) sowie eine Truppaufgabe und eine Staffel- oder Gruppenaufgabe als Truppführer. Voraussetzung: 18 Jahre und abgeschlossenes Modul „Ausbildungs- und Übungsdienst“ ([Details](mta-module.md#abschlussprufung)). |
 
 !!! info "Mindestalter und Altersgrenzen"
     - Laut Lehrgangsinfo des KFV Bayreuth: Start der MTA **15 Jahre**, Zwischenprüfung **16 Jahre**, Abschlussprüfung **18 Jahre**
@@ -209,7 +209,7 @@ Mehr dazu im Kapitel [Einheiten im Löscheinsatz](theorie/loescheinsatz.md).
 2. **Erste Hilfe:** Für die feuerwehrspezifische Erste Hilfe brauchst du vorher einen **Erste-Hilfe-Grundlehrgang**. Die Bescheinigung wird bei Thema 5.12 kontrolliert und darf **nicht älter als 5 Jahre** sein.
 3. **Zwischenprüfung:** schriftlicher Fragebogen, drei praktische Aufgaben und eine Sprechfunk-Aufgabe (siehe oben).
 4. **Modul „Ausbildungs- und Übungsdienst“** in der eigenen Wehr, in der Regel über etwa zwei Jahre. Für manche spezielle Schutzausrüstung sind zusätzlich **Ergänzungsmodule bzw. Lehrgänge** erforderlich.
-5. **Abschlussprüfung** mit dem Fragenkatalog Truppführer.
+5. **Abschlussprüfung** ab 18 Jahren: 15 Fragen aus dem Fragenkatalog Truppführer, eine Truppaufgabe und eine Staffel- oder Gruppenaufgabe, jeweils als Truppführer (siehe [MTA-Module → Abschlussprüfung](mta-module.md#abschlussprufung)).
 
 !!! tip "Frag nach"
     Wie lange der Ausbildungs- und Übungsdienst in deiner Wehr dauert und wann die Abschlussprüfung ansteht, erfährst du von deinem Kommandanten bzw. deinen Ausbildern.
