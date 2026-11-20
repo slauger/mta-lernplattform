@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Löschmittel und Brandklassen</title>
+<style>
+  :root{
+    --rot:#c8102e; --rot-dunkel:#8c0a1f; --bg:#f4f5f7; --karte:#fff;
+    --text:#1b1d21; --grau:#6b7280; --rand:#e3e6ea;
+    --gruen:#15803d; --gruen-hell:#dcfce7; --rot-hell:#fee2e2; --kopf:#f1f3f6;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--text);line-height:1.5;padding:16px;max-width:1000px;margin:0 auto}
+  header{text-align:center;margin:8px 0 20px}
+  header h1{font-size:1.6rem;color:var(--rot-dunkel)}
+  header p{color:var(--grau);font-size:.95rem;margin-top:4px}
+
+  .tabs{display:flex;gap:8px;justify-content:center;margin:18px 0 14px;flex-wrap:wrap}
+  .tab{background:var(--karte);color:var(--text);border:2px solid var(--rand);
+       padding:10px 20px;border-radius:999px;font-size:1rem;font-weight:600;cursor:pointer;transition:.15s}
+  .tab.active{background:var(--rot);color:#fff;border-color:var(--rot)}
+  .optionen{display:flex;justify-content:center;margin-bottom:14px;font-size:.9rem;color:var(--grau)}
+  .optionen label{display:flex;gap:6px;align-items:center;cursor:pointer}
+  .hinweis{text-align:center;color:var(--grau);font-size:.88rem;margin-bottom:12px}
+
+  /* Tabelle */
+  .tabelle-box{background:var(--karte);border:1px solid var(--rand);border-radius:16px;
+               box-shadow:0 1px 3px rgba(0,0,0,.06);overflow-x:auto}
+  table.matrix{border-collapse:collapse;width:100%;min-width:520px;font-size:.9rem}
+  .matrix th,.matrix td{border:1px solid var(--rand);text-align:center;padding:6px 4px}
+  .matrix thead th{background:var(--kopf);font-weight:700;vertical-align:bottom}
+  .matrix .gruppe{writing-mode:vertical-rl;transform:rotate(180deg);font-size:.75rem;font-weight:700;
+                  color:var(--rot-dunkel);background:var(--kopf);padding:6px 3px;width:26px;min-width:26px}
+  .matrix .mittel{text-align:left;font-weight:600;padding:8px 10px;cursor:pointer;min-width:120px}
+  .matrix .mittel:hover{background:#fafafa}
+  .matrix tr.aktiv .mittel{background:#fff1f2;color:var(--rot-dunkel)}
+  /* Name bleibt beim seitlichen Scrollen auf dem Handy stehen */
+  .matrix tbody .gruppe{position:sticky;left:0;z-index:1}
+  .matrix .mittel{position:sticky;left:0;background:var(--karte);z-index:1}
+  .matrix .mittel.eingerueckt{left:26px}
+  .bk{display:inline-flex;flex-direction:column;align-items:center;gap:2px}
+  .bk b{display:inline-block;background:var(--rot);color:#fff;border-radius:6px;width:30px;line-height:30px;font-size:1.05rem}
+  .bk small{font-weight:500;color:var(--grau);font-size:.68rem;line-height:1.15;max-width:72px}
+  .el small{display:block;font-weight:500;color:var(--grau);font-size:.7rem}
+  .zelle{width:58px;height:44px;font-size:1.25rem;font-weight:800;position:relative}
+  .zelle sup{font-size:.62rem;font-weight:700;color:var(--grau);position:absolute;top:4px;right:5px}
+  .j{color:var(--gruen)} .b{color:var(--gruen);font-weight:600} .x{color:var(--rot)}
+  .leer{color:#c4c8ce;font-weight:400}
+  .na{color:#c4c8ce;font-size:.8rem;font-weight:400}
+  .ohne-el .el-spalte{display:none}
+
+  /* Abfrage */
+  .quiz .zelle.frage{cursor:pointer;background:#fafbfc}
+  .quiz .zelle.frage:hover{background:#f1f5f9}
+  .zelle .tipp{color:var(--grau);font-weight:600}
+  .quiz .zelle.richtig{background:var(--gruen-hell)}
+  .quiz .zelle.falsch{background:var(--rot-hell)}
+  .zelle .loesung{display:block;font-size:.7rem;font-weight:700;line-height:1;color:var(--text)}
+
+  .btns{display:flex;gap:10px;justify-content:center;margin-top:16px;flex-wrap:wrap}
+  .btn{border:none;padding:12px 20px;border-radius:12px;font-size:1rem;font-weight:700;cursor:pointer}
+  .btn-rot{background:var(--rot);color:#fff}
+  .btn-grau{background:#e5e7eb;color:#111}
+  .ergebnis{text-align:center;font-weight:700;margin-top:12px;min-height:1.5em}
+
+  .legende{display:flex;gap:6px 18px;flex-wrap:wrap;justify-content:center;font-size:.85rem;margin:14px 0 4px}
+  .legende span b{font-size:1.05rem;margin-right:4px}
+  .fussnoten{font-size:.8rem;color:var(--grau);margin-top:10px}
+  .fussnoten p{margin-top:3px}
+
+  .info{background:var(--karte);border:1px solid var(--rand);border-left:4px solid var(--rot);
+        border-radius:12px;padding:14px 16px;margin-top:16px;font-size:.92rem}
+  .info h2{font-size:1.05rem;color:var(--rot-dunkel);margin-bottom:4px}
+  .info .de{margin-top:6px}
+
+  .lang{display:flex;gap:6px;justify-content:center;margin-top:12px}
+  .lang button{border:1px solid var(--rand);background:var(--karte);color:var(--text);padding:5px 12px;
+               border-radius:999px;font-size:.85rem;cursor:pointer}
+  .lang button.active{background:var(--rot-dunkel);color:#fff;border-color:var(--rot-dunkel)}
+  .de{display:block;color:var(--grau);font-size:.78rem;font-style:italic;font-weight:400}
+  .quelle{font-size:.75rem;color:var(--grau);margin-top:18px;text-align:center}
+  .quelle a{color:inherit}
+  footer{text-align:center;color:var(--grau);font-size:.78rem;margin:20px 0 8px}
+  footer a{color:inherit}
+</style>
+</head>
+<body>
+<header>
+  <h1 data-i18n="titel"></h1>
+  <p data-i18n="untertitel"></p>
+  <div class="lang">
+    <button data-lang="de">Deutsch</button>
+    <button data-lang="uk">Українська</button>
+  </div>
+</header>
+
+<div class="tabs">
+  <button class="tab active" data-modus="uebersicht" data-i18n="tabUebersicht"></button>
+  <button class="tab" data-modus="quiz" data-i18n="tabQuiz"></button>
+</div>
+<div class="optionen">
+  <label><input type="checkbox" id="mit-el" checked> <span data-i18n="mitEl"></span></label>
+</div>
+<p class="hinweis" id="hinweis"></p>
+
+<div class="tabelle-box"><table class="matrix" id="matrix"></table></div>
+
+<div id="quiz-btns" class="btns" style="display:none">
+  <button class="btn btn-rot" id="pruefen" data-i18n="pruefen"></button>
+  <button class="btn btn-grau" id="aufdecken" data-i18n="aufdecken"></button>
+  <button class="btn btn-grau" id="neu" data-i18n="neu"></button>
+</div>
+<div class="ergebnis" id="ergebnis"></div>
+
+<div class="legende" id="legende"></div>
+<div class="fussnoten" id="fussnoten"></div>
+
+<div class="info" id="info"></div>
+
+<p class="quelle" data-i18n="quelle"></p>
+<footer><a href="./" data-i18n="zurueck"></a></footer>
+
+<script>
+// Werte nach Merkblatt 5.002 „Löschmittel – Löschverfahren“, Anlage 1 (SFS Würzburg).
+// j = geeignet, b = bedingt geeignet, x = gefährlich, '' = nicht zweckmäßig, null = keine Angabe
+const SPALTEN = [
+  {k:'A', de:'feste Stoffe', uk:'тверді речовини'},
+  {k:'B', de:'Flüssigkeiten', uk:'рідини'},
+  {k:'C', de:'Gase', uk:'гази'},
+  {k:'D', de:'Metalle', uk:'метали'},
+  {k:'F', de:'Speiseöle/-fette', uk:'харчові олії/жири'},
+  {el:true, de:'bis 1.000 V', uk:'до 1.000 В'},
+  {el:true, de:'über 1.000 V', uk:'понад 1.000 В'},
+];
+
+const GRUPPEN = {
+  wasser:{de:'Wasser / Netzmittel', uk:'Вода / змочувач'},
+  schaum:{de:'Schaum', uk:'Піна'},
+  pulver:{de:'Löschpulver', uk:'Порошок'},
+};
+
+const MITTEL = [
+  {g:'wasser', name:{de:'Vollstrahl', uk:'Компактний струмінь'},
+   w:['j','','','x','x','b','b'], fn:[0,0,0,0,0,1,1],
+   info:{de:'Wasser kühlt und ist das Löschmittel für Brandklasse A. Bei Metallbränden reagiert es heftig zu brennbarem Wasserstoff (Knallgasgefahr), bei Fettbränden kommt es zur Fettexplosion. Löschwasser ist durch gelöste Salze immer elektrisch leitfähig: in elektrischen Anlagen nur mit den Mindestabständen nach DIN VDE 0132, der Vollstrahl ist dort nur bedingt geeignet.',
+         uk:'Вода охолоджує і є засобом гасіння для класу A. З палаючими металами вода бурхливо реагує з утворенням горючого водню (небезпека гримучого газу), на жирах спричиняє вибух жиру. Вода для гасіння через розчинені солі завжди проводить струм: в електроустановках лише з мінімальними відстанями за DIN VDE 0132, компактний струмінь там лише умовно придатний.'}},
+  {g:'wasser', name:{de:'Sprühstrahl', uk:'Розпилений струмінь'},
+   w:['j','','','x','x','j','j'], fn:[0,0,0,0,0,1,1],
+   info:{de:'Der Sprühstrahl kühlt besser als der Vollstrahl, weil die Tropfen feiner sind. Gefahren bei D und F wie beim Vollstrahl. In elektrischen Anlagen geeignet, wenn die Mindestabstände nach DIN VDE 0132 eingehalten werden. Netzmittel (0,1–0,3 % Zusatz) senken die Oberflächenspannung, damit das Wasser besser in gepresstes oder schlecht benetzbares Brandgut eindringt.',
+         uk:'Розпилений струмінь охолоджує краще за компактний, бо краплі дрібніші. Небезпеки для D і F такі самі, як у компактного струменя. В електроустановках придатний за дотримання мінімальних відстаней за DIN VDE 0132. Змочувачі (Netzmittel, добавка 0,1–0,3 %) знижують поверхневий натяг, щоб вода краще проникала в спресовані або погано змочувані матеріали.'}},
+  {g:'schaum', name:{de:'CAFS (Druckluftschaum)', uk:'CAFS (піна зі стисненим повітрям)'},
+   w:['j','j','','','j','x','x'], fn:[0,0,0,0,0,2,0],
+   info:{de:'Druckluftschaum wird vorwiegend mit Class-A-Schaummittel erzeugt, haftet gut an senkrechten Flächen, kühlt und benetzt. Er ist für Brandklasse A gedacht und generell auch für B geeignet. Schaum enthält Wasser und darf nur in spannungsfreien Anlagen eingesetzt werden.',
+         uk:'Піну зі стисненим повітрям створюють переважно піноутворювачем класу A; вона добре тримається на вертикальних поверхнях, охолоджує і змочує. Призначена для класу A, загалом придатна і для B. Піна містить воду, тому її можна застосовувати лише в знеструмлених установках.'}},
+  {g:'schaum', name:{de:'Schwerschaum', uk:'Піна низької кратності'},
+   w:['b','j','','x','j','x','x'], fn:[0,0,0,0,0,0,0],
+   info:{de:'Hauptlöschwirkung von Schaum ist das Ersticken durch Abdecken, daher ideal für Flüssigkeitsbrände (B). Schwerschaum hat einen hohen Wasseranteil und kühlt deshalb auch, was ihn bei glutbildenden Stoffen (A) bedingt einsetzbar macht. Nicht in elektrischen Anlagen unter Spannung.',
+         uk:'Головна дія піни – ізоляція (покриття), тому вона ідеальна для пожеж рідин (B). Піна низької кратності містить багато води й тому також охолоджує, через це вона умовно придатна для твердих речовин (A). Не застосовувати в електроустановках під напругою.'}},
+  {g:'schaum', name:{de:'Mittelschaum', uk:'Піна середньої кратності'},
+   w:['','j','','x','j','x','x'], fn:[0,0,0,0,0,0,0],
+   info:{de:'Mit steigender Verschäumungszahl sinken Wasseranteil und Kühlwirkung. Mittelschaum erstickt durch Abdecken (B), für Glutbrände (A) ist er nicht zweckmäßig. Nicht in elektrischen Anlagen unter Spannung.',
+         uk:'Зі зростанням кратності зменшуються частка води й охолоджувальна дія. Піна середньої кратності гасить покриттям (B), для твердих тліючих речовин (A) вона недоцільна. Не застосовувати в електроустановках під напругою.'}},
+  {g:null, name:{de:'Kohlendioxid (CO₂)', uk:'Вуглекислий газ (CO₂)'},
+   w:['','j','j','x','','j','j'], fn:[0,0,0,0,0,1,1],
+   info:{de:'CO₂ erstickt durch Verdrängen des Luftsauerstoffs: Brandklasse B (vorzugsweise als Schnee) und C (vorzugsweise als Gas). Bei Metallbränden reagiert es zu brennbarem und giftigem Kohlenstoffmonoxid. CO₂ leitet nicht, Mindestabstände 1 m bis 1.000 V und 5 m bis 380 kV. Tragbare CO₂-Löscher sind nur für Brandklasse B gekennzeichnet (Merkblatt 8.012). Achtung: CO₂ ist ein Atemgift.',
+         uk:'CO₂ гасить, витісняючи кисень повітря: клас B (переважно як сніг) і C (переважно як газ). На металах утворює горючий і отруйний чадний газ (CO). CO₂ не проводить струм, мінімальні відстані 1 м до 1.000 В і 5 м до 380 кВ. Переносні вуглекислотні вогнегасники позначені лише для класу B (Merkblatt 8.012). Увага: CO₂ – отрута для дихання (Atemgift).'}},
+  {g:'pulver', name:{de:'BC-Pulver', uk:'Порошок BC'},
+   w:['','j','j','','','j','j'], fn:[0,0,0,0,0,1,1],
+   info:{de:'Flammbrandpulver: wirkt antikatalytisch (Inhibition) bei Bränden mit Flamme, also B und C. Auf Glut (A) wirkt es nicht. Pulver und Pulverwolke sind elektrisch nicht leitfähig, Abstände nach DIN VDE 0132 beachten. Nach dem Löschen besteht bei B Rückzündungsgefahr durch heiße Oberflächen.',
+         uk:'Порошок для полум\'яного горіння (Flammbrandpulver): діє антикаталітично (інгібування) на полум\'я, тобто B і C. На тління (A) не діє. Порошок і порошкова хмара не проводять струм, відстані за DIN VDE 0132 дотримувати. Після гасіння класу B є небезпека повторного займання від гарячих поверхонь.'}},
+  {g:'pulver', name:{de:'ABC-Pulver', uk:'Порошок ABC'},
+   w:['j','j','j','x','','j','x'], fn:[0,0,0,0,0,1,0],
+   info:{de:'Glutbrandpulver: wirkt bei Flammen wie BC-Pulver und schmilzt zusätzlich auf Glut zu einer Glasur, die den Sauerstoff abhält (A). Das schmelzende Pulver bildet elektrisch leitfähige Beläge, deshalb über 1.000 V gefährlich. Nachteil: starke Verschmutzung der Brandstelle.',
+         uk:'Порошок для тліючого горіння (Glutbrandpulver): на полум\'я діє як BC, а на жарі ще й плавиться у глазур, що не пропускає кисень (A). Розплавлений порошок утворює струмопровідні нальоти, тому понад 1.000 В небезпечний. Недолік: сильне забруднення місця пожежі.'}},
+  {g:'pulver', name:{de:'D-Pulver (Metallbrandpulver)', uk:'Порошок D (для металів)'},
+   w:['','','','j','','j','x'], fn:[0,0,0,0,0,1,0],
+   info:{de:'Meist Natrium- oder Kaliumchlorid. Schmilzt auf dem brennenden Metall zu einer dichten Kruste, Hauptlöschwirkung Ersticken. Wird über eine Pulverbrause fast drucklos aufgebracht, man muss also nah an den Brandherd heran.',
+         uk:'Переважно хлорид натрію або калію. Плавиться на палаючому металі в щільну кірку, головна дія – ізоляція. Подається через порошкову лійку майже без тиску, тож до осередку треба підходити близько.'}},
+  {g:null, name:{de:'Behelfslöschmittel (Sand, Zement, Kochsalz)', uk:'Підручні засоби (пісок, цемент, кухонна сіль)'},
+   w:['','b','','j','','','x'], fn:[0,0,0,0,0,0,0],
+   info:{de:'Größere Metallbrände werden mit Metallbrandpulver oder Behelfslöschmitteln gelöscht, möglichst mit trockenem Sand. Für Flüssigkeitsbrände nur bedingt geeignet.',
+         uk:'Великі пожежі металів гасять порошком для металів або підручними засобами, найкраще сухим піском. Для пожеж рідин лише умовно придатні.'}},
+  {g:null, name:{de:'Fettbrandlöscher', uk:'Вогнегасник для жирів'},
+   w:['','','','','j',null,null], fn:[0,0,0,0,0,0,0], quelle8012:true,
+   info:{de:'Nicht in Anlage 1 enthalten, sondern nach Merkblatt 8.012 („Tragbare Feuerlöscher“): Fettbrandlöscher sind nur für Brandklasse F geeignet. Das Löschmittel verseift das heiße Fett und bildet eine Sperrschicht. Bei Fettbränden nie Wasser: Fettexplosion! Zu elektrischen Anlagen enthält die Tabelle keine Angabe.',
+         uk:'Не входить до Anlage 1, а наведено за Merkblatt 8.012 («Переносні вогнегасники»): вогнегасники для жирів придатні лише для класу F. Засіб омилює гарячий жир і утворює ізоляційний шар. Жир ніколи не гасити водою: вибух жиру! Щодо електроустановок таблиця даних не містить.'}},
+];
+
+const SYMBOL = {j:'✓', b:'(✓)', x:'✗', '':'–'};
+const KLASSE = {j:'j', b:'b', x:'x', '':'leer'};
+const REIHE = ['', 'j', 'b', 'x', '–'];   // Klickreihenfolge in der Abfrage ('' = noch offen, '–' = nicht zweckmäßig)
+
+const TEXTE = {
+  de:{
+    seitentitel:'Löschmittel und Brandklassen',
+    titel:'🧯 Löschmittel und Brandklassen',
+    untertitel:'Welches Löschmittel passt zu welcher Brandklasse?',
+    tabUebersicht:'📋 Übersicht', tabQuiz:'🎯 Abfrage',
+    mitEl:'Elektrische Anlagen anzeigen',
+    hinweisUebersicht:'Tippe auf ein Löschmittel für die Begründung.',
+    hinweisQuiz:'Tippe auf die Felder: ✓ → (✓) → ✗ → – → leer. Dann „Prüfen“.',
+    pruefen:'Prüfen ✅', aufdecken:'Auflösen 👀', neu:'Neu starten ↺',
+    ergebnis:(r,n,o)=>`${r} von ${n} richtig`+(o?` · ${o} noch offen`:''),
+    loeschmittel:'Löschmittel', brandklassen:'Brandklassen', elektrisch:'Elektrische Anlagen',
+    legende:{j:'geeignet', b:'bedingt geeignet', x:'gefährlich', '':'nicht zweckmäßig'},
+    keineAngabe:'k. A.',
+    fn1:'¹ Sicherheitsabstände nach DIN VDE 0132 beachten!',
+    fn2:'² Schaum nur in spannungsfreien Anlagen (ggf. auch benachbarte Anlagen spannungsfrei machen). Ausgenommen sind typgeprüfte Löschgeräte.',
+    infoStart:'<h2>Begründung</h2>Wähle links ein Löschmittel aus.',
+    quelle:'Quelle: Merkblatt für die Feuerwehren Bayerns <a href="https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf">5.002 „Löschmittel – Löschverfahren“</a>, Anlage 1 „Anwendungsbereiche von Löschmitteln“; Fettbrandlöscher und CO₂-Löscher nach Merkblatt <a href="https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf">8.012 „Tragbare Feuerlöscher“</a> (beide SFS Würzburg).',
+    zurueck:'← Zurück zu „Brennen &amp; Löschen“',
+    zurueckLink:'theorie/brennen-loeschen/',
+  },
+  uk:{
+    seitentitel:'Засоби гасіння та класи пожеж',
+    titel:'🧯 Засоби гасіння та класи пожеж',
+    untertitel:'Який засіб гасіння підходить до якого класу пожежі?',
+    tabUebersicht:'📋 Огляд', tabQuiz:'🎯 Перевірка',
+    mitEl:'Показати електроустановки',
+    hinweisUebersicht:'Натисни на засіб гасіння, щоб побачити пояснення.',
+    hinweisQuiz:'Натискай на клітинки: ✓ → (✓) → ✗ → – → порожньо. Потім «Перевірити».',
+    pruefen:'Перевірити ✅', aufdecken:'Показати відповіді 👀', neu:'Почати знову ↺',
+    ergebnis:(r,n,o)=>`${r} з ${n} правильно`+(o?` · ${o} ще не заповнено`:''),
+    loeschmittel:'Засіб гасіння<span class="de">Löschmittel</span>', brandklassen:'Класи пожеж<span class="de">Brandklassen</span>', elektrisch:'Електроустановки<span class="de">Elektrische Anlagen</span>',
+    legende:{j:'придатний (geeignet)', b:'умовно придатний (bedingt geeignet)', x:'небезпечно (gefährlich)', '':'недоцільно (nicht zweckmäßig)'},
+    keineAngabe:'н/д',
+    fn1:'¹ Дотримувати безпечних відстаней за DIN VDE 0132!',
+    fn2:'² Піну – лише в знеструмлених установках (за потреби знеструмити й сусідні). Виняток – вогнегасники, що пройшли типові випробування.',
+    infoStart:'<h2>Пояснення</h2>Обери ліворуч засіб гасіння.',
+    quelle:'Джерело: Merkblatt für die Feuerwehren Bayerns <a href="https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf">5.002 „Löschmittel – Löschverfahren“</a>, Anlage 1; вогнегасники для жирів і вуглекислотні – за Merkblatt <a href="https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf">8.012 „Tragbare Feuerlöscher“</a> (обидва SFS Würzburg). Переклад неофіційний.',
+    zurueck:'← Назад до «Горіння та гасіння»',
+    zurueckLink:'uk/theorie/brennen-loeschen/',
+  },
+};
+
+const LANG_KEY = 'quizLang';
+function startSprache(){
+  const param = new URLSearchParams(location.search).get('lang');
+  if(param==='de'||param==='uk') return param;
+  try{ const s = localStorage.getItem(LANG_KEY); if(s==='de'||s==='uk') return s; }catch(e){}
+  return /\/uk\//.test(document.referrer) ? 'uk' : 'de';
+}
+let lang = startSprache();
+let modus = 'uebersicht';
+let aktiv = null;           // ausgewähltes Löschmittel (Index)
+let antworten = {};         // Abfrage: "zeile-spalte" -> Wert aus REIHE
+let geprueft = false, aufgedeckt = false;
+
+const txt = v => typeof v==='string' ? v : v[lang];
+const mitDe = v => lang==='de' ? v.de : `${v.uk}<span class="de">${v.de}</span>`;
+
+function zelleHtml(m, i, s){
+  const w = m.w[s];
+  const sup = m.fn[s] ? `<sup>${m.fn[s]}</sup>` : '';
+  if(w===null) return `<td class="zelle na${SPALTEN[s].el?' el-spalte':''}">${TEXTE[lang].keineAngabe}</td>`;
+  const el = SPALTEN[s].el ? ' el-spalte' : '';
+  if(modus==='uebersicht' || aufgedeckt){
+    return `<td class="zelle ${KLASSE[w]}${el}">${SYMBOL[w]}${sup}</td>`;
+  }
+  const key = `${i}-${s}`, a = antworten[key] || '';
+  let cls = 'frage', inhalt = a ? `<span class="tipp ${a==='–'?'leer':KLASSE[a]}">${a==='–'?'–':SYMBOL[a]}</span>` : '<span class="leer">?</span>';
+  if(geprueft && a){
+    const ok = (a==='–' ? '' : a) === w;
+    cls += ok ? ' richtig' : ' falsch';
+    if(!ok) inhalt += `<span class="loesung ${KLASSE[w]}">${SYMBOL[w]}</span>`;
+  }
+  return `<td class="zelle ${cls}${el}" data-key="${key}">${inhalt}${sup}</td>`;
+}
+
+function render(){
+  const T = TEXTE[lang];
+  const kopf1 = `<tr><th colspan="2" rowspan="2">${T.loeschmittel}</th><th colspan="5">${T.brandklassen}</th><th colspan="2" class="el-spalte">${T.elektrisch}</th></tr>`;
+  const kopf2 = '<tr>' + SPALTEN.map(s => s.el
+      ? `<th class="el el-spalte">${lang==='de'?s.de:`${s.uk}<small>${s.de}</small>`}</th>`
+      : `<th><span class="bk"><b>${s.k}</b><small>${txt(s)}</small></span></th>`).join('') + '</tr>';
+  let rumpf = '', letzteGruppe;
+  MITTEL.forEach((m, i) => {
+    let gruppe = '';
+    if(m.g && m.g!==letzteGruppe){
+      const n = MITTEL.filter(x=>x.g===m.g).length;
+      gruppe = `<th class="gruppe" rowspan="${n}">${txt(GRUPPEN[m.g])}</th>`;
+    }
+    letzteGruppe = m.g;
+    const name = `<td class="mittel${m.g?' eingerueckt':''}"${m.g?'':' colspan="2"'} data-i="${i}">${mitDe(m.name)}</td>`;
+    rumpf += `<tr class="${aktiv===i?'aktiv':''}">${gruppe}${name}${m.w.map((_,s)=>zelleHtml(m,i,s)).join('')}</tr>`;
+  });
+  const tab = document.getElementById('matrix');
+  tab.innerHTML = `<thead>${kopf1}${kopf2}</thead><tbody>${rumpf}</tbody>`;
+  tab.classList.toggle('quiz', modus==='quiz');
+  tab.classList.toggle('ohne-el', !document.getElementById('mit-el').checked);
+
+  document.getElementById('legende').innerHTML = ['j','b','x',''].map(w =>
+    `<span><b class="${KLASSE[w]}">${SYMBOL[w]}</b>${T.legende[w]}</span>`).join('');
+  document.getElementById('fussnoten').innerHTML = `<p>${T.fn1}</p><p>${T.fn2}</p>`;
+  document.getElementById('hinweis').textContent = modus==='quiz' ? T.hinweisQuiz : T.hinweisUebersicht;
+  document.getElementById('quiz-btns').style.display = modus==='quiz' ? 'flex' : 'none';
+  renderInfo();
+  if(geprueft) zeigeErgebnis();
+}
+
+function renderInfo(){
+  const box = document.getElementById('info');
+  if(aktiv===null){ box.innerHTML = TEXTE[lang].infoStart; return; }
+  const m = MITTEL[aktiv];
+  box.innerHTML = `<h2>${txt(m.name)}</h2>${m.info[lang]}` + (lang==='uk' ? `<span class="de">${m.info.de}</span>` : '');
+}
+
+// Zu prüfende Felder: alle mit Angabe, elektrische Spalten nur wenn eingeblendet
+function quizFelder(){
+  const mitEl = document.getElementById('mit-el').checked;
+  const felder = [];
+  MITTEL.forEach((m,i)=>m.w.forEach((w,s)=>{
+    if(w!==null && (mitEl || !SPALTEN[s].el)) felder.push({key:`${i}-${s}`, w});
+  }));
+  return felder;
+}
+function zeigeErgebnis(){
+  const felder = quizFelder();
+  let richtig = 0, offen = 0;
+  felder.forEach(f=>{
+    const a = antworten[f.key];
+    if(!a) offen++;
+    else if((a==='–' ? '' : a) === f.w) richtig++;
+  });
+  document.getElementById('ergebnis').textContent = TEXTE[lang].ergebnis(richtig, felder.length, offen);
+}
+
+document.getElementById('matrix').addEventListener('click', e => {
+  const name = e.target.closest('.mittel');
+  if(name){ aktiv = +name.dataset.i; render(); return; }
+  const zelle = e.target.closest('.zelle.frage');
+  if(zelle && !aufgedeckt){
+    const key = zelle.dataset.key;
+    const pos = REIHE.indexOf(antworten[key] || '');
+    antworten[key] = REIHE[(pos+1) % REIHE.length];
+    if(!antworten[key]) delete antworten[key];
+    render();
+  }
+});
+
+document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+  document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active', x===t));
+  modus = t.dataset.modus;
+  document.getElementById('ergebnis').textContent = '';
+  geprueft = false; aufgedeckt = false;
+  render();
+}));
+document.getElementById('mit-el').addEventListener('change', render);
+document.getElementById('pruefen').addEventListener('click', () => { geprueft = true; render(); });
+document.getElementById('aufdecken').addEventListener('click', () => { aufgedeckt = true; geprueft = false; document.getElementById('ergebnis').textContent=''; render(); });
+document.getElementById('neu').addEventListener('click', () => {
+  antworten = {}; geprueft = false; aufgedeckt = false;
+  document.getElementById('ergebnis').textContent = '';
+  render();
+});
+
+function setzeSprache(neu){
+  lang = neu;
+  try{ localStorage.setItem(LANG_KEY, lang); }catch(e){}
+  const T = TEXTE[lang];
+  document.documentElement.lang = lang;
+  document.title = T.seitentitel;
+  document.querySelectorAll('[data-i18n]').forEach(el=>{ el.innerHTML = T[el.dataset.i18n]; });
+  document.querySelector('footer a').setAttribute('href', T.zurueckLink);
+  document.querySelectorAll('.lang button').forEach(b=>b.classList.toggle('active', b.dataset.lang===lang));
+  render();
+}
+document.querySelectorAll('.lang button').forEach(b=>b.addEventListener('click',()=>setzeSprache(b.dataset.lang)));
+
+setzeSprache(lang);
+</script>
+</body>
+</html>

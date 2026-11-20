@@ -204,6 +204,8 @@ Eine Verbrennung endet von selbst, wenn die Verbrennungswärme nicht mehr ausrei
 
 Löschmittel sind Stoffe, die bei fachgerechter Anwendung den Verbrennungsvorgang unterbrechen. Die am meisten verwendeten sind **Wasser, Wasser mit Zusätzen, Schaum, Löschpulver und Kohlendioxid (CO₂)**, daneben sonstige Löschmittel wie Sand.
 
+👉 **[Löschmittel und Brandklassen als Tabelle üben](../loeschmittel-matrix.html)** (Übersicht nach Merkblatt 5.002 mit Begründungen und Abfrage)
+
 !!! info "Wer ist wofür verantwortlich?"
     - Der **Gruppenführer bzw. Einheitsführer** befiehlt die Art des Löschmittels und ist für die richtige **Auswahl** verantwortlich.
     - Der **Truppführer** ist für den feuerwehrtechnisch richtigen **Einsatz** des befohlenen Löschmittels verantwortlich. Er bestimmt z. B., ob mit Vollstrahl oder Sprühstrahl gelöscht wird.
