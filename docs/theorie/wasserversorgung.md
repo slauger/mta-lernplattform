@@ -3,7 +3,7 @@
 **MTA-Module:** 5.5, 9.1, 9.2, 9.4 · **Grundlage:** FwDV 1 „Grundtätigkeiten“, FwDV 3
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz, Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“, Teilnehmer- und Ausbilderunterlage MTA 4.1 „Fahrzeugkunde – Theorie“ sowie die Fachinformation „Feuerwehrfahrzeuge“ (alle SFS Würzburg bzw. Feuerwehr-Lernbar), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen – Theorie, Ausbilderunterlage MTA 5.6 Schläuche und Armaturen – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.1 Löschwasserversorgung – Theorie, Ausbilderunterlage MTA 9.2 Löschwasserentnahme – Praxis, Ausbilderunterlage MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, Teilnehmer- und Ausbilderunterlage MTA 9.3 Anwendung im Brandeinsatz, Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“, Teilnehmer- und Ausbilderunterlage MTA 4.1 „Fahrzeugkunde – Theorie“ sowie die Fachinformation „Feuerwehrfahrzeuge“ (alle SFS Würzburg bzw. Feuerwehr-Lernbar), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Ergänzend: [HLFS Hessen – Lernunterlage Löschgeräte, Schläuche, Armaturen (06/2020)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2023-01/%284%29%20FB-Ausbilder_LernU_L%C3%B6schger%C3%A4te-Lernunterlage_Vers002.doc.pdf) (Hinweisschild, Verteiler, Sammelstück) · [NLBK Niedersachsen – Lehrunterlage Maschinisten](https://www.nlbk.niedersachsen.de/download/48297) (Saughöhe) · [UK RLP – Handlungshilfe Sichere und saubere Entnahme von Löschwasser](https://feuerwehr.ukrlp.de/fileadmin/ukrlp/daten/pdf/feuerwehr_portal/sicherheit_gesundheitsschutz/so_machts_die_feuerwehr/Handlungshilfe_Sichere_und_saubere_Entnahme_von_Loeschwasser.pdf) · [Gemeinde Brunnthal – Merkblatt Bedienung Unterflurhydrant](https://brunnthal.de/media/1707/merkblatt-bedienung-unterflurhydrant.pdf) · [Berliner Wasserbetriebe – WN 314 Hinweisschilder (in Anlehnung an DIN 4066)](https://www.bwb.de/werknormen/wn314_03-2018.pdf)
     Alle Unterlagen: [Feuerwehr-Lernbar – MTA Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) und [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
@@ -134,7 +134,7 @@ Den Überflurhydranten erkennst du an seinem **äußeren Aussehen**. Es gibt ihn
 **Außerbetriebnahme:** Hydrant schließen · Druckschlauch abkuppeln · Kontrolle der Entwässerung
 
 !!! info "Verhältnismäßigkeit"
-    Du sollst einen Unterflurhydranten nutzen, auf dem ein Auto parkt? Der Überflurhydrant 100 m weiter ist dann die bessere Wahl, auch wenn es etwas länger dauert: **Verhältnismäßigkeit** gilt bei allen Einsatzmaßnahmen. Wenn du einen anderen Hydranten nimmst als befohlen, informierst du **umgehend den Gruppenführer** über die geänderte Lage.
+    Du sollst einen Unterflurhydranten nutzen, auf dem ein Auto parkt? Der Überflurhydrant 100 m weiter ist dann die bessere Wahl, auch wenn es etwas länger dauert: **Verhältnismäßigkeit** gilt bei allen Einsatzmaßnahmen. Wenn du einen anderen Hydranten nimmst als befohlen, informierst du **umgehend den Einheitsführer** über die geänderte Lage.
 
 ---
 
@@ -227,6 +227,7 @@ Falt- und rollbare Schläuche zur Förderung von Löschmitteln.
 
 - Schläuche **nach jedem Gebrauch reinigen und trocknen**.
 - **Nasse** (gebrauchte) Schläuche **einfach rollen**, **trockene** (saubere) Schläuche **doppelt rollen**.
+- Im Fragenkatalog heißt es: Druckschläuche nach dem Gebrauch **entwässern und einfach rollen** (nicht doppelt rollen, nicht zum Trocknen in die Sonne legen).
 - Möglichst nicht über den Boden und scharfe Ecken ziehen, **ohne Knick und Drall** verlegen.
 - Herabhängende Schlauchleitungen mit dem **Schlauchhalter** sichern. Schlauchleitungen dürfen **nicht auf tragbaren Leitern verlegt oder an ihnen befestigt** werden.
 - Zum Überfahren **Schlauchbrücken** verwenden: mindestens **3 pro Fahrbahnseite** im Abstand von **etwa 1 m**. Dann können Pkw und Lkw mit unterschiedlicher Spurbreite darüberfahren.
@@ -354,6 +355,8 @@ Bei **mehr als 5 bar** am Strahlrohr erhöhen sich die Abstände um **2 m**. Bei
 | Wer bestimmt die Anzahl der Saugschläuche? | **Wassertruppführer** |
 | Längen der B-Schläuche? | **5, 20, 35 m** |
 | Wozu Stützkrümmer? | **Trupp entlasten, Rückstoßkräfte am B-Rohr verringern** |
+| Druckschläuche nach dem Gebrauch? | **entwässern und einfach rollen** |
+| Einstellmöglichkeiten am Hohlstrahlrohr? | **Durchflussmenge und Sprühwinkel** |
 
 ---
 

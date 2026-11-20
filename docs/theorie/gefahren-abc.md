@@ -3,7 +3,7 @@
 **MTA-Module:** 8, 12.1, 12.2 · **Grundlage:** FwDV 500 „Einheiten im ABC-Einsatz“, ADR (Gefahrgutkennzeichnung)
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlagen und Präsentationen MTA 12.1 „Gefahren und Kennzeichnungen“ und 12.2 „Verhalten im ABC-Einsatz“, Fachinformation und Taschenkarte „Kennzeichnung im ABC-Einsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 8 „Verhalten bei Gefahr“, Ausbilderunterlagen und Präsentationen MTA 12.1 „Gefahren und Kennzeichnungen“ und 12.2 „Verhalten im ABC-Einsatz“, Fachinformation und Taschenkarte „Kennzeichnung im ABC-Einsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr) und [Feuerwehr-Lernbar – ABC-Gefahrenstoffe](https://www.feuerwehr-lernbar.bayern/post/mta-abc-gefahrenstoffe)
     Ergänzend: Abstände nach DIN VDE 0132 ([Forum Verlag](https://forum-verlag.com/fachwissen/elektrosicherheit-und-elektrotechnik/din-vde-0132-abstaende-brandbekaempfung/)), ADR-Gefahrgutliste für UN 1202/1203 ([umwelt-online](https://umwelt-online.de/recht/gefahr.gut/adr/adr_rid23/32ta1200.htm)), Abstandsgesetz bei Strahlung ([brandwacht 3/2018, SFS Regensburg](https://brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_3_2018_s97_und_115_aus_den_feuerwehrschulen_strahlen.pdf)), Stromunfall ([DGUV Information 204-007](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/4.htm)), Wirkung von CO₂ (Merkblatt [5.002 „Löschmittel – Löschverfahren“](https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf), SFS Würzburg).
 
@@ -52,13 +52,15 @@ Unter **C** fallen chemische und biologische Gefahren durch gefährliche Stoffe 
 
 Der Truppführer ist für die Sicherheit seines Trupps verantwortlich. Beim Vorgehen achtet er **ständig auf mögliche Gefahrensituationen**. Erkennt er eine Gefahr, bleibt er mit seinem Truppmann außerhalb des Gefahrenbereichs.
 
-1. **Sofort Meldung** an den Einheitsführer
-2. Wenn nötig: **Rückweg antreten, und zwar geschlossen als Trupp**. Keiner geht für sich allein!
+1. **Sofortiger Rückzug**, und zwar **geschlossen als Trupp**. Keiner geht für sich allein!
+2. **Meldung an den Einheitsführer**
 3. Wenn nötig: **Notfallmeldung** mit dem Kennwort **„Mayday“**
+
+Im Fragenkatalog ist „Wahrnehmung an den Einheitsführer melden und auf dessen Befehl abwarten“ eine **Falschantwort**: Bei erkannter Eigengefährdung tritt der Trupp sofort den Rückzug an und meldet.
 
 ### Signal „Gefahr – Alle sofort zurück!“
 
-Bemerkt eine Einsatzkraft eine **besondere Gefahr** (z. B. Einsturz- oder Explosionsgefahr) und müssen sich alle unverzüglich in Sicherheit bringen, gibt sie das Kommando **„Gefahr – Alle sofort zurück!“**. Im Fragenkatalog kommt das Signal auch als „Gefahr – Alles zurück!“ vor – gemeint ist dasselbe.
+Bemerkt eine Einsatzkraft eine **besondere Gefahr** (z. B. Einsturz- oder Explosionsgefahr) und müssen sich alle unverzüglich in Sicherheit bringen, gibt sie das Kommando **„Gefahr – Alle sofort zurück!“**.
 
 1. **Signal wiederholen**, also das Kommando weitergeben
 2. **Zurückgehen** und den **Sammelplatz am Fahrzeug** aufsuchen
@@ -87,13 +89,13 @@ Mögliche Anzeichen sind z. B. Kopfschmerzen, Unruhe, Sehstörungen, Übelkeit, 
 |---|---|---|
 | Entstehung | bei **unvollkommener** Verbrennung | bei **vollkommener** Verbrennung |
 | Eigenschaften | **farb-, geruch- und geschmacklos**, **brennbar** (explosionsfähig), etwas **leichter als Luft** | **farb-, geruch- und geschmacklos**, nicht brennbar, etwa 1,5-mal **schwerer als Luft** |
-| Wirkung | **giftig**: Blut- und Nervengift | **ungiftig** (so die Antwort im Truppführer-Fragenkatalog), steuert die Atmung, **erstickend** bei zu hoher Konzentration |
+| Wirkung | **giftig**: Blut- und Nervengift | kein Blutgift, aber **Atemgift**: steuert die Atmung, **bei zu hoher Konzentration giftig** (erstickend) |
 
 !!! tip "Eselsbrücke"
-    **CO = „C-Ohne genug Sauerstoff“**, entsteht also bei unvollkommener Verbrennung und ist giftig.
-    **CO₂** ist ungiftig, wirkt aber bei zu hoher Konzentration erstickend.
+    **CO = „C-Ohne genug Sauerstoff“**, entsteht also bei unvollkommener Verbrennung und ist giftig (Blut- und Nervengift).
+    **CO₂** entsteht bei jeder Verbrennung, ist kein Blutgift wie CO, aber bei zu hoher Konzentration **giftig**: Es verdrängt den Sauerstoff und wirkt über die Steuerung der Atmung – bis zum **Atemstillstand**.
 
-    Achtung: „Ungiftig“ ist die Antwort im Truppführer-Fragenkatalog (im Gegensatz zum Blut- und Nervengift CO). Das Merkblatt 5.002 der SFS Würzburg stuft CO₂ trotzdem als **Atemgift** ein: Es verdrängt den Sauerstoff und wirkt über die Steuerung der Atmung – bei hoher Konzentration bis zum **Atemstillstand** (siehe [Brennen & Löschen](brennen-loeschen.md)).
+    Achtung Prüfungsfalle: „CO₂ ist ungiftig“ ist im Fragenkatalog eine **Falschantwort**. Fragenkatalog und Merkblatt 5.002 der SFS Würzburg stimmen hier überein: CO₂ ist ein **Atemgift** (siehe [Brennen & Löschen](brennen-loeschen.md)).
 
 ---
 
@@ -144,7 +146,7 @@ Die Mindestabstände gelten **auch für Gegenstände**, also auch beim **Aufstel
 ### Stromunfall im Niederspannungsbereich (230/400 V): Reihenfolge
 
 1. **Stromleitung spannungsfrei schalten** (lassen), z. B. Stecker ziehen, Gerät ausschalten, notfalls Sicherung
-2. Den Verunfallten **von einem gut isolierten Standort aus wegziehen**, z. B. von einer trockenen Holzbohle. Nicht mit bloßen Händen berühren.
+2. Den Verunfallten **nur mit isolierendem Material** (isolierende Gegenstände) und **von einem gut isolierten Standort aus wegziehen**, z. B. von einer trockenen Holzbohle. Nicht mit bloßen Händen berühren.
 3. **Rettungsdienst** über den Einheitsführer **alarmieren**
 4. **Erste Hilfe** leisten
 
@@ -161,7 +163,7 @@ Mit der Menschenrettung darf erst begonnen werden **nach Abschaltung und Freigab
 - Mindestens **1 m Abstand** zu möglicherweise spannungsführenden Teilen, Strahlrohrabstände beachten (CM-Rohr: 1 m Sprühstrahl, 5 m Vollstrahl).
 
 !!! tip "Prüfungsantwort (Truppführer): PV-Anlage auf dem Dach entdeckt"
-    **Meldung an den Einheitsführer: „Photovoltaikanlage vorhanden!“**, **Strahlrohrabstand den Gefahren anpassen** und den **Trupp vor herabstürzenden Teilen schützen**. „Keine besondere Reaktion“ ist falsch.
+    **Meldung an den Einheitsführer: „Photovoltaikanlage vorhanden!“**, **Strahlrohrabstand den Gefahren anpassen** und den **Trupp vor herabstürzenden Teilen schützen**. „Brandbekämpfung abbrechen“ ist falsch.
 
 ---
 
@@ -219,7 +221,7 @@ Orangefarbene Warntafeln kennzeichnen **Straßen- und Schienenfahrzeuge, die gef
 Eine **verdoppelte Ziffer** bedeutet eine **Zunahme der Gefahr**. Reicht eine Ziffer aus, wird eine **0** angehängt.
 
 !!! tip "Prüfungsantwort"
-    Auf der Warntafel stehen **Stoffnummer und Nummer zur Kennzeichnung der Gefahr**.
+    Auf der Warntafel stehen **oben die Nummer zur Kennzeichnung der Gefahr** und **unten die Stoffnummer (UN-Nummer)**.
 
 ### Gefahrzettel und Warnzeichen (Auswahl)
 
@@ -260,7 +262,7 @@ Ergänzende Maßnahmen führen Feuerwehren mit umfassender ABC-Ausbildung und -A
 | **Gefahrenbereich** | kürzester Abstand ca. **50 m** | nur auf Befehl des Staffel-/Gruppenführers und mit angeordneter Schutzausrüstung |
 | **Absperrbereich** | kürzester Abstand ca. **100 m** | nur Einsatz- und Unterstützungskräfte, Aufstell-, Bewegungs- und Bereitstellungsfläche |
 
-Die **erste Absperrgrenze** (Gefahrenbereich) bei unbekannten ABC-Gefahrstoffen liegt bei **mindestens 50 m**.
+Die **erste Absperrgrenze** (Gefahrenbereich) bei unbekannten ABC-Gefahrstoffen liegt im Außenbereich bei **mindestens 50 m**.
 
 ### Verhalten an der Einsatzstelle
 
@@ -293,11 +295,13 @@ Das Merkschema erfasst nicht alle Gefahren. Weitere entstehen z. B. bei der Fahr
 | Was ist der Trümmerschatten? | **durch Einsturz bedrohter Bereich** |
 | Sicherheitsabstand 380 kV? | **5 m** |
 | Hochspannungsunfall: wann retten? | **nach Abschaltung und Freigabe durch Fachpersonal** |
-| Stromunfall 230/400 V: zuerst? | **spannungsfrei schalten (lassen)** |
+| Stromunfall 230/400 V: zuerst? | **spannungsfrei schalten (lassen)** und den Verunfallten **nur mit isolierendem Material wegziehen**; Rettungsdienst und Erste Hilfe folgen danach |
 | Erste Absperrgrenze ABC? | **mindestens 50 m** |
 | Verletzter im Gefahrguteinsatz? | **Melden** an den Einheitsführer |
 | Schutz vor Brandausbreitung? | **nur mit Wasser am Rohr vorgehen** |
-| Strahlenbelastung verringern? | **Abstand, Einsatzzeit begrenzen, Abschirmung** |
+| Strahlenbelastung verringern? | **Abstand halten, Aufenthaltsdauer begrenzen, Abschirmung nutzen** |
+| Eigengefährdung erkannt? | **sofortiger Rückzug** geschlossen als Trupp und **Meldung** an den Einheitsführer |
+| Warum möglichst wenige Einsatzkräfte im Gefahrenbereich? | um die **Eigengefährdung** der Einsatzkräfte zu verringern |
 
 ---
 

@@ -1,9 +1,9 @@
 # Erste Hilfe, Rettung & Belastung
 
-**MTA-Module:** 6.1, 5.12, 6.2 · **Grundlage:** MTA-Unterlagen der Staatlichen Feuerwehrschulen Bayerns, offizieller Fragenkatalog
+**MTA-Module:** 6.1, 5.12, 6.2 · **Grundlage:** MTA-Unterlagen der Staatlichen Feuerwehrschulen Bayerns, offizieller Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026)
 
 !!! abstract "Quelle"
-    Ausbilderleitfaden MTA 5.12 Rettung und Unterlagen MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlagen Verhalten bei Gefahr und Einheiten im Hilfeleistungseinsatz (SFS Würzburg); Lehrplan, Konzept zur Schulung und Präsentation MTA 6.2 „Stressbewältigung bei der Feuerwehr – Umgang mit Belastungen im Einsatzwesen“ (Staatliche Feuerwehrschulen Bayerns / LFV Bayern); praktische Zwischenprüfung Aufgabe 1 „Auffinden einer bewusstlosen Person“; dazu der offizielle Fragenkatalog. Für MTA 6.1 Erste Hilfe gibt es keine eigene SFS-Teilnehmerunterlage.
+    Ausbilderleitfaden MTA 5.12 Rettung und Unterlagen MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlagen Verhalten bei Gefahr und Einheiten im Hilfeleistungseinsatz (SFS Würzburg); Lehrplan, Konzept zur Schulung und Präsentation MTA 6.2 „Stressbewältigung bei der Feuerwehr – Umgang mit Belastungen im Einsatzwesen“ (Staatliche Feuerwehrschulen Bayerns / LFV Bayern); praktische Zwischenprüfung Aufgabe 1 „Auffinden einer bewusstlosen Person“; dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026). Für MTA 6.1 Erste Hilfe gibt es keine eigene SFS-Teilnehmerunterlage.
     Alle Unterlagen: [Feuerwehr-Lernbar – Erste Hilfe](https://www.feuerwehr-lernbar.bayern/post/mta-erste-hilfe) · [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
     Ergänzend für die Erste-Hilfe-Maßnahmen (Wiederbelebung, Blutung, Schock, Betreuung): [DGUV Information 204-007 „Handbuch zur Ersten Hilfe“](https://vorschriften.bgn-branchenwissen.de/daten/dguv/204_007/inhalt.htm). Ergänzend: [FwDV 7 „Atemschutz“](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2022-09/FwDV%207%20-%20Homepage.pdf) (Ausrüstung des Sicherheitstrupps, z. B. Rettungstuch) · [Feuerwehr-Lernbar – Einsatz des Rautek-Griffs](https://www.feuerwehr-lernbar.bayern/post/einsatz-des-rautek-griffs) (Instruktionsblatt der Staatlichen Feuerwehrschulen Bayerns zur Sofortrettung).
 
@@ -53,7 +53,7 @@ Zur Überprüfung der lebenswichtigen Körperfunktionen gehört:
     Reagiert die Person nicht, **laut um Hilfe rufen**. Zum Freimachen der Atemwege den **Kopf nach hinten überstrecken** und das **Kinn anheben**. Die Atmung prüfst du **höchstens 10 Sekunden**. Schnappatmung ist **keine normale Atmung**.
 
 !!! tip "Reihenfolge"
-    **Zuerst Bewusstsein, dann Atmung.** Das wird geprüft, auch in der Truppführer-Prüfung.
+    **Zuerst Bewusstsein, dann Atmung.** Das wird geprüft, auch in der Abschlussprüfung (Truppführer). Dort gilt bei einer leblosen Person im Löscheinsatz daneben auch „zuerst Blutungen stillen“ als richtige Antwort.
 
 ### Was dann?
 
@@ -163,10 +163,10 @@ Ohne Hilfsmittel kann eine Person bei der **Sofortrettung** mit dem **Rautek-Gri
 - Über steiles oder glattes Gelände kann die Trage **weitergereicht** werden. Jeder Träger sucht sich einen sicheren Stand. Dazu sind **mindestens 6, besser 8 Träger** nötig.
 
 !!! warning "Rückengerecht heben"
-    Achte beim Heben und Tragen auf **rückengerechtes Heben**. Kein falscher Ehrgeiz: **Die Gesundheit geht vor!**
+    Achte beim Heben und Tragen auf **rückengerechtes Heben**: **gerader Rücken**, **Last nah am Körper tragen**, **immer PSA tragen** (Fragenkatalog Abschlussprüfung). Kein falscher Ehrgeiz: **Die Gesundheit geht vor!**
 
 !!! info "Leblose Person bei der Brandbekämpfung"
-    Entdeckst du während der Brandbekämpfung eine leblose Person, bringst du sie **unverzüglich aus dem unmittelbaren Gefahrenbereich** und **leistest Erste Hilfe**. Außerdem informierst du **schnellstmöglich deinen Gruppenführer**.
+    Entdeckst du während der Brandbekämpfung eine leblose Person, bringst du sie **unverzüglich aus dem unmittelbaren Gefahrenbereich** und **leistest Erste Hilfe**. Außerdem informierst du **schnellstmöglich deinen Einheitsführer**.
 
 ---
 
@@ -209,12 +209,12 @@ Ohne Hilfsmittel kann eine Person bei der **Sofortrettung** mit dem **Rautek-Gri
 
 ### Was beeinträchtigt die Einsatzfähigkeit?
 
-- **Krankheit**, **Alkohol**, **Rauschmittel**
+- **Krankheit**, **Alkohol**, **Rauschmittel**. Bei **Krankschreibung oder Minderung der Leistungsfähigkeit** darfst du nicht an Einsätzen teilnehmen – auch dann nicht, wenn der Einheitsführer Bescheid weiß.
 - **Medikamente**: Unter Medikamenteneinfluss können **hohe körperliche Anforderungen zu einer Überlastung führen**.
 
 ### Wenn ein Kamerad im Einsatz psychische Probleme bekommt
 
-Als Truppführer: Ihn **aus dem Einsatzgeschehen herausnehmen**, **betreuen** und den **Einheitsführer informieren**.
+Als Truppführer: Ihn **aus dem Einsatzgeschehen herauslösen**, **betreuen** und den **Einheitsführer informieren**.
 
 ### Belastende Einsätze
 
@@ -242,7 +242,7 @@ Ein **belastendes Ereignis** übersteigt die psychischen Belastungsgrenzen eines
 | Schockzeichen? | **Fahle Blässe, Frieren, kalter Schweiß auf der Stirn** |
 | Handschuhe bei Verletzten? | **Infektionsschutzhandschuhe** |
 | Verletzte im Pkw ohne akute Gefahr? | **Im Fahrzeug lassen**, bis der Rettungsdienst beurteilt |
-| Leblose Person bei der Brandbekämpfung? | **Aus dem unmittelbaren Gefahrenbereich bringen, Erste Hilfe, Gruppenführer informieren** |
+| Leblose Person bei der Brandbekämpfung? | **Aus dem unmittelbaren Gefahrenbereich bringen, Erste Hilfe, Einheitsführer informieren** |
 | Was ist Stress? | **Eine Reaktion des Körpers** |
 | Negative Stressreaktionen? | **Zittern, Schwitzen** |
 | Hilfreich bei Stress? | **Pausen einlegen, sich ablösen lassen** |
@@ -259,7 +259,7 @@ Ein **belastendes Ereignis** übersteigt die psychischen Belastungsgrenzen eines
     **Antwort:** An fahler Blässe, Frieren und kaltem Schweiß auf der Stirn.
 
 ??? question "3. Dein Truppmann hat im Einsatz plötzlich psychische Probleme. Was tust du als Truppführer?"
-    **Antwort:** Ich nehme ihn aus dem Einsatzgeschehen heraus, betreue ihn und informiere den Einheitsführer.
+    **Antwort:** Ich löse ihn aus dem Einsatzgeschehen heraus, betreue ihn und informiere den Einheitsführer.
 
 ??? question "4. Ihr tragt eine Person auf der Krankentrage eine Treppe hinunter. Worauf achtest du?"
     **Antwort:** Die Trage wird waagerecht gehalten, das Kopfende bleibt immer auf der „Bergseite“. Die Gurtbänder sind geschlossen, und das Kommando „Fertig – Hebt an!“ gibt der Helfer am Kopfende.

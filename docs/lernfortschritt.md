@@ -46,7 +46,7 @@ Nutze diese Checkliste, um deinen Fortschritt durch alle Kapitel zu tracken:
 
 - [ ] Mind. 50 Prüfungsfragen beantwortet
 - [ ] Mind. 100 Prüfungsfragen beantwortet
-- [ ] Alle 274 Prüfungsfragen beantwortet (214 Basismodul + 60 Truppführer)
+- [ ] Alle 253 Prüfungsfragen beantwortet (193 Zwischenprüfung + 60 Abschlussprüfung)
 - [ ] Falsche Fragen wiederholt
 
 #### Goldkronach

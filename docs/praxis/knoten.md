@@ -3,7 +3,7 @@
 **MTA-Module:** 5.10 (Rettungsgeräte – Praxis Knoten und Stiche), 5.12 (Rettung von Personen) · **Grundlage:** FwDV 1 „Grundtätigkeiten“
 
 !!! abstract "Quelle"
-    MTA-Thema **5.10 Rettungsgeräte – Praxis Knoten und Stiche**, Staatliche Feuerwehrschule Würzburg: Teilnehmerunterlage (Version 1.1) und Ausbilderunterlage (Version 1.0), dazu der offizielle Fragenkatalog.
+    MTA-Thema **5.10 Rettungsgeräte – Praxis Knoten und Stiche**, Staatliche Feuerwehrschule Würzburg: Teilnehmerunterlage (Version 1.1) und Ausbilderunterlage (Version 1.0), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
 
     Alle Unterlagen mit **Bildern zu jedem Knoten**: [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate)
 
@@ -34,7 +34,7 @@ Nach diesem Thema sollst du laut Ausbilderunterlage:
 | **Länge** | 30 m ¹ | – |
 | **Nicht verwenden** | zum Sichern gegen Absturz, wenn ein **freier Fall nicht auszuschließen** ist ¹ | – |
 
-¹ aus dem Fragenkatalog Basismodul
+¹ aus dem Fragenkatalog Zwischenprüfung
 
 !!! danger "Richtige Leine nehmen"
     In der Prüfung wird bei jeder Knoten-Aufgabe bewertet, ob du die **richtige Leine** zügig aus dem Fahrzeug nimmst. Zum **Retten und Sichern** ist die **Feuerwehrleine** vorgesehen, die Mehrzweckleine für **technische Zwecke**.
@@ -116,11 +116,11 @@ Diese Fragen zu Leinen und Knoten stehen im offiziellen Fragenkatalog (schriftli
 |-------|------------------|
 | Welchen Zweck hat die Feuerwehrleine? | Rettung, Selbstrettung, Sicherung/Aufziehen von Geräten |
 | Wann darf die Feuerwehrleine **nicht** eingesetzt werden? | Zum Sichern gegen Absturz, wenn ein freier Fall nicht auszuschließen ist |
-| Dient die Feuerwehrleine als Halte- und Ventilleine? (Truppführer-Katalog) | **Nein** |
+| Dient die Feuerwehrleine als Halte- und Ventilleine? (Fragenkatalog Abschlussprüfung) | **Nein** |
 | Welche Leine zur Sicherung einer Person bei der Rettung über die Steckleiter? | **Feuerwehrleine** |
 | Wie wird eine Person bei der Rettung über tragbare Leitern gesichert? | **Brustbund mit Spierenstich** als Knotensicherung |
-| Welche Knoten sichern den Brustbund? | **Pfahlstich und Spierenstich** bzw. Pfahlstich und Kreuzschlag |
-| Wer überprüft den Brustbund? (Truppführer-Katalog) | Der **Truppführer** des sichernden Trupps |
+| Welche Knoten werden beim Halten von Einsatzkräften und zur Sicherung und Rettung von Personen verwendet? | Mindestens **HMS (Halbmastwurf) und Brustbund**, ggf. Mastwurf und Achterknoten/Sackstich zur Standplatzsicherung |
+| Wer überprüft den Brustbund? (Fragenkatalog Abschlussprüfung) | Der **Truppführer** des sichernden Trupps |
 | Womit wird eine Schlauchleitung mit Strahlrohr zum Hochziehen befestigt? | **Mastwurf und Halbschlag** |
 
 👉 **[Prüfungsfragen zu Knoten üben](../quiz/index.html?thema=knoten)** · **[Fragen zu Leinen und Absturzsicherung](../quiz/index.html?thema=absturz)**

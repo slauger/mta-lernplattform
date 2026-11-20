@@ -1,14 +1,19 @@
 # Prüfungsfragen
 
-Alle Fragen stammen aus den offiziellen Fragenkatalogen der Staatlichen Feuerwehrschulen Bayern.
+Alle Fragen stammen aus den offiziellen Fragenkatalogen der Staatlichen Feuerwehrschulen Bayern (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
 
 - **[Interaktives Quiz](../quiz/index.html)**: mit Fortschritt, „nur neue“ und „nur falsche“ Fragen
 - **[Alle Fragen durchsehen](../quiz/browse.html)**: aufklappbar mit Lösung
 
 | Katalog | Fragen | Prüfung |
 |---------|--------|---------|
-| MTA Basismodul | 214 | Zwischenprüfung: 50 Fragen, jeweils genau eine Antwort richtig |
-| MTA Truppführer | 60 | Abschlussprüfung: 15 Fragen, teils mehrere Antworten richtig. Eine Frage zählt nur, wenn alle richtigen und keine falsche Antwort angekreuzt sind. |
+| Zwischenprüfung (Basismodul) | 193 | Zwischenprüfung: 50 Fragen, jeweils genau eine Antwort richtig |
+| Abschlussprüfung (Truppführer) | 60 | Abschlussprüfung: 15 Fragen, teils mehrere Antworten richtig. Eine Frage zählt nur, wenn alle richtigen und keine falsche Antwort angekreuzt sind. |
+
+!!! info "Zwei Datenquellen im Quiz"
+    - **Aktuell:** die offiziellen Übungs-Quiz der Feuerwehr-Lernbar ([Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/quiz/37), [Abschlussprüfung](https://www.feuerwehr-lernbar.bayern/quiz/38); Stand 20.11.2026). Das ist die Standardauswahl im Quiz.
+    - **Archiv (veraltet):** der ältere Fragenkatalog des Prüfungsgenerators (Stand 12.01.2026; 214 Fragen Basismodul, 60 Fragen Truppführer). Er bleibt im Quiz auswählbar, einzelne Antworten weichen aber vom aktuellen Katalog ab.
+    - Die Fragen der Abschlussprüfung werden im Quiz immer als **Mehrfachauswahl** gestellt – wie in der Prüfung: „Es können auch mehrere Antworten richtig sein“ (Fachinformation MTA, Kap. 6.1).
 
 !!! tip "Praktische Prüfung"
     Die praktischen Prüfungsaufgaben der Zwischenprüfung mit den offiziellen Bewertungskriterien findest du unter **[MTA-Module → Zwischenprüfung](../mta-module.md#zwischenprufung)**, den Ablauf der Abschlussprüfung (Trupp- und Gruppenaufgabe) unter **[MTA-Module → Abschlussprüfung](../mta-module.md#abschlussprufung)**.

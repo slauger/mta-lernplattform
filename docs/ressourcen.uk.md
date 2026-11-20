@@ -25,7 +25,7 @@
 У Баварії є **три Державні пожежні школи**: **Würzburg**, **Geretsried** і **Regensburg**.
 
 - [Staatliche Feuerwehrschule Würzburg](https://www.sfs-w.de/) (німецькою): завантаження, службові інструкції пожежної охорони (Feuerwehr-Dienstvorschriften), пам'ятки (Merkblätter)
-- **Каталоги питань (Fragenkataloge)** для іспитів: [fra-gen.sfs-bayern.de](https://fra-gen.sfs-bayern.de/) (німецькою). Звідти взято питання в [тесті](quiz/index.html).
+- **Каталоги питань (Fragenkataloge)** для іспитів: офіційні навчальні тести Feuerwehr-Lernbar ([Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/quiz/37), [Abschlussprüfung](https://www.feuerwehr-lernbar.bayern/quiz/38); німецькою, станом на 20.11.2026). Звідти взято питання в [тесті](quiz/index.html). Старіший каталог генератора іспитів [fra-gen.sfs-bayern.de](https://fra-gen.sfs-bayern.de/) там доступний як архів.
 
 ### 3. Службові інструкції пожежної охорони (FwDV) {#3-feuerwehr-dienstvorschriften-fwdv}
 

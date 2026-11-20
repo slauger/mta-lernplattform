@@ -25,7 +25,7 @@ Hier stehen nur Quellen, die für die bayerische MTA wirklich relevant sind. **D
 Bayern hat **drei Staatliche Feuerwehrschulen**: **Würzburg**, **Geretsried** und **Regensburg**.
 
 - [Staatliche Feuerwehrschule Würzburg](https://www.sfs-w.de/): Downloads, Feuerwehr-Dienstvorschriften, Merkblätter
-- **Fragenkataloge** für die Prüfungen: [fra-gen.sfs-bayern.de](https://fra-gen.sfs-bayern.de/). Daraus stammen die Fragen im [Quiz](quiz/index.html).
+- **Fragenkataloge** für die Prüfungen: die offiziellen Übungs-Quiz der Feuerwehr-Lernbar ([Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/quiz/37), [Abschlussprüfung](https://www.feuerwehr-lernbar.bayern/quiz/38); Stand 20.11.2026). Daraus stammen die Fragen im [Quiz](quiz/index.html). Der ältere Katalog des Prüfungsgenerators [fra-gen.sfs-bayern.de](https://fra-gen.sfs-bayern.de/) ist dort als Archiv wählbar.
 
 ### 3. Feuerwehr-Dienstvorschriften (FwDV)
 

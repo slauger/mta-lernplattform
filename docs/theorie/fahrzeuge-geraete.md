@@ -3,7 +3,7 @@
 **MTA-Module:** 4.1, 4.2, 5.1, 5.2, 5.3, 5.4, 5.13
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen MTA 4.1 Fahrzeugkunde – Theorie, Ausbilderunterlage MTA 4.2 Fahrzeugkunde – Praxis, Präsentation Fahrzeugkunde, Fachinformation „Feuerwehrfahrzeuge“, Teilnehmer- und Ausbilderunterlagen MTA 5.1 Persönliche Schutzausrüstung und MTA 5.2 Spezielle Persönliche Schutzausrüstung, Teilnehmer- und Ausbilderunterlage MTA 5.3 Löschgeräte, Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen, Ausbilderunterlage MTA 5.8 Geräte für die erweiterte Hilfeleistung, Ausbilderunterlage MTA 5.13 Beleuchtungs- und Warngeräte (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen MTA 4.1 Fahrzeugkunde – Theorie, Ausbilderunterlage MTA 4.2 Fahrzeugkunde – Praxis, Präsentation Fahrzeugkunde, Fachinformation „Feuerwehrfahrzeuge“, Teilnehmer- und Ausbilderunterlagen MTA 5.1 Persönliche Schutzausrüstung und MTA 5.2 Spezielle Persönliche Schutzausrüstung, Teilnehmer- und Ausbilderunterlage MTA 5.3 Löschgeräte, Teilnehmer- und Ausbilderunterlage MTA 5.5 Schläuche und Armaturen, Ausbilderunterlage MTA 5.8 Geräte für die erweiterte Hilfeleistung, Ausbilderunterlage MTA 5.13 Beleuchtungs- und Warngeräte (alle SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – MTA Basismodul Fahrzeugkunde](https://www.feuerwehr-lernbar.bayern/post/mta-basismodul_fahrzeugkunde), [Feuerwehr-Lernbar – MTA PSA](https://www.feuerwehr-lernbar.bayern/post/mta-psa), [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen), [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) und [Feuerwehr-Lernbar – MTA Beleuchtungs- und Warngeräte](https://www.feuerwehr-lernbar.bayern/post/mta-beleuchtungs-und-warngerate)
     Ergänzend: FwDV 7 Atemschutz, Stand 2002/2005 ([PDF](https://www.lv-saarland.drk.de/fileadmin/user_upload/FwDV7.pdf)) zu Fülldruck und Atemfiltern, [DIN 14345 Verteiler B-CBC](https://www.dinmedia.de/de/norm/din-14345/150889629) (ersetzt durch DIN EN 17407) und das Handout FIS II.2 des INFS Luxemburg ([PDF](https://112.public.lu/content/dam/112/fr/formation/handouts-leveso/20220120-fis-ii2-handout.pdf)) zu Hoch- und Niederdruckhebekissen.
 
@@ -38,7 +38,7 @@ Feuerwehrfahrzeuge sind Kraftfahrzeuge, die zur **Bekämpfung von Bränden**, zu
 | **Sonstige spezielle Kraftfahrzeuge** | z. B. Anhängefahrzeuge, Rettungs- und Mehrzweckboote |
 
 !!! info "Aktuelle Normbezeichnungen"
-    Ältere Bezeichnungen wie **LF 8/6, LF 16/12 oder TLF 16/25** („alte Norm“) findest du noch auf manchen Fahrzeugen. Im Unterricht und im Fragenkatalog geht es um die **aktuellen Normfahrzeuge**. Bei Löschgruppenfahrzeugen steht die Zahl für die Pumpe: Ein **LF 10** hat eine FPN 10-**1000** mit 1.000 l/min, ein **LF 20** eine FPN 10-**2000**. Bei Tanklöschfahrzeugen steht die Zahl für den Wassertank: Ein **TLF 4000** führt **4.000 l** Löschwasser mit.
+    Ältere Bezeichnungen wie **LF 8/6, LF 16/12 oder TLF 16/25** („alte Norm“) findest du noch auf manchen Fahrzeugen. Im Unterricht und im Fragenkatalog geht es um die **aktuellen Normfahrzeuge**. Bei Löschgruppenfahrzeugen steht die Zahl für die Pumpe: Ein **LF 10** hat eine FPN 10-**1000** mit 1.000 l/min, ein **LF 20** eine FPN 10-**2000**. Bei Tanklöschfahrzeugen steht die Zahl für den Wassertank: Ein **TLF 4000** führt **mindestens 4.000 l** Löschwasser mit.
 
 ### Übersicht Fahrzeugtypen
 
@@ -52,11 +52,11 @@ Feuerwehrfahrzeuge sind Kraftfahrzeuge, die zur **Bekämpfung von Bränden**, zu
 | **HLF 10** | Gruppe 1/8 | mind. 1.000 l | FPN 10-1000 | wie LF 10, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
 | **LF 20** | Gruppe 1/8 | mind. 2.000 l | FPN 10-2000 | zusätzlich fahrbare Haspel am Heck, **3-teilige Schiebleiter**, Sprungpolster |
 | **HLF 20** | Gruppe 1/8 | mind. 1.600 l | FPN 10-2000 | wie LF 20, dazu Ausstattung für die **erweiterte technische Hilfeleistung** |
-| **LF 20 KatS** | Gruppe 1/8 | mind. 1.000 l | FPN 10-2000 **und** Tragkraftspritze PFPN 10-2000 | Brandbekämpfung, schnelle Wasserabgabe, **Wasserförderung**, technische Hilfeleistung; tragbarer Stromerzeuger, Lichtmast, 300 m B-Schläuche während der Fahrt verlegbar |
-| **TLF 2000** | **Trupp 1/2** | mind. 2.000 l | FPN 10-1000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
-| **TLF 3000** | **Trupp 1/2** | mind. 3.000 l | FPN 10-2000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
-| **TLF 4000** | **Trupp 1/2** | mind. 4.000 l | FPN 10-2000 | 2 Pressluftatmer, Schaummitteltank, Schaum-Wasserwerfer auf dem Dach |
-| **RW** (Rüstwagen) | **Trupp 1/2** | – | – | für die technische Hilfeleistung ausgelegt; fest eingebaute Zugeinrichtung, Stromerzeuger, Lichtmast |
+| **LF 20 KatS** | Gruppe 1/8 | mind. 1.000 l | FPN 10-2000 **und** Tragkraftspritze PFPN 10-2000 | Brandbekämpfung, schnelle Wasserabgabe, **Wasserförderung**, einfache technische Hilfeleistung; tragbarer Stromerzeuger, Lichtmast, 300 m B-Schläuche während der Fahrt verlegbar |
+| **TLF 2000** | **selbstständiger Trupp 1/2** | mind. 2.000 l | FPN 10-1000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
+| **TLF 3000** | **selbstständiger Trupp 1/2** | mind. 3.000 l | FPN 10-2000 | 2 Pressluftatmer, Schnellangriffseinrichtung |
+| **TLF 4000** | **selbstständiger Trupp 1/2** | mind. 4.000 l | FPN 10-2000 | 2 Pressluftatmer, Schaummitteltank, Schaum-Wasserwerfer auf dem Dach |
+| **RW** (Rüstwagen) | **selbstständiger Trupp 1/2** | – | – | für die technische Hilfeleistung ausgelegt; fest eingebaute Zugeinrichtung, Stromerzeuger, Lichtmast |
 | **DLAK 23/12** (Drehleiter) | Trupp 1/2 | – | – | **D**reh**l**eiter **A**utomatisch mit **K**orb. Die Zahlen bezeichnen die **Nennreichweite**: 23 m Rettungshöhe bei 12 m horizontaler Ausladung |
 | **ELW 1** (Einsatzleitwagen) | 1/2 | – | – | Einsatzleitung, Anfahrt und Erkundung von Einsatzstellen, Führung taktischer Einheiten |
 
@@ -65,7 +65,7 @@ Feuerwehrfahrzeuge sind Kraftfahrzeuge, die zur **Bekämpfung von Bränden**, zu
     - **Keine Besatzung:** TSA
     - **Staffel als Besatzung:** TSF, TSF-W, MLF
     - **Gruppe als Besatzung:** LF 10, LF 20, HLF 10, HLF 20, LF 20 KatS
-    - **Trupp als Besatzung:** TLF, RW, Drehleiter
+    - **Trupp als Besatzung** (im Fragenkatalog „selbstständiger Trupp 1/2“): TLF, RW, Drehleiter
     - **Beladung für eine Gruppe 1/8:** TSA, TSF, TSF-W (und MLF)
     - **Erweiterte technische Hilfeleistung:** HLF
     - **Atemschutz:** Löschfahrzeuge (außer TLF) haben **4 Pressluftatmer**, also für **2 Trupps**. Tanklöschfahrzeuge haben 2.
@@ -75,7 +75,7 @@ Feuerwehrfahrzeuge sind Kraftfahrzeuge, die zur **Bekämpfung von Bränden**, zu
 - Gleiche Fahrzeugtypen haben die **gleiche Mindestausstattung** an Geräten. Viele Teile der Beladung sind in allen Löschfahrzeugen vorhanden, häufig an der gleichen Stelle oder zumindest auf der gleichen Fahrzeugseite.
 - Die Beladung ist im Mannschaftsraum, in den Geräteräumen, am Heck, auf dem Dach (z. B. meist Leitern) und an sonstigen Stellen untergebracht.
 - **Geräteräume** werden vom Fahrerhaus in Richtung Heck gezählt: **Fahrerseite ungerade** (G1, G3, G5), **Beifahrerseite gerade** (G2, G4, G6). Der Geräteraum am Heck heißt meist **GR**.
-- Bei der **Entnahme von Geräten**: schwere Geräte von **mehreren Einsatzkräften** tragen, **Aufstiegshilfen** (Haltegriffe, Trittbretter, Leitern) benutzen und auf **Verletzungsgefahren** achten.
+- Bei der **Entnahme von Geräten**: schwere Geräte von **mehreren Einsatzkräften** tragen, **Aufstiegshilfen** (Haltegriffe, Trittbretter, Klapptritt, Leitern) benutzen und auf **mögliche Verletzungsgefahren** achten.
 - Nach dem Einsatz alle entnommenen Geräte **nach Beladeplan** einräumen und sichern.
 
 !!! info "Welche Fahrzeuge hat deine Wehr?"
@@ -108,8 +108,8 @@ Betriebsbereites Löschgerät zur Bekämpfung von **Kleinbränden**.
 
 | Brände … | geeignete Feuerlöscher |
 |----------|------------------------|
-| **fester (glutbildender) Stoffe** | **Wasserlöscher** (besonders geeignet), Schaumlöscher, Pulverlöscher mit **Glutbrandpulver** |
-| **flüssiger Stoffe** | Schaumlöscher, **Kohlendioxidlöscher**, Pulverlöscher mit **BC-Pulver** oder **ABC-Pulver** |
+| **fester (glutbildender) Stoffe** | **Schaumlöscher** (besonders geeignet), Nasslöscher (Wasserlöscher), Pulverlöscher mit **Glutbrandpulver**; nicht: Pulverlöscher mit Flammbrandpulver |
+| **flüssiger Stoffe** | **Kohlendioxidlöscher**, Pulverlöscher mit **ABC-Pulver** (oder BC-Pulver), Schaumlöscher; nicht: Nasslöscher, Metallbrandpulver |
 
 Mehr zu Brandklassen und Löschmitteln unter [Brennen & Löschen](brennen-loeschen.md#brandklassen).
 
@@ -129,7 +129,7 @@ Mehr zu Brandklassen und Löschmitteln unter [Brennen & Löschen](brennen-loesch
 !!! warning "Sicherheits- und Anwendungshinweise"
     - Gemäß **Herstellerangaben** (Brandklasseneignung, Warnhinweise) einsetzen
     - Bei Inbetriebnahme dürfen sich **keine Körperteile in Wirkrichtung** des Löschstrahls befinden
-    - Nach dem Einsatz den Feuerlöscher **auf den Kopf stellen und drucklos machen**
+    - Nach dem Einsatz den Feuerlöscher **auf den Kopf stellen und drucklos machen** und den **Einheitsführer informieren**, damit eine Füllung bzw. Überprüfung veranlasst wird
     - Die Einsatzbereitschaft darf nur ein **Sachkundiger** wiederherstellen (z. B. Fachfirma). Gebrauchte Feuerlöscher zur Befüllung und Prüfung abgeben.
     - Prüfung durch Sachkundige **mindestens alle 2 Jahre**
 
@@ -276,7 +276,7 @@ Bei der Feuerwehr gibt es besondere Gefahren. Die **Unfallverhütungsvorschrift 
 
 !!! danger "Wer bestimmt die Schutzausrüstung?"
     Die Mindestausrüstung muss bei **Einsätzen und Übungen** getragen werden. Feuerwehrschutzschuhwerk ist bei **Einsätzen und Übungen** zu tragen.
-    Welche Schutzausrüstung getragen wird und ob davon abgewichen wird, ordnet **nur der Einheitsführer** an. Bei Einsätzen mit **gefährlichen Stoffen** kann er z. B. den **Pressluftatmer** anordnen.
+    Welche Schutzausrüstung getragen wird und ob davon abgewichen wird, ordnet **nur der Einheitsführer** an. Bei Einsätzen mit **Atemgiften** bzw. gefährlichen Stoffen kann er z. B. den **Pressluftatmer** anordnen.
 
 ### Besondere Schutzausrüstung (MTA 5.2)
 
@@ -374,7 +374,7 @@ Warngeräte warnen die Verkehrsteilnehmer, kennzeichnen Gefahrenstellen und sich
 | Thema | Kernaussage |
 |-------|-------------|
 | **Löschgruppenfahrzeug** | LF/HLF 10 und 20, Besatzung Gruppe 1/8, 4 Pressluftatmer |
-| **Staffel / Trupp** | TSF, TSF-W, MLF: Staffel 1/5. TLF, RW, Drehleiter: Trupp 1/2 |
+| **Staffel / Trupp** | TSF, TSF-W, MLF: Staffel 1/5. TLF, RW, Drehleiter: (selbstständiger) Trupp 1/2 |
 | **Pumpe** | FPN 10-1000 = 1.000 l/min bei 10 bar; Tragkraftspritze = PFPN |
 | **Feuerlöscher** | in Windrichtung, von vorne nach hinten, von unten nach oben; danach auf den Kopf stellen und drucklos machen |
 | **PSA** | Schutzanzug, Helm mit Nackenschutz, Schutzschuhwerk, Schutzhandschuhe – bei Einsätzen und Übungen. Abweichungen ordnet nur der Einheitsführer an |
@@ -400,7 +400,7 @@ Warngeräte warnen die Verkehrsteilnehmer, kennzeichnen Gefahrenstellen und sich
     **Antwort:** Feuerwehrschutzanzug, Feuerwehrhelm mit Nackenschutz, Feuerwehrschutzschuhwerk, Feuerwehrschutzhandschuhe.
 
 ??? question "6. Was ist nach dem Einsatz eines Pulverlöschers zu tun?"
-    **Antwort:** Den Feuerlöscher auf den Kopf stellen und drucklos machen. Gebrauchte Löscher zur Befüllung und Prüfung abgeben.
+    **Antwort:** Den Feuerlöscher auf den Kopf stellen und drucklos machen und den Einheitsführer informieren, damit eine Füllung bzw. Überprüfung veranlasst wird. Gebrauchte Löscher zur Befüllung und Prüfung abgeben.
 
 ??? question "7. Wie wird bei einem Flüssigkeitsbrand mit dem Pulverlöscher gelöscht?"
     **Antwort:** Den Löschstrahl nicht direkt in die Flüssigkeit richten, sondern fächerförmig über die brennende Flüssigkeit verteilen.

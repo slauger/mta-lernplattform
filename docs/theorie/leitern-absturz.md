@@ -3,7 +3,7 @@
 **MTA-Module:** 5.9, 5.11, 10.1, 10.2 · **Grundlage:** FwDV 10 „Die tragbaren Leitern“, FwDV 1 „Grundtätigkeiten“
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlage MTA 5.11 Rettungsgeräte – Praxis Leitern, Teilnehmer- und Ausbilderunterlagen sowie Präsentation MTA 10.1/10.2 Sichern gegen Absturz (SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 5.9 Rettungsgeräte – Theorie, Ausbilderunterlage MTA 5.11 Rettungsgeräte – Praxis Leitern, Teilnehmer- und Ausbilderunterlagen sowie Präsentation MTA 10.1/10.2 Sichern gegen Absturz (SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Rettungsgeräte](https://www.feuerwehr-lernbar.bayern/post/mta-rettungsgerate) und [Feuerwehr-Lernbar – Sichern gegen Absturz](https://www.feuerwehr-lernbar.bayern/post/mta-sichern-gegen-absturz)
     Ergänzend: [FwDV 10 „Die tragbaren Leitern“, Stand November 2019](https://www.nlbk.niedersachsen.de/download/160686) (auch in der [Feuerwehr-Lernbar – Feuerwehr-Dienstvorschriften](https://www.feuerwehr-lernbar.bayern/post/fwdv)); Ausbilderunterlage MTA 5.10 „Rettungsgeräte – Praxis Knoten und Stiche“ (Feuerwehrleine/Mehrzweckleine)
 
@@ -18,7 +18,7 @@ Nach diesem Kapitel kannst du:
 - [x] Eine Person bei der Rettung über Leitern sichern
 
 !!! info "Prüfungsgewicht"
-    Mit rund **29 Prüfungsfragen** ist das eines der größten Themen. Viele Fragen zielen auf **Verbote**, also darauf, was man **nicht** darf.
+    Mit rund **28 Prüfungsfragen** ist das eines der größten Themen. Viele Fragen zielen auf **Verbote**, also darauf, was man **nicht** darf.
 
 ---
 
@@ -55,7 +55,7 @@ Tragbare Leitern werden auf den Feuerwehrfahrzeugen mitgeführt, von der Mannsch
 **Multifunktionsleiter als Hilfsgerät:** Stehleiter mit Aufsteckteil, Stehleiter (Bockleiter), Einhängeleiter, Dachleiter.
 
 !!! example "Prüfungsfrage"
-    Auf welchem Fahrzeug ist welche Leiter? Auf dem **TSF-W** liegt in der Regel die **vierteilige Steckleiter**. Mit dem **LF 20** erreichst du eine Person im **3. Obergeschoss** über die **dreiteilige Schiebleiter**.
+    Auf welchem Fahrzeug ist welche Leiter? Auf dem **TSF-W** liegt laut Norm die **vierteilige Steckleiter**. Eine Person im **3. Obergeschoss** erreichst du über die **dreiteilige Schiebleiter**; im Fragenkatalog gilt auch das **Sprungpolster SP 16** als Einsatzmittel zur Rettung aus dem 3. OG, die 4-teilige Steckleiter dagegen nicht.
 
 ### Aufstellen einer tragbaren Leiter: Grundregeln
 
@@ -107,7 +107,7 @@ Der vorgehende Trupp darf die Steckleiter **selbst sichern**:
 - Im **Pass- oder Kreuzgang**, die Sprossen im **Klammergriff** umfassen: dicht an die Leiter anschmiegen und mit beiden Händen an den Sprossen festhalten. Klammergriff heißt nach FwDV 10: Die **Finger umfassen die Sprosse von oben**, die **Daumen liegen unter der Sprosse**.
     - **Passgang:** linker Fuß und linke Hand ruhen auf den Sprossen, rechter Fuß und rechte Hand bewegen sich, dann umgekehrt
     - **Kreuzgang:** linker Fuß und rechte Hand ruhen, rechter Fuß und linke Hand bewegen sich, dann umgekehrt
-- Möglichst **rhythmisch und schwingungsfrei** steigen
+- Möglichst **gleichmäßig (rhythmisch) und schwingungsfrei** steigen
 - **Nicht über den oberen Auflagepunkt** hinaussteigen
 - Beim Ein-, Aus- oder Übersteigen **nur an den Sprossen** festhalten, nicht an den Holmen
 - Auf Brüstungen von Wandöffnungen beim Ein- oder Übersteigen den **Reitersitz** einnehmen
@@ -214,7 +214,7 @@ Der **Truppführer** überprüft die Begehbarkeit des Daches, kontrolliert den F
 | Steighöhe mit 4 Teilen? | **2. Obergeschoss** |
 | Personal für die Steckleiter? | **3 oder 4**, mindestens 3 |
 | Anstellwinkel? | **65°–75°** |
-| Gangart? | **Pass- oder Kreuzgang, Klammergriff** |
+| Gangart? | **Pass- oder Kreuzgang** (nicht „nur Kreuzgang“), Sprossen im **Klammergriff**, gleichmäßig und schwingungsfrei steigen |
 | Sicherungsmethoden in der MTA? | **Halten / Rückhalten** |
 | Abstand zur Absturzkante beim Rückhalten? | **2 m** |
 | Haltegurt als Auffanggurt? | **Nein, grundsätzlich nicht** |

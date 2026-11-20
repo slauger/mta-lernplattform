@@ -3,7 +3,7 @@
 **MTA-Module:** 5.6, 9.5 – 9.10 · **Grundlage:** FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Ausbilderunterlagen MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ und Ausbilderunterlage MTA 5.6 „Schläuche und Armaturen – Praxis“, ergänzend die Unterlagen MTA 3 „Brennen und Löschen“, MTA 5.3 „Löschgeräte“, MTA 8 „Verhalten bei Gefahr“ und MTA 9.3 „Anwendung im Brandeinsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.5 „Einheiten im Löscheinsatz – Theorie“, Ausbilderunterlagen MTA 9.6 – 9.10 „Einheiten im Löscheinsatz – Praxis 1 – 5“ und Ausbilderunterlage MTA 5.6 „Schläuche und Armaturen – Praxis“, ergänzend die Unterlagen MTA 3 „Brennen und Löschen“, MTA 5.3 „Löschgeräte“, MTA 8 „Verhalten bei Gefahr“ und MTA 9.3 „Anwendung im Brandeinsatz“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) · [Feuerwehr-Lernbar – Löschgeräte, Schläuche und Armaturen](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen) · Ergänzend: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (Stand 2008)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm) (Stärke und Gliederung der taktischen Einheiten)
 
 ## Lernziele
@@ -19,7 +19,7 @@ Nach diesem Kapitel kannst du:
 - [x] Die Verantwortung des Truppführers im Löschangriff beschreiben
 
 !!! info "Warum dieses Kapitel so wichtig ist"
-    Ohne feste Aufgabenverteilung weiß an der Einsatzstelle keiner, **wer wann was** zu tun hat. Dieses Kapitel zeigt, wie Gruppe und Staffel geordnet arbeiten. Die Kenntnisse sind Voraussetzung für die Praxis-Übungen der Module 9.6 – 9.10. Im Fragenkatalog (Basismodul und Truppführer) drehen sich knapp **40 Fragen** um diese Inhalte.
+    Ohne feste Aufgabenverteilung weiß an der Einsatzstelle keiner, **wer wann was** zu tun hat. Dieses Kapitel zeigt, wie Gruppe und Staffel geordnet arbeiten. Die Kenntnisse sind Voraussetzung für die Praxis-Übungen der Module 9.6 – 9.10. Im Fragenkatalog (Zwischen- und Abschlussprüfung) drehen sich rund **36 Fragen** um diese Inhalte.
 
 | Modul | Inhalt |
 |-------|--------|
@@ -95,7 +95,7 @@ Ein **Innenangriff mit Atemschutzgeräten** kann nur durchgeführt werden, wenn 
 - **rettet** (insbesondere aus Bereichen, die nur mit Atemschutz betreten werden können)
 - nimmt in der Regel das **erste Rohr** vor
 - **setzt den Verteiler** an die vom Einheitsführer befohlene Stelle
-- **verlegt seine C-Leitung ab dem Verteiler selbst**, da der Schlauchtrupp in der Regel andere Aufgaben hat
+- **verlegt seine C-Leitung ab dem Verteiler selbst**, da der Schlauchtrupp in der Regel andere Aufgaben hat (im Fragenkatalog Abschlussprüfung: „…, wenn kein Schlauchtrupp vorhanden ist“); er arbeitet nach Anweisung des Einheitsführers
 - rüstet sich während der Alarmfahrt **auf Befehl mit Atemschutzgeräten** aus
 - Ausrüstung im Außenangriff: **Strahlrohr, Schlauchhalter, Beleuchtungsgerät** (dazu Handfunkgerät, ggf. weitere Geräte)
 
@@ -127,10 +127,10 @@ Ein **Innenangriff mit Atemschutzgeräten** kann nur durchgeführt werden, wenn 
 
 ## Sitzordnung, Absitzen, Antreten
 
-- **Feste Sitzordnung:** Die Funktion ist mit der Einnahme des Sitzplatzes festgelegt. So kann sich jeder schon während der Anfahrt auf seine Tätigkeit vorbereiten. Sind Atemschutzgeräte im Mannschaftsraum, nimmt der **Angriffstrupp immer diese Plätze** ein.
+- **Feste Sitzordnung:** Die Funktion ist mit der Einnahme des Sitzplatzes festgelegt. So kann sich jeder schon während der Anfahrt auf seine Tätigkeit vorbereiten, und die Kommunikation zwischen Einheitsführer und Truppführern wird erleichtert (so der Fragenkatalog). Sind Atemschutzgeräte im Mannschaftsraum, nimmt der **Angriffstrupp immer diese Plätze** ein.
 - **Merkspruch Sitzordnung (Gruppe):** „**A**lle **Me**iden **A**temgifte und **W**asser **S**ucht **S**einen **W**eg.“
 - **Absitzen:** erst auf das Kommando „Absitzen!“ und **zur verkehrsabgewandten Seite**. Achte auf den **fließenden Verkehr**! „Nur rechts“ oder „nur links“ absitzen ist im Fragenkatalog eine Falschantwort. Die Einsatzkraft an der Tür steigt als erste aus, hält die Tür auf, schließt sie danach und tritt als letzte an.
-- **Antreten:** wegen der Verkehrsgefahren **in der Regel vor dem Fahrzeug**. Der Einheitsführer kann lageabhängig einen anderen Ort bestimmen. „In jedem Fall hinter dem Fahrzeug“ ist im Fragenkatalog eine Falschantwort.
+- **Antreten:** wegen der Verkehrsgefahren **in der Regel vor dem Fahrzeug**. Der Einheitsführer kann lageabhängig einen anderen Ort bestimmen. „Ich trete in jedem Fall vor dem Fahrzeug an“ ist im Fragenkatalog deshalb eine Falschantwort.
 - **Nach dem Absitzen:** Ruhe bewahren und **auf den Einsatzbefehl warten**. Keine unüberlegten Aktionen!
 - **Befehl nicht verstanden?** Beim Einheitsführer **nachfragen**.
 
@@ -223,12 +223,12 @@ Der Truppführer meldet dem Einheitsführer:
 
 Der **Einheitsführer befiehlt die Lage** des Verteilers, z. B. „Verteiler zur Gartentür“. Der **Angriffstrupp setzt ihn** dort ab (im Trupp stehend oder am Boden gekuppelt). Der **Angriffstruppführer** bestimmt an dieser Stelle die **genaue Lage** und ist dafür verantwortlich:
 
-- **seitlich versetzt**, damit der Zugang zum Gebäude nicht behindert wird
+- **seitlich versetzt**, damit der Zugang zum Gebäude bzw. Grundstück nicht behindert wird
 - **nicht im Trümmerschatten** (durch Einsturz bedrohter Bereich)
 - **nicht im Schließbereich der Haustür**
 
 !!! warning "Achtung: Fragenkatalog"
-    Im Fragenkatalog (Basismodul) lautet die richtige Antwort zur Aufgabe des Angriffstrupps bei der Vornahme des Verteilers: „Er setzt den Verteiler; **die genaue Lage wird durch den Einheitsführer vorgegeben**.“ Im Truppführer-Katalog heißt es dagegen: „Der **Truppführer** ist für die genaue Lage des Verteilers verantwortlich“ (nicht im Trümmerschatten, nicht im Schließbereich der Haustür). Für die Prüfung beide Antworten kennen.
+    Im Fragenkatalog (Zwischenprüfung) lautet die richtige Antwort zur Aufgabe des Angriffstrupps bei der Vornahme des Verteilers: „Er **platziert den Verteiler an der befohlenen Stelle**.“ (Falsch: „ist nicht seine Aufgabe“ und „er bestimmt, wo das erste Rohr angeschlossen wird“.) Im Fragenkatalog (Abschlussprüfung) heißt es: „Der **Truppführer** ist für die genaue Lage des Verteilers verantwortlich“ – nicht ablegen **im Trümmerschatten** und **im Schließbereich der Haustür**; der Verteiler kommt **seitlich versetzt und außerhalb des Trümmerschattens** hin. Für die Prüfung beide Antworten kennen.
 
 ### Belegung der Abgänge (in Fließrichtung gesehen)
 
@@ -271,7 +271,7 @@ Die Schlauchreserve ist nötig, damit der vorgehende Trupp die notwendige **Bewe
     - bei ausgedehnten Gebäuden (z. B. Industriehallen) zusätzliche Schläuche
 
 !!! warning "Achtung: Fragenkatalog rechnet anders"
-    Im Fragenkatalog (Truppführer) steht als richtige Antwort für eine **Wohnung im 1. OG**: **4 C-Schläuche** (1 C-Länge zum Gebäude, 1 C-Länge je Geschoss, **2 C-Längen je Nutzungseinheit**). Für die Prüfung diese Antwort kennen.
+    Im Fragenkatalog (Abschlussprüfung) steht als richtige Antwort für eine **Wohnung im 1. OG**: **4 C-Schläuche** (1 C-Länge zum Gebäude, 1 C-Länge je Geschoss, **2 C-Längen je Nutzungseinheit**). Für die Prüfung diese Antwort kennen.
 
 - Das Strahlrohr wird **vor der Rauchgrenze und außerhalb des Gefahrenbereichs** angekuppelt; dort stellt der Trupp eine ausreichende Schlauchreserve sicher.
 - Schläuche in **Buchten** verlegen, Buchten immer **seitlich** legen (weniger Stolpergefahr im Angriffs- und Rettungsweg).
@@ -300,7 +300,7 @@ Das **Mundstück** des BM- oder CM-Strahlrohrs darf **nicht eigenmächtig abgesc
 
 ## Taktische Grundsätze im Löschangriff
 
-1. **Menschenrettung hat oberste Priorität.**
+1. **Eigenschutz hat oberste Priorität** (so der Fragenkatalog Abschlussprüfung; früher lautete die Antwort „Menschenrettung hat oberste Priorität“). Die Menschenrettung geht allen weiteren Einsatzmaßnahmen vor.
 2. **Truppweise geschlossen vorgehen.** Der Trupp geht im Gefahrenbereich grundsätzlich gemeinsam vor.
 3. **Spätestens ab der Rauchgrenze mit Wasser am Rohr** vorgehen.
 4. **Rückzugsweg sichern.** Der Schlauch dient dabei als Rückzugswegsicherung.
@@ -312,7 +312,7 @@ Das **Mundstück** des BM- oder CM-Strahlrohrs darf **nicht eigenmächtig abgesc
 10. Feststoffbrand: **von vorne nach hinten** löschen.
 11. Im Freien (z. B. Palettenstapel): **mit Sprühstrahl**, stets **außerhalb des Brandrauchs**, um das Brandobjekt bewegen und die Position immer wieder wechseln. „Gegen den Wind angreifen“ ist im Fragenkatalog eine Falschantwort.
 12. Holzbauweise (z. B. Scheune): **Verbindungsstellen (Knotenpunkte) zuerst** ablöschen.
-13. Wohnungsbrand: in der Regel **truppweise unter Atemschutz**.
+13. Wohnungsbrand: **ab der Rauchgrenze nur mit Atemschutz** (truppweise) vorgehen und die **Rauchausbreitung im Gebäude vermeiden** (Fenster und Türen schließen).
 
 !!! tip "Einsatzgrundsätze beim Einsatz von Feuerlöschern (MTA 5.3)"
     Feuer **in Windrichtung** angreifen, **von vorne nach hinten** und **von unten nach oben** löschen (Ausnahme: Tropf- und Fließbrände von oben nach unten), Flächenbrände am Rand beginnend. „Feuer gegen die Windrichtung angreifen“ ist im Fragenkatalog eine Falschantwort.
@@ -323,12 +323,12 @@ Das **Mundstück** des BM- oder CM-Strahlrohrs darf **nicht eigenmächtig abgesc
 ### Leblose Person gefunden?
 
 1. Person **unverzüglich aus dem unmittelbaren Gefahrenbereich** bringen und Erste Hilfe leisten
-2. **Gruppenführer schnellstmöglich informieren**
-3. Patientenkontrolle: zuerst **Bewusstsein**, dann **Atmung** kontrollieren
+2. **Einheitsführer schnellstmöglich informieren**
+3. Patientenkontrolle: zuerst **Bewusstsein**, dann **Atmung** kontrollieren; im Fragenkatalog (Abschlussprüfung) gilt daneben auch „zuerst Blutungen stillen“ als richtig
 
 ### Gefahr!
 
-Bemerkt eine Einsatzkraft eine besondere Gefahr (z. B. Einsturz- oder Explosionsgefahr), gibt sie das Kommando **„Gefahr – Alle sofort zurück!“**. Jede Einsatzkraft **gibt das Kommando weiter**, alle gehen zurück und **sammeln sich am Feuerwehrfahrzeug** (Antreten wie nach „Absitzen“). Der Einheitsführer überprüft die **Vollzähligkeit**, trifft weitere Maßnahmen und gibt Lagemeldungen. Bei Eigengefährdung geht der Trupp **geschlossen** zurück und gibt Rückmeldung an den Einheitsführer.
+Bemerkt eine Einsatzkraft eine besondere Gefahr (z. B. Einsturz- oder Explosionsgefahr), gibt sie das Kommando **„Gefahr – Alle sofort zurück!“**. Jede Einsatzkraft **gibt das Kommando weiter**, alle gehen zurück und **sammeln sich am Feuerwehrfahrzeug** (Antreten wie nach „Absitzen“). Der Einheitsführer überprüft die **Vollzähligkeit**, trifft weitere Maßnahmen und gibt Lagemeldungen. Bei Eigengefährdung tritt der Trupp **sofort** den Rückzug an, geht **geschlossen** zurück und gibt Rückmeldung an den Einheitsführer – nicht erst melden und auf einen Befehl warten.
 
 ---
 
@@ -338,10 +338,10 @@ Bemerkt eine Einsatzkraft eine besondere Gefahr (z. B. Einsturz- oder Explosions
 |-------|--------|---------|
 | Wer setzt den Verteiler? | Wassertrupp / Schlauchtrupp | **Angriffstrupp** |
 | Wer stellt die Wasserversorgung zwischen Fahrzeug und Wasserentnahme her? | Angriffstrupp / Schlauchtrupp | **Wassertrupp** |
-| Wer verlegt bei der **Staffel** die B-Leitung zum Verteiler? | Angriffstrupp / Maschinist | **Wassertrupp** |
+| Wer verlegt bei der **Staffel** die B-Leitung zum Verteiler? | Angriffstrupp / Schlauchtrupp | **Wassertrupp** |
 | Woran erkennt man „ohne Bereitstellung“? | Wasserentnahmestelle / Lage des Verteilers | **„… vor!“** |
 | An welchen Abgang kommt das 1. Rohr? | rechts / Mitte | **links** (in Fließrichtung) |
-| Wer bestimmt Voll-/Sprühstrahl? | Truppmann / Strahlrohrführer / Gruppenführer | **Truppführer** |
+| Wer bestimmt Voll-/Sprühstrahl? | Einheitsführer / Strahlrohrführer / Einsatzleiter | **Truppführer** |
 | Wer bestimmt die Zahl der Saugschläuche? | Einheitsführer / Schlauchtruppführer | **Wassertruppführer** |
 | Wo sammeln bei „Gefahr – Alle sofort zurück!“? | Am Verteiler / bei der Einsatzleitung | **Am Fahrzeug** |
 | Wie absitzen? | Nur rechts / nur links | **Verkehrsabgewandt**, auf fließenden Verkehr achten |
@@ -360,7 +360,7 @@ Bemerkt eine Einsatzkraft eine besondere Gefahr (z. B. Einsturz- oder Explosions
     **Antwort:** Der **Wassertrupp**, bei Gruppe und Staffel. Er kuppelt den Verteiler an und der Wassertruppführer gibt dem Maschinisten „Wasser marsch!“.
 
 ??? question "4. Der befohlene Hydrant ist zugeparkt, du nimmst einen anderen. Was nun?"
-    **Antwort:** Ich informiere den Gruppenführer umgehend über die geänderte Lage.
+    **Antwort:** Ich informiere den Einheitsführer umgehend über die geänderte Lage.
 
 ??? question "5. Ordne den Befehl: „über den Treppenraum – Angriffstrupp – in den Keller – mit 1. Rohr – zur Brandbekämpfung – vor!“"
     **Antwort:** „Angriffstrupp zur Brandbekämpfung mit 1. Rohr in den Keller über den Treppenraum – vor!“ (E-A-M-Z-W)

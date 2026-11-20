@@ -32,7 +32,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
     Teste dein Wissen mit dem Lernmodus:
 
-    - **270+ Fragen** (214 Basismodul + 60 Truppführer)
+    - **250+ Fragen** (193 Zwischenprüfung + 60 Abschlussprüfung, Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026; der alte Katalog bleibt als Archiv wählbar)
     - **Multiple-Choice Support** (Single & Multi-Select)
     - **Fortschritts-Tracking** mit localStorage
     - **Nur neue Fragen** oder **nur falsche wiederholen**
@@ -69,7 +69,7 @@ Vollständige Lern- und Übungsmaterialien für die **Modulare Truppausbildung (
 
 ### ✅ Prüfungsvorbereitung
 
-- [Interaktives Quiz](quiz/index.html) mit 270+ echten Prüfungsfragen
+- [Interaktives Quiz](quiz/index.html) mit 250+ echten Prüfungsfragen
 - [Alle Fragen durchsehen](quiz/browse.html) (aufklappbar mit Erklärungen)
 - [Fragen nach Thema üben](pruefung/fragen.md) (Fragen den MTA-Modulen zugeordnet)
 

@@ -63,7 +63,7 @@ Die Zwischenprüfung (Thema 15) schließt das Basismodul ab. **Danach darfst du 
 
 Sie besteht laut Prüfungsnachweis und Fachinformation aus:
 
-1. **Schriftlicher Teil** – **50 Fragen**, jeweils ist genau **eine** Antwort richtig. Bestanden ab **50 %** richtigen Antworten. Wer bei einer Frage mehrere Antworten ankreuzt, bekommt dafür 0 Punkte. Hilfsmittel sind nicht erlaubt. → üben mit dem [Quiz](quiz/index.html)
+1. **Schriftlicher Teil** – **50 Fragen**, jeweils ist genau **eine** Antwort richtig. Bestanden ab **50 %** richtigen Antworten. Wer bei einer Frage mehrere Antworten ankreuzt, bekommt dafür 0 Punkte. Hilfsmittel sind nicht erlaubt. → üben mit dem [Quiz](quiz/index.html) (Fragenkatalog Zwischenprüfung, 193 Fragen)
 2. **Drei praktische Aufgaben** aus dem Aufgabenpool unten
 3. **Eine Sprechfunk-Aufgabe**
 
@@ -143,7 +143,7 @@ Die Abschlussprüfung beendet die MTA. Du zeigst darin, dass du als **Truppführ
 
 ### Schriftlicher Teil
 
-- **15 Fragen** zum sicheren Handeln als Truppführer, üben mit dem [Quiz](quiz/index.html) (Fragenkatalog Truppführer)
+- **15 Fragen** zum sicheren Handeln als Truppführer, üben mit dem [Quiz](quiz/index.html) (Fragenkatalog Abschlussprüfung, 60 Fragen – im Quiz immer als Mehrfachauswahl)
 - Bestanden, wenn mindestens **50 %** der Fragen richtig beantwortet sind. Hilfsmittel sind nicht erlaubt.
 - Es können **mehrere Antworten richtig** sein. Eine Frage zählt nur, wenn **alle richtigen** und **keine falsche** Antwort angekreuzt sind. Teilweise richtig gibt 0 Punkte.
 

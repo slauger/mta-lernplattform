@@ -3,7 +3,7 @@
 **Модулі MTA:** 5.5, 9.1, 9.2, 9.4 · **Основа:** FwDV 1 «Grundtätigkeiten» (базові дії), FwDV 3
 
 !!! abstract "Джерело"
-    Матеріали для учасників і інструкторів MTA 5.5 Schläuche und Armaturen – Theorie, матеріали для інструкторів MTA 5.6 Schläuche und Armaturen – Praxis, матеріали для учасників і інструкторів MTA 9.1 Löschwasserversorgung – Theorie, матеріали для інструкторів MTA 9.2 Löschwasserentnahme – Praxis, матеріали для інструкторів MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, матеріали для учасників і інструкторів MTA 9.3 Anwendung im Brandeinsatz, матеріали для інструкторів MTA 8 «Verhalten bei Gefahr», матеріали для учасників і інструкторів MTA 4.1 «Fahrzeugkunde – Theorie», а також фахова інформація «Feuerwehrfahrzeuge» (усі – SFS Würzburg / Feuerwehr-Lernbar), а також офіційний каталог питань (Fragenkatalog).
+    Матеріали для учасників і інструкторів MTA 5.5 Schläuche und Armaturen – Theorie, матеріали для інструкторів MTA 5.6 Schläuche und Armaturen – Praxis, матеріали для учасників і інструкторів MTA 9.1 Löschwasserversorgung – Theorie, матеріали для інструкторів MTA 9.2 Löschwasserentnahme – Praxis, матеріали для інструкторів MTA 9.4 Handhabung von Hohlstrahlrohren – Praxis, матеріали для учасників і інструкторів MTA 9.3 Anwendung im Brandeinsatz, матеріали для інструкторів MTA 8 «Verhalten bei Gefahr», матеріали для учасників і інструкторів MTA 4.1 «Fahrzeugkunde – Theorie», а також фахова інформація «Feuerwehrfahrzeuge» (усі – SFS Würzburg / Feuerwehr-Lernbar), а також офіційний каталог питань (Fragenkatalog; навчальний квіз Feuerwehr-Lernbar, стан на 20.11.2026).
     Додатково: [HLFS Hessen – Lernunterlage Löschgeräte, Schläuche, Armaturen (06/2020) (німецькою)](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2023-01/%284%29%20FB-Ausbilder_LernU_L%C3%B6schger%C3%A4te-Lernunterlage_Vers002.doc.pdf) (вказівна табличка, розгалуження, водозбірник) · [NLBK Niedersachsen – Lehrunterlage Maschinisten (німецькою)](https://www.nlbk.niedersachsen.de/download/48297) (висота всмоктування) · [UK RLP – Handlungshilfe Sichere und saubere Entnahme von Löschwasser (німецькою)](https://feuerwehr.ukrlp.de/fileadmin/ukrlp/daten/pdf/feuerwehr_portal/sicherheit_gesundheitsschutz/so_machts_die_feuerwehr/Handlungshilfe_Sichere_und_saubere_Entnahme_von_Loeschwasser.pdf) · [Gemeinde Brunnthal – Merkblatt Bedienung Unterflurhydrant (німецькою)](https://brunnthal.de/media/1707/merkblatt-bedienung-unterflurhydrant.pdf) · [Berliner Wasserbetriebe – WN 314 Hinweisschilder (in Anlehnung an DIN 4066) (німецькою)](https://www.bwb.de/werknormen/wn314_03-2018.pdf)
     Усі матеріали: [Feuerwehr-Lernbar – MTA Löscheinsatz (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz) і [Feuerwehr-Lernbar – MTA Löschgeräte, Schläuche und Armaturen (німецькою)](https://www.feuerwehr-lernbar.bayern/post/mta-loschgerate-schlauche-und-armaturen)
 
@@ -134,7 +134,7 @@
 **Вимкнення:** закрити гідрант · від'єднати напірний рукав · перевірити спуск води
 
 !!! info "Співмірність (Verhältnismäßigkeit)"
-    Тобі треба скористатися підземним гідрантом, на якому стоїть автомобіль? Тоді надземний гідрант за 100 м – кращий вибір, навіть якщо це трохи довше: **співмірність** діє для всіх заходів під час виїзду. Якщо ти береш інший гідрант, ніж наказано, **негайно повідом командира відділення** (Gruppenführer) про зміну ситуації.
+    Тобі треба скористатися підземним гідрантом, на якому стоїть автомобіль? Тоді надземний гідрант за 100 м – кращий вибір, навіть якщо це трохи довше: **співмірність** діє для всіх заходів під час виїзду. Якщо ти береш інший гідрант, ніж наказано, **негайно повідом командира підрозділу** (Einheitsführer) про зміну ситуації.
 
 ---
 
@@ -227,6 +227,7 @@
 
 - Рукави **після кожного використання чистити й сушити**.
 - **Мокрі** (використані) рукави **згортати одинарно** (einfach rollen), **сухі** (чисті) рукави **згортати подвійно** (doppelt rollen).
+- У каталозі питань: напірні рукави після використання **злити (entwässern) і згорнути одинарно** (не подвійно, не класти сушитися на сонце).
 - По можливості не тягнути по землі й через гострі кути, прокладати **без перегинів і перекручування**.
 - Рукавні лінії, що звисають, закріплювати **рукавним тримачем** (Schlauchhalter). Рукавні лінії **не можна прокладати по переносних драбинах або кріпити до них**.
 - Для переїзду через рукави використовувати **рукавні містки** (Schlauchbrücken): щонайменше **3 на кожен бік проїжджої частини** з відстанню **близько 1 м**. Тоді через них можуть переїжджати легкові й вантажні автомобілі з різною шириною колії.
@@ -354,6 +355,8 @@
 | Хто визначає кількість всмоктувальних рукавів? | **Командир водної ланки (Wassertruppführer)** |
 | Довжини рукавів B? | **5, 20, 35 м** |
 | Навіщо опорне коліно? | **Розвантажити ланку, зменшити сили віддачі на стволі B** |
+| Напірні рукави після використання? | **злити воду і згорнути одинарно** (entwässern und einfach rollen) |
+| Що можна регулювати на стволі з порожнистим струменем? | **витрату води і кут розпилення** (Durchflussmenge und Sprühwinkel) |
 
 ---
 

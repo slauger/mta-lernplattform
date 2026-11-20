@@ -3,7 +3,7 @@
 **MTA-Module:** 7.1, 7.2, 14.1 – 14.6 · **Grundlage:** MTA-Unterlagen der Staatlichen Feuerwehrschulen Bayerns, FwDV 810 „Sprech- und Datenfunkverkehr“
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“ und 7.2 „Hygiene im Einsatz“; Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 14.1 „Rechtsgrundlagen“, 14.2 „Grundlagen des Digitalfunks“, 14.3 „Gerätekunde und -bedienung“, 14.4 „Grundsätze des Sprechfunkbetriebes“, Ausbilderunterlagen und Arbeitsblätter 14.5/14.6 „Sprechfunkbetrieb – Übungen im TMO-/DMO-Betrieb“, Fachinformation Sprechfunk, Taschenkarten „Buchstabiertafel“ und „Funkrufnamen – Auszug“, praktische Zwischenprüfung (Aufgaben zum Sprechfunk) (alle Staatliche Feuerwehrschulen Bayerns), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 7.1 „Verhalten im Einsatz und in der Öffentlichkeit“ und 7.2 „Hygiene im Einsatz“; Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 14.1 „Rechtsgrundlagen“, 14.2 „Grundlagen des Digitalfunks“, 14.3 „Gerätekunde und -bedienung“, 14.4 „Grundsätze des Sprechfunkbetriebes“, Ausbilderunterlagen und Arbeitsblätter 14.5/14.6 „Sprechfunkbetrieb – Übungen im TMO-/DMO-Betrieb“, Fachinformation Sprechfunk, Taschenkarten „Buchstabiertafel“ und „Funkrufnamen – Auszug“, praktische Zwischenprüfung (Aufgaben zum Sprechfunk) (alle Staatliche Feuerwehrschulen Bayerns), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Verhalten im Einsatz und in der Öffentlichkeit](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Sprechfunk](https://www.feuerwehr-lernbar.bayern/post/mta-sprechfunk)
     Ergänzend: [§ 52 Abs. 3 StVZO](https://www.gesetze-im-internet.de/stvzo_2012/__52.html) (blaues Blinklicht) · [FwDV 7 „Atemschutz“](https://hlfs.hessen.de/sites/hlfs.hessen.de/files/2022-09/FwDV%207%20-%20Homepage.pdf) · [DGUV Information 205-035 „Hygiene und Kontaminationsvermeidung bei der Feuerwehr“](https://publikationen.dguv.de/regelwerk/informationen/3730/hygiene-und-kontaminationsvermeidung-bei-der-feuerwehr)
 
@@ -168,7 +168,7 @@ Der **Trupp bleibt stets zusammen** und beachtet die **Eigensicherung**.
 
 - Den **zugewiesenen Einsatzbereich** beachten.
 - **Andere Einheiten nicht behindern** – z. B. Wurfweite und -richtung des Löschwasserstrahls beachten.
-- Der Einheitsführer versucht, die Anzahl der Einsatzkräfte im **Gefahrenbereich** auf das **erforderliche Mindestmaß** zu reduzieren – um Infektionsgefahr und Eigengefährdung zu verringern.
+- Der Einheitsführer versucht, die Anzahl der Einsatzkräfte im **Gefahrenbereich** auf das **erforderliche Mindestmaß** zu reduzieren – um die **Eigengefährdung** der Einsatzkräfte (und die Infektionsgefahr) zu verringern.
 - Die **Einheit nicht ohne Zustimmung** des Einheitsführers verlassen.
 - Schutzkleidung (auch teilweise) **nur auf Weisung** des Einheitsführers ablegen.
 
@@ -351,10 +351,10 @@ Statusmeldungen (FMS) werden **nur im TMO** gesendet; die Statusinformation wird
 „Übungsdurchsage – Einsatzstelle an Betreiber übergeben, Fahrzeug rückt ein – kommen.“
 ```
 
-**4. Bestätigung und Ende:** Die aufnehmende Stelle bestätigt mit „**Verstanden**“ und schließt mit „**Ende**“.
+**4. Bestätigung und Ende:** Die aufnehmende Stelle bestätigt mit „**Verstanden**“ und schließt mit „**Ende**“ ab – ohne weitere Zusätze.
 
 ```
-„Verstanden, Ende.“
+„Verstanden – Ende.“
 ```
 
 **Sonderfälle:**
@@ -378,11 +378,11 @@ Statusmeldungen (FMS) werden **nur im TMO** gesendet; die Statusinformation wird
 
 !!! tip "Prüfungswissen"
     - Eröffnet wird der Sprechfunkverkehr durch den **Anruf**.
-    - Die Anrufantwort lautet: **„Hier (Rufname), kommen!“**
-    - Beendet wird das Gespräch mit **„Ende“**, ohne weitere Zusätze.
+    - Die Anrufantwort lautet: **„Hier (eigener Rufname), kommen!“**
+    - Beendet wird das Gespräch mit **„Verstanden – Ende“**, ohne weitere Zusätze.
     - Versprochen? Dann sag **„ich berichtige“** und die richtige Angabe: „… in einer Stunde – **ich berichtige** – in einer halben Stunde …“
     - Eine Nachricht **eigenmächtig zu ändern** ist **verboten**.
-    - Schlechte Verbindung? Dann **Standort verändern**.
+    - Schlechte Funkverbindung zum Einheitsführer? Erste Maßnahme: **Standort verändern und Anruf wiederholen**.
     - „Hört“ ist **kein** Betriebswort.
 
 ### Nachrichtenarten
@@ -402,6 +402,8 @@ Eine **Lagemeldung** wird abgesetzt, wenn die Lage **erkundet** wurde oder sich 
 2. **Lage** – Was ist hier los?
 3. **Maßnahmen** – Was habe ich getan?
 4. **Zeit- und Kräftebedarf** – Was brauche ich noch?
+
+Im Fragenkatalog (Abschlussprüfung) ist die Lagemeldung ausführlicher gefasst: **Meldender, Einsatzort, Lageschilderung, durchgeführte Maßnahmen, eingesetzte Einheiten, Nachforderung**. Das entspricht dem Beispiel der Unterlage: „Lagemeldung von Zugführer Löschzug 2: Bahnhofstraße 12, Zimmerbrand im 1. OG, 2 PA und 1 C-Rohr im Einsatz, Feuer in Gewalt, keine weiteren Kräfte.“
 
 **Weitere Rückmeldungen** (in der Regel auf Weisung der Führungskraft): **Ausrückemeldung**, **Eintreffmeldung**, **Nachforderung**, **Schlussmeldung**, **Bereitmeldung**, **Einrückmeldung**.
 
@@ -426,7 +428,7 @@ Eine **Lagemeldung** wird abgesetzt, wenn die Lage **erkundet** wurde oder sich 
 
 - **Funkwellen** breiten sich **geradlinig, fast wie Lichtstrahlen** aus. Für eine gesicherte Verbindung braucht es deshalb eine quasi optische Sichtverbindung.
 - Durch **Reflexion** (z. B. an Gebäuden oder Geländeformationen) ist Empfang aber auch ohne Sichtverbindung möglich.
-- Im Fragenkatalog heißt es dazu: **UKW-Funkwellen** breiten sich **fast genauso aus wie Lichtstrahlen**.
+- Das gilt auch für **UKW-Funkwellen**: Sie breiten sich **fast genauso aus wie Lichtstrahlen**.
 - Mit zunehmender Entfernung und beim Durchdringen von Materialien (z. B. Wände) werden die Wellen **schwächer**. Die **Reichweite** hängt ab von **Bebauung, Geländeform** und gegebenenfalls **Witterung** – dazu zählen auch bauliche Verhältnisse wie Stahlbetonbauten, Metallfassaden oder Tunnelanlagen.
 - Im Digitalfunk bricht die Verbindung **ohne Vorankündigung** ab. Oft hilft schon eine **Körperdrehung oder ein geringfügiger Standortwechsel**.
 
@@ -451,7 +453,7 @@ Eigennamen und schwer verständliche Wörter werden buchstabiert. Im BOS-Funk gi
 | I | Ida | Ü | Übermut |
 | J | Julius | V | Viktor |
 | K | Kaufmann | W | Wilhelm |
-| L | Ludwig | X | Xanthippe (im Fragenkatalog „Xantippe“) |
+| L | Ludwig | X | Xanthippe |
 | M | Martha | Y | Ypsilon |
 | | | Z | Zacharias |
 
@@ -653,7 +655,7 @@ Jeder soll dabei seine Sichtweise darstellen können.
 | **Einsatzstelle** | Ruhe bewahren, kein Handeln ohne Auftrag |
 | **Einsatzbefehl** | Einheit – Auftrag – Mittel – Ziel – Weg; sinngemäß wiederholen |
 | **Trupp** | Bleibt stets zusammen, beachtet die Eigensicherung |
-| **Funkgespräch** | Anruf („… von …, kommen“) – Anrufantwort („Hier …, kommen“) – Nachricht – „Verstanden, Ende“ |
+| **Funkgespräch** | Anruf („… von …, kommen“) – Anrufantwort („Hier …, kommen“) – Nachricht – „Verstanden – Ende“ |
 | **Hygiene** | Grobreinigung vor Ort, Schwarz-/Weiß-Trennung, verschmutzte Kleidung nicht in die Mannschaftskabine |
 | **Öffentlichkeit** | Keine Auskünfte an Medien, Fotos nur mit Zustimmung des Einsatzleiters |
 
@@ -670,8 +672,8 @@ Jeder soll dabei seine Sichtweise darstellen können.
 ??? question "3. Zu welcher Seite sitzt die Mannschaft an der Einsatzstelle ab?"
     **Antwort:** Zur verkehrsabgewandten Seite (wenn der Einheitsführer nichts anderes anordnet)
 
-??? question "4. Welche Einsatzgrundsätze gelten beim Vorgehen eines Angriffstrupps?"
-    **Antwort:** Trupp bleibt zusammen und beachtet die Eigensicherung
+??? question "4. Welche Einsatzgrundsätze gelten beim Vorgehen eines Trupps?"
+    **Antwort:** Der Trupp bleibt in der Regel zusammen und beachtet die Eigensicherung
 
 ??? question "5. Was bedeutet 'Kommen' im Funkverkehr?"
     **Antwort:** Aufforderung zur Antwort – ich erwarte eine Antwort

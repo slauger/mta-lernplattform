@@ -3,7 +3,7 @@
 **MTA-Module:** 5.7, 5.8, 11.1 – 11.7, 13 · **Grundlage:** FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“
 
 !!! abstract "Quelle"
-    Ausbilderunterlagen MTA 11.1 „Einheiten im Hilfeleistungseinsatz – Theorie“ (mit Folien und Arbeitsblatt), 11.2 – 11.4 „Praxis 1–3“ und 11.5 – 11.7 „Einsatzübung 1–3“; Ausbilderunterlagen MTA 5.7 „Geräte für die einfache Hilfeleistung“ und 5.8 „Geräte für die erweiterte Hilfeleistung“; Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 13 „Fahrzeugtechnik (alternative Antriebe)“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Ausbilderunterlagen MTA 11.1 „Einheiten im Hilfeleistungseinsatz – Theorie“ (mit Folien und Arbeitsblatt), 11.2 – 11.4 „Praxis 1–3“ und 11.5 – 11.7 „Einsatzübung 1–3“; Ausbilderunterlagen MTA 5.7 „Geräte für die einfache Hilfeleistung“ und 5.8 „Geräte für die erweiterte Hilfeleistung“; Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 13 „Fahrzeugtechnik (alternative Antriebe)“ (alle SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Einheiten im Hilfeleistungseinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-hilfeleistungseinsatz) · [Feuerwehr-Lernbar – Gerätekunde Hilfeleistung](https://www.feuerwehr-lernbar.bayern/post/geratekunde-hilfeleistung) · [Feuerwehr-Lernbar – Fahrzeugtechnik](https://www.feuerwehr-lernbar.bayern/post/mta-fahrzeugtechnik)
     Ergänzend: [FwDV 1 „Grundtätigkeiten – Lösch- und Hilfeleistungseinsatz“, Abschnitt 19 „Sichern von Einsatzstellen gegen fließenden Verkehr“, Ausgabe 2006/2007 (Feuerwehr-Lernbar – Feuerwehr-Dienstvorschriften)](https://www.feuerwehr-lernbar.bayern/post/fwdv) · [StVO § 11 Abs. 2 (Rettungsgasse)](https://www.gesetze-im-internet.de/stvo_2013/__11.html) · [DGUV Information 205-022 „Sicherheit und Gesundheit bei Lösch- und Rettungsarbeiten an Kraftfahrzeugen mit Hochvoltspeicher“ (Ausgabe 2026)](https://publikationen.dguv.de/regelwerk/dguv-informationen/2595/sicherheit-und-gesundheit-bei-loesch-und-rettungsarbeiten-an-kraftfahrzeugen-mit-hochvoltspeicher) und deren Vorgängerfassung [GUV-I 8664 (2012)](https://umwelt-online.de/recht/arbeitss/uvv/bgi8000/8664a.htm), auf die die MTA-Unterlage 13 zur AUTO-Regel verweist
 
@@ -123,14 +123,14 @@ So läuft der Einsatz im Beispiel der Ausbildungsunterlage ab:
 
 1. **Anfahrt:** Der Gruppenführer befiehlt ggf. „Warnkleidung anlegen!“. Der Maschinist schaltet die Warnblinkanlage ein. Die Mannschaft sitzt zur verkehrsabgewandten Seite ab und tritt vor dem Fahrzeug an.
 2. **Erkundung:** Der Gruppenführer erkundet zusammen mit dem **Melder**. Der Melder nimmt ein **Kleinlöschgerät** zur Sicherung gegen Brandgefahr mit und übernimmt die **Betreuung** der eingeklemmten Person.
-3. **Angriffstrupp:** rüstet sich mit Infektionsschutzhandschuhen, Verbandkasten und Krankenhausdecke aus, geht vor und leistet **Erste Hilfe**, z. B. **Vitalfunktionen prüfen**, Atemwege freilegen, Blutungen stillen, beruhigend zureden.
+3. **Angriffstrupp:** rüstet sich mit Infektionsschutzhandschuhen, Verbandkasten und Krankenhausdecke aus, geht vor und leistet **Erste Hilfe**, z. B. die Person **ansprechen**, **Vitalfunktionen prüfen**, Atemwege freilegen, Blutungen stillen, beruhigend zureden.
 4. **Wassertrupp:** sichert die Einsatzstelle gegen den Verkehr (Warndreiecke, Warnleuchten, Leitkegel) und übernimmt weitere Sicherungsaufgaben, z. B. **Unterbauen des Fahrzeugs** oder **Brandschutz mit Schnellangriff**.
 5. **Schlauchtrupp:** bringt Geräte wie Spreizer und Schneidgerät mit Motorpumpe zur **Ablagefläche für Einsatzmittel**, stellt die hydraulischen Verbindungen her und unterstützt den Angriffstrupp.
 6. **Befreiung:** In **Absprache mit dem Rettungsdienst** legt der Gruppenführer fest, ob z. B. mit dem Spreizer die Tür geöffnet oder mit dem Schneidgerät das Dach abgetrennt wird. Nach der Rettung übernimmt der Rettungsdienst die weitere Versorgung.
 7. **Übergabe:** Sind alle Gefahren beseitigt bzw. gesichert, übergibt die Feuerwehr die Einsatzstelle an die **Polizei**.
 
 !!! warning "Fahrzeug noch nicht gesichert?"
-    Ist das Fahrzeug **noch nicht gesichert** und könnte abrutschen, beginnt die Betreuung **sofort von außerhalb**. Nicht einsteigen!
+    Ist das Fahrzeug **noch nicht gesichert** und könnte abrutschen, beginnt die Betreuung **sofort von außerhalb** – sofern du dich dadurch nicht selbst in Gefahr bringst. **Nicht einsteigen**, bevor das Fahrzeug gegen Wegrollen und Wegrutschen gesichert ist!
 
 ### Fahrzeug sichern
 
@@ -242,9 +242,10 @@ Alternative Antriebe bedeuten Mobilität mit wenig oder keiner Abhängigkeit vom
 ### Woran erkenne ich den Antrieb?
 
 - **Fahrzeugbeschriftung**, z. B. „LPG“, „BiFuel“, „Flüssiggas“, „Autogas“, „CNG“, „EcoFuel“, „H2“, „Hydrogen“, „FuelCell“, „Hybrid“, „e-tron“
-- **Rettungskarte** im Fahrzeug, unter der **Sonnenblende**
+- **Rettungskarte** (im Fragenkatalog „Rettungsdatenblatt“) im Fahrzeug, unter der **Sonnenblende**
 - **Tankdeckel-Innenseite**, z. B. ein zusätzlicher Einfüllstutzen oder eine Ladesteckdose
 - **Motorraum**: **orangefarbene Kabel** bei Hybrid- und Elektrofahrzeugen
+- **Fahrzeugunterseite**: z. B. Druckgasbehälter oder Hochvolt-Batterie am Unterboden
 - Zusätzliche Tankfüllstands- bzw. Ladeanzeige, Umschalter zwischen Gas und Benzin
 - Hellblaue oder grüne Applikationen, besondere Bauform, Kennzeichen mit **„E“** am Ende (möglich, aber nicht bei allen)
 - Bei Wasserstoff: durchsichtige Türverriegelungspins, die bei Gasaustritt **rot blinken**
@@ -304,17 +305,17 @@ Bei erkennbarem Gasaustritt oder Brand gilt die **GAMS-Regel**: **G**efahr erken
 | Aufgabe des Wassertrupps in der technischen Hilfeleistung? | **Sicherung**, z. B. gegen Brandgefahr |
 | Aufgabe des Schlauchtrupps in der technischen Hilfeleistung? | **Gerätebereitstellung** |
 | Absitzen auf öffentlichen Verkehrsflächen? | **Auf Befehl zur verkehrsabgewandten Seite** |
-| Fahrzeug nicht gesichert, Person eingeklemmt? | **Betreuung sofort von außerhalb** |
-| Erste Maßnahme bei „Versorgung der Person im PKW“? | **Vitalfunktionen überprüfen** |
+| Fahrzeug nicht gesichert, Person eingeklemmt? | **Betreuung sofort von außerhalb** (ohne Eigengefährdung); einsteigen erst, wenn das Fahrzeug gegen Wegrollen/-rutschen gesichert ist |
+| Erste Maßnahme bei „Versorgung der Person im PKW“? | **Person ansprechen und Vitalfunktionen überprüfen** |
 | Welcher Batteriepol zuerst? | **Minuspol** |
 | Unterbauen vor der Befreiung? | **mindestens A- und B-Säule**, gegen Wegrollen sichern |
-| Brechstange? | **Hebel**, Gesichtsschutz, Klaue nicht zum Stoßen, Last unterbauen |
-| Einreißhaken? | **Gesichtsschutz erforderlich** |
+| Brechstange? | **Anheben von Lasten und Öffnen von Türen** (Hebelwirkung bestmöglich ausnutzen), Gesichtsschutz, Last durch Unterbauen sichern |
+| Einreißhaken? | **Gesichtsschutz erforderlich**, Arbeitsbereich von Personen freihalten |
 | Tauchpumpe? | **Auspumpen überfluteter Keller, Schächte, Gruben und Behälter** |
 | Erweiterte technische Hilfeleistung verladen auf? | **HLF** |
 | Warndreieck außerorts mit Gegenverkehr? | **ca. 200 m** |
 | Rettungsgasse? | **links ganz nach links, alle anderen nach rechts** |
-| Wo finde ich Hinweise auf den Antrieb? | **Rettungskarte (Sonnenblende), Tankdeckel-Innenseite, Motorraum** |
+| Wo finde ich Hinweise auf den Antrieb? | **Rettungskarte/Rettungsdatenblatt (Sonnenblende), Tankdeckel-Innenseite, Motorraum, Fahrzeugunterseite** |
 | Gas-Pkw verunfallt? | **Weiträumig sperren, Motor abstellen, Gasabsperrventil schließen** |
 
 ---

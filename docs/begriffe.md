@@ -1,7 +1,7 @@
 # Begriffe & Abkürzungen
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen MTA Basismodul (SFS Würzburg), [BayFwG](https://www.gesetze-bayern.de/Content/Document/BayFwG), offizieller Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen MTA Basismodul (SFS Würzburg), [BayFwG](https://www.gesetze-bayern.de/Content/Document/BayFwG), offizieller Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation)
     Ergänzend: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (Stand 2008)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm), FwDV 7 „Atemschutz“ (Stand 2002 mit Änderungen 2005, z. B. [hier als PDF](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), Merkblatt für die Feuerwehren Bayerns [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Brandklassen-Beispiele nach DIN EN 2), [DIN 14811](https://www.dinmedia.de/de/norm/din-14811/101847000).
 
@@ -474,7 +474,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ## J
 
 ### Jugendfeuerwehr
-**Erklärung:** Minderjährige können vom vollendeten 12. bis zum vollendeten 18. Lebensjahr als Feuerwehranwärter Feuerwehrdienst leisten und zu Jugendgruppen zusammengefasst werden. Für Kinder ab 6 Jahren können Kindergruppen gebildet werden.
+**Erklärung:** Minderjährige können vom vollendeten 12. bis zum vollendeten 18. Lebensjahr als Feuerwehranwärter Feuerwehrdienst leisten und zu Jugendgruppen zusammengefasst werden. Für Kinder ab 6 Jahren können Kindergruppen gebildet werden. Das Mindestalter für die Aufnahme in die Freiwillige Feuerwehr als gemeindliche Einrichtung beträgt damit **6 Jahre** (Art. 7 Abs. 1 BayFwG; so auch die Antwort im Fragenkatalog).
 
 **Beispiel:** In der Jugendfeuerwehr betreut dich der Jugendwart, und du nimmst an Ausbildungsveranstaltungen teil.
 

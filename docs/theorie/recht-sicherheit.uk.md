@@ -3,7 +3,7 @@
 **Модулі MTA:** 2.1, 2.2 · а також правила безпеки з 5.1, 7.1, 7.2, 8, 9.5 і 10.1
 
 !!! abstract "Джерело"
-    Матеріали для учасників і для інструктора (Teilnehmer- und Ausbilderunterlagen), а також презентації MTA 2.1 „Organisation der Feuerwehr“ («Організація пожежної охорони») і MTA 2.2 „Rechte und Pflichten, Satzungen der Feuerwehr“ («Права та обов'язки, статути пожежної команди»), фахова інформація „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“ («Участь кандидатів у пожежники від повних 16 до повних 18 років у виїздах пожежної команди»), пам'ятка 1.009 „Versicherungsschutz“ («Страховий захист»), для правил безпеки – матеріали MTA 5.1 „PSA“, 7.1 „Verhalten im Einsatz“, 7.2 „Hygiene im Einsatz“, 8 „Verhalten bei Gefahr“, 9.5 „Einheiten im Löscheinsatz“ і 10.1 „Sichern gegen Absturz“ (усі SFS Würzburg), офіційний текст BayFwG (редакція липня 2025), а також офіційний каталог питань (Fragenkatalog).
+    Матеріали для учасників і для інструктора (Teilnehmer- und Ausbilderunterlagen), а також презентації MTA 2.1 „Organisation der Feuerwehr“ («Організація пожежної охорони») і MTA 2.2 „Rechte und Pflichten, Satzungen der Feuerwehr“ («Права та обов'язки, статути пожежної команди»), фахова інформація „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“ («Участь кандидатів у пожежники від повних 16 до повних 18 років у виїздах пожежної команди»), пам'ятка 1.009 „Versicherungsschutz“ («Страховий захист»), для правил безпеки – матеріали MTA 5.1 „PSA“, 7.1 „Verhalten im Einsatz“, 7.2 „Hygiene im Einsatz“, 8 „Verhalten bei Gefahr“, 9.5 „Einheiten im Löscheinsatz“ і 10.1 „Sichern gegen Absturz“ (усі SFS Würzburg), офіційний текст BayFwG (редакція липня 2025), а також офіційний каталог питань (Fragenkatalog; навчальний тест Feuerwehr-Lernbar, станом на 20.11.2026).
     Усі матеріали (німецькою): [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Verhalten im Einsatz](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr)
     Додатково (німецькою): [§ 38 StVO](https://www.gesetze-im-internet.de/stvo_2013/__38.html) · [KUVB-Information zur DGUV Vorschrift 49 „Feuerwehren“ (2019)](https://www.kfv-landsberg.net/phocadownload/fb2/Die_neue_Unfallverhtungsvorschrift__2019-01-23_.pdf) · [Bekanntmachung zur FwDV 100 in Bayern](https://www.gesetze-bayern.de/Content/Document/BayVwV96946/true) · [brandwacht 4/2022 „Hygiene bei der Feuerwehr“](https://www.brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_4_2022_s142_144_einsatzhygiene.pdf)
 
@@ -72,7 +72,7 @@ BayFwG поділений на **статті (Artikel)**, а не на пара
 #### Інші основи з BayFwG (важливо для іспиту) (Weitere Grundlagen aus dem BayFwG, prüfungsrelevant) {#weitere-grundlagen-aus-dem-bayfwg-prufungsrelevant}
 
 - **Види пожежних команд:** добровільна пожежна команда (Freiwillige Feuerwehr), обов'язкова пожежна команда (Pflichtfeuerwehr), професійна пожежна команда (Berufsfeuerwehr) (пожежні команди громади) і заводська пожежна команда (Werkfeuerwehr) (ст. 4 абз. 1). Пожежні команди громади – це **публічні установи громади**.
-- **Мінімальний вік** для вступу до добровільної пожежної команди: **12 років** (як кандидат у пожежники, Feuerwehranwärter, ст. 7 абз. 2; така відповідь на екзамені – дитячі групи (Kinderfeuerwehr) можливі вже з 6 років, ст. 7 абз. 1). Приймає **командир (Kommandant)** (ст. 6 абз. 3).
+- **Мінімальний вік** для вступу до добровільної пожежної команди як установи громади: **6 років** (дитячі групи (Kindergruppen) від повних 6 років, ст. 7 абз. 1; така ж відповідь у каталозі питань – не 12, 14 чи 16). **Кандидатом у пожежники (Feuerwehranwärter)** є особа від повних **12** до повних **18 років** (ст. 7 абз. 2). Приймає **командир (Kommandant)** (ст. 6 абз. 3).
 - **Участь у виїздах** кандидатів у пожежники: має бути завершений **базовий модуль (Basismodul)**, їм має бути **щонайменше 16 років**, і **командир має дати згоду**. На виклику їх **закріплюють за досвідченим пожежником** і залучають лише **поза безпосередньою зоною небезпеки**.
 - **Вибори командира:** право голосу мають усі пожежники (Feuerwehrdienstleistende) і кандидати в пожежники **від 16 років** (ст. 8 абз. 2). **Активне виборче право** означає: я можу голосувати. **Пасивне виборче право** означає: мене можуть обрати.
 - **Звання** (рядові та командні, Mannschafts- und Führungsdienstgrade) присвоює **командир** (ст. 8 абз. 1).
@@ -571,7 +571,7 @@ BayFwG поділений на **статті (Artikel)**, а не на пара
     **Відповідь:** Під час виїздів, навчань і підготовки
 
 ??? question "11. Який у тебе обов'язок під час тривоги?"
-    **Відповідь:** Негайно прибути до пожежного депо (Gerätehaus)
+    **Відповідь:** Негайно прибути до пожежного депо (Feuerwehrhaus)
 
 ??? question "12. Ти не можеш прийти на навчання. Що ти робиш?"
     **Відповідь:** Попереджаєш командира (Kommandant) або найближчого керівника (по можливості до початку служби)

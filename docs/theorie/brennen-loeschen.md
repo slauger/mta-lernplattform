@@ -3,7 +3,7 @@
 **MTA-Module:** 3, 5.3, 9.3 · **Grundlage:** Merkblätter 5.01 „Brennen und Löschen“ und 5.02 „Löschmittel – Löschverfahren“ der SFS Würzburg
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 3 „Brennen und Löschen“, Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.3 „Löschen – Anwendung im Brandeinsatz“, Teilnehmer- und Ausbilderunterlage MTA 5.3 „Löschgeräte – Theorie“ (Feuerlöscher), Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“ (Strahlrohrabstände, Atemgifte), Teilnehmerunterlage MTA 7.2 „Hygiene im Einsatz“ (Brandrauch) und Zwischenprüfung Praktischer Teil, Aufgabe 3 (alle SFS Würzburg), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 3 „Brennen und Löschen“, Teilnehmer- und Ausbilderunterlage sowie Präsentation MTA 9.3 „Löschen – Anwendung im Brandeinsatz“, Teilnehmer- und Ausbilderunterlage MTA 5.3 „Löschgeräte – Theorie“ (Feuerlöscher), Ausbilderunterlage MTA 8 „Verhalten bei Gefahr“ (Strahlrohrabstände, Atemgifte), Teilnehmerunterlage MTA 7.2 „Hygiene im Einsatz“ (Brandrauch) und Zwischenprüfung Praktischer Teil, Aufgabe 3 (alle SFS Würzburg), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Brennen und Löschen](https://www.feuerwehr-lernbar.bayern/post/brennen-und-loschen) und [Feuerwehr-Lernbar – MTA Löscheinsatz](https://www.feuerwehr-lernbar.bayern/post/mta-loscheinsatz)
     Ergänzend: Merkblätter für die Feuerwehren Bayerns [5.001 „Brennen und Löschen“](https://grafing.feuerwehren.bayern/media/filer_public/d5/d3/d5d38b0d-77ba-45a7-95b5-975d31e3d3fd/brennen_und_loeschen_version-40.pdf) (Version 4.1), [5.002 „Löschmittel – Löschverfahren“](https://grafing.feuerwehren.bayern/media/filer_public/98/e1/98e1ae01-4ce8-4355-ae69-bd6cab072533/loschmittel-loschverfahren.pdf) (Version 4.1) und [8.012 „Tragbare Feuerlöscher“](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (Version 4.1, Brandklassen-Beispiele nach DIN EN 2), alle SFS Würzburg.
 
@@ -125,7 +125,7 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 - Löschverfahren im Regelfall: **Abkühlen**
 
 !!! success "Prüfungsantwort"
-    Für Brände fester, glutbildender Stoffe ist der **Wasserlöscher** besonders geeignet. Wirkungsvoll sind außerdem Schaumlöscher und Pulverlöscher mit Glutbrandpulver.
+    Für Brände fester, glutbildender Stoffe nennt der Fragenkatalog den **Schaumlöscher** als besonders geeignet. Wirkungsvoll sind außerdem Nasslöscher (Wasserlöscher) und Pulverlöscher mit Glutbrandpulver, nicht aber Pulverlöscher mit Flammbrandpulver (BC).
 
 ---
 
@@ -165,6 +165,7 @@ Brandklassen erleichtern die **Zuordnung der Löschmittel** zu den brennbaren St
 - Löschen meist schwierig wegen starker Wärmestrahlung, sehr hoher Verbrennungstemperatur und sehr greller Flamme
 - Löschmittel: **D-Löschpulver**, trockener **Sand** oder **Zement** (Ersticken durch Abdecken)
 - Brennende Magnesiumspäne lassen sich weder mit ABC-Pulver noch mit CO₂ löschen, nur mit D-Pulver.
+- Auch **Schaum** ist für Brandklasse D kein Löschmittel. Verwendet werden dürfen Sand, D-Löschpulver und Zement.
 
 !!! danger "Kein Wasser auf Metallbrände!"
     Bei Bränden der Brandklasse D darf **kein Wasser** als Löschmittel verwendet werden. Bei den sehr hohen Verbrennungstemperaturen reagiert Wasser heftig mit dem brennenden Metall, dabei wird brennbarer **Wasserstoff** abgespalten. Es besteht die Gefahr einer **Knallgasexplosion**.
@@ -343,6 +344,7 @@ Beide Pulver werden mit tragbaren Feuerlöschern, fahrbaren Geräten und ortsfes
 
 !!! danger "Lebensgefahr!"
     CO₂ ist **toxisch**. Es verdrängt den Sauerstoff und wirkt zusätzlich über die Steuerung der Atmung: Bei leicht erhöhter Konzentration steigt die Atemfrequenz, bei hoher Konzentration kommt es bis zum **Atemstillstand**.
+    Im Fragenkatalog gilt: CO₂ ist **nicht „ungiftig“**, sondern **bei zu hoher Konzentration giftig**. Es entsteht **bei jeder Verbrennung** (anders als CO, das bei unvollkommener Verbrennung entsteht).
 
 ---
 
@@ -376,7 +378,7 @@ Beide Pulver werden mit tragbaren Feuerlöschern, fahrbaren Geräten und ortsfes
 
 - Gemäß Herstellerangaben (Brandklasseneignung, Warnhinweise) einsetzen
 - Bei Inbetriebnahme keine Körperteile in Wirkrichtung des Löschstrahls
-- Nach dem Einsatz den Feuerlöscher **auf den Kopf stellen und drucklos machen**. Gebrauchte Löscher werden zur Befüllung und Prüfung abgegeben. Die Einsatzbereitschaft stellt nur ein Sachkundiger (z. B. Fachfirma) wieder her.
+- Nach dem Einsatz den Feuerlöscher **auf den Kopf stellen und drucklos machen** und den **Einheitsführer informieren**, damit eine Füllung bzw. Überprüfung veranlasst wird. Gebrauchte Löscher werden zur Befüllung und Prüfung abgegeben. Die Einsatzbereitschaft stellt nur ein Sachkundiger (z. B. Fachfirma) wieder her.
 - Regelmäßige Überprüfung (mind. alle 2 Jahre)
 
 !!! info "Praktische Zwischenprüfung"
@@ -591,7 +593,7 @@ Gefahr: Die Person läuft in Panik davon.
     **Antwort:** Das Wasser verdampft schlagartig (1 l Wasser ergibt ca. 1.700 l Dampf). Es droht eine Fettexplosion.
 
 ??? question "4. Welcher Feuerlöscher ist für Brände fester glutbildender Stoffe besonders geeignet?"
-    **Antwort:** Der Wasserlöscher (Löschverfahren Abkühlen).
+    **Antwort:** Laut Fragenkatalog der Schaumlöscher. Wirkungsvoll sind auch Nasslöscher (Wasserlöscher, Löschverfahren Abkühlen) und Pulverlöscher mit Glutbrandpulver.
 
 ??? question "5. Was passiert bei einer Rauchexplosion (Backdraft)?"
     **Antwort:** In einem geschlossenen Raum hat das Feuer den Sauerstoff verbraucht, Pyrolysegase und Wärme haben sich gestaut. Gelangt beim Öffnen Luft hinein, zündet der Rauch schlagartig durch, mit Flammenfront, Temperaturerhöhung und Druckwelle.

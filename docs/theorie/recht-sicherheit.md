@@ -3,7 +3,7 @@
 **MTA-Module:** 2.1, 2.2 · dazu Sicherheitsregeln aus 5.1, 7.1, 7.2, 8, 9.5 und 10.1
 
 !!! abstract "Quelle"
-    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 2.1 „Organisation der Feuerwehr“ und MTA 2.2 „Rechte und Pflichten, Satzungen der Feuerwehr“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Merkblatt 1.009 „Versicherungsschutz“, für die Sicherheitsregeln die Unterlagen MTA 5.1 „PSA“, 7.1 „Verhalten im Einsatz“, 7.2 „Hygiene im Einsatz“, 8 „Verhalten bei Gefahr“, 9.5 „Einheiten im Löscheinsatz“ und 10.1 „Sichern gegen Absturz“ (alle SFS Würzburg), der amtliche Text des BayFwG (Stand Juli 2025), dazu der offizielle Fragenkatalog.
+    Teilnehmer- und Ausbilderunterlagen sowie Präsentationen MTA 2.1 „Organisation der Feuerwehr“ und MTA 2.2 „Rechte und Pflichten, Satzungen der Feuerwehr“, Fachinformation „Teilnahme von Feuerwehranwärtern vom vollendeten 16. bis zum vollendeten 18. Lebensjahr an Einsätzen der Feuerwehr“, Merkblatt 1.009 „Versicherungsschutz“, für die Sicherheitsregeln die Unterlagen MTA 5.1 „PSA“, 7.1 „Verhalten im Einsatz“, 7.2 „Hygiene im Einsatz“, 8 „Verhalten bei Gefahr“, 9.5 „Einheiten im Löscheinsatz“ und 10.1 „Sichern gegen Absturz“ (alle SFS Würzburg), der amtliche Text des BayFwG (Stand Juli 2025), dazu der offizielle Fragenkatalog (Übungs-Quiz der Feuerwehr-Lernbar, Stand 20.11.2026).
     Alle Unterlagen: [Feuerwehr-Lernbar – Rechtsgrundlagen und Organisation](https://www.feuerwehr-lernbar.bayern/post/rechtsgrundlagen-und-organisation) · [Feuerwehr-Lernbar – Verhalten im Einsatz](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-im-einsatz-und-in-der-offentlichkeit) · [Feuerwehr-Lernbar – Verhalten bei Gefahr](https://www.feuerwehr-lernbar.bayern/post/mta-verhalten-bei-gefahr)
     Ergänzend: [§ 38 StVO](https://www.gesetze-im-internet.de/stvo_2013/__38.html) · [KUVB-Information zur DGUV Vorschrift 49 „Feuerwehren“ (2019)](https://www.kfv-landsberg.net/phocadownload/fb2/Die_neue_Unfallverhtungsvorschrift__2019-01-23_.pdf) · [Bekanntmachung zur FwDV 100 in Bayern](https://www.gesetze-bayern.de/Content/Document/BayVwV96946/true) · [brandwacht 4/2022 „Hygiene bei der Feuerwehr“](https://www.brandwacht.bayern.de/mam/archiv/beitraege_pdf/bw_4_2022_s142_144_einsatzhygiene.pdf)
 
@@ -72,7 +72,7 @@ Außerdem gilt nach **Art. 4 Abs. 2**:
 #### Weitere Grundlagen aus dem BayFwG (prüfungsrelevant)
 
 - **Arten von Feuerwehren:** Freiwillige Feuerwehr, Pflichtfeuerwehr, Berufsfeuerwehr (gemeindliche Feuerwehren) und Werkfeuerwehr (Art. 4 Abs. 1). Die gemeindlichen Feuerwehren sind **öffentliche Einrichtungen der Gemeinde**.
-- **Mindestalter** für die Aufnahme in die Freiwillige Feuerwehr: **12 Jahre** (als Feuerwehranwärter, Art. 7 Abs. 2; so die Prüfungsantwort – Kindergruppen sind schon ab 6 Jahren möglich, Art. 7 Abs. 1). Aufgenommen wird man vom **Kommandanten** (Art. 6 Abs. 3).
+- **Mindestalter** für die Aufnahme in die Freiwillige Feuerwehr als gemeindliche Einrichtung: **6 Jahre** (Kindergruppen ab dem vollendeten 6. Lebensjahr, Art. 7 Abs. 1; so auch die Antwort im Fragenkatalog – nicht 12, 14 oder 16). **Feuerwehranwärter** ist man vom vollendeten **12.** bis zum vollendeten **18. Lebensjahr** (Art. 7 Abs. 2). Aufgenommen wird man vom **Kommandanten** (Art. 6 Abs. 3).
 - **Einsatzteilnahme** von Feuerwehranwärtern: Das **Basismodul** muss abgeschlossen sein, sie müssen **mindestens 16 Jahre** alt sein, und der **Kommandant muss zustimmen**. Im Einsatz werden sie einem **erfahrenen Feuerwehrdienstleistenden zugeordnet** und nur **außerhalb des unmittelbaren Gefahrenbereichs** eingesetzt.
 - **Kommandantenwahl:** Wahlberechtigt sind alle Feuerwehrdienstleistenden und Feuerwehranwärter **ab 16 Jahren** (Art. 8 Abs. 2). **Aktives Wahlrecht** heißt: Ich darf wählen. **Passives Wahlrecht** heißt: Ich kann gewählt werden.
 - **Dienstgrade** (Mannschafts- und Führungsdienstgrade) ernennt der **Kommandant** (Art. 8 Abs. 1).
@@ -571,7 +571,7 @@ Mit dem Privatfahrzeug gibt es **kein Wegerecht**, weil andere Verkehrsteilnehme
     **Antwort:** Bei Einsätzen, Übungen und Ausbildung
 
 ??? question "11. Welche Pflicht hast du bei Alarm?"
-    **Antwort:** Unverzüglich am Gerätehaus einfinden
+    **Antwort:** Unverzüglich am Feuerwehrhaus einfinden
 
 ??? question "12. Du kannst nicht zur Übung kommen. Was tust du?"
     **Antwort:** Dich beim Kommandanten oder nächsten Vorgesetzten entschuldigen (möglichst vor Dienstbeginn)

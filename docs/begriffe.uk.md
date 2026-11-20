@@ -1,7 +1,7 @@
 # Терміни та скорочення {#begriffe-abkurzungen}
 
 !!! abstract "Джерело"
-    Матеріали для учасників та інструкторів «MTA Basismodul» (SFS Würzburg), [BayFwG (німецькою)](https://www.gesetze-bayern.de/Content/Document/BayFwG), офіційний каталог питань (Fragenkatalog).
+    Матеріали для учасників та інструкторів «MTA Basismodul» (SFS Würzburg), [BayFwG (німецькою)](https://www.gesetze-bayern.de/Content/Document/BayFwG), офіційний каталог питань (Fragenkatalog; навчальний тест Feuerwehr-Lernbar, станом на 20.11.2026).
     Усі матеріали: [Feuerwehr-Lernbar – Lehrgangsorganisation (німецькою)](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation)
     Додатково: [FwDV 3 „Einheiten im Lösch- und Hilfeleistungseinsatz“ (2008, німецькою)](https://umwelt-online.de/recht/anlasi/sicher/fwdv003.htm), FwDV 7 „Atemschutz“ (редакція 2002 зі змінами 2005, напр. [тут як PDF (німецькою)](https://dillingen-donau.feuerwehren.bayern/media/filer_public/90/fa/90fa6864-699c-411d-8034-fd0c454b82c3/fwdv7_feuerwehr_dienstvorschrift_7_version-2005.pdf)), пам'ятка для пожежних команд Баварії [8.012 „Tragbare Feuerlöscher“ (німецькою)](https://grafing.feuerwehren.bayern/media/filer_public/5b/cf/5bcfd9a8-caff-4473-a97b-6c8404c73f26/tragbare_feuerloescher_version-40.pdf) (приклади класів пожеж за DIN EN 2), [DIN 14811 (німецькою)](https://www.dinmedia.de/de/norm/din-14811/101847000).
 
@@ -474,7 +474,7 @@
 ## J {#j}
 
 ### Jugendfeuerwehr – юнацька пожежна команда {#jugendfeuerwehr}
-**Пояснення:** Неповнолітні від повних 12 до повних 18 років можуть нести пожежну службу як кандидати (Feuerwehranwärter) і об'єднуватися в юнацькі групи. Для дітей від 6 років можна створювати дитячі групи.
+**Пояснення:** Неповнолітні від повних 12 до повних 18 років можуть нести пожежну службу як кандидати (Feuerwehranwärter) і об'єднуватися в юнацькі групи. Для дітей від 6 років можна створювати дитячі групи. Отже, мінімальний вік для вступу до добровільної пожежної команди як установи громади – **6 років** (Art. 7 Abs. 1 BayFwG; така ж відповідь у каталозі питань).
 
 **Приклад:** У юнацькій пожежній команді тобою опікується керівник молоді (Jugendwart), і ти береш участь у навчальних заходах.
 
