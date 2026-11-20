@@ -39,3 +39,6 @@ wheels/
 
 # Lokale Unterlagen (Scans, PDFs, persönliche Dokumente) - nicht veröffentlichen
 quellen/
+
+# Gesammelte Originalunterlagen (Urheberrecht ungeklaert, nicht veroeffentlichen)
+unterlagen/
