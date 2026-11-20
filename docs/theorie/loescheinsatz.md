@@ -127,7 +127,7 @@ Ein **Innenangriff mit Atemschutzgeräten** kann nur durchgeführt werden, wenn 
 
 ## Sitzordnung, Absitzen, Antreten
 
-- **Feste Sitzordnung:** Die Funktion ist mit der Einnahme des Sitzplatzes festgelegt. So kann sich jeder schon während der Anfahrt auf seine Tätigkeit vorbereiten, und die Kommunikation zwischen Einheitsführer und Truppführern wird erleichtert (so der Fragenkatalog). Sind Atemschutzgeräte im Mannschaftsraum, nimmt der **Angriffstrupp immer diese Plätze** ein.
+- **Feste Sitzordnung:** Die Funktion ist mit der Einnahme des Sitzplatzes festgelegt. So kann sich jeder schon während der Anfahrt auf seine Tätigkeit vorbereiten, und die Kommunikation wird erleichtert (Fragenkatalog: Zwischenprüfung „zwischen Einheitsführer und den Truppführern“, Abschlussprüfung „zwischen den Truppführern“). Sind Atemschutzgeräte im Mannschaftsraum, nimmt der **Angriffstrupp immer diese Plätze** ein.
 - **Merkspruch Sitzordnung (Gruppe):** „**A**lle **Me**iden **A**temgifte und **W**asser **S**ucht **S**einen **W**eg.“
 - **Absitzen:** erst auf das Kommando „Absitzen!“ und **zur verkehrsabgewandten Seite**. Achte auf den **fließenden Verkehr**! „Nur rechts“ oder „nur links“ absitzen ist im Fragenkatalog eine Falschantwort. Die Einsatzkraft an der Tür steigt als erste aus, hält die Tür auf, schließt sie danach und tritt als letzte an.
 - **Antreten:** wegen der Verkehrsgefahren **in der Regel vor dem Fahrzeug**. Der Einheitsführer kann lageabhängig einen anderen Ort bestimmen. „Ich trete in jedem Fall vor dem Fahrzeug an“ ist im Fragenkatalog deshalb eine Falschantwort.

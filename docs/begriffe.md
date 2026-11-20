@@ -599,7 +599,7 @@ Dieses Glossar erklärt alle wichtigen Feuerwehr-Begriffe und Abkürzungen, die 
 ---
 
 ### Menschenrettung
-**Erklärung:** Menschenrettung hat oberste Priorität.
+**Erklärung:** Menschenrettung geht allen weiteren Einsatzmaßnahmen vor. Für den eigenen Trupp gilt dabei: Eigenschutz hat oberste Priorität (so der Fragenkatalog Abschlussprüfung, siehe [Einheiten im Löscheinsatz](theorie/loescheinsatz.md)).
 
 **Beispiel:** Bevor das Feuer gelöscht wird, rettet der Angriffstrupp zwei Personen aus dem 2. Stock.
 
