@@ -61,7 +61,7 @@ Zu jedem Thema gibt es auf der **[Feuerwehr-Lernbar](https://www.feuerwehr-lernb
 
 Die Zwischenprüfung (Thema 15) schließt das Basismodul ab. **Danach darfst du an Einsätzen teilnehmen** und die Leistungsprüfung „Die Gruppe im Löscheinsatz“ ab **Stufe 2** ablegen (Stufe 1 ist laut Richtlinie schon während der Truppausbildung möglich).
 
-Sie besteht laut Prüfungsnachweis aus:
+Sie besteht laut Prüfungsnachweis und Fachinformation aus:
 
 1. **Schriftlicher Teil** – **50 Fragen**, jeweils ist genau **eine** Antwort richtig. Bestanden ab **50 %** richtigen Antworten. Wer bei einer Frage mehrere Antworten ankreuzt, bekommt dafür 0 Punkte. Hilfsmittel sind nicht erlaubt. → üben mit dem [Quiz](quiz/index.html)
 2. **Drei praktische Aufgaben** aus dem Aufgabenpool unten

@@ -3,7 +3,7 @@
 **Базовий модуль** (Basismodul) модульної підготовки ланки (MTA) поділено на пронумеровані теми (каталог навчальних цілей державних пожежних шкіл, Lernzielkatalog der Staatlichen Feuerwehrschulen). Ці номери ти знайдеш у своєму плані навчання (Ausbildungsplan) – напр. «5.10 Rettungsgeräte – Praxis Knoten und Stiche» (рятувальне обладнання – практика: вузли).
 
 !!! abstract "Джерело"
-    Загальний зміст MTA Basismodul (Gesamtinhaltsverzeichnis, стан 01/2019) і „Anpassungen MTA Basismodul“ (зміни, стан 11/2023) з розділу Lehrgangsorganisation, екзаменаційні матеріали MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (проміжний іспит – практична частина, стан 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ (протокол проміжного іспиту) і Zwischenzeugnis (проміжне свідоцтво) (усі – SFS Würzburg); план навчання 2026/27 Inspektion I, район Байройт (назви тем, дати, стовпчик «Принести»); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (директива про кваліфікаційний іспит – умови допуску); Fachinformation zur Modularen Truppausbildung (фахова інформація, версія 1.0, розд. 4 «Проміжний іспит», 6 «Підсумковий іспит», 8 «Результати іспитів») і екзаменаційні матеріали Truppführerqualifikation (практичний іспит, оцінювання завдання ланки і групи, протокол підсумкового іспиту, свідоцтво).
+    Загальний зміст MTA Basismodul (Gesamtinhaltsverzeichnis, стан 01/2019) і „Anpassungen MTA Basismodul“ (зміни, стан 11/2023) з розділу Lehrgangsorganisation, екзаменаційні матеріали MTA 15.3 „Zwischenprüfung – Praktischer Teil“ (проміжний іспит – практична частина, стан 07/2025), 15.4 „Nachweis über die Zwischenprüfung“ (протокол проміжного іспиту) і Zwischenzeugnis (проміжне свідоцтво) (усі – SFS Würzburg); план навчання 2026/27 Inspektion I, район Байройт (назви тем, дати, стовпчик «Принести»); Richtlinie zur Leistungsprüfung „Die Gruppe im Löscheinsatz“ (директива про кваліфікаційний іспит – умови допуску); Fachinformation zur Modularen Truppausbildung (фахова інформація, версія 1.0, розд. 4 «Проміжний іспит», 6 «Підсумковий іспит», 8 «Результати іспитів») і екзаменаційні матеріали Truppführerqualifikation (практичний іспит, оцінювання завдання ланки і завдання розрахунку/відділення, протокол підсумкового іспиту, свідоцтво).
     Усі матеріали (німецькою): [Feuerwehr-Lernbar – Lehrgangsorganisation](https://www.feuerwehr-lernbar.bayern/post/lehrgangsorganisation) · [Feuerwehr-Lernbar – Zwischenprüfung](https://www.feuerwehr-lernbar.bayern/post/mta-zwischenpruefung) · [Feuerwehr-Lernbar – Truppführerqualifikation](https://www.feuerwehr-lernbar.bayern/post/mta-truppfuhrerqualifikation) · [Feuerwehr-Lernbar – Fachinformation MTA](https://www.feuerwehr-lernbar.bayern/post/mta-grundsatze-und-informationen)
 
 До кожної теми на **[Feuerwehr-Lernbar](https://www.feuerwehr-lernbar.bayern/)** (німецькою) безкоштовно і без реєстрації є:
@@ -61,7 +61,7 @@
 
 Проміжний іспит (тема 15) завершує базовий модуль. **Після нього ти можеш брати участь у викликах** і складати кваліфікаційний іспит „Die Gruppe im Löscheinsatz“ (Leistungsprüfung) від **рівня 2 (Stufe 2)** (рівень 1 за директивою можливий уже під час підготовки ланки).
 
-Згідно з протоколом іспиту (Prüfungsnachweis) він складається з:
+Згідно з протоколом іспиту (Prüfungsnachweis) і фаховою інформацією (Fachinformation) він складається з:
 
 1. **Письмової частини** – **50 питань**, у кожному правильна рівно **одна** відповідь. Складено від **50 %** правильних відповідей. Хто позначить у питанні кілька відповідей, отримує за нього 0 балів. Допоміжні матеріали заборонені. → тренуйся з [тестом](quiz/index.html)
 2. **Трьох практичних завдань** із переліку завдань нижче
@@ -163,13 +163,13 @@
         7. Стримування – Rückhalten
         8. Убезпечення автомобіля – Sichern eines Fahrzeugs
         9. Облаштування огородження на дорозі – Aufbau einer Verkehrsabsicherung
-        10. Допомога командиру групи в розвідці, доповідь по портативній радіостанції – Unterstützung des Gruppenführers bei der Erkundung, Rückmeldung über ein Handfunkgerät
+        10. Допомога командиру відділення (Gruppenführer) в розвідці, доповідь по портативній радіостанції – Unterstützung des Gruppenführers bei der Erkundung, Rückmeldung über ein Handfunkgerät
         11. Розпізнавання маркування небезпечного вантажу або речовини, передача назви речовини по радіо – Erkennen einer Gefahrgut- oder Stoffkennzeichnung, Übermitteln des Stoffnamens mit einem Funkgerät
         12. Перекладання / транспортування пацієнта – Umlagern/Transport eines Patienten
         13. Пошук людини без свідомості – Auffinden einer bewusstlosen Person
         14. Перша допомога, обробка травми – Erste Hilfe, Versorgung einer Verletzung
 
-2. **Завдання відділення або групи (Staffel- oder Gruppenaufgabe, навчальний виклик):** Функції розподіляють жеребкуванням, екзаменатор зазвичай виконує роль командира підрозділу. Приклади: легковик врізався в дерево (забезпечення безпеки руху, протипожежне прикриття, опіка над людьми) або пожежа (водопостачання, подача стволів, встановлення переносної драбини).
+2. **Завдання розрахунку або відділення (Staffel- oder Gruppenaufgabe, навчальний виклик):** Функції розподіляють жеребкуванням, екзаменатор зазвичай виконує роль командира підрозділу. Приклади: легковик врізався в дерево (забезпечення безпеки руху, протипожежне прикриття, опіка над людьми) або пожежа (водопостачання, подача стволів, встановлення переносної драбини).
 
 Двоє екзаменаторів ставлять у п'яти категоріях по **0–3 бали**: діставання/подача обладнання (Entnahme/Vornahme), виконання/обслуговування (Durchführung/Bedienung), безпека (Sicherheit), комунікація (Kommunikation) і загальне враження (Gesamteindruck). Завдання складено, якщо набрано щонайменше **8 з 15 балів** і **жодна категорія не має 0 балів**. Ти дізнаєшся лише «складено» або «не складено» (bestanden / nicht bestanden), без кількості балів.
 
